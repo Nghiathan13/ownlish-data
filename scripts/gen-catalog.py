@@ -28,7 +28,7 @@ def series_info(dirname: str):
 
 
 def read_part(path: pathlib.Path):
-    """Return (question_count, group_ids, media_by_group_id)."""
+    """Return (question_count, media_by_group_id)."""
     raw = path.read_text()
     if not raw.strip():
         return None
@@ -36,12 +36,9 @@ def read_part(path: pathlib.Path):
     key = "items" if any(path.name == f"part_{p}.json" for p in FLAT_PARTS) else "groups"
     collection = doc.get(key, [])
     count = 0
-    group_ids = []
     media = {}
     if key == "items":
         for item in collection:
-            gid = item.get("id")
-            group_ids.append(gid)
             count += 1
             m = {}
             if item.get("audio"):
@@ -49,11 +46,9 @@ def read_part(path: pathlib.Path):
             if item.get("image"):
                 m["image"] = item["image"]
             if m:
-                media[gid] = m
+                media[item.get("id")] = m
     else:
         for group in collection:
-            gid = group.get("id")
-            group_ids.append(gid)
             count += len(group.get("questions", []))
             m = {}
             if group.get("audio"):
@@ -61,15 +56,14 @@ def read_part(path: pathlib.Path):
             if group.get("image"):
                 m["image"] = group["image"]
             if m:
-                media[gid] = m
-    return count, group_ids, media
+                media[group.get("id")] = m
+    return count, media
 
 
 def main() -> None:
     tests = []
     media_by_group_id = {}
     practice_counts = {p: 0 for p in PART_NUMBERS}
-    practice_first = {}
     practice_test_ids = {p: set() for p in PART_NUMBERS}
 
     for series_dir in sorted(d for d in TOEIC.iterdir() if d.is_dir()):
@@ -91,19 +85,17 @@ def main() -> None:
                 result = read_part(part_path)
                 if result is None:
                     continue
-                count, group_ids, media = result
+                count, media = result
                 rel = part_path.relative_to(ROOT).as_posix()
                 parts.append(
                     {
                         "number": part_number,
                         "path": rel,
                         "questionCount": count,
-                        "firstGroupKey": group_ids[0] if group_ids else None,
                     }
                 )
                 media_by_group_id.update(media)
                 practice_counts[part_number] += count
-                practice_first.setdefault(part_number, group_ids[0] if group_ids else None)
                 practice_test_ids[part_number].add(test_id)
             if not parts:
                 continue
@@ -123,8 +115,6 @@ def main() -> None:
             "path": f"part-practice/part_{part_number}.json",
             "questionCount": practice_counts[part_number],
         }
-        if practice_first.get(part_number):
-            entry["firstGroupKey"] = practice_first[part_number]
         entry["complete"] = (
             bool(tests)
             and practice_counts[part_number] > 0
