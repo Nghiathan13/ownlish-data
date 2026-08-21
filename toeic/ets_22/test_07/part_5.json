@@ -1,0 +1,934 @@
+{
+  "items": [
+    {
+      "id": "ets22-t07-p5-q101",
+      "number": 101,
+      "question": {
+        "en": "Please direct all questions about ______ recent order to the customer care center.",
+        "vi": "Vui lòng hướng dẫn tất cả các câu hỏi về đơn hàng gần đây của bạn đến trung tâm chăm sóc khách hàng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "yours",
+          "vi": "yours (pron): của bạn (đại từ sở hữu)"
+        },
+        {
+          "key": "B",
+          "en": "your",
+          "vi": "your (adj): của bạn (tính từ sở hữu)"
+        },
+        {
+          "key": "C",
+          "en": "yourself",
+          "vi": "yourself (pron): chính bạn"
+        },
+        {
+          "key": "D",
+          "en": "you",
+          "vi": "you (pron): bạn"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets22-t07-p5-q102",
+      "number": 102,
+      "question": {
+        "en": "Ms. Wu was the ______ of the contest, and she may collect her prize next week.",
+        "vi": "Cô Wu là người chiến thắng của cuộc thi, và cô có thể nhận giải thưởng của mình vào tuần tới."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "partner",
+          "vi": "partner (noun): đối tác"
+        },
+        {
+          "key": "B",
+          "en": "member",
+          "vi": "member (noun): thành viên"
+        },
+        {
+          "key": "C",
+          "en": "player",
+          "vi": "player (noun): người chơi"
+        },
+        {
+          "key": "D",
+          "en": "winner",
+          "vi": "winner (noun): người chiến thắng"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets22-t07-p5-q103",
+      "number": 103,
+      "question": {
+        "en": "For a ______ time, Marco Bank is offering first-time customers a $100 bonus when they open an account.",
+        "vi": "Trong một thời gian có hạn, Marco Bank đang cung cấp tiền thưởng $100 cho khách hàng lần đầu khi họ mở tài khoản."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "limits",
+          "vi": "limits (noun): giới hạn"
+        },
+        {
+          "key": "B",
+          "en": "limiting",
+          "vi": "limiting (verb): giới hạn"
+        },
+        {
+          "key": "C",
+          "en": "limit",
+          "vi": "limit (noun): giới hạn"
+        },
+        {
+          "key": "D",
+          "en": "limited",
+          "vi": "limited (adj.): có hạn"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets22-t07-p5-q104",
+      "number": 104,
+      "question": {
+        "en": "A ______ greenhouse donated several potted plants to beautify the lobby of the city hall.",
+        "vi": "Một nhà kính địa phương đã quyên góp một số cây trồng trong chậu để làm đẹp sảnh đợi của tòa thị chính."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "potential",
+          "vi": "potential (adj.): tiềm năng"
+        },
+        {
+          "key": "B",
+          "en": "local",
+          "vi": "local (adj.): địa phương"
+        },
+        {
+          "key": "C",
+          "en": "main",
+          "vi": "main (adj.): chính"
+        },
+        {
+          "key": "D",
+          "en": "future",
+          "vi": "future (adj.): tương lai"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets22-t07-p5-q105",
+      "number": 105,
+      "question": {
+        "en": "The attached document shows how to report any ______ incurred during business travel.",
+        "vi": "Tài liệu đính kèm cho thấy cách báo cáo bất kỳ chi phí nào phát sinh trong chuyến công tác."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "expenses",
+          "vi": "expenses (noun): chi phí"
+        },
+        {
+          "key": "B",
+          "en": "expensed",
+          "vi": "expensed (verb): chi tiêu"
+        },
+        {
+          "key": "C",
+          "en": "expensively",
+          "vi": "expensively (adv.): một cách tốn kém"
+        },
+        {
+          "key": "D",
+          "en": "expensive",
+          "vi": "expensive (adj.): đắt đỏ"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets22-t07-p5-q106",
+      "number": 106,
+      "question": {
+        "en": "Nonmembers may use the gym if they pay a daily admission ______ and sign a guest waiver.",
+        "vi": "Những người không là thành viên có thể sử dụng phòng tập nếu họ trả phí vào cửa hàng ngày và ký biên bản miễn trừ trách nhiệm."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "fee",
+          "vi": "fee (noun): phí"
+        },
+        {
+          "key": "B",
+          "en": "income",
+          "vi": "income (noun): thu nhập"
+        },
+        {
+          "key": "C",
+          "en": "salary",
+          "vi": "salary (noun): lương"
+        },
+        {
+          "key": "D",
+          "en": "money",
+          "vi": "money (noun): tiền"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets22-t07-p5-q107",
+      "number": 107,
+      "question": {
+        "en": "Sharik Pharmaceuticals will host a company picnic for ______ employees at Hain Park.",
+        "vi": "Sharik Pharmaceuticals sẽ tổ chức một bữa tiệc công ty cho những nhân viên của nó tại công viên Hain."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "them",
+          "vi": "them (pronoun): họ"
+        },
+        {
+          "key": "B",
+          "en": "its",
+          "vi": "its (possessive adj.): của nó"
+        },
+        {
+          "key": "C",
+          "en": "itself",
+          "vi": "itself (pronoun): chính nó"
+        },
+        {
+          "key": "D",
+          "en": "themselves",
+          "vi": "themselves (pronoun): chính họ"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets22-t07-p5-q108",
+      "number": 108,
+      "question": {
+        "en": "Call Bowton Chimney for a complete inspection and cleaning ______ winter starts.",
+        "vi": "Gọi Bowton Chimney để kiểm tra hoàn toàn và làm sạch trước khi mùa đông bắt đầu."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "now that",
+          "vi": "now that (conj.): bây giờ là"
+        },
+        {
+          "key": "B",
+          "en": "even though",
+          "vi": "even though (conj.): mặc dù"
+        },
+        {
+          "key": "C",
+          "en": "before",
+          "vi": "before (conj.): trước khi"
+        },
+        {
+          "key": "D",
+          "en": "since",
+          "vi": "since (conj.): vì"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets22-t07-p5-q109",
+      "number": 109,
+      "question": {
+        "en": "Ikeda Real Estate Group now ______ text messages to update clients about properties of interest.",
+        "vi": "Nhóm Bất động sản Ikeda hiện sử dụng các tin nhắn văn bản để cập nhật cho khách hàng về các tài sản quan tâm."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "uses",
+          "vi": "uses (verb): sử dụng"
+        },
+        {
+          "key": "B",
+          "en": "users",
+          "vi": "users (noun): người sử dụng"
+        },
+        {
+          "key": "C",
+          "en": "useful",
+          "vi": "useful (adj.): hữu ích"
+        },
+        {
+          "key": "D",
+          "en": "using",
+          "vi": "using (verb): sử dụng"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets22-t07-p5-q110",
+      "number": 110,
+      "question": {
+        "en": "According to our records, you are ______ for your annual checkup at Dr. Barell's office.",
+        "vi": "Theo hồ sơ của chúng tôi, bạn đã quá hạn cho buổi khám sức khỏe định kỳ của bạn tại văn phòng của Tiến sĩ Barell."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "willing",
+          "vi": "willing (adj.): sẵn sàng"
+        },
+        {
+          "key": "B",
+          "en": "helpful",
+          "vi": "helpful (adj.): hữu ích"
+        },
+        {
+          "key": "C",
+          "en": "concerned",
+          "vi": "concerned (adj.): liên quan"
+        },
+        {
+          "key": "D",
+          "en": "overdue",
+          "vi": "overdue (adj.): quá hạn"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets22-t07-p5-q111",
+      "number": 111,
+      "question": {
+        "en": "The employee help desk will be moved to room 530 ______ the Human Resources offices are being renovated.",
+        "vi": "Bàn trợ giúp nhân viên sẽ được chuyển đến phòng 530 trong khi các văn phòng Nhân sự đang được cải tạo."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "opposite",
+          "vi": "opposite (prep.): đối diện"
+        },
+        {
+          "key": "B",
+          "en": "that",
+          "vi": "that (conj.): rằng"
+        },
+        {
+          "key": "C",
+          "en": "while",
+          "vi": "while (conj.): trong khi"
+        },
+        {
+          "key": "D",
+          "en": "anywhere",
+          "vi": "anywhere (adv.): ở bất cứ đâu"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets22-t07-p5-q112",
+      "number": 112,
+      "question": {
+        "en": "Bray Farm Mart is located ______ Elm Road, near its intersection with Wye Lane.",
+        "vi": "Bray Farm Mart nằm dọc theo đường Elm, gần giao điểm của nó với đường Wye."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "about",
+          "vi": "about (prep.): về"
+        },
+        {
+          "key": "B",
+          "en": "inside",
+          "vi": "inside (prep.): bên trong"
+        },
+        {
+          "key": "C",
+          "en": "beneath",
+          "vi": "beneath (prep.): dưới"
+        },
+        {
+          "key": "D",
+          "en": "along",
+          "vi": "along (prep.): dọc theo"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets22-t07-p5-q113",
+      "number": 113,
+      "question": {
+        "en": "Our office offers ______ hours to provide our customers with additional flexibility.",
+        "vi": "Văn phòng của chúng tôi cung cấp giờ làm việc mở rộng để cung cấp cho khách hàng của chúng tôi sự linh hoạt bổ sung."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "extending",
+          "vi": "extending (verb): mở rộng"
+        },
+        {
+          "key": "B",
+          "en": "extends",
+          "vi": "extends (verb): mở rộng"
+        },
+        {
+          "key": "C",
+          "en": "extend",
+          "vi": "extend (verb): mở rộng"
+        },
+        {
+          "key": "D",
+          "en": "extended",
+          "vi": "extended (adj.): mở rộng"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets22-t07-p5-q114",
+      "number": 114,
+      "question": {
+        "en": "The Arraneo Group has created an online ______ specifically to encourage sales among young people.",
+        "vi": "Nhóm Arraneo đã tạo ra một chương trình khuyến mãi trực tuyến cụ thể để khuyến khích bán hàng trong số những người trẻ tuổi."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "promotion",
+          "vi": "promotion (noun): chương trình khuyến mãi"
+        },
+        {
+          "key": "B",
+          "en": "price",
+          "vi": "price (noun): giá"
+        },
+        {
+          "key": "C",
+          "en": "contact",
+          "vi": "contact (noun): liên hệ"
+        },
+        {
+          "key": "D",
+          "en": "volume",
+          "vi": "volume (noun): khối lượng"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets22-t07-p5-q115",
+      "number": 115,
+      "question": {
+        "en": "Corracar Ltd. is ______ looking for new ways to expand its transportation network.",
+        "vi": "Corracar Ltd. liên tục tìm kiếm các cách mới để mở rộng mạng lưới vận tải của nó."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "continued",
+          "vi": "continued (adj.): tiếp tục"
+        },
+        {
+          "key": "B",
+          "en": "continuation",
+          "vi": "continuation (noun): sự tiếp tục"
+        },
+        {
+          "key": "C",
+          "en": "continual",
+          "vi": "continual (adj.): liên tục"
+        },
+        {
+          "key": "D",
+          "en": "continually",
+          "vi": "continually (adv.): liên tục"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets22-t07-p5-q116",
+      "number": 116,
+      "question": {
+        "en": "Employees may bring their lunch to the meeting and enjoy it ______ the presentation.",
+        "vi": "Nhân viên có thể mang bữa trưa của họ đến cuộc họp và thưởng thức nó trong suốt buổi thuyết trình."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "in case",
+          "vi": "in case (conj.): trong trường hợp"
+        },
+        {
+          "key": "B",
+          "en": "during",
+          "vi": "during (prep.): trong suốt"
+        },
+        {
+          "key": "C",
+          "en": "into",
+          "vi": "into (prep.): vào"
+        },
+        {
+          "key": "D",
+          "en": "although",
+          "vi": "although (conj.): mặc dù"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets22-t07-p5-q117",
+      "number": 117,
+      "question": {
+        "en": "The merchandise at Logan's Clothing requires ______ at the beginning of each season.",
+        "vi": "Hàng hóa tại Logan's Clothing cần sự sắp xếp lại vào đầu mỗi mùa."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "reorganize",
+          "vi": "reorganize (verb): tổ chức lại"
+        },
+        {
+          "key": "B",
+          "en": "reorganization",
+          "vi": "reorganization (noun): sự tổ chức lại"
+        },
+        {
+          "key": "C",
+          "en": "reorganizes",
+          "vi": "reorganizes (verb): tổ chức lại"
+        },
+        {
+          "key": "D",
+          "en": "reorganized",
+          "vi": "reorganized (adj.): được tổ chức lại"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets22-t07-p5-q118",
+      "number": 118,
+      "question": {
+        "en": "Interns must complete and return the new hire ______ by their first day of work.",
+        "vi": "Các thực tập sinh phải hoàn thành và trả lại giấy tờ nhân viên mới vào ngày đầu tiên làm việc của họ."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "background",
+          "vi": "background (noun): lý lịch"
+        },
+        {
+          "key": "B",
+          "en": "management",
+          "vi": "management (noun): quản lý"
+        },
+        {
+          "key": "C",
+          "en": "publication",
+          "vi": "publication (noun): ấn phẩm"
+        },
+        {
+          "key": "D",
+          "en": "paperwork",
+          "vi": "paperwork (noun): giấy tờ"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets22-t07-p5-q119",
+      "number": 119,
+      "question": {
+        "en": "Weekday dining at Jake's Downtown Bistro is by reservation only ______ the high volume of customers.",
+        "vi": "Ăn tối vào các ngày trong tuần tại Jake's Downtown Bistro chỉ theo đặt chỗ vì lượng khách hàng lớn."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "regarding",
+          "vi": "regarding (prep.): về"
+        },
+        {
+          "key": "B",
+          "en": "as",
+          "vi": "as (conj.): như"
+        },
+        {
+          "key": "C",
+          "en": "in",
+          "vi": "in (prep.): trong"
+        },
+        {
+          "key": "D",
+          "en": "due to",
+          "vi": "due to (prep.): vì do"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets22-t07-p5-q120",
+      "number": 120,
+      "question": {
+        "en": "Should anyone need to ______ with Ms. De Sola, be sure to do so prior to today's meeting.",
+        "vi": "Nếu ai cần tham vấn với Cô De Sola, hãy chắc chắn làm điều đó trước cuộc họp hôm nay."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "reflect",
+          "vi": "reflect (verb): suy ngẫm"
+        },
+        {
+          "key": "B",
+          "en": "arrange",
+          "vi": "arrange (verb): sắp xếp"
+        },
+        {
+          "key": "C",
+          "en": "regard",
+          "vi": "regard (verb): coi là"
+        },
+        {
+          "key": "D",
+          "en": "consult",
+          "vi": "consult (verb): tham vấn"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets22-t07-p5-q121",
+      "number": 121,
+      "question": {
+        "en": "Mr. Lau looks forward to meeting the ______ students at the Career Day event.",
+        "vi": "Ông Lau mong muốn gặp những học sinh tham vọng tại sự kiện Career Day."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "ambitious",
+          "vi": "ambitious (adj.): tham vọng"
+        },
+        {
+          "key": "B",
+          "en": "ambition",
+          "vi": "ambition (noun): tham vọng"
+        },
+        {
+          "key": "C",
+          "en": "ambitiously",
+          "vi": "ambitiously (adv.): một cách tham vọng"
+        },
+        {
+          "key": "D",
+          "en": "ambitions",
+          "vi": "ambitions (noun): những tham vọng"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets22-t07-p5-q122",
+      "number": 122,
+      "question": {
+        "en": "Please ______ daily spending records, since online balance statements may not reflect recent account activity.",
+        "vi": "Vui lòng giữ hồ sơ chi tiêu hàng ngày, vì các bản báo cáo số dư trực tuyến có thể không phản ánh hoạt động tài khoản gần đây."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "kept",
+          "vi": "kept (verb): giữ"
+        },
+        {
+          "key": "B",
+          "en": "keep",
+          "vi": "keep (verb): giữ"
+        },
+        {
+          "key": "C",
+          "en": "keeps",
+          "vi": "keeps (verb): giữ"
+        },
+        {
+          "key": "D",
+          "en": "keeping",
+          "vi": "keeping (verb): giữ"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets22-t07-p5-q123",
+      "number": 123,
+      "question": {
+        "en": "Mr. Bhatt ______ promotes people within the company, but he recently went outside of the organization to replace the Facilities Director.",
+        "vi": "Ông Bhatt thường thăng chức mọi người trong công ty, nhưng anh ấy gần đây đã tìm kiếm bên ngoài tổ chức để thay thế Giám đốc Cơ sở."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "later",
+          "vi": "later (adv.): sau"
+        },
+        {
+          "key": "B",
+          "en": "forgetfully",
+          "vi": "forgetfully (adv.): một cách quên lãng"
+        },
+        {
+          "key": "C",
+          "en": "together",
+          "vi": "together (adv.): cùng nhau"
+        },
+        {
+          "key": "D",
+          "en": "normally",
+          "vi": "normally (adv.): thường thường"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets22-t07-p5-q124",
+      "number": 124,
+      "question": {
+        "en": "The National Health Agency's latest report ______ that recently adopted health-care regulations have been successful.",
+        "vi": "Báo cáo mới nhất của Cơ quan Y tế Quốc gia kết luận rằng các quy định chăm sóc sức khỏe được áp dụng gần đây đã thành công."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "concludes",
+          "vi": "concludes (verb): kết luận"
+        },
+        {
+          "key": "B",
+          "en": "concluding",
+          "vi": "concluding (verb): kết luận"
+        },
+        {
+          "key": "C",
+          "en": "conclusion",
+          "vi": "conclusion (noun): kết luận"
+        },
+        {
+          "key": "D",
+          "en": "to conclude",
+          "vi": "to conclude (verb): kết luận"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets22-t07-p5-q125",
+      "number": 125,
+      "question": {
+        "en": "______ who wants to attend the luncheon next week must tell Ms. Hasegawa by noon tomorrow.",
+        "vi": "Bất kỳ ai muốn tham dự bữa trưa vào tuần tới phải nói cho Cô Hasegawa biết trước giữa trưa ngày mai."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Anyone",
+          "vi": "Anyone (pronoun): bất kỳ ai"
+        },
+        {
+          "key": "B",
+          "en": "Some",
+          "vi": "Some (pronoun): một số"
+        },
+        {
+          "key": "C",
+          "en": "Those",
+          "vi": "Those (pronoun): những người đó"
+        },
+        {
+          "key": "D",
+          "en": "Other",
+          "vi": "Other (pronoun): cái khác"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets22-t07-p5-q126",
+      "number": 126,
+      "question": {
+        "en": "Once orders are processed by the sales office, they are ______ within 48 hours.",
+        "vi": "Sau khi các đơn hàng được xử lý bởi phòng bán hàng, chúng được hoàn thành trong vòng 48 giờ."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "committed",
+          "vi": "committed (verb): cam kết"
+        },
+        {
+          "key": "B",
+          "en": "positioned",
+          "vi": "positioned (verb): định vị"
+        },
+        {
+          "key": "C",
+          "en": "filled",
+          "vi": "filled (verb): hoàn thành"
+        },
+        {
+          "key": "D",
+          "en": "occurred",
+          "vi": "occurred (verb): xảy ra"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets22-t07-p5-q127",
+      "number": 127,
+      "question": {
+        "en": "Profits at Talhee Beverage Co. rose about 4 percent last year, according to new figures ______ by the company.",
+        "vi": "Lợi nhuận tại Talhee Beverage Co. tăng khoảng 4 phần trăm năm ngoái, theo các số liệu được công bố bởi công ty."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "to release",
+          "vi": "to release (verb): công bố"
+        },
+        {
+          "key": "B",
+          "en": "releasing",
+          "vi": "releasing (verb): công bố"
+        },
+        {
+          "key": "C",
+          "en": "released",
+          "vi": "released (verb): công bố"
+        },
+        {
+          "key": "D",
+          "en": "have released",
+          "vi": "have released (verb): đã công bố"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets22-t07-p5-q128",
+      "number": 128,
+      "question": {
+        "en": "______ the CEO and the CFO are authorized to sign checks over $10,000.",
+        "vi": "Cả CEO và CFO đều được phép ký séc trên $10,000."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Each",
+          "vi": "Each (pronoun): mỗi cái"
+        },
+        {
+          "key": "B",
+          "en": "Either",
+          "vi": "Either (pronoun): một trong hai"
+        },
+        {
+          "key": "C",
+          "en": "Both",
+          "vi": "Both (pronoun): cả hai"
+        },
+        {
+          "key": "D",
+          "en": "Whoever",
+          "vi": "Whoever (pronoun): bất kỳ ai"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets22-t07-p5-q129",
+      "number": 129,
+      "question": {
+        "en": "There are multiple reasons ______ cost to negotiate a new agreement.",
+        "vi": "Có nhiều lý do ngoài chi phí để đàm phán một thỏa thuận mới."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "also",
+          "vi": "also (adv.): cũng"
+        },
+        {
+          "key": "B",
+          "en": "besides",
+          "vi": "besides (prep.): ngoài ra"
+        },
+        {
+          "key": "C",
+          "en": "indeed",
+          "vi": "indeed (adv.): thật vậy"
+        },
+        {
+          "key": "D",
+          "en": "yet",
+          "vi": "yet (conj.): tuy nhiên"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets22-t07-p5-q130",
+      "number": 130,
+      "question": {
+        "en": "Editors at Benchley Press are skilled at reading texts ______ to correct errors and polish the prose.",
+        "vi": "Các biên tập viên tại Benchley Press có kỹ năng đọc văn bản kỹ lưỡng để sửa lỗi và làm sáng tỏ bài viết."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "sensibly",
+          "vi": "sensibly (adv.): một cách hợp lý"
+        },
+        {
+          "key": "B",
+          "en": "perfectly",
+          "vi": "perfectly (adv.): hoàn hảo"
+        },
+        {
+          "key": "C",
+          "en": "tightly",
+          "vi": "tightly (adv.): chặt chẽ"
+        },
+        {
+          "key": "D",
+          "en": "closely",
+          "vi": "closely (adv.): kỹ lưỡng"
+        }
+      ],
+      "answer": "D"
+    }
+  ]
+}

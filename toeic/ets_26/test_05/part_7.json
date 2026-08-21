@@ -1,0 +1,1944 @@
+{
+  "groups": [
+    {
+      "id": "ets26-t05-p7-g147-148",
+      "documents": [
+        {
+          "kind": "information",
+          "content": {
+            "en": "Your Business Gets Noticed When You Advertise Here!\n\nPrime advertising space is available with sizes ranging from a quarter column to a full page. The Clearpoint Times reaches thousands of your neighbors each week. Use the Clearpoint Times to spread the word about your business. It works! For rates and additional information, call us at 515-555-0130.",
+            "vi": "Doanh nghiệp Của Bạn Sẽ Được Chú Ý Khi Bạn Quảng Cáo Tại Đây!\n\nKhông gian quảng cáo hạng nhất hiện có với kích thước từ một phần tư cột đến toàn trang. The Clearpoint Times đến với hàng ngàn hàng xóm của bạn mỗi tuần. Hãy sử dụng Clearpoint Times để lan tỏa thông tin về doanh nghiệp của bạn. Nó hiệu quả! Để biết giá và thông tin thêm, hãy gọi cho chúng tôi theo số 515-555-0130."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t05-p7-q147",
+          "number": 147,
+          "question": {
+            "en": "What is the main purpose of the information?",
+            "vi": "Mục đích chính của thông tin là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To announce the opening of a new business",
+              "vi": "Để thông báo về việc khai trương một doanh nghiệp mới"
+            },
+            {
+              "key": "B",
+              "en": "To publicize storage spaces available for rent",
+              "vi": "Để quảng cáo các không gian lưu trữ có sẵn để cho thuê"
+            },
+            {
+              "key": "C",
+              "en": "To attract people who want to promote their businesses",
+              "vi": "Để thu hút những người muốn quảng bá doanh nghiệp của họ"
+            },
+            {
+              "key": "D",
+              "en": "To encourage people to buy newspaper subscriptions",
+              "vi": "Để khuyến khích mọi người mua đăng ký báo"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t05-p7-q148",
+          "number": 148,
+          "question": {
+            "en": "What is suggested about the Clearpoint Times?",
+            "vi": "Điều gì được gợi ý về tờ Clearpoint Times?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is currently for sale.",
+              "vi": "Nó hiện đang được rao bán."
+            },
+            {
+              "key": "B",
+              "en": "It is a real estate magazine.",
+              "vi": "Nó là một tạp chí bất động sản."
+            },
+            {
+              "key": "C",
+              "en": "It is a local weekly publication.",
+              "vi": "Nó là một ấn phẩm địa phương hàng tuần."
+            },
+            {
+              "key": "D",
+              "en": "It is a national daily newspaper.",
+              "vi": "Nó là một tờ báo hàng ngày toàn quốc."
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t05-p7-g149-150",
+      "documents": [
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Donna Witt <d.witt@seemail.net>; Jack Witt <j.witt@seemail.net>\nFrom: David Paltz <dpaltz@emeraldglen.com>\nDate: August 5\nSubject: Barkley Drive patio project\n\nHello, Donna and Jack,\n\nI am just checking in as I finalize my schedule for the upcoming months. I would like to schedule a time to revisit your property and discuss your landscaping project in more detail. To get started, it would be helpful if the two of you could brainstorm some of your design expectations and overall vision for the project. Your ideas will help me better determine the materials and time needed. I can then give a more accurate price estimate.\n\nDavid Paltz\nEmerald Glen Landscaping",
+            "vi": "Đến: Donna Witt <d.witt@seemail.net>; Jack Witt <j.witt@seemail.net>\nTừ: David Paltz <dpaltz@emeraldglen.com>\nNgày: 5 tháng 8\nChủ đề: Dự án sân hiên Barkley Drive\n\nXin chào Donna và Jack,\n\nTôi chỉ đang kiểm tra khi tôi hoàn thiện lịch trình cho những tháng sắp tới. Tôi muốn sắp xếp thời gian để đến xem lại bất động sản của hai bạn và thảo luận chi tiết hơn về dự án cảnh quan của các bạn. Để bắt đầu, sẽ rất hữu ích nếu hai bạn có thể động não về một số kỳ vọng thiết kế và tầm nhìn tổng thể cho dự án. Ý tưởng của các bạn sẽ giúp tôi xác định rõ hơn vật liệu và thời gian cần thiết. Sau đó tôi có thể đưa ra ước tính giá chính xác hơn.\n\nDavid Paltz\nEmerald Glen Landscaping"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t05-p7-q149",
+          "number": 149,
+          "question": {
+            "en": "What is the purpose of the e-mail?",
+            "vi": "Mục đích của e-mail là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To request a meeting",
+              "vi": "Để yêu cầu một cuộc họp"
+            },
+            {
+              "key": "B",
+              "en": "To confirm a recent price change",
+              "vi": "Để xác nhận sự thay đổi giá gần đây"
+            },
+            {
+              "key": "C",
+              "en": "To apologize for a scheduling delay",
+              "vi": "Để xin lỗi vì sự chậm trễ trong lịch trình"
+            },
+            {
+              "key": "D",
+              "en": "To seek additional staff for some work",
+              "vi": "Để tìm kiếm thêm nhân viên cho một số công việc"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t05-p7-q150",
+          "number": 150,
+          "question": {
+            "en": "What does Mr. Paltz ask Mr. and Ms. Witt to do?",
+            "vi": "Ông Paltz yêu cầu ông và bà Witt làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Submit a payment",
+              "vi": "Gửi một khoản thanh toán"
+            },
+            {
+              "key": "B",
+              "en": "Reschedule a work project",
+              "vi": "Dời lịch lại một dự án công việc"
+            },
+            {
+              "key": "C",
+              "en": "Avoid parking near a job site",
+              "vi": "Tránh đỗ xe gần một khu vực làm việc"
+            },
+            {
+              "key": "D",
+              "en": "Provide him with landscaping ideas",
+              "vi": "Cung cấp cho ông ấy những ý tưởng về cảnh quan"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t05-p7-g151-152",
+      "documents": [
+        {
+          "kind": "advertisement",
+          "content": {
+            "en": "Cavalina Hotel\nBlue Globe Magazine's \"Best Hotel\" Award Winner!\n\nCavalina Hotel is a breathtaking sanctuary where guests can escape the hectic bustle of city life. Located 50 kilometers from the international airport in Jeel City, the hotel faces the beautiful Sea Mariner Bay. Windsurfing, paddleboarding, and several hiking and biking trails are all a short walk from our front door. Our knowledgeable staff are happy to arrange a kayaking excursion or a fishing trip to one of the nearby lakes. After a good night's sleep in one of our comfortable rooms, you'll be eager to explore the region right after breakfast!\n\nProperty Amenities: free parking, swimming pool, bicycle rental, fitness center, two restaurants\n\nRoom Types: single room, two-room suite with balcony, two-room suite with kitchen",
+            "vi": "Khách sạn Cavalina\nNgười chiến thắng Giải thưởng \"Khách sạn tốt nhất\" của Tạp chí Blue Globe!\n\nKhách sạn Cavalina là nơi trú ẩn ngoạn mục, nơi du khách có thể thoát khỏi sự hối hả náo nhiệt của cuộc sống thành phố. Nằm cách sân bay quốc tế ở thành phố Jeel 50 km, khách sạn hướng ra Vịnh Sea Mariner xinh đẹp. Lướt ván buồm, chèo ván đứng và một số đường mòn đi bộ đường dài và đạp xe đều cách cửa trước của chúng tôi một quãng đi bộ ngắn. Nhân viên am hiểu của chúng tôi sẵn lòng sắp xếp một chuyến đi chèo thuyền kayak hoặc một chuyến câu cá đến một trong những hồ nước gần đó. Sau một giấc ngủ ngon trong một trong những căn phòng thoải mái của chúng tôi, bạn sẽ háo hức khám phá vùng ngay sau bữa sáng!\n\nTiện ích khách sạn: bãi đỗ xe miễn phí, hồ bơi, cho thuê xe đạp, trung tâm thể dục, hai nhà hàng\n\nLoại phòng: phòng đơn, phòng hai phòng với ban công, phòng hai phòng có bếp"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t05-p7-q151",
+          "number": 151,
+          "question": {
+            "en": "For whom is the advertisement most likely intended?",
+            "vi": "Quảng cáo này rất có thể dành cho đối tượng nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "People who want to tour Jeel City",
+              "vi": "Những người muốn tham quan thành phố Jeel"
+            },
+            {
+              "key": "B",
+              "en": "People who enjoy outdoor activities",
+              "vi": "Những người thích các hoạt động ngoài trời"
+            },
+            {
+              "key": "C",
+              "en": "Business conference organizers",
+              "vi": "Nhà tổ chức hội nghị doanh nghiệp"
+            },
+            {
+              "key": "D",
+              "en": "Hotel industry professionals",
+              "vi": "Các chuyên gia trong ngành khách sạn"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t05-p7-q152",
+          "number": 152,
+          "question": {
+            "en": "What is suggested about some of the rooms at Cavalina Hotel?",
+            "vi": "Điều gì được gợi ý về một số phòng tại Khách sạn Cavalina?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "They contain antique furniture.",
+              "vi": "Chúng có đồ nội thất cổ."
+            },
+            {
+              "key": "B",
+              "en": "They have recently been updated.",
+              "vi": "Chúng vừa được cập nhật gần đây."
+            },
+            {
+              "key": "C",
+              "en": "Guests can view them online.",
+              "vi": "Khách có thể xem chúng trực tuyến."
+            },
+            {
+              "key": "D",
+              "en": "Guests can prepare food in them.",
+              "vi": "Khách có thể tự chuẩn bị thức ăn trong đó."
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t05-p7-g153-154",
+      "documents": [
+        {
+          "kind": "text_message_chain",
+          "content": {
+            "en": "Paul Cho (9:47 A.M.)\nHi, Marisol. I wanted to let you know that I was talking to the director of Yadav Digital Marketing, Elise Mayer. There's an open position there, and I mentioned you. She says you should definitely apply.\n\nMarisol Rosetti (9:49 A.M.)\nThat's wonderful to hear! Thanks for passing my name along.\n\nPaul Cho (9:50 A.M.)\nI know you'd be a great fit. You check all the boxes.\n\nMarisol Rosetti (9:51 A.M.)\nDo you think Ms. Mayer would want to see a cover letter in addition to my résumé?\n\nPaul Cho (9:52 A.M.)\nI wouldn't bother. Elise and I have been friends for years. Just make sure your résumé is up to date and reflects your relevant experience.\n\nMarisol Rosetti (9:53 A.M.)\nI'll do that. Thank you so much, Paul. I really appreciate it!",
+            "vi": "Paul Cho (9:47 Sáng)\nChào Marisol. Tôi muốn cho bạn biết rằng tôi đã nói chuyện với giám đốc của Yadav Digital Marketing, Elise Mayer. Có một vị trí mở ở đó, và tôi đã đề cập đến bạn. Cô ấy nói bạn chắc chắn nên ứng tuyển.\n\nMarisol Rosetti (9:49 Sáng)\nThật tuyệt khi nghe điều đó! Cảm ơn bạn đã giới thiệu tôi.\n\nPaul Cho (9:50 Sáng)\nTôi biết bạn sẽ rất phù hợp. Bạn đáp ứng tất cả các yêu cầu.\n\nMarisol Rosetti (9:51 Sáng)\nBạn có nghĩ bà Mayer sẽ muốn xem thư xin việc cùng với sơ yếu lý lịch của tôi không?\n\nPaul Cho (9:52 Sáng)\nTôi sẽ không bận tâm đâu. Elise và tôi đã là bạn trong nhiều năm. Chỉ cần đảm bảo sơ yếu lý lịch của bạn được cập nhật và phản ánh kinh nghiệm liên quan của bạn.\n\nMarisol Rosetti (9:53 Sáng)\nTôi sẽ làm vậy. Cảm ơn bạn rất nhiều, Paul. Tôi thực sự đánh giá cao điều đó!"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t05-p7-q153",
+          "number": 153,
+          "question": {
+            "en": "At 9:50 A.M., what does Mr. Cho most likely mean when he writes, \"I know you'd be a great fit\"?",
+            "vi": "Lúc 9:50 Sáng, ông Cho muốn nói gì khi viết \"Tôi biết bạn sẽ rất phù hợp\"?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He would like to hire Ms. Rosetti.",
+              "vi": "Ông ấy muốn thuê bà Rosetti."
+            },
+            {
+              "key": "B",
+              "en": "He has worked at Yadav Digital Marketing for a long time.",
+              "vi": "Ông ấy đã làm việc tại Yadav Digital Marketing trong một thời gian dài."
+            },
+            {
+              "key": "C",
+              "en": "He thinks Yadav Digital Marketing needs a new director.",
+              "vi": "Ông ấy nghĩ Yadav Digital Marketing cần một giám đốc mới."
+            },
+            {
+              "key": "D",
+              "en": "He thinks Ms. Rosetti is a good candidate for a job.",
+              "vi": "Ông ấy nghĩ bà Rosetti là một ứng viên tốt cho một công việc."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t05-p7-q154",
+          "number": 154,
+          "question": {
+            "en": "What is indicated about Mr. Cho?",
+            "vi": "Điều gì được chỉ ra về ông Cho?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He has known Ms. Mayer for a long time.",
+              "vi": "Ông ấy đã biết bà Mayer trong một thời gian dài."
+            },
+            {
+              "key": "B",
+              "en": "He works at the same company as Ms. Mayer.",
+              "vi": "Ông ấy làm việc cùng công ty với bà Mayer."
+            },
+            {
+              "key": "C",
+              "en": "He will help Ms. Rosetti write a cover letter.",
+              "vi": "Ông ấy sẽ giúp bà Rosetti viết thư xin việc."
+            },
+            {
+              "key": "D",
+              "en": "He is a director at a marketing firm.",
+              "vi": "Ông ấy là giám đốc tại một công ty tiếp thị."
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t05-p7-g155-157",
+      "documents": [
+        {
+          "kind": "article",
+          "content": {
+            "en": "Product Launch Delayed\n\nCovered Bridge Industries has delayed the launch of its new Balmy Breeze soft drink. The company had planned to release the product in June to take advantage of the higher sales demand during the summer months. The company said the delay was caused by a shortage of one of the drink's main components, mango extract, which led to the postponement of quality testing until August.\n\nCovered Bridge now hopes to complete all quality testing by November so that it can launch the product the following month. While sales will likely be weaker than originally hoped, the company will promote Balmy Breeze as an excellent choice for winter holiday celebrations.",
+            "vi": "Trì hoãn ra mắt sản phẩm\n\nCovered Bridge Industries đã trì hoãn việc ra mắt đồ uống nhẹ mới Balmy Breeze. Công ty đã lên kế hoạch phát hành sản phẩm vào tháng Sáu để tận dụng nhu cầu bán hàng cao hơn trong những tháng mùa hè. Công ty cho biết sự chậm trễ là do thiếu hụt một trong những thành phần chính của đồ uống, chiết xuất xoài, dẫn đến việc trì hoãn kiểm tra chất lượng cho đến tháng Tám.\n\nCovered Bridge hiện hy vọng sẽ hoàn thành tất cả các bài kiểm tra chất lượng vào tháng Mười Một để có thể ra mắt sản phẩm vào tháng tiếp theo. Mặc dù doanh số có thể sẽ yếu hơn so với hy vọng ban đầu, công ty sẽ quảng bá Balmy Breeze như một lựa chọn tuyệt vời cho các lễ kỷ niệm mùa đông."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t05-p7-q155",
+          "number": 155,
+          "question": {
+            "en": "What kind of company most likely is Covered Bridge Industries?",
+            "vi": "Covered Bridge Industries rất có thể là loại công ty nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "An ice cream producer",
+              "vi": "Nhà sản xuất kem"
+            },
+            {
+              "key": "B",
+              "en": "An advertising agency",
+              "vi": "Công ty quảng cáo"
+            },
+            {
+              "key": "C",
+              "en": "A beverage manufacturer",
+              "vi": "Nhà sản xuất đồ uống"
+            },
+            {
+              "key": "D",
+              "en": "A maker of electric fans",
+              "vi": "Nhà sản xuất quạt điện"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t05-p7-q156",
+          "number": 156,
+          "question": {
+            "en": "Why did the leaders of Covered Bridge Industries not follow their original plan?",
+            "vi": "Tại sao các nhà lãnh đạo của Covered Bridge Industries không tuân theo kế hoạch ban đầu của họ?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "They wanted to wait for more favorable market conditions.",
+              "vi": "Họ muốn chờ đợi các điều kiện thị trường thuận lợi hơn."
+            },
+            {
+              "key": "B",
+              "en": "Quality tests revealed several problems.",
+              "vi": "Các bài kiểm tra chất lượng cho thấy một số vấn đề."
+            },
+            {
+              "key": "C",
+              "en": "Their advertising campaign was not ready on time.",
+              "vi": "Chiến dịch quảng cáo của họ đã không sẵn sàng kịp thời."
+            },
+            {
+              "key": "D",
+              "en": "An essential ingredient was unavailable.",
+              "vi": "Một thành phần thiết yếu không có sẵn."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t05-p7-q157",
+          "number": 157,
+          "question": {
+            "en": "During what month will Covered Bridge Industries most likely launch a new product?",
+            "vi": "Vào tháng nào Covered Bridge Industries rất có thể sẽ ra mắt sản phẩm mới?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "In June",
+              "vi": "Vào tháng Sáu"
+            },
+            {
+              "key": "B",
+              "en": "In August",
+              "vi": "Vào tháng Tám"
+            },
+            {
+              "key": "C",
+              "en": "In November",
+              "vi": "Vào tháng Mười Một"
+            },
+            {
+              "key": "D",
+              "en": "In December",
+              "vi": "Vào tháng Mười Hai"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t05-p7-g158-160",
+      "documents": [
+        {
+          "kind": "memo",
+          "content": {
+            "en": "From: Leah Achen, Head of Technology Resources\nTo: All Employees\nDate: June 28\nSubject: Video-editing software change\n\nEffective July 20, employees will no longer have access to the Zipvid app for creating animated videos. — [1] —. We will instead be using Curtain Call, which we trust will prove to be a more reliable program that is less likely to crash. — [2] —. Employees who need to convert their videos from the format Zipvid uses to a format compatible with Curtain Call should install the converter utility to their work computers. This utility can be found in our company's online software library. — [3] —. For assistance with this process, please contact Manuel Costa in Technology Support. — [4] —.",
+            "vi": "Đến: Leah Achen, Trưởng phòng Tài nguyên Công nghệ\nTừ: Tất cả Nhân viên\nNgày: 28 tháng 6\nChủ đề: Thay đổi phần mềm chỉnh sửa video\n\nCó hiệu lực từ ngày 20 tháng 7, nhân viên sẽ không còn quyền truy cập vào ứng dụng Zipvid để tạo video hoạt hình. — [1] —. Thay vào đó, chúng tôi sẽ sử dụng Curtain Call, một chương trình mà chúng tôi tin tưởng sẽ đáng tin cậy hơn và ít gặp sự cố treo máy hơn. — [2] —. Nhân viên cần chuyển đổi video từ định dạng Zipvid sử dụng sang định dạng tương thích với Curtain Call nên cài đặt tiện ích chuyển đổi vào máy tính làm việc của họ. Tiện ích này có thể được tìm thấy trong thư viện phần mềm trực tuyến của công ty chúng ta. — [3] —. Để được hỗ trợ về quy trình này, vui lòng liên hệ với Manuel Costa trong bộ phận Hỗ trợ Công nghệ. — [4] —."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t05-p7-q158",
+          "number": 158,
+          "question": {
+            "en": "Why is the Zipvid app no longer being used?",
+            "vi": "Tại sao ứng dụng Zipvid không còn được sử dụng?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is more expensive than similar programs.",
+              "vi": "Nó đắt hơn các chương trình tương tự."
+            },
+            {
+              "key": "B",
+              "en": "It was used by only a few employees.",
+              "vi": "Nó chỉ được sử dụng bởi một vài nhân viên."
+            },
+            {
+              "key": "C",
+              "en": "It malfunctioned too frequently.",
+              "vi": "Nó bị trục trặc quá thường xuyên."
+            },
+            {
+              "key": "D",
+              "en": "It is not compatible with new computers.",
+              "vi": "Nó không tương thích với máy tính mới."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t05-p7-q159",
+          "number": 159,
+          "question": {
+            "en": "According to the memo, what can Mr. Costa help employees do?",
+            "vi": "Theo bản ghi nhớ, ông Costa có thể giúp nhân viên làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Convert videos",
+              "vi": "Chuyển đổi video"
+            },
+            {
+              "key": "B",
+              "en": "Recover lost data",
+              "vi": "Khôi phục dữ liệu bị mất"
+            },
+            {
+              "key": "C",
+              "en": "Order software",
+              "vi": "Đặt mua phần mềm"
+            },
+            {
+              "key": "D",
+              "en": "Complete a form",
+              "vi": "Điền vào một biểu mẫu"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t05-p7-q160",
+          "number": 160,
+          "question": {
+            "en": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"It has already been installed on all work computers, so you can begin using it immediately.\"",
+            "vi": "Câu sau đây phù hợp nhất ở vị trí nào trong các vị trí được đánh dấu [1], [2], [3] và [4]? \"Nó đã được cài đặt trên tất cả các máy tính làm việc, vì vậy bạn có thể bắt đầu sử dụng nó ngay lập tức.\""
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "[1]",
+              "vi": "[1]"
+            },
+            {
+              "key": "B",
+              "en": "[2]",
+              "vi": "[2]"
+            },
+            {
+              "key": "C",
+              "en": "[3]",
+              "vi": "[3]"
+            },
+            {
+              "key": "D",
+              "en": "[4]",
+              "vi": "[4]"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t05-p7-g161-164",
+      "documents": [
+        {
+          "kind": "article",
+          "content": {
+            "en": "Local Businesses Thriving\n\nGREENWOOD (July 6)--Why a particular business succeeds is often a mystery, but a couple of local shops appear to have learned the secret. Two years after opening their doors, A Thousand Stories and Rosier's Garden Center are flourishing.\n\n\"There was a lot of trial and error at the outset, but we finally figured it out,\" said Liz Ohtani, who, together with Sandra Rivera, owns A Thousand Stories. \"I manage the stock, and Sandra handles the public-facing part, including special events with authors.\"\n\nMs. Rivera added, \"We make a fantastic team. But I think our strongest asset is our supportive neighborhood. People here love books and reading, and they visit us regularly. We also have an active social media presence, and that helps too.\"\n\nLouie Rosier, owner of Rosier's Garden Center, agreed that getting a business up and running takes effort and patience.\n\nMr. Rosier, whose store specializes in native plants and flowers, admitted that his first year with the garden center was tough. He recalled, \"It took a long time to turn a profit. Sometimes I considered shutting it all down and going back to my former job.\"\n\nDespite the difficult start, Mr. Rosier persevered. Now that the business is doing well, he is exploring opening another store.\n\n\"I'd like to reach customers beyond the Greenwood area,\" he said. \"I'm currently looking at Morganville to see if that would be the best location for a second store.\"",
+            "vi": "Doanh nghiệp địa phương đang phát triển mạnh\n\nGREENWOOD (6 tháng 7)--Lý do tại sao một doanh nghiệp cụ thể thành công thường là một điều bí ẩn, nhưng một vài cửa hàng địa phương dường như đã học được bí quyết. Hai năm sau khi mở cửa, A Thousand Stories và Rosier's Garden Center đang phát triển mạnh mẽ.\n\n\"Đã có rất nhiều lần thử và sai lúc ban đầu, nhưng cuối cùng chúng tôi đã tìm ra được,\" Liz Ohtani, người cùng với Sandra Rivera, sở hữu A Thousand Stories, cho biết. \"Tôi quản lý kho hàng, và Sandra xử lý phần tiếp xúc với công chúng, bao gồm cả các sự kiện đặc biệt với các tác giả.\"\n\nBà Rivera nói thêm, \"Chúng tôi là một đội tuyệt vời. Nhưng tôi nghĩ tài sản mạnh nhất của chúng tôi là khu phố đầy sự ủng hộ. Mọi người ở đây yêu sách và việc đọc sách, và họ đến thăm chúng tôi thường xuyên. Chúng tôi cũng có sự hiện diện tích cực trên mạng xã hội, và điều đó cũng giúp ích.\"\n\nLouie Rosier, chủ sở hữu của Rosier's Garden Center, đồng ý rằng việc bắt đầu và vận hành một doanh nghiệp đòi hỏi nỗ lực và sự kiên nhẫn.\n\nÔng Rosier, người có cửa hàng chuyên bán các loại cây và hoa bản địa, thừa nhận rằng năm đầu tiên của ông với trung tâm vườn ươm rất khó khăn. Ông nhớ lại: \"Đã mất một thời gian dài để thu được lợi nhuận. Đôi khi tôi cân nhắc đóng cửa tất cả và quay lại công việc trước đây.\"\n\nBất chấp sự khởi đầu khó khăn, ông Rosier vẫn kiên trì. Bây giờ khi doanh nghiệp đang làm ăn tốt, ông đang xem xét mở một cửa hàng khác.\n\n\"Tôi muốn tiếp cận khách hàng bên ngoài khu vực Greenwood,\" ông nói. \"Tôi hiện đang xem xét Morganville để xem liệu đó có phải là địa điểm tốt nhất cho một cửa hàng thứ hai hay không.\""
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t05-p7-q161",
+          "number": 161,
+          "question": {
+            "en": "What type of business do Ms. Ohtani and Ms. Rivera most likely operate?",
+            "vi": "Bà Ohtani và bà Rivera rất có thể điều hành loại hình doanh nghiệp nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A real estate office",
+              "vi": "Văn phòng bất động sản"
+            },
+            {
+              "key": "B",
+              "en": "An event planning service",
+              "vi": "Dịch vụ lập kế hoạch sự kiện"
+            },
+            {
+              "key": "C",
+              "en": "A bookshop",
+              "vi": "Hiệu sách"
+            },
+            {
+              "key": "D",
+              "en": "A media company",
+              "vi": "Công ty truyền thông"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t05-p7-q162",
+          "number": 162,
+          "question": {
+            "en": "What is one similarity between A Thousand Stories and Rosier's Garden Center?",
+            "vi": "Một điểm tương đồng giữa A Thousand Stories và Rosier's Garden Center là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Both are operated by co-owners.",
+              "vi": "Cả hai đều do đồng sở hữu điều hành."
+            },
+            {
+              "key": "B",
+              "en": "Both serve customers worldwide.",
+              "vi": "Cả hai đều phục vụ khách hàng trên toàn thế giới."
+            },
+            {
+              "key": "C",
+              "en": "Both advertise primarily online.",
+              "vi": "Cả hai đều quảng cáo chủ yếu trực tuyến."
+            },
+            {
+              "key": "D",
+              "en": "Both struggled when they first opened.",
+              "vi": "Cả hai đều gặp khó khăn khi mới mở cửa."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t05-p7-q163",
+          "number": 163,
+          "question": {
+            "en": "The word \"turn\" in paragraph 5, line 4, is closest in meaning to",
+            "vi": "Từ \"turn\" trong đoạn 5, dòng 4, gần nghĩa nhất với"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "join",
+              "vi": "join (v): tham gia"
+            },
+            {
+              "key": "B",
+              "en": "gain",
+              "vi": "gain (v): đạt được, thu được"
+            },
+            {
+              "key": "C",
+              "en": "change",
+              "vi": "change (v): thay đổi"
+            },
+            {
+              "key": "D",
+              "en": "reverse",
+              "vi": "reverse (v): đảo ngược"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t05-p7-q164",
+          "number": 164,
+          "question": {
+            "en": "According to the article, what will Mr. Rosier most likely do soon?",
+            "vi": "Theo bài báo, ông Rosier rất có thể sẽ sớm làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He will write a book about his experience.",
+              "vi": "Ông sẽ viết một cuốn sách về trải nghiệm của mình."
+            },
+            {
+              "key": "B",
+              "en": "He will move his home to Morganville.",
+              "vi": "Ông sẽ chuyển nhà đến Morganville."
+            },
+            {
+              "key": "C",
+              "en": "He will return to his previous career.",
+              "vi": "Ông sẽ trở lại với sự nghiệp trước đây."
+            },
+            {
+              "key": "D",
+              "en": "He will open another garden center.",
+              "vi": "Ông sẽ mở một trung tâm vườn ươm khác."
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t05-p7-g165-167",
+      "documents": [
+        {
+          "kind": "notice",
+          "content": {
+            "en": "Important Information Regarding Employee Safety\n\nAll employees are expected to follow the guidelines in the employee manual as well as posted safety rules. Certain jobs require employees to follow the additional safety guidelines provided by their supervisors. Because we take safety seriously, we urge any employee who becomes aware of a breach of these protocols to contact a supervisor or the safety coordinator. Further, any employee who has concerns about these protocols or would like to propose additional measures should contact the safety coordinator directly.\n\nAdditionally, contact information for employees who are trained in first aid can be found in the employee manual. Free first aid training and certification are available twice yearly to all employees. For more information about when trainings are held, please contact Lynn Schneider at lschneider@rinckindustry.com.",
+            "vi": "Thông tin quan trọng về An toàn Nhân viên\n\nTất cả nhân viên phải tuân theo các hướng dẫn trong sổ tay nhân viên cũng như các quy tắc an toàn được niêm yết. Một số công việc yêu cầu nhân viên phải tuân theo các hướng dẫn an toàn bổ sung do người giám sát của họ cung cấp. Vì chúng tôi coi trọng an toàn, chúng tôi yêu cầu bất kỳ nhân viên nào biết được hành vi vi phạm các quy trình này phải liên hệ với người giám sát hoặc điều phối viên an toàn. Hơn nữa, bất kỳ nhân viên nào có thắc mắc về các quy trình này hoặc muốn đề xuất các biện pháp bổ sung nên liên hệ trực tiếp với điều phối viên an toàn.\n\nNgoài ra, thông tin liên hệ của những nhân viên được đào tạo về sơ cứu có thể được tìm thấy trong sổ tay nhân viên. Chương trình đào tạo và cấp chứng chỉ sơ cứu miễn phí được tổ chức hai lần một năm cho tất cả nhân viên. Để biết thêm thông tin về thời gian đào tạo, vui lòng liên hệ Lynn Schneider tại lschneider@rinckindustry.com."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t05-p7-q165",
+          "number": 165,
+          "question": {
+            "en": "What responsibility of a supervisor is mentioned in the notice?",
+            "vi": "Trách nhiệm nào của người giám sát được đề cập trong thông báo?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Distributing employee manuals",
+              "vi": "Phân phát sổ tay nhân viên"
+            },
+            {
+              "key": "B",
+              "en": "Overseeing the work of the safety coordinator",
+              "vi": "Giám sát công việc của điều phối viên an toàn"
+            },
+            {
+              "key": "C",
+              "en": "Regularly updating the posted safety rules",
+              "vi": "Thường xuyên cập nhật các quy tắc an toàn được niêm yết"
+            },
+            {
+              "key": "D",
+              "en": "Providing safety guidelines for specific jobs",
+              "vi": "Cung cấp hướng dẫn an toàn cho các công việc cụ thể"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t05-p7-q166",
+          "number": 166,
+          "question": {
+            "en": "The word \"measures\" in paragraph 1, line 6, is closest in meaning to",
+            "vi": "Từ \"measures\" trong đoạn 1, dòng 6, gần nghĩa nhất với"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "amounts",
+              "vi": "amounts (n): số lượng"
+            },
+            {
+              "key": "B",
+              "en": "procedures",
+              "vi": "procedures (n): quy trình, biện pháp"
+            },
+            {
+              "key": "C",
+              "en": "dimensions",
+              "vi": "dimensions (n): kích thước"
+            },
+            {
+              "key": "D",
+              "en": "penalties",
+              "vi": "penalties (n): hình phạt"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t05-p7-q167",
+          "number": 167,
+          "question": {
+            "en": "According to the notice, why should employees contact Ms. Schneider?",
+            "vi": "Theo thông báo, tại sao nhân viên nên liên hệ với bà Schneider?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To apply for a new position",
+              "vi": "Để nộp đơn xin vị trí mới"
+            },
+            {
+              "key": "B",
+              "en": "To update their contact information",
+              "vi": "Để cập nhật thông tin liên hệ của họ"
+            },
+            {
+              "key": "C",
+              "en": "To suggest additional safety rules",
+              "vi": "Để đề xuất các quy tắc an toàn bổ sung"
+            },
+            {
+              "key": "D",
+              "en": "To request a training schedule",
+              "vi": "Để yêu cầu lịch trình đào tạo"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t05-p7-g168-171",
+      "documents": [
+        {
+          "kind": "job_description",
+          "content": {
+            "en": "Dora County Department of Transportation\nDivision of Administrative Services\n\nHIGHWAY SUPERVISOR\n\nThe highway supervisor oversees all tasks related to the construction and maintenance of road-related structures throughout Dora County, including creating work objectives for all emergency program activities. Key responsibilities include the organization of all snow-removal operations and construction projects. — [1] —. Therefore, the supervisor must also be able to perform construction and maintenance work as needed and possess an appropriate level of skill in operating the relevant equipment. — [2] —. The supervisor assists in the hiring and training of subordinates and works with division leaders to conduct evaluations and yearly performance reviews of crew members. Crucially, the supervisor instructs crew members in safety procedures and monitors the safety of works in progress. The supervisor informs the division director of major personnel problems; the director will recommend an appropriate course of action in all instances. — [3] —. Significant concerns raised by employees are brought to the attention of division leaders by the supervisor, who functions as a liaison between crew members and the Division of Administrative Services.\n\nManaging the division's designated budget is a critical aspect of the position. The supervisor shows proficiency in the use of computers to keep track of the budget each month. — [4] —. The supervisor prepares expenditure reports and time sheets as well as statistical and narrative reports related to maintenance and repair activities, being sure to record the amount of time, number of employees, and materials used for each activity.",
+            "vi": "Sở Giao thông Vận tải Quận Dora\nBan Dịch vụ Hành chính\n\nGIÁM SÁT ĐƯỜNG CAO TỐC\n\nGiám sát đường cao tốc giám sát tất cả các nhiệm vụ liên quan đến việc xây dựng và bảo trì các công trình liên quan đến đường trên toàn Quận Dora, bao gồm việc tạo ra các mục tiêu công việc cho tất cả các hoạt động của chương trình khẩn cấp. Các trách nhiệm chính bao gồm việc tổ chức tất cả các hoạt động dọn tuyết và các dự án xây dựng. — [1] —. Do đó, người giám sát cũng phải có khả năng thực hiện công việc xây dựng và bảo trì khi cần thiết và sở hữu trình độ kỹ năng phù hợp trong việc vận hành các thiết bị liên quan. — [2] —. Người giám sát hỗ trợ tuyển dụng và đào tạo cấp dưới và làm việc với trưởng bộ phận để tiến hành đánh giá và đánh giá hiệu suất hàng năm của các thành viên trong nhóm. Điều quan trọng là, người giám sát hướng dẫn các thành viên trong nhóm về quy trình an toàn và giám sát sự an toàn của các công việc đang được tiến hành. Người giám sát thông báo cho giám đốc bộ phận về các vấn đề nhân sự lớn; giám đốc sẽ đề xuất một quá trình hành động phù hợp trong mọi trường hợp. — [3] —. Các mối quan ngại đáng kể do nhân viên nêu ra sẽ được người giám sát đưa đến sự chú ý của trưởng bộ phận, người này đóng vai trò là cầu nối giữa các thành viên trong nhóm và Ban Dịch vụ Hành chính.\n\nQuản lý ngân sách được chỉ định của bộ phận là một khía cạnh quan trọng của vị trí. Người giám sát thể hiện sự thành thạo trong việc sử dụng máy tính để theo dõi ngân sách hàng tháng. — [4] —. Người giám sát chuẩn bị báo cáo chi tiêu và bảng chấm công cũng như các báo cáo thống kê và tường thuật liên quan đến hoạt động bảo trì và sửa chữa, đảm bảo ghi lại lượng thời gian, số lượng nhân viên và vật liệu sử dụng cho mỗi hoạt động."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t05-p7-q168",
+          "number": 168,
+          "question": {
+            "en": "What is suggested about Dora County?",
+            "vi": "Điều gì được gợi ý về Quận Dora?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It gets cold enough to snow there.",
+              "vi": "Ở đó đủ lạnh để có tuyết rơi."
+            },
+            {
+              "key": "B",
+              "en": "It has a large population.",
+              "vi": "Nơi đây có dân số đông."
+            },
+            {
+              "key": "C",
+              "en": "It purchases equipment from local vendors.",
+              "vi": "Nơi đây mua thiết bị từ các nhà cung cấp địa phương."
+            },
+            {
+              "key": "D",
+              "en": "It has many four-lane highways.",
+              "vi": "Nơi đây có nhiều đường cao tốc bốn làn xe."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t05-p7-q169",
+          "number": 169,
+          "question": {
+            "en": "According to the job description, what should the highway supervisor do if a serious problem with a crew member arises?",
+            "vi": "Theo bản mô tả công việc, giám sát đường cao tốc nên làm gì nếu xảy ra vấn đề nghiêm trọng với một thành viên trong nhóm?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Suggest a replacement worker.",
+              "vi": "Đề xuất một nhân viên thay thế."
+            },
+            {
+              "key": "B",
+              "en": "Restrict the crew member's activities.",
+              "vi": "Hạn chế các hoạt động của thành viên nhóm."
+            },
+            {
+              "key": "C",
+              "en": "Notify the division director of the issue.",
+              "vi": "Thông báo cho giám đốc bộ phận về vấn đề này."
+            },
+            {
+              "key": "D",
+              "en": "Designate a liaison to explain the matter to management.",
+              "vi": "Chỉ định một người đại diện để giải thích vấn đề với ban quản lý."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t05-p7-q170",
+          "number": 170,
+          "question": {
+            "en": "What is NOT a responsibility of the highway supervisor?",
+            "vi": "Điều gì KHÔNG phải là trách nhiệm của giám sát đường cao tốc?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Operating construction equipment",
+              "vi": "Vận hành thiết bị xây dựng"
+            },
+            {
+              "key": "B",
+              "en": "Conducting yearly performance reviews",
+              "vi": "Tiến hành đánh giá hiệu suất hàng năm"
+            },
+            {
+              "key": "C",
+              "en": "Managing the monthly budget",
+              "vi": "Quản lý ngân sách hàng tháng"
+            },
+            {
+              "key": "D",
+              "en": "Negotiating crew member salaries",
+              "vi": "Đàm phán mức lương cho thành viên nhóm"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t05-p7-q171",
+          "number": 171,
+          "question": {
+            "en": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"The position features several duties related to staff management.\"",
+            "vi": "Câu sau đây phù hợp nhất ở vị trí nào trong các vị trí được đánh dấu [1], [2], [3] và [4]? \"Vị trí này có một số nhiệm vụ liên quan đến quản lý nhân viên.\""
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "[1]",
+              "vi": "[1]"
+            },
+            {
+              "key": "B",
+              "en": "[2]",
+              "vi": "[2]"
+            },
+            {
+              "key": "C",
+              "en": "[3]",
+              "vi": "[3]"
+            },
+            {
+              "key": "D",
+              "en": "[4]",
+              "vi": "[4]"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t05-p7-g172-175",
+      "documents": [
+        {
+          "kind": "text_message_chain",
+          "content": {
+            "en": "Marcus Gollancz (3:18 P.M.)\nJennifer, can you be at the Browns' house at 7:00 A.M. tomorrow to remove the furnace ductwork? Arthur's foundation-repair crew will need to access that area of the crawl space under the house.\n\nJennifer Kaluza (3:20 P.M.)\nOK, it should take me about an hour. That's 210 Leon Drive, right?\n\nMarcus Gollancz (3:20 P.M.)\nThat's right.\n\nArthur Gruyter (3:21 P.M.)\nMy crew will be there to start work shortly after 8:00 A.M. tomorrow. Our work patching and waterproofing the foundation will likely take three or four days. It's an unusually large job.\n\nJennifer Kaluza (3:22 P.M.)\nSo, when would you like me to come back to reinstall the ductwork?\n\nMarcus Gollancz (3:23 P.M.)\nThe Browns are away on vacation, so I think Friday afternoon should be fine.\n\nJennifer Kaluza (3:23 P.M.)\nI'm scheduled to work at Mr. Amadi's apartment on Friday--can the Browns' ductwork wait until Monday?\n\nMarcus Gollancz (3:24 P.M.)\nSure. Early on Monday would work.\n\nJennifer Kaluza (3:25 P.M.)\nYou got it, Marcus.",
+            "vi": "Marcus Gollancz (3:18 Chiều)\nJennifer, bạn có thể có mặt tại nhà của gia đình Brown lúc 7:00 Sáng mai để tháo hệ thống ống dẫn khí của lò sưởi không? Đội sửa móng của Arthur sẽ cần tiếp cận khu vực đó của khoảng không gian dưới sàn nhà.\n\nJennifer Kaluza (3:20 Chiều)\nĐược rồi, tôi sẽ mất khoảng một giờ. Đó là 210 Leon Drive, phải không?\n\nMarcus Gollancz (3:20 Chiều)\nĐúng vậy.\n\nArthur Gruyter (3:21 Chiều)\nNhóm của tôi sẽ ở đó để bắt đầu công việc ngay sau 8:00 Sáng mai. Công việc vá và chống thấm nền móng của chúng tôi có thể sẽ mất ba hoặc bốn ngày. Đây là một công việc lớn bất thường.\n\nJennifer Kaluza (3:22 Chiều)\nVậy, bạn muốn tôi quay lại lắp đặt lại hệ thống ống dẫn khí khi nào?\n\nMarcus Gollancz (3:23 Chiều)\nGia đình Brown đi nghỉ xa rồi, nên tôi nghĩ chiều thứ Sáu sẽ ổn.\n\nJennifer Kaluza (3:23 Chiều)\nTôi đã có lịch làm việc tại căn hộ của ông Amadi vào thứ Sáu--việc lắp lại ống dẫn khí cho nhà gia đình Brown có thể đợi đến thứ Hai được không?\n\nMarcus Gollancz (3:24 Chiều)\nChắc chắn rồi. Đầu giờ thứ Hai sẽ được.\n\nJennifer Kaluza (3:25 Chiều)\nBạn nói đúng, Marcus."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t05-p7-q172",
+          "number": 172,
+          "question": {
+            "en": "What is the purpose of the conversation?",
+            "vi": "Mục đích của cuộc trò chuyện là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To inform a homeowner about a construction project",
+              "vi": "Để thông báo cho chủ nhà về một dự án xây dựng"
+            },
+            {
+              "key": "B",
+              "en": "To explain why a repair cannot be completed on time",
+              "vi": "Để giải thích lý do tại sao một sự sửa chữa không thể hoàn thành đúng thời hạn"
+            },
+            {
+              "key": "C",
+              "en": "To discuss the timing of a public event",
+              "vi": "Để thảo luận về thời gian của một sự kiện công cộng"
+            },
+            {
+              "key": "D",
+              "en": "To coordinate a work schedule",
+              "vi": "Để phối hợp lịch trình làm việc"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t05-p7-q173",
+          "number": 173,
+          "question": {
+            "en": "What can be concluded about 210 Leon Drive?",
+            "vi": "Có thể kết luận điều gì về 210 Leon Drive?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is a private home.",
+              "vi": "Đó là một ngôi nhà riêng."
+            },
+            {
+              "key": "B",
+              "en": "It is an office building.",
+              "vi": "Đó là một tòa nhà văn phòng."
+            },
+            {
+              "key": "C",
+              "en": "It is an apartment complex.",
+              "vi": "Đó là một khu chung cư."
+            },
+            {
+              "key": "D",
+              "en": "It is an industrial warehouse.",
+              "vi": "Đó là một nhà kho công nghiệp."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t05-p7-q174",
+          "number": 174,
+          "question": {
+            "en": "What is suggested about the members of Mr. Gruyter's work crew?",
+            "vi": "Điều gì được gợi ý về các thành viên trong đội làm việc của ông Gruyter?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "They have added Ms. Kaluza to their group.",
+              "vi": "Họ đã thêm bà Kaluza vào nhóm của họ."
+            },
+            {
+              "key": "B",
+              "en": "They are repairing Mr. Gollancz' office.",
+              "vi": "Họ đang sửa chữa văn phòng của ông Gollancz."
+            },
+            {
+              "key": "C",
+              "en": "They usually complete jobs in fewer than three days.",
+              "vi": "Họ thường hoàn thành công việc trong ít hơn ba ngày."
+            },
+            {
+              "key": "D",
+              "en": "They have already begun work on Mr. Amadi's apartment.",
+              "vi": "Họ đã bắt đầu làm việc tại căn hộ của ông Amadi."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t05-p7-q175",
+          "number": 175,
+          "question": {
+            "en": "At 3:25 P.M., what does Ms. Kaluza most likely mean when she writes, \"You got it\"?",
+            "vi": "Lúc 3:25 Chiều, bà Kaluza muốn nói gì khi viết \"Bạn nói đúng\"?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She wants to confirm that Mr. Gollancz understands her.",
+              "vi": "Cô ấy muốn xác nhận rằng ông Gollancz hiểu cô ấy."
+            },
+            {
+              "key": "B",
+              "en": "She will be at 210 Leon Drive early Monday morning.",
+              "vi": "Cô ấy sẽ đến 210 Leon Drive vào sáng sớm thứ Hai."
+            },
+            {
+              "key": "C",
+              "en": "She will send Mr. Gruyter a bill for some work.",
+              "vi": "Cô ấy sẽ gửi hóa đơn cho ông Gruyter về một số công việc."
+            },
+            {
+              "key": "D",
+              "en": "She hopes Mr. Gollancz will contact the Brown family.",
+              "vi": "Cô ấy hy vọng ông Gollancz sẽ liên hệ với gia đình Brown."
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t05-p7-g176-180",
+      "documents": [
+        {
+          "kind": "web_page",
+          "content": {
+            "en": "https://www.jjshomeandgarden.com/cementmixers\n\nJJ's Home and Garden Suppliers\nCement Mixers\n\n| Model | Name | Description | Price |\n| HCC-TX | Easy Star | 2 cubic feet, 1 hp; In-store pickup only | $189 |\n| CVY-XU | Mr. Buddy* | 2 cubic feet, 5 hp; Delivery only, 1-2 weeks | $359 |\n| PIT-RX | Concretizer | 4 cubic feet, 3 hp; In-store pickup and 5-day delivery | $499 |\n| HTK-LM | Big Mix | 5 cubic feet, 5 hp; In-store pickup only | $629 |\n| PPP-HT | Max for Pros | 6 cubic feet, 7 hp; Delivery only, 2-4 weeks | $949 |\n\n*Out of stock until July 26",
+            "vi": "https://www.jjshomeandgarden.com/cementmixers\n\nNhà cung cấp JJ's Home and Garden\nMáy trộn xi măng\n\n| Model | Tên | Mô tả | Giá |\n| HCC-TX | Easy Star | 2 feet khối, 1 hp; Chỉ nhận hàng tại cửa hàng | $189 |\n| CVY-XU | Mr. Buddy* | 2 feet khối, 5 hp; Chỉ giao hàng, 1-2 tuần | $359 |\n| PIT-RX | Concretizer | 4 feet khối, 3 hp; Nhận tại cửa hàng và giao hàng 5 ngày | $499 |\n| HTK-LM | Big Mix | 5 feet khối, 5 hp; Chỉ nhận hàng tại cửa hàng | $629 |\n| PPP-HT | Max for Pros | 6 feet khối, 7 hp; Chỉ giao hàng, 2-4 tuần | $949 |\n\n*Hết hàng đến ngày 26 tháng 7"
+          }
+        },
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Customer Service <customerservice@jjshomeandgarden.com>\nFrom: Marshall Weaver <mweaver01@gmail.net>\nDate: June 25\nSubject: Delayed order\n\nDear Customer Service Representative:\n\nI received a confirmation e-mail on June 15 that my 4-cubic-foot cement mixer would be delivered one week ago from JJ's Home and Garden Suppliers. I have a small business and am dependent on my equipment. I have not yet received the product, and I have already left several unanswered phone messages. If the cement mixer is not at my business by the end of the day today, I can still pick it up at either the New Gralen or the Paloner store if I have to, as I need it for a job tomorrow afternoon. If one is not available by tomorrow, I ask that you cancel my order and provide me with a full refund. I will instead buy a Mr. Buddy from Alliance Hardware Store, a small, local store where it is currently in stock (and at your same price).\n\nPlease advise me on the status of my order immediately. I hope that my order with you will arrive today and that no further action will be needed by either of us.\n\nSincerely,\n\nMarshall Weaver",
+            "vi": "Đến: Bộ phận Dịch vụ Khách hàng <customerservice@jjshomeandgarden.com>\nTừ: Marshall Weaver <mweaver01@gmail.net>\nNgày: 25 tháng 6\nChủ đề: Đơn hàng bị chậm\n\nGửi Đại diện Dịch vụ Khách hàng thân mến:\n\nTôi đã nhận được e-mail xác nhận vào ngày 15 tháng 6 rằng máy trộn xi măng 4 feet khối của tôi sẽ được giao từ Nhà cung cấp JJ's Home and Garden một tuần trước. Tôi có một doanh nghiệp nhỏ và phụ thuộc vào thiết bị của mình. Tôi vẫn chưa nhận được sản phẩm, và tôi đã để lại một số tin nhắn qua điện thoại chưa được trả lời. Nếu máy trộn xi măng không có tại doanh nghiệp của tôi vào cuối ngày hôm nay, tôi vẫn có thể đến lấy nó tại cửa hàng New Gralen hoặc Paloner nếu cần, vì tôi cần nó cho một công việc vào chiều mai. Nếu không có sẵn cái nào vào ngày mai, tôi đề nghị quý vị hủy đơn hàng của tôi và hoàn trả toàn bộ tiền cho tôi. Tôi sẽ thay vào đó mua một chiếc Mr. Buddy từ Alliance Hardware Store, một cửa hàng địa phương nhỏ, nơi nó hiện còn hàng (và với cùng mức giá của quý vị).\n\nVui lòng thông báo cho tôi về tình trạng đơn hàng của tôi ngay lập tức. Tôi hy vọng rằng đơn hàng của tôi với quý vị sẽ đến hôm nay và không cần thêm hành động nào từ bất kỳ ai trong chúng ta.\n\nTrân trọng,\n\nMarshall Weaver"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t05-p7-q176",
+          "number": 176,
+          "question": {
+            "en": "What is indicated on the Web page?",
+            "vi": "Điều gì được chỉ ra trên trang Web?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Big Mix is currently not available.",
+              "vi": "Big Mix hiện không có sẵn."
+            },
+            {
+              "key": "B",
+              "en": "Mr. Buddy is the best-selling item.",
+              "vi": "Mr. Buddy là mặt hàng bán chạy nhất."
+            },
+            {
+              "key": "C",
+              "en": "Some items cannot be delivered.",
+              "vi": "Một số mặt hàng không thể được giao hàng."
+            },
+            {
+              "key": "D",
+              "en": "All cement mixers have been discounted.",
+              "vi": "Tất cả các máy trộn xi măng đã được giảm giá."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t05-p7-q177",
+          "number": 177,
+          "question": {
+            "en": "What item did Mr. Weaver order from JJ's Home and Garden Suppliers?",
+            "vi": "Ông Weaver đã đặt món hàng nào từ Nhà cung cấp JJ's Home and Garden?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Easy Star",
+              "vi": "Easy Star"
+            },
+            {
+              "key": "B",
+              "en": "Concretizer",
+              "vi": "Concretizer"
+            },
+            {
+              "key": "C",
+              "en": "Big Mix",
+              "vi": "Big Mix"
+            },
+            {
+              "key": "D",
+              "en": "Max for Pros",
+              "vi": "Max for Pros"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t05-p7-q178",
+          "number": 178,
+          "question": {
+            "en": "In the e-mail, the word \"full\" in paragraph 1, line 7, is closest in meaning to",
+            "vi": "Trong e-mail, từ \"full\" trong đoạn 1, dòng 7, gần nghĩa nhất với"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "supplied",
+              "vi": "supplied (adj/v-ed): được cung cấp"
+            },
+            {
+              "key": "B",
+              "en": "occupied",
+              "vi": "occupied (adj): bận rộn, có người sử dụng"
+            },
+            {
+              "key": "C",
+              "en": "complete",
+              "vi": "complete (adj): đầy đủ, toàn bộ"
+            },
+            {
+              "key": "D",
+              "en": "abundant",
+              "vi": "abundant (adj): dồi dào"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t05-p7-q179",
+          "number": 179,
+          "question": {
+            "en": "What is suggested about JJ's Home and Garden Suppliers?",
+            "vi": "Điều gì được gợi ý về Nhà cung cấp JJ's Home and Garden?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It specializes in the sale of large construction equipment.",
+              "vi": "Công ty chuyên bán thiết bị xây dựng cỡ lớn."
+            },
+            {
+              "key": "B",
+              "en": "It sells most of its products online.",
+              "vi": "Công ty bán hầu hết các sản phẩm của mình trực tuyến."
+            },
+            {
+              "key": "C",
+              "en": "It offers free delivery on all products.",
+              "vi": "Công ty cung cấp dịch vụ giao hàng miễn phí cho tất cả các sản phẩm."
+            },
+            {
+              "key": "D",
+              "en": "It has stores in more than one location.",
+              "vi": "Công ty có cửa hàng ở nhiều hơn một địa điểm."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t05-p7-q180",
+          "number": 180,
+          "question": {
+            "en": "What is the cost of a model CVY-XU cement mixer at Alliance Hardware Store?",
+            "vi": "Giá của máy trộn xi măng model CVY-XU tại Alliance Hardware Store là bao nhiêu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "$189",
+              "vi": "$189"
+            },
+            {
+              "key": "B",
+              "en": "$359",
+              "vi": "$359"
+            },
+            {
+              "key": "C",
+              "en": "$499",
+              "vi": "$499"
+            },
+            {
+              "key": "D",
+              "en": "$629",
+              "vi": "$629"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t05-p7-g181-185",
+      "documents": [
+        {
+          "kind": "web_page",
+          "content": {
+            "en": "https://www.collingswoodglobal.com/about\n\nHome | About | Services | Contact Us\n\nThe international trade business can be complicated, especially if you are unfamiliar with the steps and documentation involved. Guidelines vary from country to country, and special licenses and permits may be needed.\n\nLet the experienced consultants at Collingswood Global help! First, you will complete our short questionnaire about your business. Once we assess your needs, we will match you with one of our team members, listed below.\n\n- Margaret Giordano: agricultural products\n- Jonah Woodrow: household appliances\n- Felicity Wong: precious stones\n- Malik Fadel: automotive parts\n\nWe offer a single introductory session for $329 per hour. Your consultant will determine the rates for any subsequent sessions based on your needs. If you would like to receive guidance regularly, you would pay a monthly retainer at a cost to be negotiated during the introductory session.",
+            "vi": "https://www.collingswoodglobal.com/about\n\nTrang chủ | Giới thiệu | Dịch vụ | Liên hệ\n\nLĩnh vực kinh doanh thương mại quốc tế có thể phức tạp, đặc biệt nếu bạn không quen với các bước và tài liệu liên quan. Các hướng dẫn khác nhau giữa các quốc gia và có thể cần có giấy phép và giấy phép đặc biệt.\n\nHãy để các chuyên gia tư vấn giàu kinh nghiệm tại Collingswood Global giúp bạn! Đầu tiên, bạn sẽ hoàn thành bảng câu hỏi ngắn của chúng tôi về doanh nghiệp của bạn. Sau khi chúng tôi đánh giá nhu cầu của bạn, chúng tôi sẽ ghép bạn với một trong các thành viên trong nhóm của chúng tôi, được liệt kê dưới đây.\n\n- Margaret Giordano: sản phẩm nông nghiệp\n- Jonah Woodrow: thiết bị gia dụng\n- Felicity Wong: đá quý\n- Malik Fadel: linh kiện ô tô\n\nChúng tôi cung cấp một buổi giới thiệu duy nhất với giá $329 mỗi giờ. Chuyên gia tư vấn của bạn sẽ xác định mức giá cho bất kỳ buổi tiếp theo nào dựa trên nhu cầu của bạn. Nếu bạn muốn nhận được hướng dẫn thường xuyên, bạn sẽ trả một khoản phí giữ chỗ hàng tháng với chi phí được thương lượng trong buổi giới thiệu."
+          }
+        },
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: contact@collingswoodglobal.com\nFrom: Sanjeev Yadav <sanjeev.yadav@isvaraniltd.com>\nDate: December 12\nSubject: Preconsultation questionnaire follow-up\n\nTo Whom It May Concern:\n\nI filled out the questionnaire on your Web page, but I am not sure that my form went through. I never got a confirmation e-mail. As I mentioned in the form, we are a five-year-old company specializing in high-end washers and dryers. We sell our machines to stores all along the East Coast of the United States and are well-informed about domestic cargo procedures. However, we want to venture into international trade, particularly throughout Europe, and we would like ongoing support in this endeavor. Please contact me to discuss Isvarani Ltd.'s needs in more detail.\n\nMany thanks,\n\nSanjeev Yadav, Owner, Isvarani Ltd.",
+            "vi": "Đến: contact@collingswoodglobal.com\nTừ: Sanjeev Yadav <sanjeev.yadav@isvaraniltd.com>\nNgày: 12 tháng 12\nChủ đề: Theo dõi bảng câu hỏi trước tư vấn\n\nGửi những người có liên quan:\n\nTôi đã điền vào bảng câu hỏi trên trang Web của quý vị, nhưng tôi không chắc rằng biểu mẫu của tôi đã được gửi đi thành công. Tôi chưa bao giờ nhận được e-mail xác nhận. Như tôi đã đề cập trong biểu mẫu, chúng tôi là một công ty năm năm tuổi chuyên về máy giặt và máy sấy cao cấp. Chúng tôi bán máy của mình cho các cửa hàng dọc theo Bờ Đông của Hoa Kỳ và chúng tôi hiểu rõ về các quy trình vận chuyển hàng hóa trong nước. Tuy nhiên, chúng tôi muốn mạo hiểm tham gia vào thương mại quốc tế, đặc biệt là trên khắp Châu Âu, và chúng tôi muốn được hỗ trợ liên tục trong nỗ lực này. Vui lòng liên hệ với tôi để thảo luận về nhu cầu của Isvarani Ltd. chi tiết hơn.\n\nCảm ơn rất nhiều,\n\nSanjeev Yadav, Chủ sở hữu, Isvarani Ltd."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t05-p7-q181",
+          "number": 181,
+          "question": {
+            "en": "What does the Web page indicate about guidelines for international trade?",
+            "vi": "Trang Web chỉ ra điều gì về các hướng dẫn cho thương mại quốc tế?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "They are different for each country.",
+              "vi": "Chúng khác nhau đối với mỗi quốc gia."
+            },
+            {
+              "key": "B",
+              "en": "They often serve multiple purposes.",
+              "vi": "Chúng thường phục vụ nhiều mục đích."
+            },
+            {
+              "key": "C",
+              "en": "They are updated on a regular basis.",
+              "vi": "Chúng được cập nhật một cách thường xuyên."
+            },
+            {
+              "key": "D",
+              "en": "They are stricter than they once were.",
+              "vi": "Chúng nghiêm ngặt hơn trước đây."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t05-p7-q182",
+          "number": 182,
+          "question": {
+            "en": "What does the Web page mention about the cost of a monthly retainer?",
+            "vi": "Trang Web đề cập điều gì về chi phí của một khoản phí giữ chỗ hàng tháng?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It cannot be negotiated.",
+              "vi": "Nó không thể được thương lượng."
+            },
+            {
+              "key": "B",
+              "en": "It costs $329 per month.",
+              "vi": "Nó có giá $329 mỗi tháng."
+            },
+            {
+              "key": "C",
+              "en": "It is set during an initial meeting.",
+              "vi": "Nó được ấn định trong một cuộc họp đầu tiên."
+            },
+            {
+              "key": "D",
+              "en": "It may be waived based on client needs.",
+              "vi": "Nó có thể được miễn dựa trên nhu cầu của khách hàng."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t05-p7-q183",
+          "number": 183,
+          "question": {
+            "en": "Why does Mr. Yadav provide information about his company in the e-mail?",
+            "vi": "Tại sao ông Yadav cung cấp thông tin về công ty của mình trong e-mail?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He is responding to a request from a prospective colleague.",
+              "vi": "Ông đang trả lời một yêu cầu từ một đồng nghiệp tiềm năng."
+            },
+            {
+              "key": "B",
+              "en": "He forgot to include the information on a form.",
+              "vi": "Ông quên đưa thông tin vào một biểu mẫu."
+            },
+            {
+              "key": "C",
+              "en": "He is following an established process.",
+              "vi": "Ông đang làm theo một quy trình đã được thiết lập."
+            },
+            {
+              "key": "D",
+              "en": "He is unsure whether a questionnaire he completed was received.",
+              "vi": "Ông không chắc liệu bảng câu hỏi mình đã điền có được nhận hay không."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t05-p7-q184",
+          "number": 184,
+          "question": {
+            "en": "Who will Mr. Yadav most likely work with?",
+            "vi": "Ông Yadav rất có thể sẽ làm việc với ai?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Ms. Giordano",
+              "vi": "Bà Giordano"
+            },
+            {
+              "key": "B",
+              "en": "Mr. Woodrow",
+              "vi": "Ông Woodrow"
+            },
+            {
+              "key": "C",
+              "en": "Ms. Wong",
+              "vi": "Bà Wong"
+            },
+            {
+              "key": "D",
+              "en": "Mr. Fadel",
+              "vi": "Ông Fadel"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t05-p7-q185",
+          "number": 185,
+          "question": {
+            "en": "What is mentioned in the e-mail about Isvarani Ltd.?",
+            "vi": "Điều gì được đề cập trong e-mail về Isvarani Ltd.?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It wants its suppliers to remain confidential.",
+              "vi": "Công ty muốn các nhà cung cấp của mình được giữ bí mật."
+            },
+            {
+              "key": "B",
+              "en": "It violated an international policy by accident.",
+              "vi": "Công ty đã vô tình vi phạm một chính sách quốc tế."
+            },
+            {
+              "key": "C",
+              "en": "It has plans to expand its operations.",
+              "vi": "Công ty có kế hoạch mở rộng hoạt động kinh doanh."
+            },
+            {
+              "key": "D",
+              "en": "It needs more information about domestic cargo requirements.",
+              "vi": "Công ty cần thêm thông tin về các yêu cầu vận chuyển hàng hóa trong nước."
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t05-p7-g186-190",
+      "documents": [
+        {
+          "kind": "article",
+          "content": {
+            "en": "Customers' Corner\n\nCustomers' Corner is a recurring feature in Atlas Financial Review (AFR) about customer-centric trends in Africa's banking industry. This installment of the series discusses Sonfaya Mutual's business advantage savings account (BASA).\n\nSonfaya Mutual's BASA has an annual percentage yield of 2.2 percent, which is 1.6 percent higher than the yield of the business savings account offered by its nearest competitor. Moreover, it comes with a range of customer privileges, including yearly tax preparation with a certified tax accountant, one-on-one consultations with a dedicated account manager, and financial education programs, both in-person and online. Except for the assistance with tax paperwork, these offerings are provided at no expense to BASA holders.\n\nA minimum deposit of FRW 100,000 is required to open a BASA, while a monthly administration fee of FRW 1,500 is charged. For new BASA holders, the monthly cost is waived for the first six months. For more details, go to www.sonfayamutual.com/basa.\n\nSonfaya Mutual is headquartered in Kigali, Rwanda, with offices in the countries of Tanzania, Uganda, and Zambia. An in-depth article about Sonfaya Mutual's origins, growth, and milestones was published in AFR's January issue. Previous issues are at www.atlasfinancialreview.com/archives. Send questions about archived matters to archivist@atlasfinancialreview.com.",
+            "vi": "Góc Khách hàng\n\nGóc Khách hàng là một chuyên mục thường xuyên trên Tạp chí Tài chính Atlas (AFR) về các xu hướng lấy khách hàng làm trung tâm trong ngành ngân hàng của Châu Phi. Phần này của loạt bài thảo luận về tài khoản tiết kiệm có lợi thế kinh doanh (BASA) của Sonfaya Mutual.\n\nBASA của Sonfaya Mutual có lợi suất phần trăm hàng năm là 2,2%, cao hơn 1,6% so với lợi suất của tài khoản tiết kiệm doanh nghiệp do đối thủ cạnh tranh gần nhất của nó cung cấp. Hơn nữa, nó đi kèm với một loạt các đặc quyền dành cho khách hàng, bao gồm chuẩn bị thuế hàng năm với một kế toán viên thuế được chứng nhận, tư vấn trực tiếp một với một với một giám đốc tài khoản chuyên trách, và các chương trình giáo dục tài chính, cả trực tiếp và trực tuyến. Ngoại trừ việc hỗ trợ với thủ tục giấy tờ về thuế, những dịch vụ này được cung cấp miễn phí cho người nắm giữ BASA.\n\nYêu cầu tiền gửi tối thiểu là FRW 100.000 để mở BASA, trong khi phí quản lý hàng tháng là FRW 1.500 được tính. Đối với người nắm giữ BASA mới, phí hàng tháng được miễn trong sáu tháng đầu tiên. Để biết thêm chi tiết, hãy truy cập www.sonfayamutual.com/basa.\n\nSonfaya Mutual đặt trụ sở chính tại Kigali, Rwanda, với các văn phòng tại các quốc gia Tanzania, Uganda và Zambia. Một bài báo chuyên sâu về nguồn gốc, sự phát triển và các cột mốc của Sonfaya Mutual đã được đăng trên số báo tháng Giêng của AFR. Các số báo trước có tại www.atlasfinancialreview.com/archives. Gửi câu hỏi về các tài liệu lưu trữ tới archivist@atlasfinancialreview.com."
+          }
+        },
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: archivist@atlasfinancialreview.com\nFrom: ochabinga@mesuradobankofliberia.com.lr\nDate: 1 November\nSubject: Missing AFR issue\n\nTo Whom It May Concern:\n\nI read the article on Sonfaya Mutual's BASA in the most recent issue of AFR with interest. Subsequently, I visited your Web site, looking for the previous AFR issue referenced in the article. Unfortunately, I could not locate it on the archival page. Please advise on how I can obtain that back issue.\n\nSincerely,\n\nOdette Chabinga\nVice President, Mesurado Bank of Liberia",
+            "vi": "Đến: archivist@atlasfinancialreview.com\nTừ: ochabinga@mesuradobankofliberia.com.lr\nNgày: 1 tháng 11\nChủ đề: Thiếu số AFR\n\nGửi những người có liên quan:\n\nTôi đã đọc bài báo về BASA của Sonfaya Mutual trên số báo AFR gần đây nhất với sự quan tâm. Sau đó, tôi đã truy cập trang Web của quý vị, tìm kiếm số AFR trước đó được tham chiếu trong bài báo. Thật không may, tôi không thể tìm thấy nó trên trang lưu trữ. Vui lòng cho tôi biết làm thế nào tôi có thể có được số báo cũ đó.\n\nTrân trọng,\n\nOdette Chabinga\nPhó Chủ tịch, Mesurado Bank of Liberia"
+          }
+        },
+        {
+          "kind": "letter",
+          "content": {
+            "en": "23 November\n\nMs. Julienne Nirere\nB.P. 2581\nKIGALI\n\nDear Ms. Nirere,\n\nThank you for being a valued checking account holder with Sonfaya Mutual for fifteen years. We are, furthermore, pleased that you strengthened your relationship with us by opening a business advantage savings account (BASA).\n\nYour checking and savings accounts are now joined, enabling you to transfer money from one account to the other online. Moreover, if you wish to withdraw funds from your BASA, you can use your debit card at any of our ATMs.\n\nFinally, our recently launched online stock-trading platform, available to you at no charge, is excellent for allowing investors to manage their finances at their own pace. Contact our Wealth Management Department for details.\n\nSincerely,\n\nPhilbert Akamanzi\nSenior Accounts Manager",
+            "vi": "Ngày 23 tháng 11\n\nBà Julienne Nirere\nB.P. 2581\nKIGALI\n\nKính gửi bà Nirere,\n\nCảm ơn bà đã là chủ sở hữu tài khoản vãng lai có giá trị của Sonfaya Mutual trong mười lăm năm. Hơn nữa, chúng tôi rất vui vì bà đã củng cố mối quan hệ với chúng tôi bằng cách mở một tài khoản tiết kiệm có lợi thế kinh doanh (BASA).\n\nTài khoản vãng lai và tài khoản tiết kiệm của bà hiện đã được liên kết, cho phép bà chuyển tiền từ tài khoản này sang tài khoản kia trực tuyến. Hơn nữa, nếu bà muốn rút tiền từ BASA của mình, bà có thể sử dụng thẻ ghi nợ của mình tại bất kỳ máy ATM nào của chúng tôi.\n\nCuối cùng, nền tảng giao dịch chứng khoán trực tuyến mới ra mắt gần đây của chúng tôi, có sẵn cho bà miễn phí, rất tuyệt vời để cho phép các nhà đầu tư quản lý tài chính của họ theo tốc độ riêng của họ. Liên hệ với Bộ phận Quản lý Tài sản của chúng tôi để biết chi tiết.\n\nTrân trọng,\n\nPhilbert Akamanzi\nGiám đốc Tài khoản Cao cấp"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t05-p7-q186",
+          "number": 186,
+          "question": {
+            "en": "What is mentioned about Sonfaya Mutual's financial education programs?",
+            "vi": "Điều gì được đề cập về các chương trình giáo dục tài chính của Sonfaya Mutual?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "They are offered for free.",
+              "vi": "Chúng được cung cấp miễn phí."
+            },
+            {
+              "key": "B",
+              "en": "They are held once a month.",
+              "vi": "Chúng được tổ chức mỗi tháng một lần."
+            },
+            {
+              "key": "C",
+              "en": "They are led by account managers.",
+              "vi": "Chúng được dẫn dắt bởi các giám đốc tài khoản."
+            },
+            {
+              "key": "D",
+              "en": "They are held in partnership with AFR.",
+              "vi": "Chúng được tổ chức hợp tác với AFR."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t05-p7-q187",
+          "number": 187,
+          "question": {
+            "en": "What is indicated in the article about Sonfaya Mutual?",
+            "vi": "Điều gì được chỉ ra trong bài báo về Sonfaya Mutual?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It raised the amount for opening a BASA.",
+              "vi": "Họ đã tăng số tiền để mở BASA."
+            },
+            {
+              "key": "B",
+              "en": "It will continue to add customer privileges.",
+              "vi": "Họ sẽ tiếp tục bổ sung các đặc quyền cho khách hàng."
+            },
+            {
+              "key": "C",
+              "en": "It updated its Web site recently.",
+              "vi": "Họ đã cập nhật trang Web của mình gần đây."
+            },
+            {
+              "key": "D",
+              "en": "It is an international company.",
+              "vi": "Họ là một công ty quốc tế."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t05-p7-q188",
+          "number": 188,
+          "question": {
+            "en": "Why is Ms. Chabinga looking for a previous AFR issue?",
+            "vi": "Tại sao bà Chabinga đang tìm kiếm một số AFR trước đó?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To learn about the offerings of Sonfaya Mutual's competitors",
+              "vi": "Để tìm hiểu về các dịch vụ của các đối thủ cạnh tranh của Sonfaya Mutual"
+            },
+            {
+              "key": "B",
+              "en": "To know more about current customer-centric trends",
+              "vi": "Để biết thêm về các xu hướng lấy khách hàng làm trung tâm hiện nay"
+            },
+            {
+              "key": "C",
+              "en": "To learn about the history of Sonfaya Mutual",
+              "vi": "Để tìm hiểu về lịch sử của Sonfaya Mutual"
+            },
+            {
+              "key": "D",
+              "en": "To know more about Sonfaya Mutual's BASA",
+              "vi": "Để biết thêm về BASA của Sonfaya Mutual"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t05-p7-q189",
+          "number": 189,
+          "question": {
+            "en": "What is suggested about Ms. Nirere?",
+            "vi": "Điều gì được gợi ý về bà Nirere?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She will not have to pay the BASA monthly fee for six months.",
+              "vi": "Bà sẽ không phải trả phí BASA hàng tháng trong sáu tháng."
+            },
+            {
+              "key": "B",
+              "en": "She did not receive her debit card in a timely fashion.",
+              "vi": "Bà đã không nhận được thẻ ghi nợ của mình một cách kịp thời."
+            },
+            {
+              "key": "C",
+              "en": "She is a new Sonfaya Mutual customer.",
+              "vi": "Bà là một khách hàng mới của Sonfaya Mutual."
+            },
+            {
+              "key": "D",
+              "en": "She met with Mr. Akamanzi recently.",
+              "vi": "Bà đã gặp ông Akamanzi gần đây."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t05-p7-q190",
+          "number": 190,
+          "question": {
+            "en": "What is a purpose of the letter?",
+            "vi": "Mục đích của bức thư là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To explain the benefits of investing",
+              "vi": "Để giải thích lợi ích của việc đầu tư"
+            },
+            {
+              "key": "B",
+              "en": "To describe the options for managing funds",
+              "vi": "Để mô tả các lựa chọn để quản lý quỹ"
+            },
+            {
+              "key": "C",
+              "en": "To explain how online stock trading works",
+              "vi": "Để giải thích cách thức giao dịch chứng khoán trực tuyến hoạt động"
+            },
+            {
+              "key": "D",
+              "en": "To provide a department's contact information",
+              "vi": "Để cung cấp thông tin liên hệ của một bộ phận"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t05-p7-g191-195",
+      "documents": [
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Valley Road Bed and Breakfast <info@valleyroadbandb.com>\nFrom: Maya Rodriguez <m.rodriguez@intermountaingraphics.com>\nDate: March 30\nSubject: Breakfast schedule\n\nHello,\n\nI have a reservation to stay at your bed and breakfast next week. I wanted to inquire about breakfast times. I need to leave before 7 A.M. on Saturday morning, April 11, for my conference at the Ivor Hotel and Conference Center. Will breakfast be available before then? If not, what restaurants near the conference would you recommend that would be open at that time?\n\nSincerely,\n\nMaya Rodriguez",
+            "vi": "Đến: Valley Road Bed and Breakfast <info@valleyroadbandb.com>\nTừ: Maya Rodriguez <m.rodriguez@intermountaingraphics.com>\nNgày: 30 tháng 3\nChủ đề: Lịch trình ăn sáng\n\nXin chào,\n\nTôi có đặt phòng nghỉ tại nhà nghỉ chỉ phục vụ bữa sáng của các bạn vào tuần tới. Tôi muốn hỏi về giờ ăn sáng. Tôi cần rời đi trước 7 Giờ Sáng vào thứ Bảy, ngày 11 tháng 4, để tham dự hội nghị của tôi tại Khách sạn và Trung tâm Hội nghị Ivor. Bữa sáng có sẵn trước giờ đó không? Nếu không, những nhà hàng nào gần trung tâm hội nghị mà các bạn khuyên dùng sẽ mở cửa vào thời điểm đó?\n\nTrân trọng,\n\nMaya Rodriguez"
+          }
+        },
+        {
+          "kind": "form",
+          "content": {
+            "en": "Intermountain Graphics Travel Expense Reimbursement Form\n\nAll Intermountain Graphics employees who travel on official company business must fill out a Travel Expense Reimbursement Form and upload their receipts within 30 days of travel in TravelNow, our electronic travel reimbursement system. All forms must be approved and signed by the employee's department manager.\n\nEmployee: Maya Rodriguez\nDate: April 28\nPurpose of Trip: To attend the Digital Graphic Designers Conference\n\n| Date | Category | Description | Total |\n| April 10 | Transportation | Flight to/from San Jose International Airport | $230.00 |\n| April 10 | Transportation | Taxi to Valley Road Bed and Breakfast | $31.00 |\n| April 11 | Transportation | Taxi to the Ivor Hotel and Conference Center | $22.50 |\n| April 11 | Meals | Breakfast at Eileen's Diner | $23.85 |\n| April 11 | Other | Conference Registration | $175.00 |\n| April 11 | Meals | Dinner at Antonio's | $48.67 |\n| April 12 | Lodging | Valley Road Bed and Breakfast, two nights | $299.00 |\n| April 12 | Transportation | Taxi to the San Jose International Airport | $31.00 |\n\nTotal amount to be reimbursed: $861.02\n\nApproved by: Eun Park\nSignature: Eun Park",
+            "vi": "Biểu mẫu Yêu cầu Hoàn trả Chi phí Du lịch của Intermountain Graphics\n\nTất cả nhân viên của Intermountain Graphics đi công tác chính thức của công ty phải điền Biểu mẫu Yêu cầu Hoàn trả Chi phí Du lịch và tải lên biên lai của họ trong vòng 30 ngày kể từ ngày đi du lịch trong TravelNow, hệ thống yêu cầu hoàn trả chi phí du lịch điện tử của chúng tôi. Tất cả các biểu mẫu phải được phê duyệt và ký bởi giám đốc bộ phận của nhân viên.\n\nNhân viên: Maya Rodriguez\nNgày: 28 tháng 4\nMục đích của chuyến đi: Để tham dự Hội nghị của các Nhà thiết kế Đồ họa Kỹ thuật số\n\n| Ngày | Hạng mục | Mô tả | Tổng cộng |\n| Ngày 10 tháng 4 | Di chuyển | Vé máy bay khứ hồi đến/sân bay quốc tế San Jose | $230.00 |\n| Ngày 10 tháng 4 | Di chuyển | Taxi đến Valley Road Bed and Breakfast | $31.00 |\n| Ngày 11 tháng 4 | Di chuyển | Taxi đến Khách sạn và Trung tâm Hội nghị Ivor | $22.50 |\n| Ngày 11 tháng 4 | Bữa ăn | Bữa sáng tại Eileen's Diner | $23.85 |\n| Ngày 11 tháng 4 | Khác | Đăng ký Hội nghị | $175.00 |\n| Ngày 11 tháng 4 | Bữa ăn | Bữa tối tại Antonio's | $48.67 |\n| Ngày 12 tháng 4 | Lưu trú | Valley Road Bed and Breakfast, hai đêm | $299.00 |\n| Ngày 12 tháng 4 | Di chuyển | Taxi đến Sân bay Quốc tế San Jose | $31.00 |\n\nTổng số tiền được hoàn trả: $861.02\n\nĐược phê duyệt bởi: Eun Park\nChữ ký: Eun Park"
+          }
+        },
+        {
+          "kind": "receipt",
+          "content": {
+            "en": "Eileen's Diner\nLocated in the Ivor Hotel and Conference Center\n\nFamily-owned and operated for over two decades!\n1000 Mission Rico Blvd.\nSanta Clara, CA 95054\n(408) 555-0126\n\nSaturday, April 11, 6:46 A.M.\n\nBreakfast Sandwich  $14.99\nCoffee              $3.50\nSubtotal            $18.49\nTax                 $1.11\nTotal owed:         $19.60\nTip                 $4.25\nTotal paid:         $23.85\n\nCredit Card: XXXXXXXXXXXX5348\nCustomer Name: Maya Rodriguez\n\n***Customer Copy***",
+            "vi": "Eileen's Diner\nNằm trong Khách sạn và Trung tâm Hội nghị Ivor\n\nDo gia đình sở hữu và điều hành trong hơn hai thập kỷ!\n1000 Mission Rico Blvd.\nSanta Clara, CA 95054\n(408) 555-0126\n\nThứ Bảy, ngày 11 tháng 4, 6:46 Sáng\n\nBánh mì kẹp sáng $14.99\nCà phê $3.50\nTổng phụ $18.49\nThuế $1.11\nTổng tiền phải trả: $19.60\nTiền boa $4.25\nTổng số tiền đã trả: $23.85\n\nThẻ tín dụng: XXXXXXXXXXXX5348\nTên khách hàng: Maya Rodriguez\n\n***Bản sao của Khách hàng***"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t05-p7-q191",
+          "number": 191,
+          "question": {
+            "en": "What can be concluded about Valley Road Bed and Breakfast?",
+            "vi": "Có thể kết luận điều gì về Valley Road Bed and Breakfast?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It does not serve breakfast before 7:00 A.M.",
+              "vi": "Nó không phục vụ bữa sáng trước 7:00 Sáng."
+            },
+            {
+              "key": "B",
+              "en": "It provides a shuttle service to the airport.",
+              "vi": "Nó cung cấp dịch vụ xe đưa đón ra sân bay."
+            },
+            {
+              "key": "C",
+              "en": "It is located next to the Ivor Hotel and Conference Center.",
+              "vi": "Nó nằm cạnh Khách sạn và Trung tâm Hội nghị Ivor."
+            },
+            {
+              "key": "D",
+              "en": "It is no longer accepting reservations for April.",
+              "vi": "Nó không còn nhận đặt phòng cho tháng Tư nữa."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t05-p7-q192",
+          "number": 192,
+          "question": {
+            "en": "According to the form, what are employees expected to do?",
+            "vi": "Theo biểu mẫu, nhân viên được yêu cầu làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Seek permission to travel from the finance department",
+              "vi": "Xin phép đi du lịch từ phòng tài chính"
+            },
+            {
+              "key": "B",
+              "en": "Present their work at a conference",
+              "vi": "Trình bày công việc của họ tại một hội nghị"
+            },
+            {
+              "key": "C",
+              "en": "E-mail expense reports to a manager",
+              "vi": "Gửi e-mail báo cáo chi phí cho quản lý"
+            },
+            {
+              "key": "D",
+              "en": "Submit receipts within 30 days of travel",
+              "vi": "Nộp biên lai trong vòng 30 ngày kể từ ngày đi du lịch"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t05-p7-q193",
+          "number": 193,
+          "question": {
+            "en": "What is most likely true about the Digital Graphic Designers Conference?",
+            "vi": "Điều gì rất có thể đúng về Hội nghị của các Nhà thiết kế Đồ họa Kỹ thuật số?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It lasted three days.",
+              "vi": "Nó kéo dài ba ngày."
+            },
+            {
+              "key": "B",
+              "en": "It began on April 28.",
+              "vi": "Nó bắt đầu vào ngày 28 tháng 4."
+            },
+            {
+              "key": "C",
+              "en": "It was held in Santa Clara.",
+              "vi": "Nó được tổ chức tại Santa Clara."
+            },
+            {
+              "key": "D",
+              "en": "It provided meals to participants.",
+              "vi": "Nó cung cấp bữa ăn cho những người tham gia."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t05-p7-q194",
+          "number": 194,
+          "question": {
+            "en": "Based on the form, what is true about Ms. Park?",
+            "vi": "Dựa vào biểu mẫu, điều gì đúng về bà Park?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She is a financial analyst.",
+              "vi": "Cô ấy là một nhà phân tích tài chính."
+            },
+            {
+              "key": "B",
+              "en": "She organizes conferences.",
+              "vi": "Cô ấy tổ chức các hội nghị."
+            },
+            {
+              "key": "C",
+              "en": "She is a department manager.",
+              "vi": "Cô ấy là một giám đốc bộ phận."
+            },
+            {
+              "key": "D",
+              "en": "She owns a bed-and-breakfast.",
+              "vi": "Cô ấy sở hữu một nhà nghỉ chỉ phục vụ bữa sáng."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t05-p7-q195",
+          "number": 195,
+          "question": {
+            "en": "What is indicated on the receipt about Eileen's Diner?",
+            "vi": "Điều gì được chỉ ra trên biên lai về Eileen's Diner?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is open 24 hours a day.",
+              "vi": "Nó mở cửa 24 giờ một ngày."
+            },
+            {
+              "key": "B",
+              "en": "It offers daily breakfast specials.",
+              "vi": "Nó cung cấp các món đặc biệt cho bữa sáng hàng ngày."
+            },
+            {
+              "key": "C",
+              "en": "It has locations around the country.",
+              "vi": "Nó có các chi nhánh trên khắp đất nước."
+            },
+            {
+              "key": "D",
+              "en": "It has been in business for more than twenty years.",
+              "vi": "Nó đã hoạt động kinh doanh được hơn hai mươi năm."
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t05-p7-g196-200",
+      "documents": [
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Jae-Jun Nahm\nFrom: Stacy Landon\nDate: May 4\nSubject: Quinar 5000\n\nJae-Jun,\n\nThe Quinar 5000 in Building F is not working properly. It does not run at a steady speed and requires constant attention from line workers. It was checked at the monthly inspection and received an acceptable rating. However, it is now slowing production throughout Building F. I believe it may fail completely unless it is looked at very soon.\n\nPlease send a technician to check it as soon as possible, since the production schedule will likely need to be adapted because of downtime during the service visit.\n\nThank you.\n\nStacy Landon\nProduction Manager",
+            "vi": "Đến: Jae-Jun Nahm\nTừ: Stacy Landon\nNgày: 4 tháng 5\nChủ đề: Quinar 5000\n\nJae-Jun thân mến,\n\nChiếc Quinar 5000 tại Tòa nhà F đang hoạt động không tốt. Nó không chạy với tốc độ ổn định và cần sự chú ý liên tục từ công nhân dây chuyền. Nó đã được kiểm tra tại đợt kiểm tra hàng tháng và nhận được xếp hạng chấp nhận được. Tuy nhiên, hiện nó đang làm chậm quá trình sản xuất khắp Tòa nhà F. Tôi tin rằng nó có thể hỏng hoàn toàn trừ khi nó được xem xét rất sớm.\n\nVui lòng cử một kỹ thuật viên đến kiểm tra nó càng sớm càng tốt, vì lịch trình sản xuất có thể sẽ cần được điều chỉnh do thời gian ngừng hoạt động trong chuyến thăm bảo trì.\n\nCảm ơn bạn.\n\nStacy Landon\nGiám đốc Sản xuất"
+          }
+        },
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Stacy Landon\nCc: Alex Nadiner\nFrom: Jae-Jun Nahm\nDate: May 4\nSubject: RE: Quinar 5000\n\nStacy,\n\nUnfortunately, our internal equipment repair schedule is beyond capacity, so I am bringing on some new technicians next week. Meanwhile, I have authorized Konner Services to send one of their technicians to inspect the machine and make any necessary repairs. We have used this company before, and they are excellent. They will send someone tomorrow between 1:00 and 2:00 P.M. They informed me that the equipment may be down for up to two hours because of testing. Since I know there is a large shipment of product due to Altran Motors next week, I took the liberty of copying Alex Nadiner, who may need to assign some line workers to put in overtime to make up for the delay.\n\nJae-Jun Nahm\nDirector of Maintenance",
+            "vi": "Đến: Stacy Landon\nCc: Alex Nadiner\nTừ: Jae-Jun Nahm\nNgày: 4 tháng 5\nChủ đề: RE: Quinar 5000\n\nStacy thân mến,\n\nThật không may, lịch trình sửa chữa thiết bị nội bộ của chúng tôi đã quá tải, vì vậy tôi sẽ đưa một số kỹ thuật viên mới vào tuần tới. Trong khi đó, tôi đã ủy quyền cho Konner Services cử một trong các kỹ thuật viên của họ đến kiểm tra máy và thực hiện bất kỳ sửa chữa cần thiết nào. Chúng tôi đã sử dụng công ty này trước đây, và họ rất xuất sắc. Họ sẽ cử người đến vào ngày mai từ 1:00 đến 2:00 Chiều. Họ thông báo cho tôi rằng thiết bị có thể ngừng hoạt động đến hai giờ vì thử nghiệm. Vì tôi biết có một lô hàng lớn sản phẩm sẽ được giao cho Altran Motors vào tuần tới, tôi đã chủ động sao chép cho Alex Nadiner, người có thể cần phân công một số công nhân dây chuyền làm thêm giờ để bù đắp cho sự chậm trễ.\n\nJae-Jun Nahm\nGiám đốc Bảo trì"
+          }
+        },
+        {
+          "kind": "report",
+          "content": {
+            "en": "Konner Services Inspection and Repair Report\n\nMachine: Quinar 5000\nLocation: Haverford Industries, 837 West Lorrie Street, Building F\nDate of inspection: May 5\nLabor charges: 2.5 hours\n\nResults:\nTest 102: Acceptable\nTest 393: Cleaning needed\nTest 477: Faulty Baum X33 main switch\nTest 488: Worn belts and hoses\nFluid levels: Good\nGauges: Good\n\nComments: The technician cleaned the machinery and replaced the malfunctioning switch. However, the belts and hoses should be replaced soon, which will require shutting down the line for about four hours. The line manager has been advised of this situation so that personnel can be reassigned accordingly during this repair.",
+            "vi": "Báo cáo Kiểm tra và Sửa chữa của Konner Services\n\nMáy: Quinar 5000\nĐịa điểm: Haverford Industries, 837 Đường Tây Lorrie, Tòa nhà F\nNgày kiểm tra: 5 tháng 5\nPhí nhân công: 2,5 giờ\n\nKết quả:\nThử nghiệm 102: Chấp nhận được\nThử nghiệm 393: Cần vệ sinh\nThử nghiệm 477: Công tắc chính Baum X33 bị lỗi\nThử nghiệm 488: Dây đai và ống mòn\nMức chất lỏng: Tốt\nĐồng hồ đo: Tốt\n\nNhận xét: Kỹ thuật viên đã làm sạch máy móc và thay thế công tắc bị trục trặc. Tuy nhiên, dây đai và ống nên được thay thế sớm, việc này sẽ yêu cầu ngừng hoạt động dây chuyền khoảng bốn giờ. Người quản lý dây chuyền đã được thông báo về tình trạng này để có thể điều động nhân sự cho phù hợp trong quá trình sửa chữa này."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t05-p7-q196",
+          "number": 196,
+          "question": {
+            "en": "What is the purpose of the first e-mail?",
+            "vi": "Mục đích của e-mail đầu tiên là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To verify an equipment order",
+              "vi": "Để xác minh một đơn đặt hàng thiết bị"
+            },
+            {
+              "key": "B",
+              "en": "To request machinery repair",
+              "vi": "Để yêu cầu sửa chữa máy móc"
+            },
+            {
+              "key": "C",
+              "en": "To report on a monthly inspection",
+              "vi": "Để báo cáo về một đợt kiểm tra hàng tháng"
+            },
+            {
+              "key": "D",
+              "en": "To encourage increased production",
+              "vi": "Để khuyến khích tăng sản lượng"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t05-p7-q197",
+          "number": 197,
+          "question": {
+            "en": "What has Mr. Nahm decided to do to solve the problem in Building F?",
+            "vi": "Ông Nahm đã quyết định làm gì để giải quyết vấn đề ở Tòa nhà F?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Employ additional workers",
+              "vi": "Tuyển thêm công nhân"
+            },
+            {
+              "key": "B",
+              "en": "Hire an outside company",
+              "vi": "Thuê một công ty bên ngoài"
+            },
+            {
+              "key": "C",
+              "en": "Lease a new building",
+              "vi": "Thuê một tòa nhà mới"
+            },
+            {
+              "key": "D",
+              "en": "Purchase a new machine",
+              "vi": "Mua một máy mới"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t05-p7-q198",
+          "number": 198,
+          "question": {
+            "en": "Who most likely is Mr. Nadiner?",
+            "vi": "Ai rất có thể là ông Nadiner?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "The director of maintenance",
+              "vi": "Giám đốc Bảo trì"
+            },
+            {
+              "key": "B",
+              "en": "The lead technician",
+              "vi": "Kỹ thuật viên trưởng"
+            },
+            {
+              "key": "C",
+              "en": "A line worker",
+              "vi": "Một công nhân dây chuyền"
+            },
+            {
+              "key": "D",
+              "en": "A line manager",
+              "vi": "Một người quản lý dây chuyền"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t05-p7-q199",
+          "number": 199,
+          "question": {
+            "en": "What company does Ms. Landon most likely work for?",
+            "vi": "Bà Landon rất có thể làm việc cho công ty nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Quinar Machines",
+              "vi": "Quinar Machines"
+            },
+            {
+              "key": "B",
+              "en": "Altran Motors",
+              "vi": "Altran Motors"
+            },
+            {
+              "key": "C",
+              "en": "Konner Services",
+              "vi": "Konner Services"
+            },
+            {
+              "key": "D",
+              "en": "Haverford Industries",
+              "vi": "Haverford Industries"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t05-p7-q200",
+          "number": 200,
+          "question": {
+            "en": "Based on the report, what test resulted in the replacement of a machine part?",
+            "vi": "Dựa trên báo cáo, thử nghiệm nào dẫn đến việc thay thế một bộ phận của máy?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "102",
+              "vi": "102"
+            },
+            {
+              "key": "B",
+              "en": "393",
+              "vi": "393"
+            },
+            {
+              "key": "C",
+              "en": "477",
+              "vi": "477"
+            },
+            {
+              "key": "D",
+              "en": "488",
+              "vi": "488"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}

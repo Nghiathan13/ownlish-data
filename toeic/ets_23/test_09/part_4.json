@@ -1,0 +1,1416 @@
+{
+  "groups": [
+    {
+      "id": "ets23-t09-p4-g071-073",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_09/audio/071-073.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "SCRIPT\n\n\nW-Br Hello, this is Kelly from Flower Power Florist. ",
+            "questionIds": []
+          },
+          {
+            "text": "You ordered 30 vases of zinnias for the tables at your restaurant.",
+            "questionIds": [
+              "ets23-t09-p4-q071"
+            ]
+          },
+          {
+            "text": " You mentioned they were for a special event next week at the restaurant. ",
+            "questionIds": []
+          },
+          {
+            "text": "I'm sorry, but there's a shortage of zinnias right now.",
+            "questionIds": [
+              "ets23-t09-p4-q072"
+            ]
+          },
+          {
+            "text": " Unfortunately, the growers didn't produce enough this season. I could put together 30 vases of roses instead. Those are usually more expensive, but I can provide them to you for the same price as the zinnias. ",
+            "questionIds": []
+          },
+          {
+            "text": "Please let me know if roses would be acceptable.",
+            "questionIds": [
+              "ets23-t09-p4-q073"
+            ]
+          },
+          {
+            "text": " I'll be at the shop until five o'clock today.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "SCRIPT\nXin chào, tôi là Kelly đến từ Cửa hàng hoa Flower Power. Ông/Bà đã đặt 30 bình hoa cúc vạn thọ để bàn tại nhà hàng của ông/bà. Ông/Bà có nhắc rằng chúng sẽ dùng cho một sự kiện đặc biệt vào tuần tới tại nhà hàng. Tôi xin lỗi, nhưng hiện tại hoa cúc vạn thọ đang khan hiếm. Thật không may, những người trồng hoa đã không sản xuất đủ trong mùa này. Tôi có thể chuẩn bị 30 bình hoa hồng thay thế. Những loại hoa đó thường đắt hơn, nhưng tôi có thể cung cấp chúng cho ông/bà với giá tương đương với hoa cúc vạn thọ. Xin hãy cho tôi biết nếu hoa hồng có thể chấp nhận được. Tôi sẽ ở cửa hàng cho đến năm giờ chiều hôm nay.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets23-t09-p4-q071",
+          "number": 71,
+          "question": {
+            "en": "Who most likely is the listener?",
+            "vi": "Người nghe có khả năng nhất là ai?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A school secretary",
+              "vi": "Một thư ký trường học"
+            },
+            {
+              "key": "B",
+              "en": "A farmer",
+              "vi": "Một nông dân"
+            },
+            {
+              "key": "C",
+              "en": "A delivery driver",
+              "vi": "Một tài xế giao hàng"
+            },
+            {
+              "key": "D",
+              "en": "A restaurant manager",
+              "vi": "Một quản lý nhà hàng"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets23-t09-p4-q072",
+          "number": 72,
+          "question": {
+            "en": "What problem does the speaker mention?",
+            "vi": "Người nói đề cập đến vấn đề gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "An employee is on vacation.",
+              "vi": "Một nhân viên đang đi nghỉ phép."
+            },
+            {
+              "key": "B",
+              "en": "An item is not available.",
+              "vi": "Một mặt hàng không có sẵn."
+            },
+            {
+              "key": "C",
+              "en": "The cost of an item has changed.",
+              "vi": "Chi phí của một mặt hàng đã thay đổi."
+            },
+            {
+              "key": "D",
+              "en": "An order was processed incorrectly.",
+              "vi": "Một đơn hàng đã được xử lý sai."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets23-t09-p4-q073",
+          "number": 73,
+          "question": {
+            "en": "What does the speaker ask the listener to do?",
+            "vi": "Người nói yêu cầu người nghe làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Confirm a flower choice",
+              "vi": "Xác nhận lựa chọn hoa"
+            },
+            {
+              "key": "B",
+              "en": "Approve a new delivery time",
+              "vi": "Phê duyệt thời gian giao hàng mới"
+            },
+            {
+              "key": "C",
+              "en": "Submit a receipt",
+              "vi": "Nộp biên lai"
+            },
+            {
+              "key": "D",
+              "en": "Call a different store",
+              "vi": "Gọi cho một cửa hàng khác"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets23-t09-p4-g074-076",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_09/audio/074-076.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "SCRIPT\n\n\nW-Am Today's radio program is sponsored by Prospective. ",
+            "questionIds": []
+          },
+          {
+            "text": "Do you have trouble finding the perfect job candidate for your business?",
+            "questionIds": [
+              "ets23-t09-p4-q074"
+            ]
+          },
+          {
+            "text": " Let Prospective handle it. We'll check their qualifications, request references, and run background checks, so you don't have to. ",
+            "questionIds": []
+          },
+          {
+            "text": "And beginning this year, Prospective now offers daily updates on each job listing you post.",
+            "questionIds": [
+              "ets23-t09-p4-q075"
+            ]
+          },
+          {
+            "text": " Have candidate suggestions sent right to your inbox. ",
+            "questionIds": []
+          },
+          {
+            "text": "To try a free fourteen-day trial of Prospective, fill out our online survey about your business at prospective.com.",
+            "questionIds": [
+              "ets23-t09-p4-q076"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "SCRIPT\nChương trình radio hôm nay được tài trợ bởi Prospective. Bạn có gặp khó khăn trong việc tìm kiếm ứng viên lý tưởng cho doanh nghiệp của mình không? Hãy để Prospective xử lý điều đó. Chúng tôi sẽ kiểm tra trình độ của họ, yêu cầu người tham khảo và chạy kiểm tra lý lịch, vì vậy bạn không phải làm gì cả. Và bắt đầu từ năm nay, Prospective hiện cung cấp thông tin cập nhật hàng ngày về mỗi tin tuyển dụng bạn đăng. Hãy để các gợi ý ứng viên được gửi thẳng vào hộp thư đến của bạn. Để dùng thử miễn phí mười bốn ngày của Prospective, hãy điền vào khảo sát trực tuyến của chúng tôi về doanh nghiệp của bạn tại prospective.com.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets23-t09-p4-q074",
+          "number": 74,
+          "question": {
+            "en": "What service does Prospective provide?",
+            "vi": "Prospective cung cấp dịch vụ gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Employee recruiting",
+              "vi": "Tuyển dụng nhân viên"
+            },
+            {
+              "key": "B",
+              "en": "Technology support",
+              "vi": "Hỗ trợ công nghệ"
+            },
+            {
+              "key": "C",
+              "en": "Digital marketing",
+              "vi": "Tiếp thị kỹ thuật số"
+            },
+            {
+              "key": "D",
+              "en": "Customized printing",
+              "vi": "In ấn theo yêu cầu"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets23-t09-p4-q075",
+          "number": 75,
+          "question": {
+            "en": "What recent improvement did Prospective make?",
+            "vi": "Prospective đã thực hiện cải tiến nào gần đây?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It matches competitor prices.",
+              "vi": "Khớp với giá của đối thủ cạnh tranh."
+            },
+            {
+              "key": "B",
+              "en": "It sends updates regularly.",
+              "vi": "Gửi cập nhật thường xuyên."
+            },
+            {
+              "key": "C",
+              "en": "It offers personalized consultations.",
+              "vi": "Cung cấp các buổi tư vấn cá nhân hóa."
+            },
+            {
+              "key": "D",
+              "en": "It provides international service.",
+              "vi": "Cung cấp dịch vụ quốc tế."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets23-t09-p4-q076",
+          "number": 76,
+          "question": {
+            "en": "How can the listeners try Prospective for free?",
+            "vi": "Làm thế nào người nghe có thể dùng thử Prospective miễn phí?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "By entering a contest",
+              "vi": "Bằng cách tham gia một cuộc thi"
+            },
+            {
+              "key": "B",
+              "en": "By calling a radio station",
+              "vi": "Bằng cách gọi cho một đài phát thanh"
+            },
+            {
+              "key": "C",
+              "en": "By visiting a business",
+              "vi": "Bằng cách ghé thăm một doanh nghiệp"
+            },
+            {
+              "key": "D",
+              "en": "By completing a survey",
+              "vi": "Bằng cách hoàn thành một cuộc khảo sát"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets23-t09-p4-g077-079",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_09/audio/077-079.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "SCRIPT\n\n\nW-Br Hi, Rawad. ",
+            "questionIds": []
+          },
+          {
+            "text": "It's Kriti Hazarika from Somerville Realty. I'm following up about the Maple Road space you expressed interest in renting as a location for your antique store.",
+            "questionIds": [
+              "ets23-t09-p4-q077"
+            ]
+          },
+          {
+            "text": " It's a great spot, but ",
+            "questionIds": []
+          },
+          {
+            "text": "I just learned from the owner that the old electrical wiring needs to be replaced.",
+            "questionIds": [
+              "ets23-t09-p4-q078"
+            ]
+          },
+          {
+            "text": " I know you're eager to get your store up and running. ",
+            "questionIds": []
+          },
+          {
+            "text": "The owner will need to apply for a permit for the work, though, and the process normally takes a long time.",
+            "questionIds": [
+              "ets23-t09-p4-q079"
+            ]
+          },
+          {
+            "text": " Let me know what you want to do.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "KỊCH BẢN\nChào Rawad. Tôi là Kriti Hazarika đến từ Somerville Realty. Tôi đang theo dõi về không gian trên phố Maple mà bạn đã bày tỏ sự quan tâm muốn thuê làm địa điểm cho cửa hàng đồ cổ của mình. Đó là một địa điểm tuyệt vời, nhưng tôi vừa biết từ chủ sở hữu rằng hệ thống dây điện cũ cần được thay thế. Tôi biết bạn rất háo hức muốn đưa cửa hàng của mình đi vào hoạt động. Tuy nhiên, chủ sở hữu sẽ cần phải nộp đơn xin giấy phép cho công việc này, và quá trình này thường mất một thời gian dài. Hãy cho tôi biết bạn muốn làm gì.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets23-t09-p4-q077",
+          "number": 77,
+          "question": {
+            "en": "Who most likely is the speaker?",
+            "vi": "Người nói có khả năng nhất là ai?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A property inspector",
+              "vi": "Một thanh tra bất động sản"
+            },
+            {
+              "key": "B",
+              "en": "A real estate agent",
+              "vi": "Một đại lý bất động sản"
+            },
+            {
+              "key": "C",
+              "en": "An electrician",
+              "vi": "Một thợ điện"
+            },
+            {
+              "key": "D",
+              "en": "An architect",
+              "vi": "Một kiến trúc sư"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets23-t09-p4-q078",
+          "number": 78,
+          "question": {
+            "en": "What is the problem with a property?",
+            "vi": "Vấn đề với bất động sản là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A roof is leaking.",
+              "vi": "Mái nhà bị dột."
+            },
+            {
+              "key": "B",
+              "en": "A wall needs to be reinforced.",
+              "vi": "Một bức tường cần được gia cố."
+            },
+            {
+              "key": "C",
+              "en": "Some wiring needs to be updated.",
+              "vi": "Một số đường dây điện cần được cập nhật."
+            },
+            {
+              "key": "D",
+              "en": "Some windows need to be replaced.",
+              "vi": "Một số cửa sổ cần được thay thế."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets23-t09-p4-q079",
+          "number": 79,
+          "question": {
+            "en": "What does the speaker imply when she says, ''the process normally takes a long time''?",
+            "vi": "Người nói ngụ ý gì khi nói: \"quy trình này thông thường mất nhiều thời gian\"?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "This case may be an exception.",
+              "vi": "Trường hợp này có thể là một ngoại lệ."
+            },
+            {
+              "key": "B",
+              "en": "Hiring more workers is advisable.",
+              "vi": "Nên thuê thêm công nhân."
+            },
+            {
+              "key": "C",
+              "en": "A store opening may be delayed.",
+              "vi": "Việc khai trương cửa hàng có thể bị trì hoãn."
+            },
+            {
+              "key": "D",
+              "en": "The listener should submit a form soon.",
+              "vi": "Người nghe nên nộp đơn sớm."
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets23-t09-p4-g080-082",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_09/audio/080-082.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "SCRIPT\n\n\nM-Au Welcome, everyone. I'm Brian Cho, your instructor. ",
+            "questionIds": []
+          },
+          {
+            "text": "Over the next five weeks. I'll teach you everything you need to know about commercial truck driving.",
+            "questionIds": [
+              "ets23-t09-p4-q080"
+            ]
+          },
+          {
+            "text": " ",
+            "questionIds": []
+          },
+          {
+            "text": "We'll go over how to keep electronic logbooks, since companies have recently started requiring drivers to record their shift hours electronically—something that wasn't done in the past.",
+            "questionIds": [
+              "ets23-t09-p4-q081"
+            ]
+          },
+          {
+            "text": " By the end of this course, you'll be ready to earn your commercial driver's license and start your new career. ",
+            "questionIds": []
+          },
+          {
+            "text": "Fortunately, this is a great time to enter the profession, because the compensation is very attractive.",
+            "questionIds": [
+              "ets23-t09-p4-q082"
+            ]
+          },
+          {
+            "text": " Many companies are even offering signing bonuses often thousand dollars or more to new drivers.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "SCRIPT Nam-Úc Chào mừng tất cả mọi người. Tôi là Brian Cho, người hướng dẫn của các bạn. Trong năm tuần tới. Tôi sẽ dạy các bạn mọi thứ cần biết về lái xe tải thương mại. Chúng ta sẽ xem xét cách ghi nhật ký điện tử, vì các công ty gần đây đã bắt đầu yêu cầu các tài xế ghi lại thời gian làm việc của họ bằng điện tử – điều này chưa từng được thực hiện trước đây. Vào cuối khóa học này, các bạn sẽ sẵn sàng để lấy bằng lái xe thương mại và bắt đầu sự nghiệp mới của mình. May mắn thay, đây là thời điểm tuyệt vời để gia nhập ngành, bởi vì mức lương rất hấp dẫn. Nhiều công ty thậm chí còn đưa ra khoản tiền thưởng ký hợp đồng thường là một nghìn đô la trở lên cho các tài xế mới.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets23-t09-p4-q080",
+          "number": 80,
+          "question": {
+            "en": "What type of work are the listeners training for?",
+            "vi": "Người nghe đang được đào tạo cho loại công việc nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Construction",
+              "vi": "Xây dựng"
+            },
+            {
+              "key": "B",
+              "en": "Real estate",
+              "vi": "Bất động sản"
+            },
+            {
+              "key": "C",
+              "en": "Manufacturing",
+              "vi": "Sản xuất"
+            },
+            {
+              "key": "D",
+              "en": "Truck driving",
+              "vi": "Lái xe tải"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets23-t09-p4-q081",
+          "number": 81,
+          "question": {
+            "en": "What recent change does the speaker mention?",
+            "vi": "Sự thay đổi gần đây nào mà người nói đề cập đến?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Inspections are taking place more frequently.",
+              "vi": "Các cuộc kiểm tra diễn ra thường xuyên hơn."
+            },
+            {
+              "key": "B",
+              "en": "Information must be entered electronically.",
+              "vi": "Thông tin phải được nhập bằng phương tiện điện tử."
+            },
+            {
+              "key": "C",
+              "en": "A training course has been shortened.",
+              "vi": "Một khóa đào tạo đã được rút ngắn."
+            },
+            {
+              "key": "D",
+              "en": "Membership fees have decreased.",
+              "vi": "Phí thành viên đã giảm."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets23-t09-p4-q082",
+          "number": 82,
+          "question": {
+            "en": "According to the speaker, why is it a good time to enter a profession?",
+            "vi": "Theo người nói, tại sao đây là thời điểm tốt để gia nhập nghề này?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Pay is high.",
+              "vi": "Lương cao."
+            },
+            {
+              "key": "B",
+              "en": "Schedules are flexible.",
+              "vi": "Lịch trình linh hoạt."
+            },
+            {
+              "key": "C",
+              "en": "Certification requirements are not strict.",
+              "vi": "Các yêu cầu chứng chỉ không khắt khe."
+            },
+            {
+              "key": "D",
+              "en": "Technological innovations are expected.",
+              "vi": "Các đổi mới công nghệ được mong đợi."
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets23-t09-p4-g083-085",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_09/audio/083-085.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "SCRIPT\n\n\nM-Cn ",
+            "questionIds": []
+          },
+          {
+            "text": "Today, reporters at Channel 7 News witnessed a historic opening ceremony here on the shores of Chesapeake Bay.",
+            "questionIds": [
+              "ets23-t09-p4-q083"
+            ]
+          },
+          {
+            "text": " For the past several years, construction has been ongoing on a new bridge spanning the bay. ",
+            "questionIds": []
+          },
+          {
+            "text": "Earlier this year. Transportation officials shared the good news that the progressing faster than expected.",
+            "questionIds": [
+              "ets23-t09-p4-q084"
+            ]
+          },
+          {
+            "text": " And as of today, traffic is moving across the new bridge at a steady pace, two months sooner than planned! ",
+            "questionIds": []
+          },
+          {
+            "text": "I interviewed some local delivery drivers, and as you can imagine, they are happy to see the construction barricades come down early!",
+            "questionIds": [
+              "ets23-t09-p4-q085"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "KỊCH BẢN\nHôm nay, các phóng viên tại Kênh 7 News đã chứng kiến một buổi lễ khai mạc lịch sử tại bờ vịnh Chesapeake này. Trong vài năm qua, việc xây dựng một cây cầu mới bắc qua vịnh đã được tiến hành. Đầu năm nay. Các quan chức giao thông vận tải đã chia sẻ tin tốt rằng việc này đang tiến triển nhanh hơn dự kiến. Và tính đến hôm nay, giao thông đang di chuyển qua cây cầu mới với tốc độ ổn định, sớm hơn hai tháng so với kế hoạch! Tôi đã phỏng vấn một số tài xế giao hàng địa phương, và như bạn có thể tưởng tượng, họ rất vui khi thấy các rào chắn xây dựng được dỡ bỏ sớm!",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets23-t09-p4-q083",
+          "number": 83,
+          "question": {
+            "en": "What event is the speaker reporting on?",
+            "vi": "Người nói đang đưa tin về sự kiện nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A holiday parade",
+              "vi": "Một cuộc diễu hành ngày lễ"
+            },
+            {
+              "key": "B",
+              "en": "A speech by the city mayor",
+              "vi": "Một bài phát biểu của thị trưởng thành phố"
+            },
+            {
+              "key": "C",
+              "en": "An opening ceremony",
+              "vi": "Một lễ khai trương"
+            },
+            {
+              "key": "D",
+              "en": "A building demolition",
+              "vi": "Một cuộc phá dỡ tòa nhà"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets23-t09-p4-q084",
+          "number": 84,
+          "question": {
+            "en": "What news did officials share earlier in the year?",
+            "vi": "Các quan chức đã chia sẻ tin tức gì vào đầu năm nay?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Traffic was lighter than projected.",
+              "vi": "Giao thông nhẹ hơn so với dự kiến."
+            },
+            {
+              "key": "B",
+              "en": "Work was being done faster than expected.",
+              "vi": "Công việc đang được thực hiện nhanh hơn dự kiến."
+            },
+            {
+              "key": "C",
+              "en": "Additional workers would be hired.",
+              "vi": "Các công nhân bổ sung sẽ được thuê."
+            },
+            {
+              "key": "D",
+              "en": "A project budget was being revised.",
+              "vi": "Ngân sách dự án đang được xem xét lại."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets23-t09-p4-q085",
+          "number": 85,
+          "question": {
+            "en": "Who did the speaker interview?",
+            "vi": "Người nói đã phỏng vấn ai?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Some construction engineers",
+              "vi": "Một số kỹ sư xây dựng"
+            },
+            {
+              "key": "B",
+              "en": "A local store owner",
+              "vi": "Một chủ cửa hàng địa phương"
+            },
+            {
+              "key": "C",
+              "en": "A government official",
+              "vi": "Một quan chức chính phủ"
+            },
+            {
+              "key": "D",
+              "en": "Some delivery drivers",
+              "vi": "Một số tài xế giao hàng"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets23-t09-p4-g086-088",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_09/audio/086-088.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "SCRIPT\n\n\nM-Au Hi, Ife.This is Hiroki Tamura. ",
+            "questionIds": []
+          },
+          {
+            "text": "As you may know, I'm managing the company's project to develop a mobile application for Restorff Bank.",
+            "questionIds": [
+              "ets23-t09-p4-q086"
+            ]
+          },
+          {
+            "text": " The project is already under way and has gone well so far. ",
+            "questionIds": []
+          },
+          {
+            "text": "However, yesterday I was informed by upper leadership that the client requested we have the product ready for launch a month earlier than anticipated.",
+            "questionIds": [
+              "ets23-t09-p4-q087"
+            ]
+          },
+          {
+            "text": " Leadership wants us to make every effort to meet this request. ",
+            "questionIds": []
+          },
+          {
+            "text": "We can't hope to accomplish it with my current small team of software developers, though, and I know you usually do excellent work.",
+            "questionIds": [
+              "ets23-t09-p4-q088"
+            ]
+          },
+          {
+            "text": " Please get back to me when you have a chance.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "SCRIPT\nChào Ife. Đây là Hiroki Tamura. Như bạn có thể biết, tôi đang quản lý dự án phát triển ứng dụng di động cho Ngân hàng Restorff của công ty. Dự án đã được tiến hành và cho đến nay vẫn đang thuận lợi. Tuy nhiên, hôm qua tôi được lãnh đạo cấp cao thông báo rằng khách hàng yêu cầu chúng ta phải có sản phẩm sẵn sàng ra mắt sớm hơn một tháng so với dự kiến. Lãnh đạo muốn chúng ta nỗ lực hết mình để đáp ứng yêu cầu này. Mặc dù vậy, chúng ta không thể hy vọng hoàn thành việc đó với đội ngũ phát triển phần mềm nhỏ của tôi hiện tại, và tôi biết bạn thường làm việc rất xuất sắc. Vui lòng liên hệ lại với tôi khi bạn có thời gian.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets23-t09-p4-q086",
+          "number": 86,
+          "question": {
+            "en": "What industry does the speaker most likely work in?",
+            "vi": "Người nói có khả năng nhất làm việc trong ngành nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Finance",
+              "vi": "Tài chính"
+            },
+            {
+              "key": "B",
+              "en": "Advertising",
+              "vi": "Quảng cáo"
+            },
+            {
+              "key": "C",
+              "en": "Architecture",
+              "vi": "Kiến trúc"
+            },
+            {
+              "key": "D",
+              "en": "Technology",
+              "vi": "Công nghệ"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets23-t09-p4-q087",
+          "number": 87,
+          "question": {
+            "en": "What did the speaker learn yesterday?",
+            "vi": "Người nói đã học được gì vào ngày hôm qua?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He will be promoted to a management position.",
+              "vi": "Anh ấy sẽ được thăng chức lên vị trí quản lý."
+            },
+            {
+              "key": "B",
+              "en": "The funding for a project has increased.",
+              "vi": "Kinh phí cho một dự án đã tăng lên."
+            },
+            {
+              "key": "C",
+              "en": "A client asked for work to be completed early.",
+              "vi": "Một khách hàng yêu cầu hoàn thành công việc sớm."
+            },
+            {
+              "key": "D",
+              "en": "A client complained about a company's service.",
+              "vi": "Một khách hàng đã phàn nàn về dịch vụ của công ty."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets23-t09-p4-q088",
+          "number": 88,
+          "question": {
+            "en": "What does the speaker imply when he says, ''you usually do excellent work”?",
+            "vi": "Người nói ngụ ý gì khi nói: \"bạn thường làm việc rất xuất sắc\"?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He wants the listener to work on his team.",
+              "vi": "Anh ấy muốn người nghe làm việc trong nhóm của mình."
+            },
+            {
+              "key": "B",
+              "en": "He is surprised that the listener made an error.",
+              "vi": "Anh ấy ngạc nhiên khi người nghe mắc lỗi."
+            },
+            {
+              "key": "C",
+              "en": "The listener is likely to receive a raise.",
+              "vi": "Người nghe có khả năng được tăng lương."
+            },
+            {
+              "key": "D",
+              "en": "The listener should replace him as project manager.",
+              "vi": "Người nghe nên thay thế anh ấy làm quản lý dự án."
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets23-t09-p4-g089-091",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_09/audio/089-091.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "SCRIPT\n\n\nM-Cn ",
+            "questionIds": []
+          },
+          {
+            "text": "Hi, everyone. l have exciting news. Our company has officially decided to expand into France.",
+            "questionIds": [
+              "ets23-t09-p4-q089"
+            ]
+          },
+          {
+            "text": " ",
+            "questionIds": []
+          },
+          {
+            "text": "What that means for us here in the Data Analytics Department is that we have a lot of work to do to understand French consumers.",
+            "questionIds": [
+              "ets23-t09-p4-q090"
+            ]
+          },
+          {
+            "text": " In order to sell our cook-at-home meal kits, we need to analyze the data we've collected about how people in France shop now and what they buy. ",
+            "questionIds": []
+          },
+          {
+            "text": "l'll start uploading the files to our shared drive, and then we can begin!",
+            "questionIds": [
+              "ets23-t09-p4-q091"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Kịch bản\nChào mọi người. Tôi có một tin rất thú vị. Công ty chúng ta đã chính thức quyết định mở rộng sang Pháp. Điều đó có nghĩa là đối với chúng ta ở Bộ phận Phân tích Dữ liệu, chúng ta có rất nhiều việc phải làm để hiểu người tiêu dùng Pháp. Để bán được các bộ dụng cụ nấu ăn tại nhà của mình, chúng ta cần phân tích dữ liệu đã thu thập được về cách người dân Pháp mua sắm hiện tại và những gì họ mua. Tôi sẽ bắt đầu tải các tệp lên ổ đĩa chung của chúng ta, và sau đó chúng ta có thể bắt đầu!",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets23-t09-p4-q089",
+          "number": 89,
+          "question": {
+            "en": "What news does the speaker report?",
+            "vi": "Người nói báo cáo tin tức gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "The company is planning to expand.",
+              "vi": "Công ty đang có kế hoạch mở rộng."
+            },
+            {
+              "key": "B",
+              "en": "The company exceeded its sales target.",
+              "vi": "Công ty đã vượt mục tiêu doanh số."
+            },
+            {
+              "key": "C",
+              "en": "New computers will be distributed.",
+              "vi": "Máy tính mới sẽ được phân phát."
+            },
+            {
+              "key": "D",
+              "en": "A business trip has been organized.",
+              "vi": "Một chuyến công tác đã được tổ chức."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets23-t09-p4-q090",
+          "number": 90,
+          "question": {
+            "en": "What department do the listeners work in?",
+            "vi": "Người nghe làm việc ở bộ phận nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Quality Control",
+              "vi": "Quản lý chất lượng (QC)"
+            },
+            {
+              "key": "B",
+              "en": "Human Resources",
+              "vi": "Nhân sự (HR)"
+            },
+            {
+              "key": "C",
+              "en": "Data Analytics",
+              "vi": "Phân tích dữ liệu"
+            },
+            {
+              "key": "D",
+              "en": "Customer Service",
+              "vi": "Dịch vụ khách hàng"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets23-t09-p4-q091",
+          "number": 91,
+          "question": {
+            "en": "What does the speaker say he will do?",
+            "vi": "Người nói nói anh ấy sẽ làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Order some supplies",
+              "vi": "Đặt một số vật tư"
+            },
+            {
+              "key": "B",
+              "en": "E-mail an agenda",
+              "vi": "Gửi email chương trình nghị sự"
+            },
+            {
+              "key": "C",
+              "en": "Fix some software",
+              "vi": "Sửa một số phần mềm"
+            },
+            {
+              "key": "D",
+              "en": "Upload some files",
+              "vi": "Tải lên một số tệp"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets23-t09-p4-g092-094",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_09/audio/092-094.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "SCRIPT\n\n\nW-Am Thanks for tuning in to KELW, Springfield's news radio station. In sports, the hometown Blues are under new ownership. ",
+            "questionIds": []
+          },
+          {
+            "text": "Abalora Investment Group finalized the purchase of the baseball team this past week.",
+            "questionIds": [
+              "ets23-t09-p4-q092"
+            ]
+          },
+          {
+            "text": " ",
+            "questionIds": []
+          },
+          {
+            "text": "A Springfield native himself, the investment group's founder, Patrick Abalora, is passionate about building community in the Springfield area.",
+            "questionIds": [
+              "ets23-t09-p4-q093"
+            ]
+          },
+          {
+            "text": " When contacted for a comment, Abalora said he aims to bring the franchise its first-ever championship. ",
+            "questionIds": []
+          },
+          {
+            "text": "While that's welcome news to Blues fans who have remained loyal through many disappointing seasons, it's worth noting that we've been told that before.",
+            "questionIds": [
+              "ets23-t09-p4-q094"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "KỊCH BẢN\nCảm ơn quý vị đã đón nghe KELW, đài phát thanh tin tức của Springfield. Trong chuyên mục thể thao, đội nhà Blues đã có chủ sở hữu mới. Tập đoàn đầu tư Abalora đã hoàn tất việc mua lại đội bóng chày vào tuần trước. Là một người con của Springfield, người sáng lập tập đoàn đầu tư, Patrick Abalora, rất đam mê xây dựng cộng đồng tại khu vực Springfield. Khi được liên hệ để bình luận, Abalora cho biết ông đặt mục tiêu mang về chức vô địch đầu tiên cho đội bóng. Mặc dù đây là tin tức đáng mừng đối với người hâm mộ đội Blues, những người đã luôn trung thành qua nhiều mùa giải thất vọng, nhưng cũng cần lưu ý rằng chúng ta đã từng được nghe điều đó trước đây rồi.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets23-t09-p4-q092",
+          "number": 92,
+          "question": {
+            "en": "What is being reported on?",
+            "vi": "Điều gì đang được báo cáo?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "The purchase of a baseball team",
+              "vi": "Việc mua lại một đội bóng chày"
+            },
+            {
+              "key": "B",
+              "en": "The signing of a baseball player",
+              "vi": "Việc ký hợp đồng với một cầu thủ bóng chày"
+            },
+            {
+              "key": "C",
+              "en": "The construction of a baseball stadium",
+              "vi": "Việc xây dựng một sân vận động bóng chày"
+            },
+            {
+              "key": "D",
+              "en": "The retirement of a baseball coach",
+              "vi": "Việc nghỉ hưu của một huấn luyện viên bóng chày"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets23-t09-p4-q093",
+          "number": 93,
+          "question": {
+            "en": "What does the speaker say Mr. Abalora is passionate about?",
+            "vi": "Người nói nói ông Abalora đam mê điều gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Job creation",
+              "vi": "Tạo việc làm"
+            },
+            {
+              "key": "B",
+              "en": "Community building",
+              "vi": "Xây dựng cộng đồng"
+            },
+            {
+              "key": "C",
+              "en": "Local news reporting",
+              "vi": "Đưa tin tức địa phương"
+            },
+            {
+              "key": "D",
+              "en": "Innovative thinking",
+              "vi": "Tư duy đổi mới"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets23-t09-p4-q094",
+          "number": 94,
+          "question": {
+            "en": "Why does the speaker say, “we've been told that before”?",
+            "vi": "Tại sao người nói lại nói: \"chúng ta đã được nghe điều đó trước đây rồi\"?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To express doubt",
+              "vi": "Để bày tỏ sự nghi ngờ"
+            },
+            {
+              "key": "B",
+              "en": "To support a decision",
+              "vi": "Để hỗ trợ một quyết định"
+            },
+            {
+              "key": "C",
+              "en": "To correct a colleague",
+              "vi": "Để sửa lỗi cho một đồng nghiệp"
+            },
+            {
+              "key": "D",
+              "en": "To reinforce an instruction",
+              "vi": "Để củng cố một hướng dẫn"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets23-t09-p4-g095-097",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_09/audio/095-097.mp3",
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_09/image/095-097.png",
+      "transcript": {
+        "en": [
+          {
+            "text": "SCRIPT\n\n\nW-Br ",
+            "questionIds": []
+          },
+          {
+            "text": "Good morning, everyone. My name is Yuri Hirata, and it's my pleasure to welcome you to the Kolee manufacturing plant. l always enjoy giving tours to our own sales staff.",
+            "questionIds": [
+              "ets23-t09-p4-q095"
+            ]
+          },
+          {
+            "text": " ",
+            "questionIds": []
+          },
+          {
+            "text": "l hope you'll let our customers know what you learn here today about the high quality of the products manufactured by Kolee.",
+            "questionIds": [
+              "ets23-t09-p4-q096"
+            ]
+          },
+          {
+            "text": " ",
+            "questionIds": []
+          },
+          {
+            "text": "Right now we're looking at the area on the factory floor where our newest product is being assembled.",
+            "questionIds": [
+              "ets23-t09-p4-q097"
+            ]
+          },
+          {
+            "text": " You can see on your handouts that these represent only fifteen percent of our sales, but we hope that they will become our largest seller—even larger than our weight lifting benches.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "SCRIPT\nChào buổi sáng, mọi người. Tên tôi là Yuri Hirata, và tôi rất vinh dự được chào đón quý vị đến với nhà máy sản xuất Kolee. Tôi luôn thích hướng dẫn tham quan cho đội ngũ bán hàng của chúng ta. Tôi hy vọng các bạn sẽ cho khách hàng của chúng ta biết những gì các bạn học được hôm nay về chất lượng cao của các sản phẩm do Kolee sản xuất. Hiện tại chúng ta đang xem khu vực trong nhà máy, nơi sản phẩm mới nhất của chúng ta đang được lắp ráp. Các bạn có thể thấy trong tài liệu phát tay rằng những sản phẩm này chỉ chiếm mười lăm phần trăm doanh số của chúng ta, nhưng chúng ta hy vọng chúng sẽ trở thành sản phẩm bán chạy nhất - thậm chí còn bán chạy hơn cả ghế tập tạ của chúng ta.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets23-t09-p4-q095",
+          "number": 95,
+          "question": {
+            "en": "Who are the listeners?",
+            "vi": "Người nghe là ai?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Investors",
+              "vi": "Các nhà đầu tư"
+            },
+            {
+              "key": "B",
+              "en": "Sales staff",
+              "vi": "Nhân viên bán hàng"
+            },
+            {
+              "key": "C",
+              "en": "Fitness trainers",
+              "vi": "Huấn luyện viên thể hình"
+            },
+            {
+              "key": "D",
+              "en": "Manufacturing executives",
+              "vi": "Giám đốc điều hành sản xuất"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets23-t09-p4-q096",
+          "number": 96,
+          "question": {
+            "en": "What does the speaker hope will happen?",
+            "vi": "Người nói hy vọng điều gì sẽ xảy ra?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "The assembly process will be completed more efficiently.",
+              "vi": "Quy trình lắp ráp sẽ được hoàn thành hiệu quả hơn."
+            },
+            {
+              "key": "B",
+              "en": "Customers will be told about Kolee’s high-quality products.",
+              "vi": "Khách hàng sẽ được biết về các sản phẩm chất lượng cao của Kolee."
+            },
+            {
+              "key": "C",
+              "en": "Customers will use exercise bicycles rather than treadmills.",
+              "vi": "Khách hàng sẽ sử dụng xe đạp tập thể dục thay vì máy chạy bộ."
+            },
+            {
+              "key": "D",
+              "en": "Kolee’s manufacturing will be done at a different plant.",
+              "vi": "Việc sản xuất của Kolee sẽ được thực hiện tại một nhà máy khác."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets23-t09-p4-q097",
+          "number": 97,
+          "question": {
+            "en": "Look at the graphic. What type of exercise equipment does the speaker say is new for the company?",
+            "vi": "Nhìn vào hình ảnh. Loại thiết bị tập thể dục nào người nói nói là mới đối với công ty?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Rowing machines",
+              "vi": "Máy chèo thuyền (Rowing machines)"
+            },
+            {
+              "key": "B",
+              "en": "Exercise bicycles",
+              "vi": "Xe đạp tập thể dục (Exercise bicycles)"
+            },
+            {
+              "key": "C",
+              "en": "Treadmills",
+              "vi": "Máy chạy bộ (Treadmills)"
+            },
+            {
+              "key": "D",
+              "en": "Weight lifting benches",
+              "vi": "Ghế tập tạ (Weight lifting benches)"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets23-t09-p4-g098-100",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_09/audio/098-100.mp3",
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_09/image/098-100.png",
+      "transcript": {
+        "en": [
+          {
+            "text": "SCRIPT\n\n\nW-Am Thanks for calling the education office at the Metropolitan Museum of Science. ",
+            "questionIds": []
+          },
+          {
+            "text": "We're pleased to announce several new learning modules specifically for teenagers interested in computer coding.",
+            "questionIds": [
+              "ets23-t09-p4-q098"
+            ]
+          },
+          {
+            "text": " You can find these new learning modules on our Web site, under the Activities tab. ",
+            "questionIds": []
+          },
+          {
+            "text": "Please note that the registration deadline for this summer's science camps has been extended to March fifteenth.",
+            "questionIds": [
+              "ets23-t09-p4-q099"
+            ]
+          },
+          {
+            "text": " Sign up now to reserve a space. You can find more information online. ",
+            "questionIds": []
+          },
+          {
+            "text": "And finally, if you're a teacher arranging a class trip to the museum, please press seven after the tone and you'll be connected to our school liaison.",
+            "questionIds": [
+              "ets23-t09-p4-q100"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "SCRIPT Nữ-Mỹ Cảm ơn bạn đã gọi đến văn phòng giáo dục tại Bảo tàng Khoa học Metropolitan. Chúng tôi vui mừng thông báo một số mô-đun học tập mới dành riêng cho thanh thiếu niên quan tâm đến lập trình máy tính. Bạn có thể tìm thấy các mô-đun học tập mới này trên trang web của chúng tôi, dưới thẻ Hoạt động. Xin lưu ý rằng thời hạn đăng ký trại khoa học mùa hè năm nay đã được kéo dài đến ngày 15 tháng 3. Đăng ký ngay bây giờ để đặt chỗ. Bạn có thể tìm thêm thông tin trực tuyến. Và cuối cùng, nếu bạn là giáo viên sắp xếp chuyến đi cho lớp đến bảo tàng, vui lòng nhấn số bảy sau tiếng bíp và bạn sẽ được kết nối với cán bộ liên lạc của trường chúng tôi.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets23-t09-p4-q098",
+          "number": 98,
+          "question": {
+            "en": "What is the speaker pleased to announce?",
+            "vi": "Người nói vui mừng thông báo điều gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A special exhibit",
+              "vi": "Một buổi triển lãm đặc biệt"
+            },
+            {
+              "key": "B",
+              "en": "A new education director",
+              "vi": "Một giám đốc giáo dục mới"
+            },
+            {
+              "key": "C",
+              "en": "Learning activities for teens",
+              "vi": "Các hoạt động học tập cho thanh thiếu niên"
+            },
+            {
+              "key": "D",
+              "en": "Discounted museum tickets",
+              "vi": "Vé bảo tàng giảm giá"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets23-t09-p4-q099",
+          "number": 99,
+          "question": {
+            "en": "What does the speaker say about science camps?",
+            "vi": "Người nói nói gì về các trại khoa học?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A registration deadline has changed.",
+              "vi": "Thời hạn đăng ký đã thay đổi."
+            },
+            {
+              "key": "B",
+              "en": "No more spaces are available.",
+              "vi": "Không còn chỗ trống."
+            },
+            {
+              "key": "C",
+              "en": "A payment plan has been added.",
+              "vi": "Một kế hoạch thanh toán đã được thêm vào."
+            },
+            {
+              "key": "D",
+              "en": "Some classes will be held in a different location.",
+              "vi": "Một số lớp học sẽ được tổ chức ở một địa điểm khác."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets23-t09-p4-q100",
+          "number": 100,
+          "question": {
+            "en": "Look at the graphic. Who can the listeners speak to by pressing seven?",
+            "vi": "Nhìn vào hình ảnh. Người nghe có thể nói chuyện với ai bằng cách nhấn phím số bảy?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Sabine Klein",
+              "vi": "Sabine Klein"
+            },
+            {
+              "key": "B",
+              "en": "Ji-Soo Jeong",
+              "vi": "Ji-Soo Jeong"
+            },
+            {
+              "key": "C",
+              "en": "Carmen Ruiz",
+              "vi": "Carmen Ruiz"
+            },
+            {
+              "key": "D",
+              "en": "Brian Hughes",
+              "vi": "Brian Hughes"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,934 @@
+{
+  "items": [
+    {
+      "id": "ets22-t06-p5-q101",
+      "number": 101,
+      "question": {
+        "en": "Chef Daniels impresses customers with ______ sophisticated entrées.",
+        "vi": "Đầu bếp Daniels gây ấn tượng với khách hàng bằng những món khai vị tinh tế của anh ấy."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "his",
+          "vi": "his (adj): của anh ấy"
+        },
+        {
+          "key": "B",
+          "en": "him",
+          "vi": "him (pron): anh ấy (tân ngữ)"
+        },
+        {
+          "key": "C",
+          "en": "himself",
+          "vi": "himself (pron): tự anh ấy"
+        },
+        {
+          "key": "D",
+          "en": "he",
+          "vi": "he (pron): anh ấy (chủ ngữ)"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets22-t06-p5-q102",
+      "number": 102,
+      "question": {
+        "en": "Oil production ______ 5 percent from January to February.",
+        "vi": "Sản lượng dầu đã giảm 5 phần trăm từ tháng Một đến tháng Hai."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "drop",
+          "vi": "drop (v): giảm (nguyên thể)"
+        },
+        {
+          "key": "B",
+          "en": "to drop",
+          "vi": "to drop (v): giảm (to-inf)"
+        },
+        {
+          "key": "C",
+          "en": "dropping",
+          "vi": "dropping (v-ing): giảm"
+        },
+        {
+          "key": "D",
+          "en": "dropped",
+          "vi": "dropped (v-ed): đã giảm"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets22-t06-p5-q103",
+      "number": 103,
+      "question": {
+        "en": "Ms. Ito has ______ suggestions to resolve the computer problems.",
+        "vi": "Cô Ito có những gợi ý hữu ích để giải quyết các vấn đề máy tính."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "help",
+          "vi": "help (v/n): giúp đỡ"
+        },
+        {
+          "key": "B",
+          "en": "helper",
+          "vi": "helper (n): người giúp đỡ"
+        },
+        {
+          "key": "C",
+          "en": "helped",
+          "vi": "helped (v-ed): đã giúp"
+        },
+        {
+          "key": "D",
+          "en": "helpful",
+          "vi": "helpful (adj): hữu ích"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets22-t06-p5-q104",
+      "number": 104,
+      "question": {
+        "en": "The Vidorn Hotel ______ to construct a fountain in the front entryway.",
+        "vi": "Khách sạn Vidorn dự định xây dựng một đài phun nước ở lối vào phía trước."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "matches",
+          "vi": "matches (v): phù hợp"
+        },
+        {
+          "key": "B",
+          "en": "plans",
+          "vi": "plans (v): dự định, lên kế hoạch"
+        },
+        {
+          "key": "C",
+          "en": "tells",
+          "vi": "tells (v): nói, kể"
+        },
+        {
+          "key": "D",
+          "en": "praises",
+          "vi": "praises (v): khen ngợi"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets22-t06-p5-q105",
+      "number": 105,
+      "question": {
+        "en": "The schedule of events for the music ______ will be posted on Friday.",
+        "vi": "Lịch trình sự kiện cho lễ hội âm nhạc sẽ được đăng vào thứ Sáu."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "festival",
+          "vi": "festival (n): lễ hội"
+        },
+        {
+          "key": "B",
+          "en": "situation",
+          "vi": "situation (n): tình huống"
+        },
+        {
+          "key": "C",
+          "en": "instrument",
+          "vi": "instrument (n): nhạc cụ"
+        },
+        {
+          "key": "D",
+          "en": "issue",
+          "vi": "issue (n): vấn đề"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets22-t06-p5-q106",
+      "number": 106,
+      "question": {
+        "en": "When processing a medical leave request, the attending physician must fill out a form ______.",
+        "vi": "Khi xử lý yêu cầu nghỉ phép bệnh, bác sĩ điều trị phải điền đầy đủ một mẫu đơn."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "completes",
+          "vi": "completes (v): hoàn thành"
+        },
+        {
+          "key": "B",
+          "en": "completed",
+          "vi": "completed (v-ed): đã hoàn thành"
+        },
+        {
+          "key": "C",
+          "en": "completely",
+          "vi": "completely (adv): hoàn toàn, đầy đủ"
+        },
+        {
+          "key": "D",
+          "en": "completeness",
+          "vi": "completeness (n): sự hoàn chỉnh"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets22-t06-p5-q107",
+      "number": 107,
+      "question": {
+        "en": "Many fashion stylists ______ their online portfolios on a regular basis.",
+        "vi": "Nhiều nhà tạo mẫu thời trang cập nhật hồ sơ trực tuyến của họ một cách thường xuyên."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "dress",
+          "vi": "dress (v): mặc quần áo"
+        },
+        {
+          "key": "B",
+          "en": "invite",
+          "vi": "invite (v): mời"
+        },
+        {
+          "key": "C",
+          "en": "range",
+          "vi": "range (v): dao động"
+        },
+        {
+          "key": "D",
+          "en": "update",
+          "vi": "update (v): cập nhật"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets22-t06-p5-q108",
+      "number": 108,
+      "question": {
+        "en": "All flights were delayed three hours because of a heavy blanket of ______.",
+        "vi": "Tất cả các chuyến bay bị trì hoãn ba tiếng vì một lớp sương mù dày đặc."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "fog",
+          "vi": "fog (n): sương mù"
+        },
+        {
+          "key": "B",
+          "en": "fogger",
+          "vi": "fogger (n): máy phun sương"
+        },
+        {
+          "key": "C",
+          "en": "foggy",
+          "vi": "foggy (adj): có sương mù"
+        },
+        {
+          "key": "D",
+          "en": "fogged",
+          "vi": "fogged (v-ed): bị mờ sương"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets22-t06-p5-q109",
+      "number": 109,
+      "question": {
+        "en": "The Northwick Orchestra will perform later this month ______ Reverbury Hall.",
+        "vi": "Dàn nhạc Northwick sẽ biểu diễn vào cuối tháng này tại Hội trường Reverbury."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "at",
+          "vi": "at (prep): tại"
+        },
+        {
+          "key": "B",
+          "en": "up",
+          "vi": "up (prep): lên"
+        },
+        {
+          "key": "C",
+          "en": "on",
+          "vi": "on (prep): trên"
+        },
+        {
+          "key": "D",
+          "en": "of",
+          "vi": "of (prep): của"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets22-t06-p5-q110",
+      "number": 110,
+      "question": {
+        "en": "Only staff ______ based in the Toronto office may reserve the conference room.",
+        "vi": "Chỉ nhân viên hiện đang làm việc tại văn phòng Toronto mới được đặt phòng họp."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "possibly",
+          "vi": "possibly (adv): có thể"
+        },
+        {
+          "key": "B",
+          "en": "currently",
+          "vi": "currently (adv): hiện tại"
+        },
+        {
+          "key": "C",
+          "en": "immediately",
+          "vi": "immediately (adv): ngay lập tức"
+        },
+        {
+          "key": "D",
+          "en": "exactly",
+          "vi": "exactly (adv): chính xác"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets22-t06-p5-q111",
+      "number": 111,
+      "question": {
+        "en": "______ of the employees have placed their order for a new standing desk.",
+        "vi": "Một vài nhân viên đã đặt mua bàn làm việc đứng mới."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Any",
+          "vi": "Any (det): bất kỳ"
+        },
+        {
+          "key": "B",
+          "en": "Several",
+          "vi": "Several (det): một vài"
+        },
+        {
+          "key": "C",
+          "en": "Another",
+          "vi": "Another (det): một cái khác"
+        },
+        {
+          "key": "D",
+          "en": "Either",
+          "vi": "Either (det): một trong hai"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets22-t06-p5-q112",
+      "number": 112,
+      "question": {
+        "en": "Betsy Riley will seek support from ______ volunteers for our revised museum tours.",
+        "vi": "Betsy Riley sẽ tìm kiếm sự hỗ trợ từ các tình nguyện viên cũ cho các tour bảo tàng đã được sửa đổi của chúng tôi."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "former",
+          "vi": "former (adj): trước đây, cũ"
+        },
+        {
+          "key": "B",
+          "en": "following",
+          "vi": "following (adj): tiếp theo"
+        },
+        {
+          "key": "C",
+          "en": "entire",
+          "vi": "entire (adj): toàn bộ"
+        },
+        {
+          "key": "D",
+          "en": "gradual",
+          "vi": "gradual (adj): dần dần"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets22-t06-p5-q113",
+      "number": 113,
+      "question": {
+        "en": "Casorama customers receive store ______ instead of a cash refund upon returning an item.",
+        "vi": "Khách hàng Casorama nhận tín dụng cửa hàng thay vì hoàn tiền mặt khi trả lại hàng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "acceptance",
+          "vi": "acceptance (n): sự chấp nhận"
+        },
+        {
+          "key": "B",
+          "en": "training",
+          "vi": "training (n): đào tạo"
+        },
+        {
+          "key": "C",
+          "en": "preference",
+          "vi": "preference (n): sở thích"
+        },
+        {
+          "key": "D",
+          "en": "credit",
+          "vi": "credit (n): tín dụng"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets22-t06-p5-q114",
+      "number": 114,
+      "question": {
+        "en": "Our factory in Mannheim was upgraded last year, but the loading dock ______ needs work.",
+        "vi": "Nhà máy của chúng tôi ở Mannheim đã được nâng cấp năm ngoái, nhưng bến bốc hàng vẫn cần sửa chữa."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "such",
+          "vi": "such (det): như vậy"
+        },
+        {
+          "key": "B",
+          "en": "very",
+          "vi": "very (adv): rất"
+        },
+        {
+          "key": "C",
+          "en": "still",
+          "vi": "still (adv): vẫn"
+        },
+        {
+          "key": "D",
+          "en": "even",
+          "vi": "even (adv): thậm chí"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets22-t06-p5-q115",
+      "number": 115,
+      "question": {
+        "en": "The recently ______ mayor said she plans to address the town's traffic problems soon.",
+        "vi": "Thị trưởng mới được bầu cho biết bà dự định giải quyết các vấn đề giao thông của thị trấn sớm."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "electing",
+          "vi": "electing (v-ing): đang bầu"
+        },
+        {
+          "key": "B",
+          "en": "election",
+          "vi": "election (n): cuộc bầu cử"
+        },
+        {
+          "key": "C",
+          "en": "elected",
+          "vi": "elected (v-ed/adj): được bầu"
+        },
+        {
+          "key": "D",
+          "en": "elects",
+          "vi": "elects (v): bầu"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets22-t06-p5-q116",
+      "number": 116,
+      "question": {
+        "en": "Mr. Kim's research reveals that types of hay differ ______ in their nutritional content.",
+        "vi": "Nghiên cứu của ông Kim cho thấy các loại cỏ khô khác nhau đáng kể về hàm lượng dinh dưỡng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "significant",
+          "vi": "significant (adj): đáng kể"
+        },
+        {
+          "key": "B",
+          "en": "signify",
+          "vi": "signify (v): biểu thị"
+        },
+        {
+          "key": "C",
+          "en": "significance",
+          "vi": "significance (n): tầm quan trọng"
+        },
+        {
+          "key": "D",
+          "en": "significantly",
+          "vi": "significantly (adv): một cách đáng kể"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets22-t06-p5-q117",
+      "number": 117,
+      "question": {
+        "en": "Let us extend our warmest welcome ______ Mr. Lam Keong Wu, our new vice president of marketing.",
+        "vi": "Chúng ta hãy gửi lời chào đón nồng nhiệt nhất đến ông Lam Keong Wu, phó chủ tịch marketing mới của chúng ta."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "to",
+          "vi": "to (prep): đến"
+        },
+        {
+          "key": "B",
+          "en": "under",
+          "vi": "under (prep): dưới"
+        },
+        {
+          "key": "C",
+          "en": "against",
+          "vi": "against (prep): chống lại"
+        },
+        {
+          "key": "D",
+          "en": "in",
+          "vi": "in (prep): trong"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets22-t06-p5-q118",
+      "number": 118,
+      "question": {
+        "en": "The latest polling shows increased public ______ for the stadium renovation project.",
+        "vi": "Cuộc thăm dò mới nhất cho thấy sự chấp thuận của công chúng tăng lên đối với dự án cải tạo sân vận động."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "approve",
+          "vi": "approve (v): chấp thuận"
+        },
+        {
+          "key": "B",
+          "en": "approval",
+          "vi": "approval (n): sự chấp thuận"
+        },
+        {
+          "key": "C",
+          "en": "approving",
+          "vi": "approving (adj): tán thành"
+        },
+        {
+          "key": "D",
+          "en": "approvingly",
+          "vi": "approvingly (adv): một cách tán thành"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets22-t06-p5-q119",
+      "number": 119,
+      "question": {
+        "en": "Oshka Landscape Supply revenue is highly ______ on seasonal sales.",
+        "vi": "Doanh thu của Oshka Landscape Supply phụ thuộc rất nhiều vào doanh số bán hàng theo mùa."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "extensive",
+          "vi": "extensive (adj): rộng rãi"
+        },
+        {
+          "key": "B",
+          "en": "dependent",
+          "vi": "dependent (adj): phụ thuộc"
+        },
+        {
+          "key": "C",
+          "en": "accessible",
+          "vi": "accessible (adj): dễ tiếp cận"
+        },
+        {
+          "key": "D",
+          "en": "insightful",
+          "vi": "insightful (adj): sâu sắc"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets22-t06-p5-q120",
+      "number": 120,
+      "question": {
+        "en": "Tourism in Cork has slowed in recent weeks ______ the unseasonably cold weather.",
+        "vi": "Du lịch ở Cork đã chậm lại trong những tuần gần đây vì thời tiết lạnh bất thường."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "as long as",
+          "vi": "as long as (conj): miễn là"
+        },
+        {
+          "key": "B",
+          "en": "in case of",
+          "vi": "in case of (prep): trong trường hợp"
+        },
+        {
+          "key": "C",
+          "en": "because of",
+          "vi": "because of (prep): vì, do"
+        },
+        {
+          "key": "D",
+          "en": "except for",
+          "vi": "except for (prep): ngoại trừ"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets22-t06-p5-q121",
+      "number": 121,
+      "question": {
+        "en": "The Aznet Foundation is offering three $5,000 grants to entrepreneurs with the most ______ business ideas.",
+        "vi": "Quỹ Aznet đang cung cấp ba khoản tài trợ $5,000 cho các doanh nhân có ý tưởng kinh doanh sáng tạo nhất."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "imagine",
+          "vi": "imagine (v): tưởng tượng"
+        },
+        {
+          "key": "B",
+          "en": "imagining",
+          "vi": "imagining (v-ing): đang tưởng tượng"
+        },
+        {
+          "key": "C",
+          "en": "imaginative",
+          "vi": "imaginative (adj): sáng tạo, giàu trí tưởng tượng"
+        },
+        {
+          "key": "D",
+          "en": "imagination",
+          "vi": "imagination (n): trí tưởng tượng"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets22-t06-p5-q122",
+      "number": 122,
+      "question": {
+        "en": "Based on her ______ performance, Ms. Soares is likely to do quite well in the 50-meter race.",
+        "vi": "Dựa trên thành tích trước đây của cô, cô Soares có khả năng sẽ thi đấu khá tốt trong cuộc đua 50 mét."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "neither",
+          "vi": "neither (det): không cái nào"
+        },
+        {
+          "key": "B",
+          "en": "past",
+          "vi": "past (adj): trước đây"
+        },
+        {
+          "key": "C",
+          "en": "apart",
+          "vi": "apart (adv): riêng biệt"
+        },
+        {
+          "key": "D",
+          "en": "twice",
+          "vi": "twice (adv): hai lần"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets22-t06-p5-q123",
+      "number": 123,
+      "question": {
+        "en": "The manual provides a basic ______ of the R25100 camera's primary features.",
+        "vi": "Sách hướng dẫn cung cấp một tổng quan cơ bản về các tính năng chính của máy ảnh R25100."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "overview",
+          "vi": "overview (n): tổng quan"
+        },
+        {
+          "key": "B",
+          "en": "adviser",
+          "vi": "adviser (n): cố vấn"
+        },
+        {
+          "key": "C",
+          "en": "challenge",
+          "vi": "challenge (n): thách thức"
+        },
+        {
+          "key": "D",
+          "en": "instance",
+          "vi": "instance (n): trường hợp"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets22-t06-p5-q124",
+      "number": 124,
+      "question": {
+        "en": "Be sure to ______ the wireless Internet option on your company mobile phone to avoid additional data fees.",
+        "vi": "Hãy chắc chắn bật tùy chọn Internet không dây trên điện thoại công ty để tránh phí dữ liệu bổ sung."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "return",
+          "vi": "return (v): trả lại"
+        },
+        {
+          "key": "B",
+          "en": "pull",
+          "vi": "pull (v): kéo"
+        },
+        {
+          "key": "C",
+          "en": "enable",
+          "vi": "enable (v): kích hoạt, bật"
+        },
+        {
+          "key": "D",
+          "en": "inflate",
+          "vi": "inflate (v): thổi phồng"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets22-t06-p5-q125",
+      "number": 125,
+      "question": {
+        "en": "The CEO of True Home Estates ______ hires agents who have overcome obstacles in their lives.",
+        "vi": "Giám đốc điều hành của True Home Estates luôn tuyển dụng các đại lý đã vượt qua trở ngại trong cuộc sống."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "soon",
+          "vi": "soon (adv): sớm"
+        },
+        {
+          "key": "B",
+          "en": "most",
+          "vi": "most (adv): nhất"
+        },
+        {
+          "key": "C",
+          "en": "enough",
+          "vi": "enough (adv): đủ"
+        },
+        {
+          "key": "D",
+          "en": "always",
+          "vi": "always (adv): luôn luôn"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets22-t06-p5-q126",
+      "number": 126,
+      "question": {
+        "en": "To receive payment, vendors must submit an invoice online ______ twenty business days of finishing a project.",
+        "vi": "Để nhận thanh toán, nhà cung cấp phải gửi hóa đơn trực tuyến trong vòng hai mươi ngày làm việc sau khi hoàn thành dự án."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "whether",
+          "vi": "whether (conj): liệu có"
+        },
+        {
+          "key": "B",
+          "en": "whose",
+          "vi": "whose (pron): của ai"
+        },
+        {
+          "key": "C",
+          "en": "within",
+          "vi": "within (prep): trong vòng"
+        },
+        {
+          "key": "D",
+          "en": "while",
+          "vi": "while (conj): trong khi"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets22-t06-p5-q127",
+      "number": 127,
+      "question": {
+        "en": "______ opening a bakery, Mr. Laxalt had worked in the food industry for fifteen years.",
+        "vi": "Trước khi mở tiệm bánh, ông Laxalt đã làm việc trong ngành thực phẩm mười lăm năm."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Prior to",
+          "vi": "Prior to (prep): trước khi"
+        },
+        {
+          "key": "B",
+          "en": "Although",
+          "vi": "Although (conj): mặc dù"
+        },
+        {
+          "key": "C",
+          "en": "Then",
+          "vi": "Then (adv): sau đó"
+        },
+        {
+          "key": "D",
+          "en": "If",
+          "vi": "If (conj): nếu"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets22-t06-p5-q128",
+      "number": 128,
+      "question": {
+        "en": "Investors' initial fears were calmed by the ______ sales report issued this week.",
+        "vi": "Những lo ngại ban đầu của các nhà đầu tư đã được xoa dịu bởi báo cáo bán hàng trấn an được phát hành tuần này."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "remote",
+          "vi": "remote (adj): xa xôi"
+        },
+        {
+          "key": "B",
+          "en": "attentive",
+          "vi": "attentive (adj): chú ý"
+        },
+        {
+          "key": "C",
+          "en": "reassuring",
+          "vi": "reassuring (adj): trấn an"
+        },
+        {
+          "key": "D",
+          "en": "restful",
+          "vi": "restful (adj): yên tĩnh"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets22-t06-p5-q129",
+      "number": 129,
+      "question": {
+        "en": "One distinctive aspect of the painter Chapin Kurek's portrait style is her almost comic ______ of facial features.",
+        "vi": "Một khía cạnh đặc biệt trong phong cách vẽ chân dung của họa sĩ Chapin Kurek là sự phóng đại gần như hài hước các đường nét khuôn mặt."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "exaggerate",
+          "vi": "exaggerate (v): phóng đại"
+        },
+        {
+          "key": "B",
+          "en": "exaggerated",
+          "vi": "exaggerated (adj): bị phóng đại"
+        },
+        {
+          "key": "C",
+          "en": "exaggeratedly",
+          "vi": "exaggeratedly (adv): một cách phóng đại"
+        },
+        {
+          "key": "D",
+          "en": "exaggeration",
+          "vi": "exaggeration (n): sự phóng đại"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets22-t06-p5-q130",
+      "number": 130,
+      "question": {
+        "en": "Ramirez Instruments ______ high-quality acoustic guitars for over a century.",
+        "vi": "Ramirez Instruments đã và đang thiết kế guitar acoustic chất lượng cao hơn một thế kỷ."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "to be designed",
+          "vi": "to be designed (v): để được thiết kế"
+        },
+        {
+          "key": "B",
+          "en": "has been designing",
+          "vi": "has been designing (v): đã và đang thiết kế"
+        },
+        {
+          "key": "C",
+          "en": "was designed",
+          "vi": "was designed (v): đã được thiết kế"
+        },
+        {
+          "key": "D",
+          "en": "is designing",
+          "vi": "is designing (v): đang thiết kế"
+        }
+      ],
+      "answer": "B"
+    }
+  ]
+}

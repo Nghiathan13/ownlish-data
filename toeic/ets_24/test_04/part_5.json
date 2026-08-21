@@ -1,0 +1,934 @@
+{
+  "items": [
+    {
+      "id": "ets24-t04-p5-q101",
+      "number": 101,
+      "question": {
+        "en": "Mr. Barrientos has worked at the company ______ six years.",
+        "vi": "Ông Barrientos đã làm việc tại công ty ______ sáu năm."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "for",
+          "vi": "for (prep): trong khoảng"
+        },
+        {
+          "key": "B",
+          "en": "since",
+          "vi": "since (prep/conj): kể từ khi"
+        },
+        {
+          "key": "C",
+          "en": "with",
+          "vi": "with (prep): với"
+        },
+        {
+          "key": "D",
+          "en": "lately",
+          "vi": "lately (adv): gần đây"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets24-t04-p5-q102",
+      "number": 102,
+      "question": {
+        "en": "The staff cafeteria stops ______ lunch at 2:00 P.M.",
+        "vi": "Nhà ăn nhân viên ngừng ______ bữa trưa lúc 2:00 chiều."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "taking",
+          "vi": "taking (v-ing): lấy, nhận"
+        },
+        {
+          "key": "B",
+          "en": "buying",
+          "vi": "buying (v-ing): mua"
+        },
+        {
+          "key": "C",
+          "en": "serving",
+          "vi": "serving (v-ing): phục vụ"
+        },
+        {
+          "key": "D",
+          "en": "working",
+          "vi": "working (v-ing): làm việc"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets24-t04-p5-q103",
+      "number": 103,
+      "question": {
+        "en": "The annual report will be ready after ______ make the necessary revisions.",
+        "vi": "Báo cáo thường niên sẽ sẵn sàng sau khi ______ thực hiện các chỉnh sửa cần thiết."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "I",
+          "vi": "I (pron): tôi"
+        },
+        {
+          "key": "B",
+          "en": "me",
+          "vi": "me (pron): tôi"
+        },
+        {
+          "key": "C",
+          "en": "myself",
+          "vi": "myself (pron): chính tôi"
+        },
+        {
+          "key": "D",
+          "en": "my",
+          "vi": "my (det): của tôi"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets24-t04-p5-q104",
+      "number": 104,
+      "question": {
+        "en": "Mr. Louden was offered a full-time position at Fortelio Corporation ______ a division manager.",
+        "vi": "Ông Louden đã được đề nghị một vị trí toàn thời gian tại Fortelio Corporation ______ một quản lý bộ phận."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "about",
+          "vi": "about (prep): về"
+        },
+        {
+          "key": "B",
+          "en": "as",
+          "vi": "as (prep): với tư cách là"
+        },
+        {
+          "key": "C",
+          "en": "after",
+          "vi": "after (prep/conj): sau"
+        },
+        {
+          "key": "D",
+          "en": "around",
+          "vi": "around (prep/adv): xung quanh, khoảng"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets24-t04-p5-q105",
+      "number": 105,
+      "question": {
+        "en": "Kennedy Sports will ______ its end-of-season sale through the month of January.",
+        "vi": "Kennedy Sports sẽ ______ chương trình giảm giá cuối mùa của mình trong suốt tháng 1."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "continuing",
+          "vi": "continuing (v-ing): đang tiếp tục"
+        },
+        {
+          "key": "B",
+          "en": "continued",
+          "vi": "continued (v-ed): đã tiếp tục"
+        },
+        {
+          "key": "C",
+          "en": "continues",
+          "vi": "continues (v): tiếp tục"
+        },
+        {
+          "key": "D",
+          "en": "continue",
+          "vi": "continue (v): tiếp tục"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets24-t04-p5-q106",
+      "number": 106,
+      "question": {
+        "en": "Ms. Najjar is going to give a presentation ______ workplace regulations at noon.",
+        "vi": "Cô Najjar sẽ thuyết trình ______ các quy định nơi làm việc vào buổi trưa."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "near",
+          "vi": "near (prep/adv): gần"
+        },
+        {
+          "key": "B",
+          "en": "to",
+          "vi": "to (prep): đến, tới"
+        },
+        {
+          "key": "C",
+          "en": "past",
+          "vi": "past (prep/adv): qua, quá"
+        },
+        {
+          "key": "D",
+          "en": "on",
+          "vi": "on (prep): về, liên quan đến"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets24-t04-p5-q107",
+      "number": 107,
+      "question": {
+        "en": "Mr. Telguld submitted the ______ surveys before the monthly board meeting.",
+        "vi": "Ông Telguld đã nộp các bản khảo sát ______ trước cuộc họp hội đồng hằng tháng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "completely",
+          "vi": "completely (adv): hoàn toàn"
+        },
+        {
+          "key": "B",
+          "en": "completed",
+          "vi": "completed (adj/v-ed): đã hoàn thành"
+        },
+        {
+          "key": "C",
+          "en": "completing",
+          "vi": "completing (v-ing): đang hoàn thành"
+        },
+        {
+          "key": "D",
+          "en": "completes",
+          "vi": "completes (v): hoàn thành"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets24-t04-p5-q108",
+      "number": 108,
+      "question": {
+        "en": "Travel funds are available to student presenters coming to the conference from a significant ______.",
+        "vi": "Quỹ đi lại có sẵn cho các sinh viên thuyết trình đến hội nghị từ một ______ đáng kể."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "location",
+          "vi": "location (n): địa điểm"
+        },
+        {
+          "key": "B",
+          "en": "amount",
+          "vi": "amount (n): số lượng"
+        },
+        {
+          "key": "C",
+          "en": "reason",
+          "vi": "reason (n): lý do"
+        },
+        {
+          "key": "D",
+          "en": "distance",
+          "vi": "distance (n): khoảng cách"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets24-t04-p5-q109",
+      "number": 109,
+      "question": {
+        "en": "Ms. Okada is ______ a new social media campaign at the request of our office manager.",
+        "vi": "Cô Okada đang ______ một chiến dịch mạng xã hội mới theo yêu cầu của quản lý văn phòng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "organize",
+          "vi": "organize (v): tổ chức"
+        },
+        {
+          "key": "B",
+          "en": "organized",
+          "vi": "organized (adj/v-ed): có tổ chức; đã tổ chức"
+        },
+        {
+          "key": "C",
+          "en": "organizing",
+          "vi": "organizing (v-ing): đang tổ chức"
+        },
+        {
+          "key": "D",
+          "en": "organization",
+          "vi": "organization (n): tổ chức"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets24-t04-p5-q110",
+      "number": 110,
+      "question": {
+        "en": "The speaker will offer five tips for making wise purchasing ______.",
+        "vi": "Diễn giả sẽ đưa ra năm mẹo để đưa ra các ______ mua hàng khôn ngoan."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "items",
+          "vi": "items (n): mặt hàng"
+        },
+        {
+          "key": "B",
+          "en": "decisions",
+          "vi": "decisions (n): quyết định"
+        },
+        {
+          "key": "C",
+          "en": "values",
+          "vi": "values (n): giá trị"
+        },
+        {
+          "key": "D",
+          "en": "remedies",
+          "vi": "remedies (n): biện pháp khắc phục"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets24-t04-p5-q111",
+      "number": 111,
+      "question": {
+        "en": "Please log on to your online checking account ______ the next 30 days in order to keep it active.",
+        "vi": "Vui lòng đăng nhập vào tài khoản thanh toán trực tuyến của bạn ______ 30 ngày tới để giữ tài khoản hoạt động."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "within",
+          "vi": "within (prep): trong vòng"
+        },
+        {
+          "key": "B",
+          "en": "how",
+          "vi": "how (adv/conj): như thế nào"
+        },
+        {
+          "key": "C",
+          "en": "whether",
+          "vi": "whether (conj): liệu"
+        },
+        {
+          "key": "D",
+          "en": "and",
+          "vi": "and (conj): và"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets24-t04-p5-q112",
+      "number": 112,
+      "question": {
+        "en": "The Bradyville Inn ______ live jazz music in the dining area on Friday evenings.",
+        "vi": "Bradyville Inn ______ nhạc jazz trực tiếp trong khu vực ăn uống vào các tối thứ Sáu."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "features",
+          "vi": "features (v): có, giới thiệu, trình diễn"
+        },
+        {
+          "key": "B",
+          "en": "marks",
+          "vi": "marks (v): đánh dấu"
+        },
+        {
+          "key": "C",
+          "en": "sounds",
+          "vi": "sounds (v): nghe có vẻ"
+        },
+        {
+          "key": "D",
+          "en": "collects",
+          "vi": "collects (v): thu thập"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets24-t04-p5-q113",
+      "number": 113,
+      "question": {
+        "en": "Leeann’s Organic Fruit Spreads can be purchased ______ from the company’s Web site.",
+        "vi": "Mứt trái cây hữu cơ của Leeann có thể được mua ______ từ trang web của công ty."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "direction",
+          "vi": "direction (n): hướng, sự chỉ dẫn"
+        },
+        {
+          "key": "B",
+          "en": "directly",
+          "vi": "directly (adv): trực tiếp"
+        },
+        {
+          "key": "C",
+          "en": "directness",
+          "vi": "directness (n): sự trực tiếp"
+        },
+        {
+          "key": "D",
+          "en": "directed",
+          "vi": "directed (adj/v-ed): được hướng dẫn, được chỉ đạo"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets24-t04-p5-q114",
+      "number": 114,
+      "question": {
+        "en": "______ the event organizers’ best efforts, they have been unable to attract enough volunteers this spring.",
+        "vi": "______ những nỗ lực tốt nhất của ban tổ chức sự kiện, họ vẫn không thể thu hút đủ tình nguyện viên vào mùa xuân này."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Behind",
+          "vi": "Behind (prep): phía sau"
+        },
+        {
+          "key": "B",
+          "en": "Versus",
+          "vi": "Versus (prep): so với, chống lại"
+        },
+        {
+          "key": "C",
+          "en": "Among",
+          "vi": "Among (prep): giữa, trong số"
+        },
+        {
+          "key": "D",
+          "en": "Despite",
+          "vi": "Despite (prep): mặc dù"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets24-t04-p5-q115",
+      "number": 115,
+      "question": {
+        "en": "Mr. Perez ______ as an industrial engineer at Gaberly Logistics for almost twenty years.",
+        "vi": "Ông Perez ______ với tư cách là một kỹ sư công nghiệp tại Gaberly Logistics trong gần hai mươi năm."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "employs",
+          "vi": "employs (v): tuyển dụng"
+        },
+        {
+          "key": "B",
+          "en": "to be employed",
+          "vi": "to be employed (to be v-ed): được tuyển dụng"
+        },
+        {
+          "key": "C",
+          "en": "is employing",
+          "vi": "is employing (present continuous): đang tuyển dụng"
+        },
+        {
+          "key": "D",
+          "en": "has been employed",
+          "vi": "has been employed (present perfect passive): đã được tuyển dụng, đã làm việc"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets24-t04-p5-q116",
+      "number": 116,
+      "question": {
+        "en": "Soon after Ms. Manilla was hired, the sales department’s productivity began to increase ______.",
+        "vi": "Ngay sau khi cô Manilla được tuyển dụng, năng suất của bộ phận bán hàng bắt đầu tăng ______."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "mainly",
+          "vi": "mainly (adv): chủ yếu"
+        },
+        {
+          "key": "B",
+          "en": "respectively",
+          "vi": "respectively (adv): tương ứng"
+        },
+        {
+          "key": "C",
+          "en": "noticeably",
+          "vi": "noticeably (adv): một cách đáng chú ý"
+        },
+        {
+          "key": "D",
+          "en": "closely",
+          "vi": "closely (adv): sát sao, chặt chẽ"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets24-t04-p5-q117",
+      "number": 117,
+      "question": {
+        "en": "Small businesses ______ participate in the Get Ahead program will receive marketing tools to help them attract customers.",
+        "vi": "Các doanh nghiệp nhỏ ______ tham gia chương trình Get Ahead sẽ nhận được các công cụ tiếp thị để giúp họ thu hút khách hàng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "that",
+          "vi": "that (pron/conj): mà"
+        },
+        {
+          "key": "B",
+          "en": "they",
+          "vi": "they (pron): họ, chúng"
+        },
+        {
+          "key": "C",
+          "en": "what",
+          "vi": "what (pron): cái gì, điều mà"
+        },
+        {
+          "key": "D",
+          "en": "whoever",
+          "vi": "whoever (pron): bất cứ ai"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets24-t04-p5-q118",
+      "number": 118,
+      "question": {
+        "en": "Our copy editors will review the manuscript ______ will not return it until the end of next week.",
+        "vi": "Các biên tập viên bản thảo của chúng tôi sẽ xem xét bản thảo ______ sẽ không trả lại nó cho đến cuối tuần sau."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "or",
+          "vi": "or (conj): hoặc"
+        },
+        {
+          "key": "B",
+          "en": "once",
+          "vi": "once (conj/adv): một khi; một lần"
+        },
+        {
+          "key": "C",
+          "en": "either",
+          "vi": "either (adv/det): hoặc, một trong hai"
+        },
+        {
+          "key": "D",
+          "en": "but",
+          "vi": "but (conj): nhưng"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets24-t04-p5-q119",
+      "number": 119,
+      "question": {
+        "en": "Mira Kumar was probably the ______ of all the interns at Kolbry Media last summer.",
+        "vi": "Mira Kumar có lẽ là thực tập sinh ______ trong tất cả các thực tập sinh tại Kolbry Media vào mùa hè năm ngoái."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "ambitious",
+          "vi": "ambitious (adj): tham vọng"
+        },
+        {
+          "key": "B",
+          "en": "most ambitious",
+          "vi": "most ambitious (superlative adj): tham vọng nhất"
+        },
+        {
+          "key": "C",
+          "en": "ambitiously",
+          "vi": "ambitiously (adv): một cách tham vọng"
+        },
+        {
+          "key": "D",
+          "en": "more ambitiously",
+          "vi": "more ambitiously (comparative adv): một cách tham vọng hơn"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets24-t04-p5-q120",
+      "number": 120,
+      "question": {
+        "en": "Orbin’s Fish Company expanded to a total of 26 stores ______ its takeover of a rival chain.",
+        "vi": "Orbin’s Fish Company đã mở rộng lên tổng cộng 26 cửa hàng ______ việc tiếp quản một chuỗi đối thủ."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "whenever",
+          "vi": "whenever (conj/adv): bất cứ khi nào"
+        },
+        {
+          "key": "B",
+          "en": "toward",
+          "vi": "toward (prep): hướng tới"
+        },
+        {
+          "key": "C",
+          "en": "following",
+          "vi": "following (prep): sau, tiếp theo"
+        },
+        {
+          "key": "D",
+          "en": "usually",
+          "vi": "usually (adv): thường xuyên"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets24-t04-p5-q121",
+      "number": 121,
+      "question": {
+        "en": "Ms. Cartwright told her team members that she wanted ______ to streamline the company’s assembly process.",
+        "vi": "Cô Cartwright nói với các thành viên trong nhóm của mình rằng cô ấy muốn ______ tinh giản quy trình lắp ráp của công ty."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "theirs",
+          "vi": "theirs (pron): của họ"
+        },
+        {
+          "key": "B",
+          "en": "they",
+          "vi": "they (pron): họ"
+        },
+        {
+          "key": "C",
+          "en": "them",
+          "vi": "them (pron): họ"
+        },
+        {
+          "key": "D",
+          "en": "themselves",
+          "vi": "themselves (pron): chính họ"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets24-t04-p5-q122",
+      "number": 122,
+      "question": {
+        "en": "Rupert’s Food Service uses ______ technology to track all of its shipments.",
+        "vi": "Rupert’s Food Service sử dụng công nghệ ______ để theo dõi tất cả các lô hàng của mình."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "strict",
+          "vi": "strict (adj): nghiêm ngặt"
+        },
+        {
+          "key": "B",
+          "en": "numerous",
+          "vi": "numerous (adj): nhiều"
+        },
+        {
+          "key": "C",
+          "en": "advanced",
+          "vi": "advanced (adj): tiên tiến"
+        },
+        {
+          "key": "D",
+          "en": "crowded",
+          "vi": "crowded (adj): đông đúc"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets24-t04-p5-q123",
+      "number": 123,
+      "question": {
+        "en": "Our app includes a ______ so that users can determine whether they are within their budget goals.",
+        "vi": "Ứng dụng của chúng tôi bao gồm một ______ để người dùng có thể xác định liệu họ có nằm trong mục tiêu ngân sách của mình hay không."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "calculator",
+          "vi": "calculator (n): máy tính, công cụ tính toán"
+        },
+        {
+          "key": "B",
+          "en": "calculated",
+          "vi": "calculated (adj/v-ed): được tính toán"
+        },
+        {
+          "key": "C",
+          "en": "calculating",
+          "vi": "calculating (v-ing/adj): đang tính toán; có tính toán"
+        },
+        {
+          "key": "D",
+          "en": "calculations",
+          "vi": "calculations (n): các phép tính"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets24-t04-p5-q124",
+      "number": 124,
+      "question": {
+        "en": "To ______ that its facilities are cleaned every day, the Selboa Company has hired more janitors.",
+        "vi": "Để ______ rằng các cơ sở của mình được vệ sinh mỗi ngày, công ty Selboa đã thuê thêm lao công."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "ensure",
+          "vi": "ensure (v): đảm bảo"
+        },
+        {
+          "key": "B",
+          "en": "affect",
+          "vi": "affect (v): ảnh hưởng"
+        },
+        {
+          "key": "C",
+          "en": "provide",
+          "vi": "provide (v): cung cấp"
+        },
+        {
+          "key": "D",
+          "en": "secure",
+          "vi": "secure (v): bảo đảm, giữ an toàn"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets24-t04-p5-q125",
+      "number": 125,
+      "question": {
+        "en": "During his term as a legislator, Jeremy Moran ______ promoted public awareness of the need for infrastructure improvements.",
+        "vi": "Trong nhiệm kỳ của mình với tư cách là một nhà lập pháp, Jeremy Moran đã ______ thúc đẩy nhận thức của công chúng về nhu cầu cải thiện cơ sở hạ tầng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "act",
+          "vi": "act (v/n): hành động; hành động"
+        },
+        {
+          "key": "B",
+          "en": "action",
+          "vi": "action (n): hành động"
+        },
+        {
+          "key": "C",
+          "en": "active",
+          "vi": "active (adj): năng động, tích cực"
+        },
+        {
+          "key": "D",
+          "en": "actively",
+          "vi": "actively (adv): một cách tích cực"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets24-t04-p5-q126",
+      "number": 126,
+      "question": {
+        "en": "Pyxie Print’s business is so new that we need to explain the full range of our services to ______ clients.",
+        "vi": "Doanh nghiệp của Pyxie Print còn rất mới nên chúng tôi cần giải thích đầy đủ phạm vi dịch vụ của mình cho các khách hàng ______."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "trained",
+          "vi": "trained (adj/v-ed): được đào tạo"
+        },
+        {
+          "key": "B",
+          "en": "potential",
+          "vi": "potential (adj): tiềm năng"
+        },
+        {
+          "key": "C",
+          "en": "elected",
+          "vi": "elected (adj/v-ed): được bầu"
+        },
+        {
+          "key": "D",
+          "en": "paid",
+          "vi": "paid (adj/v-ed): được trả tiền"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets24-t04-p5-q127",
+      "number": 127,
+      "question": {
+        "en": "Phone orders that are ______ to local stores by 11:00 A.M. are eligible for same-day pickup.",
+        "vi": "Các đơn đặt hàng qua điện thoại được ______ đến các cửa hàng địa phương trước 11:00 sáng đủ điều kiện nhận hàng trong ngày."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "submitted",
+          "vi": "submitted (v-ed): được nộp, được gửi"
+        },
+        {
+          "key": "B",
+          "en": "submission",
+          "vi": "submission (n): sự nộp, bài nộp"
+        },
+        {
+          "key": "C",
+          "en": "submitting",
+          "vi": "submitting (v-ing): đang nộp, đang gửi"
+        },
+        {
+          "key": "D",
+          "en": "submits",
+          "vi": "submits (v): nộp, gửi"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets24-t04-p5-q128",
+      "number": 128,
+      "question": {
+        "en": "An Oswald Hardware associate will ______ place an order for customers who need larger quantities than what is in stock.",
+        "vi": "Một nhân viên của Oswald Hardware sẽ ______ đặt hàng cho những khách hàng cần số lượng lớn hơn số lượng đang có sẵn trong kho."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "slightly",
+          "vi": "slightly (adv): hơi, một chút"
+        },
+        {
+          "key": "B",
+          "en": "wholly",
+          "vi": "wholly (adv): hoàn toàn"
+        },
+        {
+          "key": "C",
+          "en": "busily",
+          "vi": "busily (adv): một cách bận rộn"
+        },
+        {
+          "key": "D",
+          "en": "gladly",
+          "vi": "gladly (adv): một cách sẵn lòng"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets24-t04-p5-q129",
+      "number": 129,
+      "question": {
+        "en": "Mia Daushvili performed with the Bayhead Orchestra on Monday evening, ______ her virtuosic skills on the piccolo.",
+        "vi": "Mia Daushvili đã biểu diễn với Dàn nhạc Bayhead vào tối thứ Hai, ______ kỹ năng điêu luyện của cô ấy với sáo piccolo."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "displays",
+          "vi": "displays (v): thể hiện, trưng bày"
+        },
+        {
+          "key": "B",
+          "en": "had displayed",
+          "vi": "had displayed (past perfect): đã thể hiện"
+        },
+        {
+          "key": "C",
+          "en": "displaying",
+          "vi": "displaying (v-ing): thể hiện"
+        },
+        {
+          "key": "D",
+          "en": "was displayed",
+          "vi": "was displayed (past passive): đã được thể hiện, được trưng bày"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets24-t04-p5-q130",
+      "number": 130,
+      "question": {
+        "en": "When reviewing applicants for the clerk position, Ms. Ng will consider both education and ______ experience.",
+        "vi": "Khi xem xét các ứng viên cho vị trí thư ký, cô Ng sẽ cân nhắc cả trình độ học vấn và kinh nghiệm ______."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "prior",
+          "vi": "prior (adj): trước đó"
+        },
+        {
+          "key": "B",
+          "en": "quick",
+          "vi": "quick (adj): nhanh"
+        },
+        {
+          "key": "C",
+          "en": "lean",
+          "vi": "lean (adj/v): gầy; nghiêng"
+        },
+        {
+          "key": "D",
+          "en": "calm",
+          "vi": "calm (adj): bình tĩnh"
+        }
+      ],
+      "answer": "A"
+    }
+  ]
+}

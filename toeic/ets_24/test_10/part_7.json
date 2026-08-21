@@ -1,0 +1,1944 @@
+{
+  "groups": [
+    {
+      "id": "ets24-t10-p7-g147-148",
+      "documents": [
+        {
+          "kind": "sign",
+          "content": {
+            "en": "Galloway Office Park\n\nBuilding 1\nHarris Toddman, MD\nLansin Diagnostic Labs\nSmiley Dental Offices\n\nBuilding 2\nFreel Primary Care Physicians\nRally Star Physical Therapy Associates\n\nBuilding 3\nLee and Associates, Internists\nKare Medical Services\n\nBuilding 4\nLurie Pharmaceuticals\n\nNo Truck Access\nNo Soliciting\nNo Trespassing",
+            "vi": "Galloway Office Park\n\nTòa nhà 1\nHarris Toddman, Bác sĩ Y khoa\nLansin Diagnostic Labs\nSmiley Dental Offices\n\nTòa nhà 2\nFreel Primary Care Physicians\nRally Star Physical Therapy Associates\n\nTòa nhà 3\nLee and Associates, Bác sĩ nội khoa\nKare Medical Services\n\nTòa nhà 4\nLurie Pharmaceuticals\n\nXe tải không được vào\nKhông mời chào\nKhông xâm phạm"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t10-p7-q147",
+          "number": 147,
+          "question": {
+            "en": "Where would the sign most likely be found?",
+            "vi": "Biển báo này có khả năng được tìm thấy ở đâu nhất?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "On an office desk",
+              "vi": "Trên bàn làm việc văn phòng"
+            },
+            {
+              "key": "B",
+              "en": "In a hospital waiting room",
+              "vi": "Trong phòng chờ bệnh viện"
+            },
+            {
+              "key": "C",
+              "en": "In the lobby of a real estate agency",
+              "vi": "Trong sảnh của một công ty bất động sản"
+            },
+            {
+              "key": "D",
+              "en": "Near the entrance of an office complex",
+              "vi": "Gần lối vào của một khu văn phòng"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets24-t10-p7-q148",
+          "number": 148,
+          "question": {
+            "en": "What type of businesses are listed on the sign?",
+            "vi": "Loại hình doanh nghiệp nào được liệt kê trên biển báo?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Health care",
+              "vi": "Chăm sóc sức khỏe"
+            },
+            {
+              "key": "B",
+              "en": "Legal services",
+              "vi": "Dịch vụ pháp lý"
+            },
+            {
+              "key": "C",
+              "en": "Manufacturing",
+              "vi": "Sản xuất"
+            },
+            {
+              "key": "D",
+              "en": "Finance",
+              "vi": "Tài chính"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t10-p7-g149-150",
+      "documents": [
+        {
+          "kind": "text_message_chain",
+          "content": {
+            "en": "Darion Gaines [11:16 A.M.]\nSonia, the sink in the third-floor break room is clogged.\n\nSonia Pinkerton [11:20 A.M.]\nAgain? That’s the second time this month.\n\nDarion Gaines [11:22 A.M.]\nOne of our sales associates got it unclogged last time, but maybe we should call a professional this time. Should I contact Mr. Green and let him know?\n\nSonia Pinkerton [11:23 A.M.]\nThe office manager? I think it might be best to call the head of maintenance, Tammy Toska. She can probably get someone out to fix it pretty quickly.\n\nDarion Gaines [11:24 A.M.]\nOK. I could reach out to her.\n\nSonia Pinkerton [11:25 A.M.]\nGo ahead. In the meantime, I’ll put up a notice to let everyone know they should not use that sink.",
+            "vi": "Darion Gaines [11:16 sáng]\nSonia, bồn rửa trong phòng nghỉ tầng ba bị nghẹt.\n\nSonia Pinkerton [11:20 sáng]\nLại nữa à? Đây là lần thứ hai trong tháng này rồi.\n\nDarion Gaines [11:22 sáng]\nMột trong những nhân viên bán hàng của chúng ta đã làm nó thông tắc lần trước, nhưng có lẽ lần này chúng ta nên gọi một người chuyên nghiệp. Tôi có nên liên hệ ông Green và cho ông ấy biết không?\n\nSonia Pinkerton [11:23 sáng]\nQuản lý văn phòng à? Tôi nghĩ tốt nhất là nên gọi trưởng bộ phận bảo trì, Tammy Toska. Cô ấy có thể sẽ cử ai đó đến sửa khá nhanh.\n\nDarion Gaines [11:24 sáng]\nĐược. Tôi có thể liên hệ với cô ấy.\n\nSonia Pinkerton [11:25 sáng]\nCứ làm đi. Trong lúc đó, tôi sẽ dán một thông báo để mọi người biết rằng họ không nên sử dụng bồn rửa đó."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t10-p7-q149",
+          "number": 149,
+          "question": {
+            "en": "Who most likely is Mr. Green?",
+            "vi": "Ông Green có khả năng là ai nhất?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A custodian",
+              "vi": "Một nhân viên vệ sinh"
+            },
+            {
+              "key": "B",
+              "en": "A plumber",
+              "vi": "Một thợ sửa ống nước"
+            },
+            {
+              "key": "C",
+              "en": "A manager",
+              "vi": "Một quản lý"
+            },
+            {
+              "key": "D",
+              "en": "A sales associate",
+              "vi": "Một nhân viên bán hàng"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t10-p7-q150",
+          "number": 150,
+          "question": {
+            "en": "At 11:25 A.M., what does Ms. Pinkerton most likely mean when she writes, “Go ahead”?",
+            "vi": "Vào lúc 11:25 sáng, cô Pinkerton có khả năng muốn nói gì nhất khi viết “Cứ làm đi”?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Mr. Gaines may enter the break room.",
+              "vi": "Ông Gaines có thể vào phòng nghỉ."
+            },
+            {
+              "key": "B",
+              "en": "Mr. Gaines should contact Ms. Toska.",
+              "vi": "Ông Gaines nên liên hệ với cô Toska."
+            },
+            {
+              "key": "C",
+              "en": "Mr. Gaines should post a notice.",
+              "vi": "Ông Gaines nên dán một thông báo."
+            },
+            {
+              "key": "D",
+              "en": "Mr. Gaines can try to repair the sink.",
+              "vi": "Ông Gaines có thể cố sửa bồn rửa."
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t10-p7-g151-152",
+      "documents": [
+        {
+          "kind": "email",
+          "content": {
+            "en": "E-Mail Message\n\nTo: Ramdeo Khemradj <rkhemradj@topofthehill.jm>\nFrom: Kerensa Mayne <kmayne@topofthehill.jm>\nDate: 17 August\nSubject: Information\nAttachment: Latest draft\n\nHi, Ramdeo.\n\nPlease take a look at the latest draft and let me know what you think. I changed the layout—desserts are now on the inside back cover—and provided descriptions of the additional dinner dishes that you and your kitchen staff will be introducing next month.\n\nI haven’t updated the prices yet though, as I haven’t decided whether we will need to increase some of them.\n\nI’m sure you agree with me that the design firm did a great job upgrading the kitchen and making the dining room brighter and more inviting.\n\nKerensa",
+            "vi": "E-Mail Message\n\nĐến: Ramdeo Khemradj <rkhemradj@topofthehill.jm>\nTừ: Kerensa Mayne <kmayne@topofthehill.jm>\nNgày: 17 tháng 8\nChủ đề: Thông tin\nTệp đính kèm: Bản nháp mới nhất\n\nChào Ramdeo.\n\nVui lòng xem bản nháp mới nhất và cho tôi biết anh nghĩ gì. Tôi đã thay đổi bố cục — các món tráng miệng hiện nằm ở mặt trong của bìa sau — và cung cấp mô tả về các món ăn tối bổ sung mà anh và đội ngũ nhà bếp của anh sẽ giới thiệu vào tháng tới.\n\nTuy nhiên, tôi vẫn chưa cập nhật giá, vì tôi chưa quyết định liệu chúng ta có cần tăng một số giá hay không.\n\nTôi chắc anh đồng ý với tôi rằng công ty thiết kế đã làm rất tốt trong việc nâng cấp nhà bếp và làm cho phòng ăn sáng hơn cũng như hấp dẫn hơn.\n\nKerensa"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t10-p7-q151",
+          "number": 151,
+          "question": {
+            "en": "Who most likely is Mr. Khemradj?",
+            "vi": "Ông Khemradj có khả năng là ai nhất?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "An interior decorator",
+              "vi": "Một nhà trang trí nội thất"
+            },
+            {
+              "key": "B",
+              "en": "A restaurant owner",
+              "vi": "Một chủ nhà hàng"
+            },
+            {
+              "key": "C",
+              "en": "An architect",
+              "vi": "Một kiến trúc sư"
+            },
+            {
+              "key": "D",
+              "en": "A head chef",
+              "vi": "Một bếp trưởng"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets24-t10-p7-q152",
+          "number": 152,
+          "question": {
+            "en": "What most likely is attached to the e-mail?",
+            "vi": "Tệp đính kèm trong e-mail có khả năng là gì nhất?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A price list",
+              "vi": "Một bảng giá"
+            },
+            {
+              "key": "B",
+              "en": "A revised menu",
+              "vi": "Một thực đơn đã chỉnh sửa"
+            },
+            {
+              "key": "C",
+              "en": "A photograph of food",
+              "vi": "Một bức ảnh món ăn"
+            },
+            {
+              "key": "D",
+              "en": "A lighting plan for a dining room",
+              "vi": "Một kế hoạch chiếu sáng cho phòng ăn"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t10-p7-g153-154",
+      "documents": [
+        {
+          "kind": "application_form",
+          "content": {
+            "en": "Page Turner Booksellers\nEmployment Application Form\n\nDate of Application: 1 September\n\nPERSONAL DATA\n\nName: Arturo Rami\nAddress: 10 Beamish Street, Werribee, VIC 3030\n\nE-mail: arturo.rami@amail.com.au\nTelephone: 03 9555 3744\n\nEMPLOYMENT DESIRED\n\nDesired position: Assistant Store Manager\nAvailable start date: 20 September\nPreferred location: Werribee\nPreferred status: Full-time\n\nEDUCATION\n\nEducational Institution | Diploma/Certificate/Degree Earned\nSouth Bank High School | High school diploma\nDymocks University | Bachelor’s degree\n\nEMPLOYMENT HISTORY\n\nEmployer | Position | Duration\nThe Garment Barn | Sales associate | 2 years\nAltona Marketing | Assistant manager | 3 years\n\nEXPLANATION OF INTEREST IN THE POSITION\n\nI flourish in a fast-paced and demanding work environment, which my most recent employers are known for. I expect the same is true of Page Turner Booksellers, which tends to be quite busy. Moreover, with my bachelor’s degree in retail management, I believe I am well suited for the position.",
+            "vi": "Page Turner Booksellers\nMẫu đơn ứng tuyển việc làm\n\nNgày nộp đơn: 1 tháng 9\n\nTHÔNG TIN CÁ NHÂN\n\nTên: Arturo Rami\nĐịa chỉ: 10 Beamish Street, Werribee, VIC 3030\n\nE-mail: arturo.rami@amail.com.au\nĐiện thoại: 03 9555 3744\n\nVIỆC LÀM MONG MUỐN\n\nVị trí mong muốn: Trợ lý Quản lý Cửa hàng\nNgày có thể bắt đầu: 20 tháng 9\nĐịa điểm ưu tiên: Werribee\nHình thức ưu tiên: Toàn thời gian\n\nHỌC VẤN\n\nCơ sở giáo dục | Văn bằng/Chứng chỉ/Bằng cấp đạt được\nSouth Bank High School | Bằng tốt nghiệp trung học\nDymocks University | Bằng cử nhân\n\nLỊCH SỬ LÀM VIỆC\n\nNhà tuyển dụng | Vị trí | Thời gian\nThe Garment Barn | Nhân viên bán hàng | 2 năm\nAltona Marketing | Trợ lý quản lý | 3 năm\n\nGIẢI THÍCH LÝ DO QUAN TÂM ĐẾN VỊ TRÍ\n\nTôi phát triển tốt trong môi trường làm việc nhịp độ nhanh và đòi hỏi cao, điều mà các nhà tuyển dụng gần đây nhất của tôi được biết đến. Tôi cho rằng điều tương tự cũng đúng với Page Turner Booksellers, nơi thường khá bận rộn. Hơn nữa, với bằng cử nhân về quản lý bán lẻ, tôi tin rằng mình rất phù hợp với vị trí này."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t10-p7-q153",
+          "number": 153,
+          "question": {
+            "en": "What is suggested about Page Turner Booksellers?",
+            "vi": "Điều gì được gợi ý về Page Turner Booksellers?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It has multiple locations.",
+              "vi": "Công ty có nhiều địa điểm."
+            },
+            {
+              "key": "B",
+              "en": "It is near South Bank High School.",
+              "vi": "Công ty ở gần South Bank High School."
+            },
+            {
+              "key": "C",
+              "en": "It will open a new store on September 20.",
+              "vi": "Công ty sẽ mở một cửa hàng mới vào ngày 20 tháng 9."
+            },
+            {
+              "key": "D",
+              "en": "It currently has only full-time positions available.",
+              "vi": "Công ty hiện chỉ có các vị trí toàn thời gian."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets24-t10-p7-q154",
+          "number": 154,
+          "question": {
+            "en": "What is NOT indicated about Mr. Rami?",
+            "vi": "Điều gì KHÔNG được chỉ ra về ông Rami?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He studied retail management.",
+              "vi": "Ông ấy đã học quản lý bán lẻ."
+            },
+            {
+              "key": "B",
+              "en": "He recently moved to Werribee.",
+              "vi": "Ông ấy gần đây đã chuyển đến Werribee."
+            },
+            {
+              "key": "C",
+              "en": "He has experience working in sales.",
+              "vi": "Ông ấy có kinh nghiệm làm việc trong lĩnh vực bán hàng."
+            },
+            {
+              "key": "D",
+              "en": "He prefers working in a busy setting.",
+              "vi": "Ông ấy thích làm việc trong môi trường bận rộn."
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t10-p7-g155-157",
+      "documents": [
+        {
+          "kind": "advertisement",
+          "content": {
+            "en": "Donovan Auto Lube\n\nDonavan Auto Lube (DAL) is the first choice for residents of Knebworth who want to keep their cars running smoothly. We provide oil changes, tyre rotations, and routine inspections. Our team of certified auto technicians can service all vehicle makes and models. Customers may schedule an appointment or simply drive up to any DAL location during our business hours of 8:00 A.M. to 8:00 P.M., Monday to Saturday, and 11:00 A.M. to 5:00 P.M. on Sunday.\n\nThis summer, DAL offers a special promotion: a 5-quart oil change, oil filter replacement, and comprehensive maintenance check for just £15. This offer is available at all DAL locations throughout Herfordshire but may not be combined with any other promotional offer. The quoted price does not include value-added tax and does not cover any additional maintenance, repairs, and parts that a vehicle inspection may call for.\n\nVisit DAL for all your automotive needs.",
+            "vi": "Donovan Auto Lube\n\nDonavan Auto Lube (DAL) là lựa chọn hàng đầu cho cư dân Knebworth muốn giữ cho xe của mình vận hành trơn tru. Chúng tôi cung cấp dịch vụ thay dầu, đảo lốp và kiểm tra định kỳ. Đội ngũ kỹ thuật viên ô tô được chứng nhận của chúng tôi có thể bảo dưỡng tất cả các hãng và mẫu xe. Khách hàng có thể đặt lịch hẹn hoặc chỉ cần lái xe đến bất kỳ địa điểm DAL nào trong giờ làm việc của chúng tôi từ 8:00 sáng đến 8:00 tối, thứ Hai đến thứ Bảy, và từ 11:00 sáng đến 5:00 chiều vào Chủ Nhật.\n\nMùa hè này, DAL cung cấp một chương trình khuyến mãi đặc biệt: thay 5 quart dầu, thay bộ lọc dầu và kiểm tra bảo dưỡng toàn diện chỉ với £15. Ưu đãi này có sẵn tại tất cả các địa điểm DAL trên khắp Herfordshire nhưng không thể kết hợp với bất kỳ ưu đãi khuyến mãi nào khác. Giá được báo không bao gồm thuế giá trị gia tăng và không bao gồm bất kỳ bảo dưỡng, sửa chữa và phụ tùng bổ sung nào mà việc kiểm tra xe có thể yêu cầu.\n\nHãy đến DAL cho mọi nhu cầu ô tô của bạn."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t10-p7-q155",
+          "number": 155,
+          "question": {
+            "en": "The word “running” in paragraph 1, line 2, is closest in meaning to",
+            "vi": "Từ “running” trong đoạn 1, dòng 2, gần nghĩa nhất với"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "flowing",
+              "vi": "chảy"
+            },
+            {
+              "key": "B",
+              "en": "speeding",
+              "vi": "chạy nhanh"
+            },
+            {
+              "key": "C",
+              "en": "controlling",
+              "vi": "điều khiển"
+            },
+            {
+              "key": "D",
+              "en": "functioning",
+              "vi": "hoạt động"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets24-t10-p7-q156",
+          "number": 156,
+          "question": {
+            "en": "When can a customer NOT be served at Donovan Auto Lube?",
+            "vi": "Khi nào khách hàng KHÔNG thể được phục vụ tại Donovan Auto Lube?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "On Monday at 8:00 A.M.",
+              "vi": "Thứ Hai lúc 8:00 sáng"
+            },
+            {
+              "key": "B",
+              "en": "On Wednesday at 6:00 P.M.",
+              "vi": "Thứ Tư lúc 6:00 chiều"
+            },
+            {
+              "key": "C",
+              "en": "On Saturday at 4:00 P.M.",
+              "vi": "Thứ Bảy lúc 4:00 chiều"
+            },
+            {
+              "key": "D",
+              "en": "On Sunday at 6:00 P.M.",
+              "vi": "Chủ Nhật lúc 6:00 chiều"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets24-t10-p7-q157",
+          "number": 157,
+          "question": {
+            "en": "What is true about the promotional offer?",
+            "vi": "Điều gì đúng về ưu đãi khuyến mãi?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is not valid outside of Knebworth.",
+              "vi": "Ưu đãi không có hiệu lực bên ngoài Knebworth."
+            },
+            {
+              "key": "B",
+              "en": "It includes replacement of a filter.",
+              "vi": "Ưu đãi bao gồm việc thay bộ lọc."
+            },
+            {
+              "key": "C",
+              "en": "It does not apply to a maintenance check.",
+              "vi": "Ưu đãi không áp dụng cho kiểm tra bảo dưỡng."
+            },
+            {
+              "key": "D",
+              "en": "It includes all taxes.",
+              "vi": "Ưu đãi bao gồm tất cả các loại thuế."
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t10-p7-g158-160",
+      "documents": [
+        {
+          "kind": "biography",
+          "content": {
+            "en": "Kasem Ngam is a renowned speaker and author from Nonthaburi province in Thailand. — [1] —. Immediately upon graduating from Sangsuwan University in Bangkok, he joined Chanthara Gas & Electric (CG&E). Over a period of 25 years, he made a name for himself as one of CG&E’s most dedicated and respected employees, even gaining national and international recognition. — [2] —.\n\nMr. Ngam currently runs a consulting firm that he started four years ago to help businesses develop innovative new technologies to power the modern world. — [3] —. He is the author of numerous articles on a variety of topics, including solar panels and hydrogen-powered vehicles. — [4] —. His honors include a Pax Innovation Award for The Future’s Fuel, his book on biofuels, which has been translated into several languages. His forthcoming book, Pricing Our Power: Funding the New Green Energy, will be published in May.",
+            "vi": "Kasem Ngam là một diễn giả và tác giả nổi tiếng đến từ tỉnh Nonthaburi ở Thái Lan. — [1] —. Ngay sau khi tốt nghiệp Đại học Sangsuwan ở Bangkok, ông gia nhập Chanthara Gas & Electric (CG&E). Trong khoảng thời gian 25 năm, ông đã tạo dựng tên tuổi là một trong những nhân viên tận tụy và được kính trọng nhất của CG&E, thậm chí còn đạt được sự công nhận trong nước và quốc tế. — [2] —.\n\nÔng Ngam hiện đang điều hành một công ty tư vấn mà ông đã thành lập bốn năm trước để giúp các doanh nghiệp phát triển những công nghệ mới sáng tạo nhằm cung cấp năng lượng cho thế giới hiện đại. — [3] —. Ông là tác giả của nhiều bài viết về nhiều chủ đề khác nhau, bao gồm tấm pin mặt trời và xe chạy bằng hydro. — [4] —. Các danh hiệu của ông bao gồm Giải thưởng Đổi mới Pax cho The Future’s Fuel, cuốn sách của ông về nhiên liệu sinh học, đã được dịch sang nhiều ngôn ngữ. Cuốn sách sắp ra mắt của ông, Pricing Our Power: Funding the New Green Energy, sẽ được xuất bản vào tháng 5."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t10-p7-q158",
+          "number": 158,
+          "question": {
+            "en": "What industry does Mr. Ngam most likely work in?",
+            "vi": "Ông Ngam có khả năng làm việc trong ngành nào nhất?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Energy",
+              "vi": "Năng lượng"
+            },
+            {
+              "key": "B",
+              "en": "Travel",
+              "vi": "Du lịch"
+            },
+            {
+              "key": "C",
+              "en": "Finance",
+              "vi": "Tài chính"
+            },
+            {
+              "key": "D",
+              "en": "Journalism",
+              "vi": "Báo chí"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets24-t10-p7-q159",
+          "number": 159,
+          "question": {
+            "en": "What is indicated about Mr. Ngam?",
+            "vi": "Điều gì được chỉ ra về ông Ngam?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He is writing his first book.",
+              "vi": "Ông ấy đang viết cuốn sách đầu tiên của mình."
+            },
+            {
+              "key": "B",
+              "en": "He knows several languages.",
+              "vi": "Ông ấy biết nhiều ngôn ngữ."
+            },
+            {
+              "key": "C",
+              "en": "He operates his own business.",
+              "vi": "Ông ấy điều hành doanh nghiệp riêng."
+            },
+            {
+              "key": "D",
+              "en": "He is a recent university graduate.",
+              "vi": "Ông ấy là một sinh viên mới tốt nghiệp đại học."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t10-p7-q160",
+          "number": 160,
+          "question": {
+            "en": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?\n“The last position he held at the company was director of research and development.”",
+            "vi": "Câu sau phù hợp nhất với vị trí nào được đánh dấu [1], [2], [3], và [4]?\n“Vị trí cuối cùng mà ông ấy đảm nhiệm tại công ty là giám đốc nghiên cứu và phát triển.”"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "[1]",
+              "vi": "[1]"
+            },
+            {
+              "key": "B",
+              "en": "[2]",
+              "vi": "[2]"
+            },
+            {
+              "key": "C",
+              "en": "[3]",
+              "vi": "[3]"
+            },
+            {
+              "key": "D",
+              "en": "[4]",
+              "vi": "[4]"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t10-p7-g161-163",
+      "documents": [
+        {
+          "kind": "article",
+          "content": {
+            "en": "Jobs Coming to Willettville\n\nWILLETTVILLE (March 8)—Tanney’s Discount Mart (TDM) announced today that it will hold a job fair in Willettville later this month. The company, headquartered in nearby Lyter City, is looking to fill 300 positions at its new distribution center, set to open here next month. In addition to seeking technicians and supervisors, the company wants to fill positions in the processing, stock inspection, and maintenance departments.\n\n“TDM’s distribution centers use modern automated systems, which creates a big need for qualified technical staff in particular,” Kent Siler, TDM’s president, said in a press release announcing the job fair.\n\nThe event will be held from 9:30 A.M. to 6:30 P.M. on Thursday, March 20, in the ballroom of the Twin Ridges Hotel. Details can be found by visiting tdm.com/careers.\n\n“This recruiting event will help us find the staff we need to meet the anticipated growth in demand for our products,” said Mr. Siler. “TDM continues to expand its position in discount retail. So far this year, we have opened three stores, and we have five more slated to open by the end of next year.” Mr. Siler noted, moreover, that TDM offers competitive wages for full-time and part-time employment.",
+            "vi": "Việc làm sắp đến với Willettville\n\nWILLETTVILLE (ngày 8 tháng 3)—Tanney’s Discount Mart (TDM) hôm nay thông báo rằng công ty sẽ tổ chức một hội chợ việc làm tại Willettville vào cuối tháng này. Công ty, có trụ sở chính tại Lyter City gần đó, đang tìm cách tuyển 300 vị trí tại trung tâm phân phối mới của mình, dự kiến mở cửa tại đây vào tháng tới. Ngoài việc tìm kiếm kỹ thuật viên và giám sát viên, công ty muốn tuyển các vị trí trong các bộ phận xử lý, kiểm tra hàng tồn kho và bảo trì.\n\n“Các trung tâm phân phối của TDM sử dụng các hệ thống tự động hiện đại, điều này tạo ra nhu cầu lớn đối với đội ngũ kỹ thuật có trình độ, đặc biệt là nhân viên kỹ thuật,” Kent Siler, chủ tịch của TDM, cho biết trong một thông cáo báo chí thông báo về hội chợ việc làm.\n\nSự kiện sẽ được tổ chức từ 9:30 sáng đến 6:30 chiều vào thứ Năm, ngày 20 tháng 3, tại phòng khiêu vũ của Khách sạn Twin Ridges. Có thể tìm thấy chi tiết bằng cách truy cập tdm.com/careers.\n\n“Sự kiện tuyển dụng này sẽ giúp chúng tôi tìm được đội ngũ nhân sự cần thiết để đáp ứng mức tăng trưởng nhu cầu dự kiến đối với các sản phẩm của chúng tôi,” ông Siler nói. “TDM tiếp tục mở rộng vị thế của mình trong lĩnh vực bán lẻ giảm giá. Tính đến thời điểm hiện tại trong năm nay, chúng tôi đã mở ba cửa hàng, và còn năm cửa hàng nữa dự kiến sẽ mở trước cuối năm sau.” Hơn nữa, ông Siler lưu ý rằng TDM cung cấp mức lương cạnh tranh cho cả việc làm toàn thời gian và bán thời gian."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t10-p7-q161",
+          "number": 161,
+          "question": {
+            "en": "What is stated about TDM’s new distribution center?",
+            "vi": "Điều gì được nêu về trung tâm phân phối mới của TDM?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is the company’s first distribution center to use automated systems.",
+              "vi": "Đây là trung tâm phân phối đầu tiên của công ty sử dụng hệ thống tự động."
+            },
+            {
+              "key": "B",
+              "en": "It is the largest facility the company has built.",
+              "vi": "Đây là cơ sở lớn nhất mà công ty đã xây dựng."
+            },
+            {
+              "key": "C",
+              "en": "It is scheduled to open in April.",
+              "vi": "Trung tâm này dự kiến mở cửa vào tháng 4."
+            },
+            {
+              "key": "D",
+              "en": "It was designed by an architectural firm in Willettville.",
+              "vi": "Trung tâm này được thiết kế bởi một công ty kiến trúc ở Willettville."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t10-p7-q162",
+          "number": 162,
+          "question": {
+            "en": "What is NOT mentioned about the job fair?",
+            "vi": "Điều gì KHÔNG được đề cập về hội chợ việc làm?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "The kinds of jobs offered",
+              "vi": "Các loại công việc được cung cấp"
+            },
+            {
+              "key": "B",
+              "en": "The day and date it will be held",
+              "vi": "Ngày trong tuần và ngày tháng sự kiện sẽ được tổ chức"
+            },
+            {
+              "key": "C",
+              "en": "The types of refreshments served",
+              "vi": "Các loại đồ ăn nhẹ và thức uống được phục vụ"
+            },
+            {
+              "key": "D",
+              "en": "The source for detailed information",
+              "vi": "Nguồn thông tin chi tiết"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t10-p7-q163",
+          "number": 163,
+          "question": {
+            "en": "What does Mr. Siler indicate about TDM?",
+            "vi": "Ông Siler cho biết điều gì về TDM?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is a growing business.",
+              "vi": "Đây là một doanh nghiệp đang phát triển."
+            },
+            {
+              "key": "B",
+              "en": "It sponsors an annual job fair.",
+              "vi": "Công ty tài trợ một hội chợ việc làm hằng năm."
+            },
+            {
+              "key": "C",
+              "en": "It is staffed mostly by part-time workers.",
+              "vi": "Công ty có nhân sự chủ yếu là lao động bán thời gian."
+            },
+            {
+              "key": "D",
+              "en": "It relies heavily on online sales.",
+              "vi": "Công ty phụ thuộc nhiều vào bán hàng trực tuyến."
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t10-p7-g164-167",
+      "documents": [
+        {
+          "kind": "online_chat_discussion",
+          "content": {
+            "en": "Rashaan Little (5:40 P.M.)\nHi, Amanda and Desmond. Earlier today I learned that the town has hired our company to demolish the lighthouse.\n\nAmanda Richards (5:43 P.M.)\nSo did I. I have mixed feelings about taking down that structure, though.\n\nDesmond Williams (5:43 P.M.)\nThis is the first time that I’m learning about that. I was out of the office all day today.\n\nRashaan Little (5:44 P.M.)\nHow so, Amanda?\n\nAmanda Richards (5:46 P.M.)\nWell, given that business has been quite slow lately, our company needs the work. Then again, the lighthouse has historic value: it has been a major landmark of Burlingate for 100 years.\n\nRashaan Little (5:48 P.M.)\nI realize that. But the company can’t afford to pass up this opportunity for the reason you mentioned. Besides, lighthouses have largely become outdated.\n\nDesmond Williams (5:49 P.M.)\nNot really. There’s always a need for ships to get warnings about dangerous locations. Lighthouses have served that function for years.\n\nRashaan Little (5:51 P.M.)\nTrue, but modern technological equipment exists now that simplifies navigation and increasingly makes lighthouses a thing of the past. Anyway, let’s meet tomorrow at 10:00 A.M. to discuss how we’ll carry out this job.",
+            "vi": "Rashaan Little (5:40 chiều)\nChào Amanda và Desmond. Sáng nay tôi biết được rằng thị trấn đã thuê công ty chúng ta phá dỡ ngọn hải đăng.\n\nAmanda Richards (5:43 chiều)\nTôi cũng biết vậy. Tuy nhiên, tôi có cảm xúc lẫn lộn về việc tháo dỡ công trình đó.\n\nDesmond Williams (5:43 chiều)\nĐây là lần đầu tiên tôi nghe về chuyện đó. Hôm nay tôi đã ra ngoài văn phòng cả ngày.\n\nRashaan Little (5:44 chiều)\nÝ cô là sao, Amanda?\n\nAmanda Richards (5:46 chiều)\nÀ, xét đến việc kinh doanh gần đây khá chậm, công ty chúng ta cần công việc này. Nhưng mặt khác, ngọn hải đăng có giá trị lịch sử: nó đã là một địa danh lớn của Burlingate trong 100 năm.\n\nRashaan Little (5:48 chiều)\nTôi hiểu điều đó. Nhưng công ty không thể bỏ qua cơ hội này vì lý do cô vừa đề cập. Hơn nữa, các ngọn hải đăng phần lớn đã trở nên lỗi thời.\n\nDesmond Williams (5:49 chiều)\nKhông hẳn vậy. Luôn có nhu cầu để tàu thuyền nhận được cảnh báo về các vị trí nguy hiểm. Hải đăng đã phục vụ chức năng đó trong nhiều năm.\n\nRashaan Little (5:51 chiều)\nĐúng vậy, nhưng hiện nay đã có thiết bị công nghệ hiện đại giúp đơn giản hóa việc định vị và ngày càng khiến hải đăng trở thành thứ của quá khứ. Dù sao thì, hãy gặp nhau lúc 10:00 sáng mai để thảo luận cách chúng ta sẽ thực hiện công việc này."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t10-p7-q164",
+          "number": 164,
+          "question": {
+            "en": "In what type of business do the writers most likely work?",
+            "vi": "Những người viết có khả năng làm việc trong loại hình kinh doanh nào nhất?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Building demolition",
+              "vi": "Phá dỡ công trình"
+            },
+            {
+              "key": "B",
+              "en": "Shipping technology",
+              "vi": "Công nghệ vận chuyển đường biển"
+            },
+            {
+              "key": "C",
+              "en": "Corporate accounting",
+              "vi": "Kế toán doanh nghiệp"
+            },
+            {
+              "key": "D",
+              "en": "Historical preservation",
+              "vi": "Bảo tồn lịch sử"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets24-t10-p7-q165",
+          "number": 165,
+          "question": {
+            "en": "What is indicated about the company the writers work for?",
+            "vi": "Điều gì được chỉ ra về công ty mà những người viết làm việc?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It recently purchased ultramodern equipment.",
+              "vi": "Công ty gần đây đã mua thiết bị siêu hiện đại."
+            },
+            {
+              "key": "B",
+              "en": "It has experienced a decline in business.",
+              "vi": "Công ty đã trải qua sự sụt giảm trong kinh doanh."
+            },
+            {
+              "key": "C",
+              "en": "It is regularly hired by the town council.",
+              "vi": "Công ty thường xuyên được hội đồng thị trấn thuê."
+            },
+            {
+              "key": "D",
+              "en": "It has been in business for 100 years.",
+              "vi": "Công ty đã hoạt động được 100 năm."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t10-p7-q166",
+          "number": 166,
+          "question": {
+            "en": "At 5:48 P.M., what does Mr. Little most likely mean when he writes, “I realize that”?",
+            "vi": "Vào lúc 5:48 chiều, ông Little có khả năng muốn nói gì nhất khi viết “Tôi hiểu điều đó”?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He knows why Mr. Williams had been absent.",
+              "vi": "Ông ấy biết lý do ông Williams đã vắng mặt."
+            },
+            {
+              "key": "B",
+              "en": "He recognizes the significance of the lighthouse for the town.",
+              "vi": "Ông ấy nhận ra tầm quan trọng của ngọn hải đăng đối với thị trấn."
+            },
+            {
+              "key": "C",
+              "en": "He understands how important the company is for the town.",
+              "vi": "Ông ấy hiểu công ty quan trọng như thế nào đối với thị trấn."
+            },
+            {
+              "key": "D",
+              "en": "He is aware that Ms. Richards knows much about the town’s history.",
+              "vi": "Ông ấy biết rằng cô Richards biết nhiều về lịch sử của thị trấn."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t10-p7-q167",
+          "number": 167,
+          "question": {
+            "en": "What will the writers most likely do tomorrow morning?",
+            "vi": "Những người viết có khả năng sẽ làm gì vào sáng mai?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Advertise new job openings",
+              "vi": "Quảng cáo các vị trí tuyển dụng mới"
+            },
+            {
+              "key": "B",
+              "en": "Attend a town council meeting",
+              "vi": "Tham dự một cuộc họp hội đồng thị trấn"
+            },
+            {
+              "key": "C",
+              "en": "Go on a tour of the lighthouse",
+              "vi": "Tham quan ngọn hải đăng"
+            },
+            {
+              "key": "D",
+              "en": "Start planning for an upcoming project",
+              "vi": "Bắt đầu lập kế hoạch cho một dự án sắp tới"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t10-p7-g168-171",
+      "documents": [
+        {
+          "kind": "brochure",
+          "content": {
+            "en": "Contempo Spaces\nWindow Treatment Package\n\nIf you are considering redecorating the windows of your living room, dining room, or bedroom, Contempo Spaces has the perfect treatment design package for you. — [1] —. We will help you put together the right combination of shades, panels, drapes, and valances—all perfectly tailored to fit your windows.\n\nHere’s how it works:\n\n• First, one of our style representatives will come to your home and measure and photograph the windows in each room.\n\n• During that visit, our representative will show you samples of the many styles of fabrics and hardware available in our product line. — [2] —. Or, you can opt to visit our showroom after the home visit and make your selections there.\n\n• One or two days after you’ve made your window treatment decisions, we will send you an invoice, listing the cost for materials, installation, and labor. The quoted price is valid for thirty days. Upon receipt of payment, materials will be ordered. It usually takes from seven to fourteen days for them to reach our store. — [3] —.\n\n• Finally, we will contact you to schedule the date and time of installation. — [4] —. Depending on the size of the project, installation can take two to eight hours.",
+            "vi": "Contempo Spaces\nGói thiết kế trang trí cửa sổ\n\nNếu bạn đang cân nhắc trang trí lại cửa sổ phòng khách, phòng ăn hoặc phòng ngủ của mình, Contempo Spaces có gói thiết kế trang trí hoàn hảo dành cho bạn. — [1] —. Chúng tôi sẽ giúp bạn kết hợp đúng các loại rèm cuốn, tấm rèm, rèm vải và diềm rèm — tất cả đều được thiết kế vừa vặn hoàn hảo với cửa sổ của bạn.\n\nCách hoạt động như sau:\n\n• Trước tiên, một trong những đại diện phong cách của chúng tôi sẽ đến nhà bạn để đo và chụp ảnh các cửa sổ trong từng phòng.\n\n• Trong lần ghé thăm đó, đại diện của chúng tôi sẽ cho bạn xem các mẫu của nhiều kiểu vải và phụ kiện có sẵn trong dòng sản phẩm của chúng tôi. — [2] —. Hoặc, bạn có thể chọn ghé thăm phòng trưng bày của chúng tôi sau buổi ghé thăm tại nhà và đưa ra lựa chọn tại đó.\n\n• Một hoặc hai ngày sau khi bạn đưa ra quyết định về trang trí cửa sổ, chúng tôi sẽ gửi cho bạn một hóa đơn, liệt kê chi phí vật liệu, lắp đặt và nhân công. Giá được báo có hiệu lực trong ba mươi ngày. Sau khi nhận được thanh toán, vật liệu sẽ được đặt hàng. Thông thường mất từ bảy đến mười bốn ngày để chúng đến cửa hàng của chúng tôi. — [3] —.\n\n• Cuối cùng, chúng tôi sẽ liên hệ với bạn để lên lịch ngày và giờ lắp đặt. — [4] —. Tùy thuộc vào quy mô của dự án, việc lắp đặt có thể mất từ hai đến tám giờ."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t10-p7-q168",
+          "number": 168,
+          "question": {
+            "en": "What is the purpose of the brochure?",
+            "vi": "Mục đích của tờ giới thiệu là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To explain a new policy",
+              "vi": "Để giải thích một chính sách mới"
+            },
+            {
+              "key": "B",
+              "en": "To describe a popular product",
+              "vi": "Để mô tả một sản phẩm phổ biến"
+            },
+            {
+              "key": "C",
+              "en": "To advertise a special discount",
+              "vi": "Để quảng cáo một chương trình giảm giá đặc biệt"
+            },
+            {
+              "key": "D",
+              "en": "To present a standard process",
+              "vi": "Để trình bày một quy trình tiêu chuẩn"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets24-t10-p7-q169",
+          "number": 169,
+          "question": {
+            "en": "After how many days might the total cost listed in an invoice change?",
+            "vi": "Sau bao nhiêu ngày thì tổng chi phí được liệt kê trong hóa đơn có thể thay đổi?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Two",
+              "vi": "Hai"
+            },
+            {
+              "key": "B",
+              "en": "Seven",
+              "vi": "Bảy"
+            },
+            {
+              "key": "C",
+              "en": "Fourteen",
+              "vi": "Mười bốn"
+            },
+            {
+              "key": "D",
+              "en": "Thirty",
+              "vi": "Ba mươi"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets24-t10-p7-q170",
+          "number": 170,
+          "question": {
+            "en": "What is indicated in the brochure about installation?",
+            "vi": "Điều gì được chỉ ra trong tờ giới thiệu về việc lắp đặt?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is not available for all window treatments.",
+              "vi": "Dịch vụ này không có sẵn cho tất cả các loại trang trí cửa sổ."
+            },
+            {
+              "key": "B",
+              "en": "It is the responsibility of the customer.",
+              "vi": "Đây là trách nhiệm của khách hàng."
+            },
+            {
+              "key": "C",
+              "en": "It takes no more than eight hours to complete.",
+              "vi": "Việc này mất không quá tám giờ để hoàn thành."
+            },
+            {
+              "key": "D",
+              "en": "It is subcontracted to an outside vendor.",
+              "vi": "Việc này được giao cho một nhà thầu phụ bên ngoài."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t10-p7-q171",
+          "number": 171,
+          "question": {
+            "en": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?\n“Our entire style collection can be viewed on our Web site.”",
+            "vi": "Câu sau phù hợp nhất với vị trí nào được đánh dấu [1], [2], [3], và [4]?\n“Toàn bộ bộ sưu tập phong cách của chúng tôi có thể được xem trên trang web của chúng tôi.”"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "[1]",
+              "vi": "[1]"
+            },
+            {
+              "key": "B",
+              "en": "[2]",
+              "vi": "[2]"
+            },
+            {
+              "key": "C",
+              "en": "[3]",
+              "vi": "[3]"
+            },
+            {
+              "key": "D",
+              "en": "[4]",
+              "vi": "[4]"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t10-p7-g172-175",
+      "documents": [
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Morgan Tebele <mtebele@newsom.com.na>\nFrom: Esme Mukaya <emukaya@skyleopard.com.na>\nDate: 21 August\nSubject: Offer\n\nDear Mr. Tebele,\n\nWhether you are refinancing a loan, training personnel, or marketing your financial services online, having fast, reliable Internet access is essential for bank managers like you. Sky Leopard Communications delivers just that, thanks to its highly advanced network and dedicated workforce.\n\nIn fact, a recent survey conducted by the Namibian Association of Small-Business Owners (NASO) revealed that 75 percent of its members prefer our services over those of our competitors.\n\nThe reason: in addition to our state-of-the-art Internet infrastructure and our outstanding pool of technicians, we offer premium Internet connectivity through our High-Velocity Internet Access (HIVIA) service plan. HIVIA provides download and upload speeds that are three times faster than those of our closest competitor.\n\nSky Leopard Communications offers new customers and those using one of our other service plans the opportunity to try HIVIA for free for 30 days. To subscribe, visit us at www.skyleopard.com.na or call us at 061-987-555. If at any time during the one-month trial period you are not satisfied with this plan, you can unsubscribe from the service at no cost to you.\n\nSincerely,\n\nEsme Mukaya, Sales",
+            "vi": "Đến: Morgan Tebele <mtebele@newsom.com.na>\nTừ: Esme Mukaya <emukaya@skyleopard.com.na>\nNgày: 21 tháng 8\nChủ đề: Ưu đãi\n\nKính gửi ông Tebele,\n\nCho dù ông đang tái cấp vốn cho một khoản vay, đào tạo nhân sự hay tiếp thị các dịch vụ tài chính của mình trực tuyến, việc có quyền truy cập Internet nhanh và đáng tin cậy là điều thiết yếu đối với các nhà quản lý ngân hàng như ông. Sky Leopard Communications cung cấp đúng điều đó, nhờ vào mạng lưới rất tiên tiến và đội ngũ nhân viên tận tâm.\n\nThật vậy, một khảo sát gần đây do Hiệp hội Chủ Doanh nghiệp Nhỏ Namibia (NASO) thực hiện cho thấy 75 phần trăm thành viên của hiệp hội này ưa chuộng dịch vụ của chúng tôi hơn dịch vụ của các đối thủ cạnh tranh.\n\nLý do là: ngoài cơ sở hạ tầng Internet hiện đại và đội ngũ kỹ thuật viên xuất sắc, chúng tôi còn cung cấp kết nối Internet cao cấp thông qua gói dịch vụ High-Velocity Internet Access (HIVIA). HIVIA cung cấp tốc độ tải xuống và tải lên nhanh gấp ba lần so với đối thủ cạnh tranh gần nhất của chúng tôi.\n\nSky Leopard Communications cung cấp cho khách hàng mới và những người đang sử dụng một trong các gói dịch vụ khác của chúng tôi cơ hội dùng thử HIVIA miễn phí trong 30 ngày. Để đăng ký, hãy truy cập www.skyleopard.com.na hoặc gọi cho chúng tôi theo số 061-987-555. Nếu bất kỳ lúc nào trong thời gian dùng thử một tháng mà ông không hài lòng với gói này, ông có thể hủy đăng ký dịch vụ mà không mất phí.\n\nTrân trọng,\n\nEsme Mukaya, Bộ phận Kinh doanh"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t10-p7-q172",
+          "number": 172,
+          "question": {
+            "en": "What business is Mr. Tebele most likely in?",
+            "vi": "Ông Tebele có khả năng làm trong lĩnh vực kinh doanh nào nhất?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Web design",
+              "vi": "Thiết kế web"
+            },
+            {
+              "key": "B",
+              "en": "Hospitality",
+              "vi": "Khách sạn"
+            },
+            {
+              "key": "C",
+              "en": "Marketing",
+              "vi": "Tiếp thị"
+            },
+            {
+              "key": "D",
+              "en": "Banking",
+              "vi": "Ngân hàng"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets24-t10-p7-q173",
+          "number": 173,
+          "question": {
+            "en": "What is indicated about Sky Leopard Communications?",
+            "vi": "Điều gì được chỉ ra về Sky Leopard Communications?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It offers a discount to NASO members.",
+              "vi": "Công ty cung cấp giảm giá cho các thành viên NASO."
+            },
+            {
+              "key": "B",
+              "en": "It is popular with small-business owners.",
+              "vi": "Công ty được các chủ doanh nghiệp nhỏ ưa chuộng."
+            },
+            {
+              "key": "C",
+              "en": "It recently launched a new service plan.",
+              "vi": "Công ty gần đây đã ra mắt một gói dịch vụ mới."
+            },
+            {
+              "key": "D",
+              "en": "It is looking to increase its workforce.",
+              "vi": "Công ty đang tìm cách tăng lực lượng lao động."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t10-p7-q174",
+          "number": 174,
+          "question": {
+            "en": "The word “outstanding” in paragraph 3, line 1, is closest in meaning to",
+            "vi": "Từ “outstanding” trong đoạn 3, dòng 1, gần nghĩa nhất với"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "diverse",
+              "vi": "đa dạng"
+            },
+            {
+              "key": "B",
+              "en": "available",
+              "vi": "có sẵn"
+            },
+            {
+              "key": "C",
+              "en": "excellent",
+              "vi": "xuất sắc"
+            },
+            {
+              "key": "D",
+              "en": "remaining",
+              "vi": "còn lại"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t10-p7-q175",
+          "number": 175,
+          "question": {
+            "en": "What can be concluded about the HIVIA service plan?",
+            "vi": "Có thể kết luận điều gì về gói dịch vụ HIVIA?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is more expensive than other plans.",
+              "vi": "Gói này đắt hơn các gói khác."
+            },
+            {
+              "key": "B",
+              "en": "It was created following a customer survey.",
+              "vi": "Gói này được tạo ra sau một khảo sát khách hàng."
+            },
+            {
+              "key": "C",
+              "en": "It requires the purchase of special equipment.",
+              "vi": "Gói này yêu cầu mua thiết bị đặc biệt."
+            },
+            {
+              "key": "D",
+              "en": "It can be canceled within the first month at no charge.",
+              "vi": "Gói này có thể được hủy trong tháng đầu tiên mà không mất phí."
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t10-p7-g176-180",
+      "documents": [
+        {
+          "kind": "webinar_description",
+          "content": {
+            "en": "Introduction to Project Management\nOnline Webinar\n18 January, 9 A.M.–2 P.M.\nPresenter: Shrijana Patel\nCost: €45\n(Register by 10 January and receive a 10% discount!)\n\nThis live webinar offers attendees a better understanding of how to improve the role that project management plays in their organizations. The presentation will provide the basics of managing projects and workers. Participants will learn strategies and best practices to effectively oversee their projects and foster buy-in from key players.\n\nParticipants will explore a simple step-by-step process for managing projects and learn how to use tools and documents such as scope statements and communication plans. The presenter will also cover topics such as developing a project’s business case and facilitating productive team meetings.",
+            "vi": "Giới thiệu về Quản lý Dự án\nHội thảo trực tuyến\nNgày 18 tháng 1, 9:00 sáng–2:00 chiều\nNgười trình bày: Shrijana Patel\nChi phí: €45\n(Đăng ký trước ngày 10 tháng 1 và nhận giảm giá 10%!)\n\nHội thảo trực tuyến trực tiếp này cung cấp cho người tham dự sự hiểu biết tốt hơn về cách cải thiện vai trò của quản lý dự án trong tổ chức của họ. Bài trình bày sẽ cung cấp những kiến thức cơ bản về quản lý dự án và nhân sự. Người tham gia sẽ học các chiến lược và phương pháp thực hành tốt nhất để giám sát hiệu quả các dự án của họ và thúc đẩy sự ủng hộ từ những nhân sự chủ chốt.\n\nNgười tham gia sẽ tìm hiểu một quy trình từng bước đơn giản để quản lý dự án và học cách sử dụng các công cụ và tài liệu như tuyên bố phạm vi và kế hoạch giao tiếp. Người trình bày cũng sẽ nói về các chủ đề như phát triển cơ sở kinh doanh của dự án và điều phối các cuộc họp nhóm hiệu quả."
+          }
+        },
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Maya Liu\nFrom: Leonard Chung\nSubject: Webinar\nDate: 2 January\n\nDear Ms. Liu:\n\nThank you for sending me the webinar announcement. As a novice supervisor, I need to get all the training I can, but I’m not sure whether I will be able to take advantage of this particular offering. I am scheduled to present a detailed project update at my company’s quarterly division meeting on the same day, and I don’t think anyone else on the team would be able to take my place.\n\nDo you know whether the webinar will be recorded or whether there will be a similar webinar at a later date? I have no schedule conflicts after 29 January.\n\nLeonard Chung",
+            "vi": "Đến: Maya Liu\nTừ: Leonard Chung\nChủ đề: Hội thảo trực tuyến\nNgày: 2 tháng 1\n\nKính gửi cô Liu:\n\nCảm ơn cô đã gửi cho tôi thông báo về hội thảo trực tuyến. Là một giám sát viên mới vào nghề, tôi cần nhận được càng nhiều đào tạo càng tốt, nhưng tôi không chắc liệu mình có thể tận dụng cơ hội cụ thể này hay không. Tôi đã được lên lịch trình bày bản cập nhật dự án chi tiết tại cuộc họp bộ phận hằng quý của công ty vào cùng ngày, và tôi không nghĩ có ai khác trong nhóm có thể thay tôi.\n\nCô có biết liệu hội thảo trực tuyến sẽ được ghi lại hay liệu sẽ có một hội thảo tương tự vào một ngày sau đó không? Tôi không có xung đột lịch trình nào sau ngày 29 tháng 1.\n\nLeonard Chung"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t10-p7-q176",
+          "number": 176,
+          "question": {
+            "en": "What is indicated about the webinar?",
+            "vi": "Điều gì được chỉ ra về hội thảo trực tuyến?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It includes a session on preparing for job interviews.",
+              "vi": "Hội thảo bao gồm một buổi về chuẩn bị cho phỏng vấn xin việc."
+            },
+            {
+              "key": "B",
+              "en": "It will show participants how to use specific tools.",
+              "vi": "Hội thảo sẽ chỉ cho người tham gia cách sử dụng các công cụ cụ thể."
+            },
+            {
+              "key": "C",
+              "en": "There is no charge for participants.",
+              "vi": "Người tham gia không phải trả phí."
+            },
+            {
+              "key": "D",
+              "en": "Registration closes on January 10.",
+              "vi": "Việc đăng ký kết thúc vào ngày 10 tháng 1."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t10-p7-q177",
+          "number": 177,
+          "question": {
+            "en": "In the webinar description, the word “cover” in paragraph 2, line 3, is closest in meaning to",
+            "vi": "Trong mô tả hội thảo trực tuyến, từ “cover” trong đoạn 2, dòng 3, gần nghĩa nhất với"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "protect",
+              "vi": "bảo vệ"
+            },
+            {
+              "key": "B",
+              "en": "spread",
+              "vi": "lan rộng"
+            },
+            {
+              "key": "C",
+              "en": "ask for",
+              "vi": "yêu cầu"
+            },
+            {
+              "key": "D",
+              "en": "talk about",
+              "vi": "nói về"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets24-t10-p7-q178",
+          "number": 178,
+          "question": {
+            "en": "What is one purpose of the e-mail?",
+            "vi": "Một mục đích của e-mail là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To explain a scheduling conflict",
+              "vi": "Để giải thích một xung đột lịch trình"
+            },
+            {
+              "key": "B",
+              "en": "To request a deadline extension",
+              "vi": "Để yêu cầu gia hạn thời hạn"
+            },
+            {
+              "key": "C",
+              "en": "To apologize for arriving late to an event",
+              "vi": "Để xin lỗi vì đến muộn tại một sự kiện"
+            },
+            {
+              "key": "D",
+              "en": "To ask for help in preparing a presentation",
+              "vi": "Để nhờ giúp chuẩn bị một bài thuyết trình"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets24-t10-p7-q179",
+          "number": 179,
+          "question": {
+            "en": "What is suggested about Mr. Chung?",
+            "vi": "Điều gì được gợi ý về ông Chung?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He plans to record his presentation.",
+              "vi": "Ông ấy dự định ghi lại bài thuyết trình của mình."
+            },
+            {
+              "key": "B",
+              "en": "He often trains new project managers.",
+              "vi": "Ông ấy thường đào tạo các quản lý dự án mới."
+            },
+            {
+              "key": "C",
+              "en": "He attends webinars on a regular basis.",
+              "vi": "Ông ấy tham dự hội thảo trực tuyến thường xuyên."
+            },
+            {
+              "key": "D",
+              "en": "He has relatively little experience as a supervisor.",
+              "vi": "Ông ấy có tương đối ít kinh nghiệm làm giám sát viên."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets24-t10-p7-q180",
+          "number": 180,
+          "question": {
+            "en": "On what date is Mr. Chung scheduled to give a presentation?",
+            "vi": "Ông Chung được lên lịch thuyết trình vào ngày nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "January 2",
+              "vi": "Ngày 2 tháng 1"
+            },
+            {
+              "key": "B",
+              "en": "January 10",
+              "vi": "Ngày 10 tháng 1"
+            },
+            {
+              "key": "C",
+              "en": "January 18",
+              "vi": "Ngày 18 tháng 1"
+            },
+            {
+              "key": "D",
+              "en": "January 29",
+              "vi": "Ngày 29 tháng 1"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t10-p7-g181-185",
+      "documents": [
+        {
+          "kind": "article",
+          "content": {
+            "en": "GALWAY (4 March)—Adelle Rosier, a third-generation soap maker, opened her shop in Galway eight years ago. Nestled behind Eglinton Gourmet Market on Raven Terrace, her business, Rosier and Finch, is booming.\n\nMs. Rosier credits the success to her commitment to lifelong learning. “Yes, my handcrafted soaps, shampoos, and lotions are luxurious,” she said. “But there are a lot of high-quality skin-care products out there. So after learning the trade from my family, I have increased my sales knowledge by taking online courses in business-to-business (B2B) marketing.”\n\nMs. Rosier adds that those courses built her confidence in selling her products directly to hotels. “Thanks to what I learned in my B2B strategies courses, I managed to persuade a number of boutique hotels in Europe to try my products.” And so Rosier and Finch skin-care products are available in guest rooms at, for instance, the Bruadair Hotel in Galway, the Florinda Grand in Lisbon, Portugal, and the Zerra Inn in Reykjavik, Iceland.\n\nMs. Rosier further points out that many of her customers first learn of her products during a hotel stay. Afterward, they visit the shop in person or go online to purchase the items for themselves.\n\nRosier and Finch is located at 12 Raven Terrace and can be found online at www.rosierandfinch.co.ie.",
+            "vi": "GALWAY (ngày 4 tháng 3)—Adelle Rosier, một người làm xà phòng thế hệ thứ ba, đã mở cửa hàng của mình ở Galway tám năm trước. Nằm phía sau Eglinton Gourmet Market trên Raven Terrace, doanh nghiệp của cô, Rosier and Finch, đang phát triển mạnh.\n\nCô Rosier cho rằng thành công này đến từ cam kết học tập suốt đời của mình. “Đúng vậy, xà phòng, dầu gội và kem dưỡng thủ công của tôi rất sang trọng,” cô nói. “Nhưng ngoài kia có rất nhiều sản phẩm chăm sóc da chất lượng cao. Vì vậy, sau khi học nghề từ gia đình, tôi đã nâng cao kiến thức bán hàng của mình bằng cách tham gia các khóa học trực tuyến về tiếp thị doanh nghiệp với doanh nghiệp (B2B).”\n\nCô Rosier nói thêm rằng các khóa học đó đã giúp cô tự tin hơn trong việc bán sản phẩm trực tiếp cho các khách sạn. “Nhờ những gì tôi học được trong các khóa học chiến lược B2B, tôi đã thuyết phục được một số khách sạn boutique ở châu Âu dùng thử sản phẩm của mình.” Và vì vậy, các sản phẩm chăm sóc da Rosier and Finch có sẵn trong phòng khách tại, chẳng hạn, Bruadair Hotel ở Galway, Florinda Grand ở Lisbon, Bồ Đào Nha, và Zerra Inn ở Reykjavik, Iceland.\n\nCô Rosier cũng chỉ ra thêm rằng nhiều khách hàng của cô lần đầu biết đến sản phẩm của cô trong thời gian lưu trú tại khách sạn. Sau đó, họ đến trực tiếp cửa hàng hoặc lên mạng để mua các sản phẩm cho chính mình.\n\nRosier and Finch nằm tại số 12 Raven Terrace và có thể được tìm thấy trực tuyến tại www.rosierandfinch.co.ie."
+          }
+        },
+        {
+          "kind": "review",
+          "content": {
+            "en": "https://www.florindagrand.pt/en/guest_reviews\n\nI had to arrange a last-minute business trip to my company’s Portugal office, and the usual hotel I book was completely full. Based on some online recommendations, I decided to stay at Florinda Grand. While this charming hotel is much smaller than the usual places I stay, it has every comfort one would want during a business trip. In addition to a tastefully decorated and comfortable room, there were gourmet treats on my pillowcase and the finest soap, shampoo, and other toiletries available for me to enjoy. My only regret is that I was in Lisbon for just three days. Next time I visit the Lisbon office, I will stay longer and book a room at the Florinda Grand.\n\n—posted by Ashton Wu, 7 June",
+            "vi": "https://www.florindagrand.pt/en/guest_reviews\n\nTôi đã phải sắp xếp một chuyến công tác phút chót đến văn phòng của công ty tôi ở Bồ Đào Nha, và khách sạn tôi thường đặt đã kín phòng hoàn toàn. Dựa trên một số đề xuất trực tuyến, tôi quyết định ở tại Florinda Grand. Mặc dù khách sạn duyên dáng này nhỏ hơn nhiều so với những nơi tôi thường ở, nó có mọi tiện nghi mà một người mong muốn trong chuyến công tác. Ngoài căn phòng được trang trí trang nhã và thoải mái, còn có những món ăn ngon cao cấp trên vỏ gối của tôi và xà phòng, dầu gội cùng các đồ vệ sinh cá nhân tốt nhất có sẵn để tôi sử dụng. Điều tiếc nuối duy nhất của tôi là tôi chỉ ở Lisbon trong ba ngày. Lần tới khi tôi đến văn phòng Lisbon, tôi sẽ ở lâu hơn và đặt phòng tại Florinda Grand.\n\n—được đăng bởi Ashton Wu, ngày 7 tháng 6"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t10-p7-q181",
+          "number": 181,
+          "question": {
+            "en": "What is the purpose of the article?",
+            "vi": "Mục đích của bài báo là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To provide annual hotel ratings",
+              "vi": "Để cung cấp xếp hạng khách sạn hằng năm"
+            },
+            {
+              "key": "B",
+              "en": "To announce the opening of a store",
+              "vi": "Để thông báo việc mở một cửa hàng"
+            },
+            {
+              "key": "C",
+              "en": "To profile a small-business owner",
+              "vi": "Để giới thiệu chân dung một chủ doanh nghiệp nhỏ"
+            },
+            {
+              "key": "D",
+              "en": "To discuss online shopping trends",
+              "vi": "Để thảo luận về xu hướng mua sắm trực tuyến"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t10-p7-q182",
+          "number": 182,
+          "question": {
+            "en": "How did Ms. Rosier improve her marketing skills?",
+            "vi": "Cô Rosier đã cải thiện kỹ năng tiếp thị của mình như thế nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "By visiting family members overseas",
+              "vi": "Bằng cách thăm các thành viên gia đình ở nước ngoài"
+            },
+            {
+              "key": "B",
+              "en": "By joining a professional association",
+              "vi": "Bằng cách tham gia một hiệp hội chuyên môn"
+            },
+            {
+              "key": "C",
+              "en": "By working in the hotel industry",
+              "vi": "Bằng cách làm việc trong ngành khách sạn"
+            },
+            {
+              "key": "D",
+              "en": "By participating in online classes",
+              "vi": "Bằng cách tham gia các lớp học trực tuyến"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets24-t10-p7-q183",
+          "number": 183,
+          "question": {
+            "en": "What is stated about Rosier and Finch?",
+            "vi": "Điều gì được nêu về Rosier and Finch?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It sells its products to other businesses.",
+              "vi": "Công ty bán sản phẩm của mình cho các doanh nghiệp khác."
+            },
+            {
+              "key": "B",
+              "en": "It has shops in cities around the world.",
+              "vi": "Công ty có cửa hàng ở các thành phố trên khắp thế giới."
+            },
+            {
+              "key": "C",
+              "en": "It is redesigning its e-commerce site.",
+              "vi": "Công ty đang thiết kế lại trang thương mại điện tử của mình."
+            },
+            {
+              "key": "D",
+              "en": "It offers courses on soapmaking.",
+              "vi": "Công ty cung cấp các khóa học về làm xà phòng."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets24-t10-p7-q184",
+          "number": 184,
+          "question": {
+            "en": "What is suggested about Mr. Wu?",
+            "vi": "Điều gì được gợi ý về ông Wu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He manages Eglinton Gourmet Market.",
+              "vi": "Ông ấy quản lý Eglinton Gourmet Market."
+            },
+            {
+              "key": "B",
+              "en": "He purchased Rosier and Finch products online.",
+              "vi": "Ông ấy đã mua sản phẩm Rosier and Finch trực tuyến."
+            },
+            {
+              "key": "C",
+              "en": "He met Ms. Rosier on a business trip.",
+              "vi": "Ông ấy đã gặp cô Rosier trong một chuyến công tác."
+            },
+            {
+              "key": "D",
+              "en": "He likes Rosier and Finch products.",
+              "vi": "Ông ấy thích các sản phẩm Rosier and Finch."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets24-t10-p7-q185",
+          "number": 185,
+          "question": {
+            "en": "According to the review, what was Mr. Wu not pleased about?",
+            "vi": "Theo bài đánh giá, ông Wu không hài lòng về điều gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "The length of his trip",
+              "vi": "Độ dài chuyến đi của ông ấy"
+            },
+            {
+              "key": "B",
+              "en": "The decorations in the room",
+              "vi": "Cách trang trí trong phòng"
+            },
+            {
+              "key": "C",
+              "en": "The comfort of the pillows",
+              "vi": "Sự thoải mái của gối"
+            },
+            {
+              "key": "D",
+              "en": "The size of the hotel",
+              "vi": "Kích thước của khách sạn"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t10-p7-g186-190",
+      "documents": [
+        {
+          "kind": "sales_report",
+          "content": {
+            "en": "Margot’s House of Ice Cream\nFlavor Purchases by Percentage of Sales\nJuly\n\nFlavor | Percent\nChocolate | 22\nVanilla | 18\nStrawberry | 11\nCookies and cream | 8\nButter pecan | 8\nMint chocolate chip | 7\nAll others | 26",
+            "vi": "Margot’s House of Ice Cream\nTỷ lệ mua theo phần trăm doanh số theo hương vị\nTháng 7\n\nHương vị | Phần trăm\nSô cô la | 22\nVani | 18\nDâu tây | 11\nCookies and cream | 8\nHồ đào bơ | 8\nBạc hà sô cô la chip | 7\nTất cả hương vị khác | 26"
+          }
+        },
+        {
+          "kind": "memo",
+          "content": {
+            "en": "MEMO\n\nTo: All Store Managers\nFrom: June Willcox, CEO, Margot’s House of Ice Cream\nSubject: New Stores\nDate: October 5\n\nMargot’s House of Ice Cream is proud to welcome the following new stores.\n\nStore Number | Location | Opening Date | Manager\n66 | Framingham, Massachusetts, United States | September 1 | Inga Slavin\n67 | Appleton, Wisconsin, United States | September 7 | Zheng Tong\n68 | Wollongong, New South Wales, Australia | September 14 | Geoffrey Pratt\n69 | Rotorua, New Zealand | September 15 | Kehinde Ilogu\n70 | Greater Sudbury, Ontario, Canada | September 29 | Hallie Strafford\n\nFor the next six months, we will be supporting these stores with advertisements in their local media markets.\n\nIn December, we plan to open stores in Italy and Switzerland. Demand for our quality product is higher than ever, our market share is increasing, and we are not finished expanding! Stay tuned for more information!",
+            "vi": "BẢN GHI NHỚ\n\nĐến: Tất cả quản lý cửa hàng\nTừ: June Willcox, CEO, Margot’s House of Ice Cream\nChủ đề: Các cửa hàng mới\nNgày: 5 tháng 10\n\nMargot’s House of Ice Cream tự hào chào đón các cửa hàng mới sau đây.\n\nSố cửa hàng | Địa điểm | Ngày mở cửa | Quản lý\n66 | Framingham, Massachusetts, Hoa Kỳ | Ngày 1 tháng 9 | Inga Slavin\n67 | Appleton, Wisconsin, Hoa Kỳ | Ngày 7 tháng 9 | Zheng Tong\n68 | Wollongong, New South Wales, Úc | Ngày 14 tháng 9 | Geoffrey Pratt\n69 | Rotorua, New Zealand | Ngày 15 tháng 9 | Kehinde Ilogu\n70 | Greater Sudbury, Ontario, Canada | Ngày 29 tháng 9 | Hallie Strafford\n\nTrong sáu tháng tới, chúng tôi sẽ hỗ trợ các cửa hàng này bằng quảng cáo trên các phương tiện truyền thông địa phương của họ.\n\nVào tháng 12, chúng tôi dự định mở các cửa hàng ở Ý và Thụy Sĩ. Nhu cầu đối với sản phẩm chất lượng của chúng tôi cao hơn bao giờ hết, thị phần của chúng tôi đang tăng, và chúng tôi vẫn chưa dừng việc mở rộng! Hãy chờ thêm thông tin!"
+          }
+        },
+        {
+          "kind": "article",
+          "content": {
+            "en": "Popular Ice Cream Purveyor Comes to New Zealand\n\nBy Ysai Mendez\n\nROTORUA (2 November)—Residents of Rotorua have been flocking to Cargill Street, where Margot’s House of Ice Cream has opened its first store in New Zealand.\n\n“I don’t know what their secret is, but their ice cream really is something special,” said Jeremy Frank, a schoolteacher who was enjoying ice cream cones with his family on a recent afternoon. “We’ve been here several times already since they opened. I think we’ll be regulars.”\n\n“I love strawberry, and their strawberry is the best I ever had,” added his daughter, Olivia Frank, age 10.\n\nMargot’s House of Ice Cream was founded five years ago in San Francisco by Margot Summers, a former chemistry major. Its ice cream contains at least 11 percent milk fat. Milk used in production, according to company CEO June Willcox, is sourced locally or regionally whenever possible.\n\nKehinde Ilogu, the manager of the Rotorua store, says that the number of visitors has been rising steadily.\n\n“We plan to keep the momentum going by having special events once a month,” he said. “Next up is the strawberry festival. New Zealand’s strawberry season will be getting started. In addition to our superb ice cream, we’ll offer strawberries dipped in chocolate, strawberry cupcakes, and strawberry milkshakes. We look forward to a great future in Rotorua.”",
+            "vi": "Nhà cung cấp kem nổi tiếng đến New Zealand\n\nBởi Ysai Mendez\n\nROTORUA (ngày 2 tháng 11)—Cư dân Rotorua đã đổ xô đến Cargill Street, nơi Margot’s House of Ice Cream đã mở cửa hàng đầu tiên tại New Zealand.\n\n“Tôi không biết bí quyết của họ là gì, nhưng kem của họ thật sự rất đặc biệt,” Jeremy Frank, một giáo viên đang thưởng thức kem ốc quế cùng gia đình vào một buổi chiều gần đây, nói. “Chúng tôi đã đến đây vài lần kể từ khi họ mở cửa. Tôi nghĩ chúng tôi sẽ trở thành khách quen.”\n\n“Cháu thích dâu tây, và vị dâu tây của họ là ngon nhất cháu từng ăn,” con gái ông, Olivia Frank, 10 tuổi, nói thêm.\n\nMargot’s House of Ice Cream được thành lập năm năm trước tại San Francisco bởi Margot Summers, một cựu sinh viên chuyên ngành hóa học. Kem của công ty chứa ít nhất 11 phần trăm chất béo sữa. Theo CEO công ty June Willcox, sữa dùng trong sản xuất được lấy từ địa phương hoặc khu vực bất cứ khi nào có thể.\n\nKehinde Ilogu, quản lý cửa hàng Rotorua, cho biết số lượng khách ghé thăm đang tăng đều.\n\n“Chúng tôi dự định duy trì đà phát triển bằng cách tổ chức các sự kiện đặc biệt mỗi tháng một lần,” ông nói. “Tiếp theo là lễ hội dâu tây. Mùa dâu tây của New Zealand sẽ bắt đầu. Ngoài món kem tuyệt hảo của chúng tôi, chúng tôi sẽ cung cấp dâu tây nhúng sô cô la, bánh cupcake dâu tây và sữa lắc dâu tây. Chúng tôi mong chờ một tương lai tuyệt vời ở Rotorua.”"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t10-p7-q186",
+          "number": 186,
+          "question": {
+            "en": "According to the sales report, what flavor of ice cream is purchased at the same rate as Butter pecan?",
+            "vi": "Theo báo cáo bán hàng, hương vị kem nào được mua với tỷ lệ giống như Hồ đào bơ?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Chocolate",
+              "vi": "Sô cô la"
+            },
+            {
+              "key": "B",
+              "en": "Vanilla",
+              "vi": "Vani"
+            },
+            {
+              "key": "C",
+              "en": "Cookies and cream",
+              "vi": "Cookies and cream"
+            },
+            {
+              "key": "D",
+              "en": "Mint chocolate chip",
+              "vi": "Bạc hà sô cô la chip"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t10-p7-q187",
+          "number": 187,
+          "question": {
+            "en": "What is true about the products listed in the sales report?",
+            "vi": "Điều gì đúng về các sản phẩm được liệt kê trong báo cáo bán hàng?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "They contain at least 11 percent milk fat.",
+              "vi": "Chúng chứa ít nhất 11 phần trăm chất béo sữa."
+            },
+            {
+              "key": "B",
+              "en": "They are made with artificial flavors.",
+              "vi": "Chúng được làm bằng hương liệu nhân tạo."
+            },
+            {
+              "key": "C",
+              "en": "They will increase in price soon.",
+              "vi": "Chúng sẽ sớm tăng giá."
+            },
+            {
+              "key": "D",
+              "en": "They are sold mainly in San Francisco.",
+              "vi": "Chúng được bán chủ yếu ở San Francisco."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets24-t10-p7-q188",
+          "number": 188,
+          "question": {
+            "en": "What is indicated in the memo about the company’s new managers?",
+            "vi": "Điều gì được chỉ ra trong bản ghi nhớ về các quản lý mới của công ty?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "They were trained in Italy and Switzerland.",
+              "vi": "Họ đã được đào tạo ở Ý và Thụy Sĩ."
+            },
+            {
+              "key": "B",
+              "en": "They will receive advertising support for six months.",
+              "vi": "Họ sẽ nhận được hỗ trợ quảng cáo trong sáu tháng."
+            },
+            {
+              "key": "C",
+              "en": "They expect their stores to become profitable in December.",
+              "vi": "Họ mong đợi cửa hàng của mình có lãi vào tháng 12."
+            },
+            {
+              "key": "D",
+              "en": "They offered special promotions on opening day.",
+              "vi": "Họ đã cung cấp các chương trình khuyến mãi đặc biệt vào ngày khai trương."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t10-p7-q189",
+          "number": 189,
+          "question": {
+            "en": "What will soon happen at store 69?",
+            "vi": "Điều gì sẽ sớm xảy ra tại cửa hàng 69?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "More ice cream flavors will be added to the menu.",
+              "vi": "Nhiều hương vị kem hơn sẽ được thêm vào thực đơn."
+            },
+            {
+              "key": "B",
+              "en": "A child’s birthday will be celebrated.",
+              "vi": "Sinh nhật của một đứa trẻ sẽ được tổ chức."
+            },
+            {
+              "key": "C",
+              "en": "An assistant manager will be hired.",
+              "vi": "Một trợ lý quản lý sẽ được tuyển dụng."
+            },
+            {
+              "key": "D",
+              "en": "A range of special treats will be sold.",
+              "vi": "Nhiều món đặc biệt sẽ được bán."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets24-t10-p7-q190",
+          "number": 190,
+          "question": {
+            "en": "Who is most likely to enjoy the strawberry festival?",
+            "vi": "Ai có khả năng thích lễ hội dâu tây nhất?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Mr. Mendez",
+              "vi": "Ông Mendez"
+            },
+            {
+              "key": "B",
+              "en": "Ms. Willcox",
+              "vi": "Cô Willcox"
+            },
+            {
+              "key": "C",
+              "en": "Ms. Frank",
+              "vi": "Cô Frank"
+            },
+            {
+              "key": "D",
+              "en": "Ms. Summers",
+              "vi": "Cô Summers"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t10-p7-g191-195",
+      "documents": [
+        {
+          "kind": "email",
+          "content": {
+            "en": "*E-mail*\n\nTo: Emi Tokuda <etokuda@paterradepartmentstores.com>\nFrom: Paul Soderman <p.soderman@galahadindustrialmachinery.com>\nDate: January 25\nSubject: Our discussion\n\nDear Ms. Tokuda,\n\nI’m writing to confirm the details of our telephone conversation earlier today.\n\nAs we discussed, Galahad Industrial Machinery will install and maintain one self-service checkout kiosk in each of the four locations operated by Paterra Department Stores in Haddonfield. The installation charge for each kiosk will be $2,000 per unit. Installation will be scheduled at a mutually agreed-upon day and time.\n\nOur maintenance fee, covering all four kiosks, is $120 per month. Our technicians will be available 24 hours a day, 7 days a week, to service the kiosks. All equipment will meet or exceed international quality standards, and all our work is guaranteed.\n\nA formal written agreement will be sent to you by registered mail. We look forward to working with you.\n\nSincerely,\n\nPaul Soderman, Managing Director\nGalahad Industrial Machinery",
+            "vi": "*E-mail*\n\nĐến: Emi Tokuda <etokuda@paterradepartmentstores.com>\nTừ: Paul Soderman <p.soderman@galahadindustrialmachinery.com>\nNgày: 25 tháng 1\nChủ đề: Cuộc thảo luận của chúng ta\n\nKính gửi cô Tokuda,\n\nTôi viết thư này để xác nhận các chi tiết trong cuộc trò chuyện điện thoại của chúng ta trước đó hôm nay.\n\nNhư chúng ta đã thảo luận, Galahad Industrial Machinery sẽ lắp đặt và bảo trì một ki-ốt tự thanh toán tại mỗi một trong bốn địa điểm do Paterra Department Stores vận hành ở Haddonfield. Phí lắp đặt cho mỗi ki-ốt sẽ là $2,000 mỗi thiết bị. Việc lắp đặt sẽ được lên lịch vào ngày và giờ mà hai bên cùng đồng ý.\n\nPhí bảo trì của chúng tôi, bao gồm cả bốn ki-ốt, là $120 mỗi tháng. Các kỹ thuật viên của chúng tôi sẽ có mặt 24 giờ một ngày, 7 ngày một tuần, để bảo dưỡng các ki-ốt. Tất cả thiết bị sẽ đáp ứng hoặc vượt quá các tiêu chuẩn chất lượng quốc tế, và toàn bộ công việc của chúng tôi đều được bảo đảm.\n\nMột thỏa thuận chính thức bằng văn bản sẽ được gửi đến cô qua thư bảo đảm. Chúng tôi mong được làm việc với cô.\n\nTrân trọng,\n\nPaul Soderman, Giám đốc Điều hành\nGalahad Industrial Machinery"
+          }
+        },
+        {
+          "kind": "email",
+          "content": {
+            "en": "*E-mail*\n\nTo: Paul Soderman <p.soderman@galahadindustrialmachinery.com>\nFrom: Emi Tokuda <etokuda@paterradepartmentstores.com>\nDate: April 2\nSubject: Equipment removal and reinstallation\n\nDear Mr. Soderman,\n\nPlease be advised that we have decided to close our store at 1506 Maple Street. We plan to transfer the inventory and all equipment to our new location at 3300 Town Square Plaza. The transfer is planned for mid-June, but we have not yet set a date.\n\nI will contact you next month to confirm the date and arrange a convenient time for your work crew to install the self-service kiosk. I understand that, per our agreement dated January 25, your charge for the reinstallation will be the same as for the initial installation at the Maple Street store.\n\nYours truly,\n\nEmi Tokuda, Managing Director\nPaterra Department Stores",
+            "vi": "*E-mail*\n\nĐến: Paul Soderman <p.soderman@galahadindustrialmachinery.com>\nTừ: Emi Tokuda <etokuda@paterradepartmentstores.com>\nNgày: 2 tháng 4\nChủ đề: Tháo dỡ và lắp đặt lại thiết bị\n\nKính gửi ông Soderman,\n\nXin thông báo rằng chúng tôi đã quyết định đóng cửa hàng tại 1506 Maple Street. Chúng tôi dự định chuyển hàng tồn kho và toàn bộ thiết bị đến địa điểm mới tại 3300 Town Square Plaza. Việc chuyển dời được lên kế hoạch vào giữa tháng 6, nhưng chúng tôi vẫn chưa ấn định ngày.\n\nTôi sẽ liên hệ với ông vào tháng tới để xác nhận ngày và sắp xếp thời gian thuận tiện cho đội thi công của ông lắp đặt ki-ốt tự thanh toán. Tôi hiểu rằng, theo thỏa thuận của chúng ta ngày 25 tháng 1, phí lắp đặt lại sẽ giống như phí lắp đặt ban đầu tại cửa hàng Maple Street.\n\nTrân trọng,\n\nEmi Tokuda, Giám đốc Điều hành\nPaterra Department Stores"
+          }
+        },
+        {
+          "kind": "memo",
+          "content": {
+            "en": "MEMO\n\nTo: All Paterra Staff\nFrom: Eleanor Bianchi, Branch Manager\nDate: June 5\nRe: Move update\n\nThanks to your hard work, our new store in the Town Square Plaza is on track to open on June 15. One of the problems with the store we are currently working out of is that it is not on a bus line. By contrast, the location we will be moving to is served by bus number 689, so we expect to have a larger number of customers at that location. We are only waiting for the last of our display shelves to be delivered from our warehouse so that we can finish the display in the gardening department.\n\nIn appreciation of your efforts, I’ve brought pastries from Aniqa’s Bakery. I’ve put these treats on the break-room counter. Enjoy!",
+            "vi": "BẢN GHI NHỚ\n\nĐến: Tất cả nhân viên Paterra\nTừ: Eleanor Bianchi, Quản lý Chi nhánh\nNgày: 5 tháng 6\nVề việc: Cập nhật việc chuyển địa điểm\n\nNhờ sự làm việc chăm chỉ của các bạn, cửa hàng mới của chúng ta tại Town Square Plaza đang đúng tiến độ để mở cửa vào ngày 15 tháng 6. Một trong những vấn đề với cửa hàng mà chúng ta hiện đang làm việc là nó không nằm trên tuyến xe buýt. Ngược lại, địa điểm mà chúng ta sẽ chuyển đến được phục vụ bởi tuyến xe buýt số 689, vì vậy chúng ta kỳ vọng sẽ có số lượng khách hàng lớn hơn tại địa điểm đó. Chúng ta chỉ còn chờ những kệ trưng bày cuối cùng được giao từ kho để có thể hoàn tất phần trưng bày trong bộ phận làm vườn.\n\nĐể cảm ơn những nỗ lực của các bạn, tôi đã mang bánh ngọt từ Aniqa’s Bakery. Tôi đã đặt những món này trên quầy trong phòng nghỉ. Hãy thưởng thức nhé!"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t10-p7-q191",
+          "number": 191,
+          "question": {
+            "en": "In the first e-mail, what is stated about Galahad Industrial Machinery?",
+            "vi": "Trong e-mail đầu tiên, điều gì được nêu về Galahad Industrial Machinery?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It completes repairs within one day.",
+              "vi": "Công ty hoàn tất việc sửa chữa trong vòng một ngày."
+            },
+            {
+              "key": "B",
+              "en": "It is available to do maintenance service at all times.",
+              "vi": "Công ty luôn sẵn sàng thực hiện dịch vụ bảo trì."
+            },
+            {
+              "key": "C",
+              "en": "It has technicians with international work experience.",
+              "vi": "Công ty có các kỹ thuật viên có kinh nghiệm làm việc quốc tế."
+            },
+            {
+              "key": "D",
+              "en": "It has an office in Haddonfield.",
+              "vi": "Công ty có văn phòng ở Haddonfield."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t10-p7-q192",
+          "number": 192,
+          "question": {
+            "en": "What is true about the reinstallation of the self-service kiosk?",
+            "vi": "Điều gì đúng về việc lắp đặt lại ki-ốt tự thanh toán?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It will be done personally by Mr. Soderman.",
+              "vi": "Việc này sẽ do chính ông Soderman thực hiện."
+            },
+            {
+              "key": "B",
+              "en": "It will cost Paterra Department Stores $2,000.",
+              "vi": "Việc này sẽ khiến Paterra Department Stores tốn $2,000."
+            },
+            {
+              "key": "C",
+              "en": "It will cause a change in the monthly maintenance fee.",
+              "vi": "Việc này sẽ làm thay đổi phí bảo trì hằng tháng."
+            },
+            {
+              "key": "D",
+              "en": "It will require a new agreement to be signed.",
+              "vi": "Việc này sẽ yêu cầu ký một thỏa thuận mới."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t10-p7-q193",
+          "number": 193,
+          "question": {
+            "en": "When will Ms. Tokuda discuss her moving plans with Mr. Soderman?",
+            "vi": "Khi nào cô Tokuda sẽ thảo luận kế hoạch chuyển địa điểm của mình với ông Soderman?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "In March",
+              "vi": "Vào tháng 3"
+            },
+            {
+              "key": "B",
+              "en": "In April",
+              "vi": "Vào tháng 4"
+            },
+            {
+              "key": "C",
+              "en": "In May",
+              "vi": "Vào tháng 5"
+            },
+            {
+              "key": "D",
+              "en": "In June",
+              "vi": "Vào tháng 6"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t10-p7-q194",
+          "number": 194,
+          "question": {
+            "en": "What is suggested about the Paterra store at 1506 Maple Street?",
+            "vi": "Điều gì được gợi ý về cửa hàng Paterra tại 1506 Maple Street?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is not accessible by bus.",
+              "vi": "Cửa hàng không thể đến được bằng xe buýt."
+            },
+            {
+              "key": "B",
+              "en": "It will be renovated and reopened.",
+              "vi": "Cửa hàng sẽ được cải tạo và mở cửa trở lại."
+            },
+            {
+              "key": "C",
+              "en": "It is far from the warehouse.",
+              "vi": "Cửa hàng ở xa kho hàng."
+            },
+            {
+              "key": "D",
+              "en": "It contains a bakery section.",
+              "vi": "Cửa hàng có khu vực tiệm bánh."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets24-t10-p7-q195",
+          "number": 195,
+          "question": {
+            "en": "According to the memo, what must still be done at the new Paterra store location?",
+            "vi": "Theo bản ghi nhớ, việc gì vẫn phải được thực hiện tại địa điểm cửa hàng Paterra mới?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Some products must be priced.",
+              "vi": "Một số sản phẩm phải được định giá."
+            },
+            {
+              "key": "B",
+              "en": "Some areas must be painted.",
+              "vi": "Một số khu vực phải được sơn."
+            },
+            {
+              "key": "C",
+              "en": "Some doors must be replaced.",
+              "vi": "Một số cửa phải được thay thế."
+            },
+            {
+              "key": "D",
+              "en": "Some shelves must be delivered.",
+              "vi": "Một số kệ phải được giao."
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t10-p7-g196-200",
+      "documents": [
+        {
+          "kind": "article",
+          "content": {
+            "en": "Survey: Consumers Prefer Physical Stores\n\nA recent consumer survey has shown that 33% of respondents prefer to touch the products they intend to purchase. Moreover, 61% of those surveyed said they are likely to spend more when shopping at a brick-and-mortar store rather than at an online store.\n\nThese data, backed up by other consumer preference studies, are causing many merchants who generate all their revenue from online sales to open physical stores as a supplement to their online presence.\n\nThe advantage of a physical space is that it helps retail owners build brand loyalty. “In terms of convenience, nothing beats online,” says Marlene Fitzroy, who owns Toddles, a children’s store in Shelburn, and an online site, toddles.com. “But a physical space fosters a sense of community that keeps local customers coming back and attracts new ones.”\n\nMs. Fitzroy, a frequent speaker at local business events, is not only a strong supporter and promoter of customer engagement; she also practices what she preaches.\n\n“Four times a year, we host a special sales event during which children can enjoy themselves with a variety of activities,” she said. “These events are a hit with both the children and their parents. And even if the parents don’t buy anything on such occasions, the next time they need a children’s toy, game, book, or puzzle, they’ll probably think of us.”",
+            "vi": "Khảo sát: Người tiêu dùng thích cửa hàng thực tế hơn\n\nMột khảo sát người tiêu dùng gần đây cho thấy 33% người trả lời thích chạm vào sản phẩm mà họ định mua. Hơn nữa, 61% những người được khảo sát cho biết họ có khả năng chi tiêu nhiều hơn khi mua sắm tại cửa hàng thực tế hơn là tại cửa hàng trực tuyến.\n\nNhững dữ liệu này, được củng cố bởi các nghiên cứu khác về sở thích của người tiêu dùng, đang khiến nhiều nhà bán hàng tạo ra toàn bộ doanh thu từ bán hàng trực tuyến mở cửa hàng thực tế như một phần bổ sung cho sự hiện diện trực tuyến của họ.\n\nLợi thế của một không gian thực tế là nó giúp các chủ cửa hàng bán lẻ xây dựng lòng trung thành với thương hiệu. “Về mặt tiện lợi, không gì vượt qua được mua sắm trực tuyến,” Marlene Fitzroy, chủ sở hữu Toddles, một cửa hàng dành cho trẻ em ở Shelburn, và trang trực tuyến toddles.com, cho biết. “Nhưng một không gian thực tế thúc đẩy cảm giác cộng đồng, điều giữ chân khách hàng địa phương quay lại và thu hút khách hàng mới.”\n\nCô Fitzroy, một diễn giả thường xuyên tại các sự kiện kinh doanh địa phương, không chỉ là người ủng hộ và quảng bá mạnh mẽ cho sự gắn kết với khách hàng; cô còn thực hành đúng điều mình khuyến khích.\n\n“Bốn lần một năm, chúng tôi tổ chức một sự kiện bán hàng đặc biệt, trong đó trẻ em có thể vui chơi với nhiều hoạt động khác nhau,” cô nói. “Những sự kiện này được cả trẻ em và cha mẹ yêu thích. Và ngay cả khi cha mẹ không mua gì trong những dịp như vậy, lần tới khi họ cần đồ chơi, trò chơi, sách hoặc câu đố cho trẻ em, họ có thể sẽ nghĩ đến chúng tôi.”"
+          }
+        },
+        {
+          "kind": "invitation",
+          "content": {
+            "en": "Shelburn Business Coalition (SBC)\n\nBusinesspeople from Shelburn and the surrounding area are invited to join us at the Shelburn Convention Center on October 8 for our annual Business Summit.\n\nOur keynote speaker this year will be Mr. Hansraj Deshpande, founder and CEO of Wintered Hoteliers. Other speakers, all local business owners, are Ms. Omodele Akindjo, Ms. Marlene Fitzroy, Mr. Jasper Klinkhamer, and Mr. Alvin Liu. Topics to be covered include building a strong workforce, establishing a line of credit, engaging with customers, and attracting venture capital.\n\nBy registering for this event, you will automatically be added to our e-mail list. Please visit our Web site, www.shelburnbusinesscoalition.org, for the full schedule.",
+            "vi": "Shelburn Business Coalition (SBC)\n\nCác doanh nhân từ Shelburn và khu vực xung quanh được mời tham gia cùng chúng tôi tại Shelburn Convention Center vào ngày 8 tháng 10 cho Hội nghị Thượng đỉnh Kinh doanh hằng năm của chúng tôi.\n\nDiễn giả chính của chúng tôi năm nay sẽ là ông Hansraj Deshpande, nhà sáng lập kiêm CEO của Wintered Hoteliers. Các diễn giả khác, đều là chủ doanh nghiệp địa phương, gồm cô Omodele Akindjo, cô Marlene Fitzroy, ông Jasper Klinkhamer và ông Alvin Liu. Các chủ đề sẽ được đề cập bao gồm xây dựng lực lượng lao động mạnh, thiết lập hạn mức tín dụng, gắn kết với khách hàng và thu hút vốn đầu tư mạo hiểm.\n\nBằng việc đăng ký sự kiện này, bạn sẽ tự động được thêm vào danh sách e-mail của chúng tôi. Vui lòng truy cập trang web của chúng tôi, www.shelburnbusinesscoalition.org, để xem lịch trình đầy đủ."
+          }
+        },
+        {
+          "kind": "email",
+          "content": {
+            "en": "*E-mail*\n\nTo: Vaughn Sgammato <vsgammato@opalmail.com>\nFrom: Irene Warga <irenewarga@shelburnbusinesscoalition.org>\nDate: September 15\nSubject: Your confirmation\n\nDear Mr. Sgammato,\n\nShelburn Business Coalition thanks you for registering for our Business Summit. Your confirmation number is R56690.\n\nAs a reminder, please note that the convention center underground garage will be closed for maintenance on October 8. Therefore, please park your car in the public parking area across the street. At the end of the summit, you will receive a voucher to cover the parking fee.\n\nWe look forward to seeing you. If you have any questions, please contact me at 555-0138.\n\nYours very truly,\n\nIrene Warga, Event Coordinator",
+            "vi": "*E-mail*\n\nĐến: Vaughn Sgammato <vsgammato@opalmail.com>\nTừ: Irene Warga <irenewarga@shelburnbusinesscoalition.org>\nNgày: 15 tháng 9\nChủ đề: Xác nhận của ông\n\nKính gửi ông Sgammato,\n\nShelburn Business Coalition cảm ơn ông đã đăng ký Hội nghị Thượng đỉnh Kinh doanh của chúng tôi. Mã xác nhận của ông là R56690.\n\nXin nhắc lại, vui lòng lưu ý rằng nhà để xe ngầm của trung tâm hội nghị sẽ đóng cửa để bảo trì vào ngày 8 tháng 10. Vì vậy, vui lòng đậu xe của ông ở khu vực đậu xe công cộng bên kia đường. Vào cuối hội nghị, ông sẽ nhận được một phiếu để chi trả phí đậu xe.\n\nChúng tôi mong được gặp ông. Nếu ông có bất kỳ câu hỏi nào, vui lòng liên hệ với tôi theo số 555-0138.\n\nTrân trọng,\n\nIrene Warga, Điều phối viên Sự kiện"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t10-p7-q196",
+          "number": 196,
+          "question": {
+            "en": "According to the article, what action is being considered by many online sellers?",
+            "vi": "Theo bài báo, hành động nào đang được nhiều người bán hàng trực tuyến cân nhắc?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Redesigning their Web sites",
+              "vi": "Thiết kế lại trang web của họ"
+            },
+            {
+              "key": "B",
+              "en": "Increasing their advertising budgets",
+              "vi": "Tăng ngân sách quảng cáo của họ"
+            },
+            {
+              "key": "C",
+              "en": "Opening physical store locations",
+              "vi": "Mở các địa điểm cửa hàng thực tế"
+            },
+            {
+              "key": "D",
+              "en": "Developing new lines of products",
+              "vi": "Phát triển các dòng sản phẩm mới"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t10-p7-q197",
+          "number": 197,
+          "question": {
+            "en": "What does Ms. Fitzroy say she offers her customers?",
+            "vi": "Cô Fitzroy nói rằng cô cung cấp cho khách hàng điều gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A convenient place to shop",
+              "vi": "Một nơi mua sắm tiện lợi"
+            },
+            {
+              "key": "B",
+              "en": "Discounts on children’s clothing",
+              "vi": "Giảm giá quần áo trẻ em"
+            },
+            {
+              "key": "C",
+              "en": "An enjoyable shopping experience",
+              "vi": "Một trải nghiệm mua sắm thú vị"
+            },
+            {
+              "key": "D",
+              "en": "Special deals on toys",
+              "vi": "Các ưu đãi đặc biệt cho đồ chơi"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t10-p7-q198",
+          "number": 198,
+          "question": {
+            "en": "Who most likely will speak on the topic of engaging with customers?",
+            "vi": "Ai có khả năng sẽ nói về chủ đề gắn kết với khách hàng nhất?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Ms. Akindjo",
+              "vi": "Cô Akindjo"
+            },
+            {
+              "key": "B",
+              "en": "Ms. Fitzroy",
+              "vi": "Cô Fitzroy"
+            },
+            {
+              "key": "C",
+              "en": "Mr. Deshpande",
+              "vi": "Ông Deshpande"
+            },
+            {
+              "key": "D",
+              "en": "Mr. Liu",
+              "vi": "Ông Liu"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t10-p7-q199",
+          "number": 199,
+          "question": {
+            "en": "What is most likely true about Mr. Sgammato?",
+            "vi": "Điều gì có khả năng đúng nhất về ông Sgammato?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He was added to a mailing list.",
+              "vi": "Ông ấy đã được thêm vào một danh sách gửi thư."
+            },
+            {
+              "key": "B",
+              "en": "He will be starting a business.",
+              "vi": "Ông ấy sẽ bắt đầu một doanh nghiệp."
+            },
+            {
+              "key": "C",
+              "en": "He received a discount on his registration fee.",
+              "vi": "Ông ấy đã nhận được giảm giá phí đăng ký."
+            },
+            {
+              "key": "D",
+              "en": "He has never attended an SBC event before.",
+              "vi": "Ông ấy chưa từng tham dự sự kiện SBC trước đây."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets24-t10-p7-q200",
+          "number": 200,
+          "question": {
+            "en": "What is Mr. Sgammato expected to do upon arrival at a convention center?",
+            "vi": "Ông Sgammato được kỳ vọng sẽ làm gì khi đến trung tâm hội nghị?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Ask to see to Ms. Warga",
+              "vi": "Yêu cầu gặp cô Warga"
+            },
+            {
+              "key": "B",
+              "en": "Park his car across the street",
+              "vi": "Đậu xe bên kia đường"
+            },
+            {
+              "key": "C",
+              "en": "Obtain a confirmation number",
+              "vi": "Lấy mã xác nhận"
+            },
+            {
+              "key": "D",
+              "en": "Pick up some conference material",
+              "vi": "Nhận một số tài liệu hội nghị"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    }
+  ]
+}

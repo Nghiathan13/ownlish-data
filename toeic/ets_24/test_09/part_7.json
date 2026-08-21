@@ -1,0 +1,1944 @@
+{
+  "groups": [
+    {
+      "id": "ets24-t09-p7-g147-148",
+      "documents": [
+        {
+          "kind": "menu",
+          "content": {
+            "en": "Carina’s Café Lunch Specials\n\nMonday through Friday from 11:00 A.M. to 3:00 P.M.\n\nFor only $8, combine the soup of the day with one of the following items:\n\nTurkey Sandwich – Turkey, avocado, tomato, lettuce, and mayonnaise on wheat bread\n\nVegetable Panini – Sourdough bread filled with tomato, cucumber, spinach, and mayonnaise, then grilled\n\nMushroom Chicken Cavatappi – Chicken in a mushroom, celery, and onion sauce, served over S-shaped pasta\n\nVegetable Wrap – Fresh tomato, cucumber, and carrots with hummus (made with our secret recipe) on flatbread",
+            "vi": "Các món ăn trưa đặc biệt của Carina’s Café\n\nTừ thứ Hai đến thứ Sáu, từ 11:00 sáng đến 3:00 chiều\n\nChỉ với $8, hãy kết hợp súp trong ngày với một trong các món sau:\n\nSandwich gà tây – Gà tây, bơ, cà chua, xà lách và sốt mayonnaise trên bánh mì lúa mì\n\nPanini rau củ – Bánh mì men chua được nhồi cà chua, dưa leo, rau bina và sốt mayonnaise, sau đó được nướng\n\nCavatappi gà nấm – Gà trong sốt nấm, cần tây và hành tây, được phục vụ trên mì ống hình chữ S\n\nWrap rau củ – Cà chua tươi, dưa leo và cà rốt với sốt hummus, được làm theo công thức bí mật của chúng tôi, trên bánh mì dẹt"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t09-p7-q147",
+          "number": 147,
+          "question": {
+            "en": "What does each lunch special include?",
+            "vi": "Mỗi món ăn trưa đặc biệt bao gồm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A soup",
+              "vi": "Một món súp"
+            },
+            {
+              "key": "B",
+              "en": "Carrots",
+              "vi": "Cà rốt"
+            },
+            {
+              "key": "C",
+              "en": "Tomatoes",
+              "vi": "Cà chua"
+            },
+            {
+              "key": "D",
+              "en": "A beverage",
+              "vi": "Một đồ uống"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets24-t09-p7-q148",
+          "number": 148,
+          "question": {
+            "en": "What item contains an ingredient that is only available from Carina’s Café?",
+            "vi": "Món nào chứa một nguyên liệu chỉ có tại Carina’s Café?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Turkey sandwich",
+              "vi": "Sandwich gà tây"
+            },
+            {
+              "key": "B",
+              "en": "Vegetable panini",
+              "vi": "Panini rau củ"
+            },
+            {
+              "key": "C",
+              "en": "Mushroom chicken cavatappi",
+              "vi": "Cavatappi gà nấm"
+            },
+            {
+              "key": "D",
+              "en": "Vegetable wrap",
+              "vi": "Wrap rau củ"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t09-p7-g149-150",
+      "documents": [
+        {
+          "kind": "advertisement",
+          "content": {
+            "en": "Certified Aqua Instructor Workshop\n\nThis workshop helps fitness professionals become certified aqua instructors by demonstrating how to design challenging and effective aquatic classes. Join instructor Deshonte Smith for a full-day course to learn a sequence of pool-based workouts that will motivate your students. Mr. Smith started his journey to instructor certification by taking classes at Valley Floor Fitness. He is also a professor at Wilkinson University.\n\nThe workshop costs $99 and will be held at Valley Floor Fitness in Missoula on August 27 from 9 a.m. to 5 p.m. For more information and to register, e-mail Maya Cramer at certification@valleyfloorfitness.com.",
+            "vi": "Hội thảo Huấn luyện viên Aqua được chứng nhận\n\nHội thảo này giúp các chuyên gia thể hình trở thành huấn luyện viên aqua được chứng nhận bằng cách trình bày cách thiết kế các lớp học dưới nước đầy thử thách và hiệu quả. Hãy tham gia cùng huấn luyện viên Deshonte Smith trong khóa học cả ngày để học một chuỗi bài tập dựa trên hồ bơi nhằm tạo động lực cho học viên của bạn. Ông Smith bắt đầu hành trình lấy chứng nhận huấn luyện viên bằng cách tham gia các lớp học tại Valley Floor Fitness. Ông cũng là giáo sư tại Đại học Wilkinson.\n\nHội thảo có giá $99 và sẽ được tổ chức tại Valley Floor Fitness ở Missoula vào ngày 27 tháng 8 từ 9 giờ sáng đến 5 giờ chiều. Để biết thêm thông tin và đăng ký, hãy gửi e-mail cho Maya Cramer tại certification@valleyfloorfitness.com."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t09-p7-q149",
+          "number": 149,
+          "question": {
+            "en": "The word “design” in paragraph 1, line 2, is closest in meaning to",
+            "vi": "Từ “design” trong đoạn 1, dòng 2, gần nghĩa nhất với"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "find",
+              "vi": "tìm"
+            },
+            {
+              "key": "B",
+              "en": "create",
+              "vi": "tạo ra"
+            },
+            {
+              "key": "C",
+              "en": "draw",
+              "vi": "vẽ"
+            },
+            {
+              "key": "D",
+              "en": "name",
+              "vi": "đặt tên"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t09-p7-q150",
+          "number": 150,
+          "question": {
+            "en": "What is indicated about the workshop?",
+            "vi": "Điều gì được chỉ ra về hội thảo?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It will be held at a pool at Wilkinson University.",
+              "vi": "Hội thảo sẽ được tổ chức tại một hồ bơi ở Đại học Wilkinson."
+            },
+            {
+              "key": "B",
+              "en": "It is being offered on two different dates.",
+              "vi": "Hội thảo được cung cấp vào hai ngày khác nhau."
+            },
+            {
+              "key": "C",
+              "en": "It is available at a discounted rate in August.",
+              "vi": "Hội thảo có mức giá giảm trong tháng 8."
+            },
+            {
+              "key": "D",
+              "en": "It will be taught by a former student of Valley Floor Fitness.",
+              "vi": "Hội thảo sẽ được giảng dạy bởi một cựu học viên của Valley Floor Fitness."
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t09-p7-g151-152",
+      "documents": [
+        {
+          "kind": "text_message_chain",
+          "content": {
+            "en": "Hyun-Jun Cho (3:27 P.M.)\nI’m scheduled to work the front desk on Saturday from 7 A.M. to 3 P.M. A friend of mine is coming to town then, and he’s only going to be here for one day. I was wondering if I could switch shifts with you. I can work on Sunday.\n\nStephanie Duchemin (3:29 P.M.)\nSaturday is good for me. I hope you don’t have a Sunday like last week. It was so busy. All the doctors attending the medical conference were checking in at the front desk.\n\nHyun-Jun Cho (3:31 P.M.)\nAnd I heard that all the accountants from the other conference were also at the front desk reviewing their room charges at the same time!\n\nStephanie Duchemin (3:32 P.M.)\nThe lobby was certainly bustling.\n\nHyun-Jun Cho (3:34 P.M.)\nThank you for helping me out. I haven’t seen my friend Kai since we graduated from university.",
+            "vi": "Hyun-Jun Cho (3:27 chiều)\nTôi được xếp lịch làm ở quầy lễ tân vào thứ Bảy từ 7 giờ sáng đến 3 giờ chiều. Một người bạn của tôi sẽ đến thành phố vào lúc đó, và anh ấy chỉ ở đây một ngày. Tôi đang tự hỏi liệu tôi có thể đổi ca với cô không. Tôi có thể làm vào Chủ Nhật.\n\nStephanie Duchemin (3:29 chiều)\nThứ Bảy thì được với tôi. Tôi hy vọng anh sẽ không có một ngày Chủ Nhật như tuần trước. Hôm đó rất bận. Tất cả các bác sĩ tham dự hội nghị y khoa đều làm thủ tục nhận phòng tại quầy lễ tân.\n\nHyun-Jun Cho (3:31 chiều)\nVà tôi nghe nói rằng tất cả các kế toán viên từ hội nghị khác cũng ở quầy lễ tân để xem lại các khoản phí phòng của họ cùng lúc!\n\nStephanie Duchemin (3:32 chiều)\nSảnh chắc chắn là rất nhộn nhịp.\n\nHyun-Jun Cho (3:34 chiều)\nCảm ơn cô đã giúp tôi. Tôi chưa gặp bạn tôi Kai kể từ khi chúng tôi tốt nghiệp đại học."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t09-p7-q151",
+          "number": 151,
+          "question": {
+            "en": "At 3:29 P.M., what does Ms. Duchemin most likely mean when she writes, “Saturday is good for me”?",
+            "vi": "Vào lúc 3:29 chiều, cô Duchemin có khả năng muốn nói gì nhất khi viết “Thứ Bảy thì được với tôi”?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She prefers to work morning shifts.",
+              "vi": "Cô ấy thích làm ca sáng hơn."
+            },
+            {
+              "key": "B",
+              "en": "She is able to do a favor for Mr. Cho.",
+              "vi": "Cô ấy có thể giúp ông Cho."
+            },
+            {
+              "key": "C",
+              "en": "She will attend a conference.",
+              "vi": "Cô ấy sẽ tham dự một hội nghị."
+            },
+            {
+              "key": "D",
+              "en": "She would like to meet Mr. Cho’s friend.",
+              "vi": "Cô ấy muốn gặp bạn của ông Cho."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t09-p7-q152",
+          "number": 152,
+          "question": {
+            "en": "Where most likely do Mr. Cho and Ms. Duchemin work?",
+            "vi": "Ông Cho và cô Duchemin có khả năng làm việc ở đâu nhất?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "At a hotel",
+              "vi": "Tại một khách sạn"
+            },
+            {
+              "key": "B",
+              "en": "At a university",
+              "vi": "Tại một trường đại học"
+            },
+            {
+              "key": "C",
+              "en": "At a medical center",
+              "vi": "Tại một trung tâm y tế"
+            },
+            {
+              "key": "D",
+              "en": "At an accounting firm",
+              "vi": "Tại một công ty kế toán"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t09-p7-g153-154",
+      "documents": [
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Madalena Navas <mnavas@cordovacreations.com>\nFrom: Hugo Jones <hkjones@sunmail.com>\nDate: April 2\nSubject: Thank you\n\nDear Ms. Navas,\n\nI enjoyed speaking with you about the associate manager position last week, and as I mentioned, I am very excited about the possibility of working with you at Cordova Creations. I wanted to let you know that I have received a job offer from another company, and I have to respond to that hiring manager soon. I realize it has only been a few days since my interview, but if it is at all possible for you to update me on the status of my application before the end of the week, that would be very helpful. I have long admired Cordova Creations and would really like to be a part of it. I am hoping to hear positive news from you.\n\nThank you,\n\nHugo Jones",
+            "vi": "Đến: Madalena Navas <mnavas@cordovacreations.com>\nTừ: Hugo Jones <hkjones@sunmail.com>\nNgày: 2 tháng 4\nChủ đề: Cảm ơn\n\nKính gửi cô Navas,\n\nTôi rất vui khi được trao đổi với cô về vị trí phó quản lý vào tuần trước, và như tôi đã đề cập, tôi rất hào hứng về khả năng được làm việc với cô tại Cordova Creations. Tôi muốn cho cô biết rằng tôi đã nhận được lời mời làm việc từ một công ty khác, và tôi phải sớm phản hồi với quản lý tuyển dụng đó. Tôi hiểu rằng chỉ mới vài ngày kể từ buổi phỏng vấn của tôi, nhưng nếu cô có thể cập nhật cho tôi về tình trạng đơn ứng tuyển của tôi trước cuối tuần này, điều đó sẽ rất hữu ích. Tôi đã ngưỡng mộ Cordova Creations từ lâu và thật sự muốn trở thành một phần của công ty. Tôi hy vọng sẽ nhận được tin tốt từ cô.\n\nCảm ơn,\n\nHugo Jones"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t09-p7-q153",
+          "number": 153,
+          "question": {
+            "en": "What does Mr. Jones indicate in his e-mail?",
+            "vi": "Ông Jones cho biết điều gì trong e-mail của mình?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He used to work with Ms. Navas.",
+              "vi": "Ông ấy từng làm việc với cô Navas."
+            },
+            {
+              "key": "B",
+              "en": "He is an associate manager.",
+              "vi": "Ông ấy là một phó quản lý."
+            },
+            {
+              "key": "C",
+              "en": "Another company wishes to hire him.",
+              "vi": "Một công ty khác muốn tuyển ông ấy."
+            },
+            {
+              "key": "D",
+              "en": "His interview has been scheduled for next week.",
+              "vi": "Buổi phỏng vấn của ông ấy đã được lên lịch vào tuần tới."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t09-p7-q154",
+          "number": 154,
+          "question": {
+            "en": "What does Mr. Jones want to know by the end of the week?",
+            "vi": "Ông Jones muốn biết điều gì trước cuối tuần?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Whether an important decision has been made yet",
+              "vi": "Liệu một quyết định quan trọng đã được đưa ra hay chưa"
+            },
+            {
+              "key": "B",
+              "en": "Whether Ms. Navas is available for a meeting",
+              "vi": "Liệu cô Navas có rảnh cho một cuộc họp hay không"
+            },
+            {
+              "key": "C",
+              "en": "Whether Ms. Navas would like to apply for a new position",
+              "vi": "Liệu cô Navas có muốn ứng tuyển một vị trí mới hay không"
+            },
+            {
+              "key": "D",
+              "en": "Whether the company will expand its product offerings",
+              "vi": "Liệu công ty có mở rộng các sản phẩm của mình hay không"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t09-p7-g155-157",
+      "documents": [
+        {
+          "kind": "article",
+          "content": {
+            "en": "Hibiscus Supply to Run Its Own Container Ship\n\nBUSAN (15 October)—As international shipping continues to increase, companies that transport goods between continents have found themselves competing for expensive space on container ships. — [1] —. Delays in getting goods to factories and into stores have become more common. — [2] —.\n\nAs one of the biggest exporters of home building supplies in the country, Hibiscus Supply is particularly vulnerable to these issues. — [3] —. To avoid potential shipping problems, Hibiscus Supply has decided to operate its own container ship to export products overseas. — [4] —.\n\nAccording to Hibiscus Supply president James Koh, operating the company’s own ship should improve efficiency at ports and decrease overall shipping costs. Says Mr. Koh, “The cost to ship with freight companies has doubled in the past year. By shipping our products ourselves, we’ll be able to avoid passing shipping-related price increases on to our customers.”",
+            "vi": "Hibiscus Supply sẽ vận hành tàu container riêng\n\nBUSAN (ngày 15 tháng 10)—Khi vận chuyển quốc tế tiếp tục gia tăng, các công ty vận chuyển hàng hóa giữa các châu lục nhận thấy họ đang cạnh tranh để giành chỗ đắt đỏ trên các tàu container. — [1] —. Sự chậm trễ trong việc đưa hàng hóa đến các nhà máy và vào các cửa hàng đã trở nên phổ biến hơn. — [2] —.\n\nLà một trong những nhà xuất khẩu vật tư xây dựng nhà ở lớn nhất trong nước, Hibiscus Supply đặc biệt dễ bị ảnh hưởng bởi những vấn đề này. — [3] —. Để tránh các vấn đề vận chuyển tiềm ẩn, Hibiscus Supply đã quyết định vận hành tàu container riêng để xuất khẩu sản phẩm ra nước ngoài. — [4] —.\n\nTheo chủ tịch Hibiscus Supply, James Koh, việc vận hành tàu riêng của công ty sẽ giúp cải thiện hiệu quả tại các cảng và giảm chi phí vận chuyển tổng thể. Ông Koh nói: “Chi phí vận chuyển với các công ty vận tải hàng hóa đã tăng gấp đôi trong năm qua. Bằng cách tự vận chuyển sản phẩm của mình, chúng tôi sẽ có thể tránh chuyển các khoản tăng giá liên quan đến vận chuyển sang khách hàng.”"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t09-p7-q155",
+          "number": 155,
+          "question": {
+            "en": "What products does Hibiscus Supply most likely sell?",
+            "vi": "Hibiscus Supply có khả năng bán sản phẩm gì nhất?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Construction materials",
+              "vi": "Vật liệu xây dựng"
+            },
+            {
+              "key": "B",
+              "en": "Pillows and sheets",
+              "vi": "Gối và ga trải giường"
+            },
+            {
+              "key": "C",
+              "en": "Wholesale food items",
+              "vi": "Các mặt hàng thực phẩm bán buôn"
+            },
+            {
+              "key": "D",
+              "en": "Spare automobile parts",
+              "vi": "Phụ tùng ô tô thay thế"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets24-t09-p7-q156",
+          "number": 156,
+          "question": {
+            "en": "Why does Hibiscus Supply want to operate its own container ship?",
+            "vi": "Tại sao Hibiscus Supply muốn vận hành tàu container riêng?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To provide shipping services to other companies",
+              "vi": "Để cung cấp dịch vụ vận chuyển cho các công ty khác"
+            },
+            {
+              "key": "B",
+              "en": "To ship its products quickly and cheaply",
+              "vi": "Để vận chuyển sản phẩm của mình nhanh chóng và rẻ hơn"
+            },
+            {
+              "key": "C",
+              "en": "To deliver its products to unusual locations",
+              "vi": "Để giao sản phẩm đến các địa điểm khác thường"
+            },
+            {
+              "key": "D",
+              "en": "To ship more goods than most freight companies can handle",
+              "vi": "Để vận chuyển nhiều hàng hóa hơn mức hầu hết các công ty vận tải có thể xử lý"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t09-p7-q157",
+          "number": 157,
+          "question": {
+            "en": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?\n“The newly acquired ship is scheduled to begin running later this month.”",
+            "vi": "Câu sau phù hợp nhất với vị trí nào được đánh dấu [1], [2], [3], và [4]?\n“Con tàu mới được mua lại dự kiến sẽ bắt đầu hoạt động vào cuối tháng này.”"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "[1]",
+              "vi": "[1]"
+            },
+            {
+              "key": "B",
+              "en": "[2]",
+              "vi": "[2]"
+            },
+            {
+              "key": "C",
+              "en": "[3]",
+              "vi": "[3]"
+            },
+            {
+              "key": "D",
+              "en": "[4]",
+              "vi": "[4]"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t09-p7-g158-160",
+      "documents": [
+        {
+          "kind": "memo",
+          "content": {
+            "en": "MEMO\n\nTo: All Accounting Staff\nFrom: Jennifer Snow, Senior Manager\nDate: January 8\nSubject: Pedro Allende\n\nPlease join me in congratulating Pedro Allende as he prepares to enter his new role as a full-time administrative assistant in our accounting department. Mr. Allende, a part-time clerk in our mail room, completed a certificate program in computer support at Lander Vocational Institute last month. He was first hired by our company as a delivery driver, a role he held for two years before transferring to the mail room.\n\nMr. Allende’s first day in the accounting department will be Monday, January 11. We all wish him well!",
+            "vi": "BẢN GHI NHỚ\n\nĐến: Tất cả nhân viên kế toán\nTừ: Jennifer Snow, Quản lý cấp cao\nNgày: 8 tháng 1\nChủ đề: Pedro Allende\n\nXin hãy cùng tôi chúc mừng Pedro Allende khi anh ấy chuẩn bị bước vào vai trò mới là trợ lý hành chính toàn thời gian trong phòng kế toán của chúng ta. Ông Allende, một nhân viên bán thời gian trong phòng thư tín của chúng ta, đã hoàn thành chương trình chứng chỉ về hỗ trợ máy tính tại Lander Vocational Institute vào tháng trước. Anh ấy lần đầu được công ty chúng ta tuyển dụng với vai trò tài xế giao hàng, một vai trò mà anh ấy đã đảm nhiệm trong hai năm trước khi chuyển sang phòng thư tín.\n\nNgày làm việc đầu tiên của ông Allende tại phòng kế toán sẽ là thứ Hai, ngày 11 tháng 1. Chúng ta đều chúc anh ấy mọi điều tốt đẹp!"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t09-p7-q158",
+          "number": 158,
+          "question": {
+            "en": "Why did Ms. Snow send the memo?",
+            "vi": "Tại sao cô Snow gửi bản ghi nhớ?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To invite employees to an office party",
+              "vi": "Để mời nhân viên tham dự một bữa tiệc văn phòng"
+            },
+            {
+              "key": "B",
+              "en": "To announce a change to an employee’s job",
+              "vi": "Để thông báo thay đổi công việc của một nhân viên"
+            },
+            {
+              "key": "C",
+              "en": "To inform employees about a reduction in work hours",
+              "vi": "Để thông báo cho nhân viên về việc giảm giờ làm"
+            },
+            {
+              "key": "D",
+              "en": "To request employee feedback on a departmental policy",
+              "vi": "Để yêu cầu phản hồi của nhân viên về một chính sách phòng ban"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t09-p7-q159",
+          "number": 159,
+          "question": {
+            "en": "The word “prepares” in paragraph 1, line 1, is closest in meaning to",
+            "vi": "Từ “prepares” trong đoạn 1, dòng 1, gần nghĩa nhất với"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "assembles",
+              "vi": "lắp ráp"
+            },
+            {
+              "key": "B",
+              "en": "returns",
+              "vi": "quay lại"
+            },
+            {
+              "key": "C",
+              "en": "reaches out",
+              "vi": "liên hệ"
+            },
+            {
+              "key": "D",
+              "en": "gets ready",
+              "vi": "chuẩn bị sẵn sàng"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets24-t09-p7-q160",
+          "number": 160,
+          "question": {
+            "en": "What is indicated about Mr. Allende?",
+            "vi": "Điều gì được chỉ ra về ông Allende?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He currently works as a delivery driver.",
+              "vi": "Hiện tại ông ấy làm tài xế giao hàng."
+            },
+            {
+              "key": "B",
+              "en": "He recently completed a training program.",
+              "vi": "Ông ấy gần đây đã hoàn thành một chương trình đào tạo."
+            },
+            {
+              "key": "C",
+              "en": "He previously assisted Ms. Snow in a different department.",
+              "vi": "Trước đây ông ấy đã hỗ trợ cô Snow ở một phòng ban khác."
+            },
+            {
+              "key": "D",
+              "en": "He will begin working part-time next week.",
+              "vi": "Ông ấy sẽ bắt đầu làm việc bán thời gian vào tuần tới."
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t09-p7-g161-163",
+      "documents": [
+        {
+          "kind": "advertisement",
+          "content": {
+            "en": "Help Wanted: Machinist\n\nCamerley Corp. of Napier, New Zealand, has an opening for an experienced machinist to work in our 15,000-square-metre fabrication plant, which produces custom tools and machine parts for a variety of industries. Requirements for the position include:\n\n• Ability to collaborate with engineers to fabricate tools and machine parts\n• Familiarity with specialised equipment\n• Skill with doing precision work based on technical drawings\n• Comfort working with metal and various other materials, such as wood and plastics\n• Ability to work both independently and as part of a team\n\nTo apply, please send CV and two references to jobs@camerleycorp.co.nz.",
+            "vi": "Cần tuyển: Thợ vận hành máy\n\nCamerley Corp. ở Napier, New Zealand, đang có một vị trí tuyển dụng cho thợ vận hành máy có kinh nghiệm để làm việc trong nhà máy chế tạo rộng 15.000 mét vuông của chúng tôi, nơi sản xuất các công cụ và bộ phận máy móc theo yêu cầu cho nhiều ngành công nghiệp khác nhau. Các yêu cầu cho vị trí này bao gồm:\n\n• Khả năng hợp tác với các kỹ sư để chế tạo công cụ và bộ phận máy móc\n• Quen thuộc với thiết bị chuyên dụng\n• Kỹ năng thực hiện công việc chính xác dựa trên bản vẽ kỹ thuật\n• Thoải mái khi làm việc với kim loại và nhiều vật liệu khác, chẳng hạn như gỗ và nhựa\n• Khả năng làm việc độc lập cũng như làm việc theo nhóm\n\nĐể ứng tuyển, vui lòng gửi CV và hai người giới thiệu đến jobs@camerleycorp.co.nz."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t09-p7-q161",
+          "number": 161,
+          "question": {
+            "en": "What type of business placed the advertisement?",
+            "vi": "Loại hình doanh nghiệp nào đã đăng quảng cáo này?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A land developer",
+              "vi": "Một nhà phát triển đất đai"
+            },
+            {
+              "key": "B",
+              "en": "A car-repair shop",
+              "vi": "Một tiệm sửa xe"
+            },
+            {
+              "key": "C",
+              "en": "A factory",
+              "vi": "Một nhà máy"
+            },
+            {
+              "key": "D",
+              "en": "A hardware store",
+              "vi": "Một cửa hàng vật liệu xây dựng"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t09-p7-q162",
+          "number": 162,
+          "question": {
+            "en": "What material is NOT specified in the advertisement?",
+            "vi": "Vật liệu nào KHÔNG được nêu rõ trong quảng cáo?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Metal",
+              "vi": "Kim loại"
+            },
+            {
+              "key": "B",
+              "en": "Glass",
+              "vi": "Kính"
+            },
+            {
+              "key": "C",
+              "en": "Wood",
+              "vi": "Gỗ"
+            },
+            {
+              "key": "D",
+              "en": "Plastic",
+              "vi": "Nhựa"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t09-p7-q163",
+          "number": 163,
+          "question": {
+            "en": "What is listed as a requirement for the job?",
+            "vi": "Điều gì được liệt kê là yêu cầu cho công việc?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Training in business-to-business sales",
+              "vi": "Đào tạo về bán hàng giữa doanh nghiệp với doanh nghiệp"
+            },
+            {
+              "key": "B",
+              "en": "A university degree in engineering",
+              "vi": "Bằng đại học về kỹ thuật"
+            },
+            {
+              "key": "C",
+              "en": "Experience creating technical drawings",
+              "vi": "Kinh nghiệm tạo bản vẽ kỹ thuật"
+            },
+            {
+              "key": "D",
+              "en": "The ability to work alone and with others",
+              "vi": "Khả năng làm việc một mình và với người khác"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t09-p7-g164-167",
+      "documents": [
+        {
+          "kind": "text_message_chain",
+          "content": {
+            "en": "Lanie McGinnis (7:16 A.M.)\nGood morning, Kelly and Matthieu. I removed the Funfair preregistration signs from the park entrances, but I think I forgot one at the north gate. Could one of you check to see if it is still there?\n\nKelly Sen (7:18 A.M.)\nHi, Lanie. I rode my bike to the park earlier this morning to help put pamphlets and other materials on the welcome table in the main tent. But I could head over to that entrance now since there are other volunteers here who can finish up.\n\nLanie McGinnis (7:19 A.M.)\nThat would be great, since I’m going to be on the other side of the park at the south entrance for a while. I’m meeting some representatives from the city parks department.\n\nMatthieu Herman (7:21 A.M.)\nI’ve got it, Kelly. I just arrived at the north entrance and will take down the sign we hung here. Lanie, what would you like me to do with it?\n\nLanie McGinnis (7:22 A.M.)\nPerfect! Can you put it with the others behind the welcome table in the main tent? I will pick them up later today. We can change the dates and use them again next year.\n\nMatthieu Herman (7:23 A.M.)\nWill do. Here’s to a successful fair!",
+            "vi": "Lanie McGinnis (7:16 sáng)\nChào buổi sáng, Kelly và Matthieu. Tôi đã tháo các biển đăng ký trước Funfair khỏi các lối vào công viên, nhưng tôi nghĩ tôi đã quên một cái ở cổng phía bắc. Một trong hai bạn có thể kiểm tra xem nó còn ở đó không?\n\nKelly Sen (7:18 sáng)\nChào Lanie. Sáng nay tôi đã đạp xe đến công viên sớm để giúp đặt tờ rơi và các tài liệu khác lên bàn chào đón trong lều chính. Nhưng tôi có thể đi đến lối vào đó ngay bây giờ vì có các tình nguyện viên khác ở đây có thể hoàn tất việc này.\n\nLanie McGinnis (7:19 sáng)\nNhư vậy thì tốt quá, vì tôi sẽ ở phía bên kia công viên tại lối vào phía nam một lúc. Tôi đang gặp một số đại diện từ sở công viên thành phố.\n\nMatthieu Herman (7:21 sáng)\nTôi lo được rồi, Kelly. Tôi vừa đến lối vào phía bắc và sẽ tháo tấm biển mà chúng ta đã treo ở đây. Lanie, cô muốn tôi làm gì với nó?\n\nLanie McGinnis (7:22 sáng)\nHoàn hảo! Anh có thể đặt nó cùng với những cái khác phía sau bàn chào đón trong lều chính không? Tôi sẽ đến lấy chúng sau hôm nay. Chúng ta có thể thay đổi ngày tháng và dùng lại chúng vào năm sau.\n\nMatthieu Herman (7:23 sáng)\nTôi sẽ làm vậy. Chúc hội chợ thành công!"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t09-p7-q164",
+          "number": 164,
+          "question": {
+            "en": "What is probably true about the writers?",
+            "vi": "Điều gì có lẽ đúng về những người viết?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "They are registering people for a bike-to-work program.",
+              "vi": "Họ đang đăng ký người tham gia cho một chương trình đạp xe đi làm."
+            },
+            {
+              "key": "B",
+              "en": "They are coordinating a public event.",
+              "vi": "Họ đang điều phối một sự kiện công cộng."
+            },
+            {
+              "key": "C",
+              "en": "They work for a city parks department.",
+              "vi": "Họ làm việc cho sở công viên thành phố."
+            },
+            {
+              "key": "D",
+              "en": "They are members of a club that walks in a park.",
+              "vi": "Họ là thành viên của một câu lạc bộ đi bộ trong công viên."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t09-p7-q165",
+          "number": 165,
+          "question": {
+            "en": "What was Ms. Sen doing?",
+            "vi": "Cô Sen đang làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Erecting a tent",
+              "vi": "Dựng một cái lều"
+            },
+            {
+              "key": "B",
+              "en": "Designing pamphlets",
+              "vi": "Thiết kế tờ rơi"
+            },
+            {
+              "key": "C",
+              "en": "Placing items on the welcome table",
+              "vi": "Đặt các vật dụng lên bàn chào đón"
+            },
+            {
+              "key": "D",
+              "en": "Attaching signs to the park entrance",
+              "vi": "Gắn biển vào lối vào công viên"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t09-p7-q166",
+          "number": 166,
+          "question": {
+            "en": "At 7:21 A.M., what does Mr. Herman mean when he writes, “I’ve got it, Kelly”?",
+            "vi": "Vào lúc 7:21 sáng, ông Herman có ý gì khi viết “Tôi lo được rồi, Kelly”?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He has already taken down a sign.",
+              "vi": "Ông ấy đã tháo một tấm biển rồi."
+            },
+            {
+              "key": "B",
+              "en": "He will perform a task requested by Ms. McGinnis.",
+              "vi": "Ông ấy sẽ thực hiện một nhiệm vụ mà cô McGinnis yêu cầu."
+            },
+            {
+              "key": "C",
+              "en": "He will return unused materials to the office.",
+              "vi": "Ông ấy sẽ trả các tài liệu không dùng đến về văn phòng."
+            },
+            {
+              "key": "D",
+              "en": "He realizes that Ms. Sen does not need help.",
+              "vi": "Ông ấy nhận ra rằng cô Sen không cần giúp đỡ."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t09-p7-q167",
+          "number": 167,
+          "question": {
+            "en": "What does Ms. McGinnis instruct Mr. Herman to do?",
+            "vi": "Cô McGinnis hướng dẫn ông Herman làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Help her locate the main tent",
+              "vi": "Giúp cô ấy xác định vị trí lều chính"
+            },
+            {
+              "key": "B",
+              "en": "Meet her at the south entrance",
+              "vi": "Gặp cô ấy ở lối vào phía nam"
+            },
+            {
+              "key": "C",
+              "en": "Write down participants’ information",
+              "vi": "Ghi lại thông tin của người tham gia"
+            },
+            {
+              "key": "D",
+              "en": "Leave an object behind the welcome table",
+              "vi": "Để một vật phía sau bàn chào đón"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t09-p7-g168-171",
+      "documents": [
+        {
+          "kind": "fact_sheet",
+          "content": {
+            "en": "Zealandia Airlines Fact Sheet for Fiscal Year Ending 30 June\n\nService Levels and Capacity: Zealandia Airlines provides regional service among four cities. In each case, average flight capacity exceeded the company goal of 85 percent.\n\nOn-Time Performance (OTP): For the purpose of measuring OTP, flights are considered “on time” when they reach their destination within fifteen minutes of the scheduled arrival time. Regional airlines are subject to fines when OTP drops below 50 percent. The following chart shows Zealandia’s commendable OTP rates for the recent fiscal year.\n\nCity | OTP\nKelton Falls | 52%\nGrangerton | 68%\nSatcherville | 79%\nBarbour City | 64%\n\nProposed Expansion: Zealandia Airlines provides regional passenger air service and is seeking to expand its fleet to begin providing commercial airfreight delivery. Establishing this service is a component of the airline’s growth plan and corporate vision. The airline is currently in negotiations with aviation authorities to explore options.\n\nTerminal and Service Improvements: Zealandia Airlines is participating in discussions with airport management about comprehensive renovations to its passenger lounge and café and has offered to commit $5 million from its budget to the project. Company executives have also finalized a plan and committed funds to overhaul its rewards program. The initiative supports the aim to be a leading service provider among similar airlines and capture an increasing percentage of the market share.",
+            "vi": "Tờ thông tin của Zealandia Airlines cho năm tài chính kết thúc ngày 30 tháng 6\n\nMức độ dịch vụ và sức chứa: Zealandia Airlines cung cấp dịch vụ khu vực giữa bốn thành phố. Trong từng trường hợp, sức chứa chuyến bay trung bình đã vượt mục tiêu 85 phần trăm của công ty.\n\nHiệu suất đúng giờ (OTP): Để đo lường OTP, các chuyến bay được xem là “đúng giờ” khi chúng đến điểm đến trong vòng mười lăm phút so với thời gian đến theo lịch trình. Các hãng hàng không khu vực phải chịu phạt khi OTP giảm xuống dưới 50 phần trăm. Biểu đồ sau cho thấy tỷ lệ OTP đáng khen ngợi của Zealandia trong năm tài chính gần đây.\n\nThành phố | OTP\nKelton Falls | 52%\nGrangerton | 68%\nSatcherville | 79%\nBarbour City | 64%\n\nĐề xuất mở rộng: Zealandia Airlines cung cấp dịch vụ hàng không chở khách khu vực và đang tìm cách mở rộng đội bay để bắt đầu cung cấp dịch vụ vận chuyển hàng hóa thương mại bằng đường hàng không. Việc thiết lập dịch vụ này là một phần trong kế hoạch tăng trưởng và tầm nhìn doanh nghiệp của hãng hàng không. Hãng hiện đang đàm phán với các cơ quan hàng không để khám phá các lựa chọn.\n\nCải thiện nhà ga và dịch vụ: Zealandia Airlines đang tham gia các cuộc thảo luận với ban quản lý sân bay về việc cải tạo toàn diện phòng chờ hành khách và quán cà phê, đồng thời đã đề nghị cam kết 5 triệu đô la từ ngân sách của mình cho dự án này. Các giám đốc công ty cũng đã hoàn tất một kế hoạch và cam kết vốn để đại tu chương trình thưởng của hãng. Sáng kiến này hỗ trợ mục tiêu trở thành nhà cung cấp dịch vụ hàng đầu trong số các hãng hàng không tương tự và giành được tỷ lệ thị phần ngày càng tăng."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t09-p7-q168",
+          "number": 168,
+          "question": {
+            "en": "The word “exceeded” in paragraph 1, line 2, is closest in meaning to",
+            "vi": "Từ “exceeded” trong đoạn 1, dòng 2, gần nghĩa nhất với"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "surpassed",
+              "vi": "vượt qua"
+            },
+            {
+              "key": "B",
+              "en": "excelled",
+              "vi": "xuất sắc"
+            },
+            {
+              "key": "C",
+              "en": "perfected",
+              "vi": "hoàn thiện"
+            },
+            {
+              "key": "D",
+              "en": "decided",
+              "vi": "quyết định"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets24-t09-p7-q169",
+          "number": 169,
+          "question": {
+            "en": "According to the fact sheet, what is true about Zealandia Airlines?",
+            "vi": "Theo tờ thông tin, điều gì đúng về Zealandia Airlines?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Executives aim to improve its flight capacity.",
+              "vi": "Các giám đốc hướng đến việc cải thiện sức chứa chuyến bay của hãng."
+            },
+            {
+              "key": "B",
+              "en": "Most of its flights arrive at their destinations on time.",
+              "vi": "Hầu hết các chuyến bay của hãng đến điểm đến đúng giờ."
+            },
+            {
+              "key": "C",
+              "en": "It is larger than 85 percent of regional airlines.",
+              "vi": "Hãng lớn hơn 85 phần trăm các hãng hàng không khu vực."
+            },
+            {
+              "key": "D",
+              "en": "It has received a fine from aviation authorities.",
+              "vi": "Hãng đã nhận một khoản phạt từ các cơ quan hàng không."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t09-p7-q170",
+          "number": 170,
+          "question": {
+            "en": "What does Zealandia Airlines want to provide in the future?",
+            "vi": "Zealandia Airlines muốn cung cấp dịch vụ gì trong tương lai?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Private charter flights",
+              "vi": "Các chuyến bay thuê riêng"
+            },
+            {
+              "key": "B",
+              "en": "Luxury travel tours",
+              "vi": "Các tour du lịch cao cấp"
+            },
+            {
+              "key": "C",
+              "en": "Commercial shipping",
+              "vi": "Vận chuyển thương mại"
+            },
+            {
+              "key": "D",
+              "en": "Aircraft leasing",
+              "vi": "Cho thuê máy bay"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t09-p7-q171",
+          "number": 171,
+          "question": {
+            "en": "How does Zealandia Airlines hope to improve service for passengers?",
+            "vi": "Zealandia Airlines hy vọng cải thiện dịch vụ cho hành khách bằng cách nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "By remodeling the passenger waiting area",
+              "vi": "Bằng cách tu sửa khu vực chờ của hành khách"
+            },
+            {
+              "key": "B",
+              "en": "By moving to a new location within the terminal",
+              "vi": "Bằng cách chuyển đến một vị trí mới trong nhà ga"
+            },
+            {
+              "key": "C",
+              "en": "By upgrading the seating inside the aircraft",
+              "vi": "Bằng cách nâng cấp ghế ngồi bên trong máy bay"
+            },
+            {
+              "key": "D",
+              "en": "By offering improved meal service on all flights",
+              "vi": "Bằng cách cung cấp dịch vụ bữa ăn được cải thiện trên tất cả các chuyến bay"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t09-p7-g172-175",
+      "documents": [
+        {
+          "kind": "press_release",
+          "content": {
+            "en": "New Fleet for Northeast Railways\n\nNortheast Railways expects to spend $5.6 billion to replace its fleet of 65 passenger trains, many of which are more than 40 years old. — [1] —.\n\nThe company has entered into a contract with Logiens Transport for a new fleet of trains that will operate on electrified tracks when those track systems are available and on diesel fuel at all other times. — [2] —. The trains will be capable of traveling at speeds of up to 130 kilometers per hour and will produce far less pollution than the current fleet does.\n\nLogiens also promises an enhanced passenger experience. The train cars will have panoramic windows, improved ventilation, and wider aisles. — [3] —.\n\nNortheast’s contract with Logiens also includes equipment and replacement parts and provides a long-term service agreement. — [4] —.",
+            "vi": "Đội tàu mới cho Northeast Railways\n\nNortheast Railways dự kiến chi 5,6 tỷ đô la để thay thế đội tàu gồm 65 tàu chở khách, nhiều chiếc trong số đó đã hơn 40 năm tuổi. — [1] —.\n\nCông ty đã ký hợp đồng với Logiens Transport cho một đội tàu mới sẽ hoạt động trên đường ray điện khi các hệ thống đường ray đó có sẵn và chạy bằng nhiên liệu diesel vào tất cả các thời điểm khác. — [2] —. Các tàu sẽ có khả năng di chuyển với tốc độ lên đến 130 ki-lô-mét mỗi giờ và sẽ tạo ra ít ô nhiễm hơn nhiều so với đội tàu hiện tại.\n\nLogiens cũng hứa hẹn một trải nghiệm hành khách được nâng cao. Các toa tàu sẽ có cửa sổ toàn cảnh, hệ thống thông gió được cải thiện và lối đi rộng hơn. — [3] —.\n\nHợp đồng của Northeast với Logiens cũng bao gồm thiết bị và phụ tùng thay thế, đồng thời cung cấp một thỏa thuận dịch vụ dài hạn. — [4] —."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t09-p7-q172",
+          "number": 172,
+          "question": {
+            "en": "What is Logiens Transport’s role?",
+            "vi": "Vai trò của Logiens Transport là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To recommend ways to reduce pollution",
+              "vi": "Đề xuất các cách giảm ô nhiễm"
+            },
+            {
+              "key": "B",
+              "en": "To acquire financing for a purchase",
+              "vi": "Thu xếp tài chính cho một giao dịch mua"
+            },
+            {
+              "key": "C",
+              "en": "To familiarize train engineers with new technology",
+              "vi": "Giúp các kỹ sư tàu hỏa làm quen với công nghệ mới"
+            },
+            {
+              "key": "D",
+              "en": "To manufacture and service the replacement fleet",
+              "vi": "Sản xuất và bảo dưỡng đội tàu thay thế"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets24-t09-p7-q173",
+          "number": 173,
+          "question": {
+            "en": "What information is included in the press release?",
+            "vi": "Thông tin nào được bao gồm trong thông cáo báo chí?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "The date on which the trains will be delivered",
+              "vi": "Ngày các tàu sẽ được giao"
+            },
+            {
+              "key": "B",
+              "en": "The budget for replacing the current trains",
+              "vi": "Ngân sách để thay thế các tàu hiện tại"
+            },
+            {
+              "key": "C",
+              "en": "The annual cost for parts and service",
+              "vi": "Chi phí hằng năm cho phụ tùng và dịch vụ"
+            },
+            {
+              "key": "D",
+              "en": "The number of passenger seats in each train car",
+              "vi": "Số ghế hành khách trong mỗi toa tàu"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t09-p7-q174",
+          "number": 174,
+          "question": {
+            "en": "What is suggested about the tracks that Northeast Railways uses?",
+            "vi": "Điều gì được gợi ý về các đường ray mà Northeast Railways sử dụng?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "They are owned by the government.",
+              "vi": "Chúng thuộc sở hữu của chính phủ."
+            },
+            {
+              "key": "B",
+              "en": "They are not shared with freight trains.",
+              "vi": "Chúng không được dùng chung với tàu hàng."
+            },
+            {
+              "key": "C",
+              "en": "Most are in urgent need of repair.",
+              "vi": "Hầu hết đang cần sửa chữa khẩn cấp."
+            },
+            {
+              "key": "D",
+              "en": "Some are not electrified.",
+              "vi": "Một số chưa được điện khí hóa."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets24-t09-p7-q175",
+          "number": 175,
+          "question": {
+            "en": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?\n“Each reclinable seat will have an individual power supply and USB port.”",
+            "vi": "Câu sau phù hợp nhất với vị trí nào được đánh dấu [1], [2], [3], và [4]?\n“Mỗi ghế có thể ngả sẽ có nguồn điện riêng và cổng USB.”"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "[1]",
+              "vi": "[1]"
+            },
+            {
+              "key": "B",
+              "en": "[2]",
+              "vi": "[2]"
+            },
+            {
+              "key": "C",
+              "en": "[3]",
+              "vi": "[3]"
+            },
+            {
+              "key": "D",
+              "en": "[4]",
+              "vi": "[4]"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t09-p7-g176-180",
+      "documents": [
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: headquartersstaff@seonwulawfirm.com\nFrom: iqalandar@seonwulawfirm.com\nDate: October 1, 9:39 A.M.\nSubject: Remote work setup\nAttachment: Equipment request form\n\nDear Associates,\n\nOn December 3, our headquarters will close for a month for renovation. As all of you normally work out of these offices in San Francisco, please plan to work off-site and collect everything you may need (your laptop, files, etc.) before December 1. Entry to the building will be restricted after that date.\n\nIf you would like a temporary space at our San Jose offices, please e-mail me, and I will reserve one for you. If you plan to work from home and need additional equipment (such as a printer), fill out the attached form from our technology department and return it to me. A representative of that department will mail the equipment to your home address.\n\nWe realize this work on the building is a disruption, but timing it with our slow season should make the situation easier. We think you will be happy with the changes when the building reopens on January 5. If you have any questions, please reach out to me.\n\nBest,\n\nIan Qalandar, Manager\nSeonwu Law Firm\n(415) 555-0177",
+            "vi": "Đến: headquartersstaff@seonwulawfirm.com\nTừ: iqalandar@seonwulawfirm.com\nNgày: 1 tháng 10, 9:39 sáng\nChủ đề: Thiết lập làm việc từ xa\nTệp đính kèm: Biểu mẫu yêu cầu thiết bị\n\nKính gửi các cộng sự,\n\nVào ngày 3 tháng 12, trụ sở chính của chúng ta sẽ đóng cửa trong một tháng để cải tạo. Vì tất cả các bạn thường làm việc tại các văn phòng này ở San Francisco, vui lòng lên kế hoạch làm việc ngoài văn phòng và lấy mọi thứ bạn có thể cần, như máy tính xách tay, hồ sơ, v.v., trước ngày 1 tháng 12. Việc vào tòa nhà sẽ bị hạn chế sau ngày đó.\n\nNếu bạn muốn có một không gian tạm thời tại các văn phòng San Jose của chúng ta, vui lòng gửi e-mail cho tôi, và tôi sẽ đặt trước một chỗ cho bạn. Nếu bạn dự định làm việc tại nhà và cần thiết bị bổ sung, chẳng hạn như máy in, hãy điền vào biểu mẫu đính kèm từ bộ phận công nghệ của chúng ta và gửi lại cho tôi. Một đại diện của bộ phận đó sẽ gửi thiết bị đến địa chỉ nhà của bạn qua đường bưu điện.\n\nChúng tôi nhận ra rằng công việc sửa chữa tòa nhà này là một sự gián đoạn, nhưng việc sắp xếp thời gian vào mùa thấp điểm của chúng ta sẽ giúp tình hình dễ dàng hơn. Chúng tôi nghĩ các bạn sẽ hài lòng với những thay đổi khi tòa nhà mở cửa trở lại vào ngày 5 tháng 1. Nếu có bất kỳ câu hỏi nào, vui lòng liên hệ với tôi.\n\nTrân trọng,\n\nIan Qalandar, Quản lý\nSeonwu Law Firm\n(415) 555-0177"
+          }
+        },
+        {
+          "kind": "form",
+          "content": {
+            "en": "Seonwu Law Firm—Equipment Request Form\n\nEmployee name: Jason Kang\n\nEmployee ID: 102899\n\nE-mail: jkang@seonwulawfirm.com\n\nDate to receive: November 30\n\nEquipment: desktop monitor, printer\n\n(This section is to be completed by the technology department.)\n\nRequest completed: ✓ Yes    No\n\nRequest filled by: Aubrey Smith\n\nEquipment serial numbers: VN3902556, MXE96400\n\nDate sent: November 27 via overnight mail",
+            "vi": "Seonwu Law Firm—Biểu mẫu yêu cầu thiết bị\n\nTên nhân viên: Jason Kang\n\nMã nhân viên: 102899\n\nE-mail: jkang@seonwulawfirm.com\n\nNgày cần nhận: 30 tháng 11\n\nThiết bị: màn hình máy tính để bàn, máy in\n\n(Phần này do bộ phận công nghệ hoàn thành.)\n\nYêu cầu đã hoàn tất: ✓ Có    Không\n\nYêu cầu được xử lý bởi: Aubrey Smith\n\nSố sê-ri thiết bị: VN3902556, MXE96400\n\nNgày gửi: 27 tháng 11 qua thư qua đêm"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t09-p7-q176",
+          "number": 176,
+          "question": {
+            "en": "What is indicated about Seonwu Law Firm?",
+            "vi": "Điều gì được chỉ ra về Seonwu Law Firm?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It focuses on real estate law.",
+              "vi": "Công ty tập trung vào luật bất động sản."
+            },
+            {
+              "key": "B",
+              "en": "It has a large advertising budget.",
+              "vi": "Công ty có ngân sách quảng cáo lớn."
+            },
+            {
+              "key": "C",
+              "en": "It serves clients across the country.",
+              "vi": "Công ty phục vụ khách hàng trên toàn quốc."
+            },
+            {
+              "key": "D",
+              "en": "It is headquartered in San Francisco.",
+              "vi": "Công ty có trụ sở chính ở San Francisco."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets24-t09-p7-q177",
+          "number": 177,
+          "question": {
+            "en": "According to the e-mail, what will the technology department do?",
+            "vi": "Theo e-mail, bộ phận công nghệ sẽ làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Install updates on employee laptops",
+              "vi": "Cài đặt các bản cập nhật trên máy tính xách tay của nhân viên"
+            },
+            {
+              "key": "B",
+              "en": "Send office equipment to employees",
+              "vi": "Gửi thiết bị văn phòng cho nhân viên"
+            },
+            {
+              "key": "C",
+              "en": "Train employees to use new software",
+              "vi": "Đào tạo nhân viên sử dụng phần mềm mới"
+            },
+            {
+              "key": "D",
+              "en": "Place equipment in renovated offices",
+              "vi": "Đặt thiết bị trong các văn phòng đã cải tạo"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t09-p7-q178",
+          "number": 178,
+          "question": {
+            "en": "What is suggested in the e-mail about Seonwu Law Firm?",
+            "vi": "Điều gì được gợi ý trong e-mail về Seonwu Law Firm?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It plans to expand its operations.",
+              "vi": "Công ty có kế hoạch mở rộng hoạt động."
+            },
+            {
+              "key": "B",
+              "en": "It mostly employs remote workers.",
+              "vi": "Công ty chủ yếu tuyển dụng nhân viên làm việc từ xa."
+            },
+            {
+              "key": "C",
+              "en": "It is usually not busy in December.",
+              "vi": "Công ty thường không bận rộn vào tháng 12."
+            },
+            {
+              "key": "D",
+              "en": "It handles many high-profile cases.",
+              "vi": "Công ty xử lý nhiều vụ án nổi bật."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t09-p7-q179",
+          "number": 179,
+          "question": {
+            "en": "What can be concluded about Mr. Kang?",
+            "vi": "Có thể kết luận điều gì về ông Kang?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He chose not to work in the San Jose office.",
+              "vi": "Ông ấy đã chọn không làm việc tại văn phòng San Jose."
+            },
+            {
+              "key": "B",
+              "en": "He is a senior partner at the Seonwu Law Firm.",
+              "vi": "Ông ấy là cộng sự cấp cao tại Seonwu Law Firm."
+            },
+            {
+              "key": "C",
+              "en": "He will be on vacation after November.",
+              "vi": "Ông ấy sẽ đi nghỉ sau tháng 11."
+            },
+            {
+              "key": "D",
+              "en": "He has requested a larger office.",
+              "vi": "Ông ấy đã yêu cầu một văn phòng lớn hơn."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets24-t09-p7-q180",
+          "number": 180,
+          "question": {
+            "en": "What most likely is Ms. Smith’s occupation?",
+            "vi": "Cô Smith có khả năng làm nghề gì nhất?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Lawyer",
+              "vi": "Luật sư"
+            },
+            {
+              "key": "B",
+              "en": "Office manager",
+              "vi": "Quản lý văn phòng"
+            },
+            {
+              "key": "C",
+              "en": "Technical support staff",
+              "vi": "Nhân viên hỗ trợ kỹ thuật"
+            },
+            {
+              "key": "D",
+              "en": "Administrative assistant",
+              "vi": "Trợ lý hành chính"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t09-p7-g181-185",
+      "documents": [
+        {
+          "kind": "article",
+          "content": {
+            "en": "Planning a Tour of Your Facility\n\nby Didiane Lessard\n\nPlant tours are commonplace in many factories, but not all tours are as effective as they could be. Too many companies make the mistake of adopting a one-size-fits-all approach rather than tailoring tours to maximize their usefulness. A potential investor and a casual tourist will probably not be impressed by the same things, so it is best to be clear about the tour’s purpose early on. Here are some guidelines to make each tour as effective as possible.\n\nBe selective. Unless your tour is for a safety inspection, your guests do not need (or want) to see every part of your factory. Choose a few sections that will interest your guests and give them a better sense of your product. For example, journalists will want to create a story about your plant, so show them the parts of the plant that have historical significance, such as a room with the company’s original production equipment.\n\nTiming is everything. Always be mindful of the physical demands of the tour. Even the hardiest guest will tire of standing or walking for long periods. It is a good idea to schedule breaks in tours lasting longer than an hour. The time spent in a single section matters also. If you allow guests only five minutes in an area, they will soon forget it. On the other hand, even the most impressive room gets boring after half an hour.\n\nPersonality is NOT everything. While having a personable and friendly tour guide is essential, your guests are coming to see what goes into making your product. Tour guides get asked a variety of questions, some unexpected, so a comprehensive knowledge of the production processes is important (and absolutely vital during inspections). You also want someone who will keep the tour moving—visitors will appreciate a tour that begins and ends on time.",
+            "vi": "Lên kế hoạch cho chuyến tham quan cơ sở của bạn\n\nbởi Didiane Lessard\n\nCác chuyến tham quan nhà máy rất phổ biến ở nhiều nhà máy, nhưng không phải tất cả các chuyến tham quan đều hiệu quả như chúng có thể. Quá nhiều công ty mắc sai lầm khi áp dụng phương pháp “một kiểu phù hợp cho tất cả” thay vì điều chỉnh các chuyến tham quan để tối đa hóa tính hữu ích của chúng. Một nhà đầu tư tiềm năng và một khách du lịch thông thường có lẽ sẽ không ấn tượng với cùng những điều giống nhau, vì vậy tốt nhất là cần làm rõ mục đích của chuyến tham quan ngay từ đầu. Dưới đây là một số hướng dẫn để làm cho mỗi chuyến tham quan hiệu quả nhất có thể.\n\nHãy có chọn lọc. Trừ khi chuyến tham quan của bạn dành cho một cuộc kiểm tra an toàn, khách của bạn không cần hoặc không muốn xem mọi khu vực trong nhà máy. Hãy chọn một vài khu vực sẽ khiến khách của bạn quan tâm và giúp họ hiểu rõ hơn về sản phẩm của bạn. Ví dụ, các nhà báo sẽ muốn tạo một câu chuyện về nhà máy của bạn, vì vậy hãy cho họ xem các phần của nhà máy có ý nghĩa lịch sử, chẳng hạn như một căn phòng có thiết bị sản xuất ban đầu của công ty.\n\nThời điểm là tất cả. Luôn lưu ý đến các yêu cầu về thể chất của chuyến tham quan. Ngay cả vị khách khỏe nhất cũng sẽ mệt mỏi khi phải đứng hoặc đi bộ trong thời gian dài. Việc lên lịch nghỉ giải lao trong các chuyến tham quan kéo dài hơn một giờ là một ý hay. Thời gian dành cho một khu vực riêng lẻ cũng quan trọng. Nếu bạn chỉ cho phép khách ở một khu vực trong năm phút, họ sẽ sớm quên nó. Mặt khác, ngay cả căn phòng ấn tượng nhất cũng trở nên nhàm chán sau nửa giờ.\n\nTính cách KHÔNG phải là tất cả. Mặc dù việc có một hướng dẫn viên thân thiện và dễ mến là điều cần thiết, khách của bạn đến để xem những gì góp phần tạo ra sản phẩm của bạn. Hướng dẫn viên thường được hỏi nhiều loại câu hỏi, một số câu hỏi bất ngờ, vì vậy kiến thức toàn diện về các quy trình sản xuất là rất quan trọng, và đặc biệt cần thiết trong các cuộc kiểm tra. Bạn cũng muốn một người có thể giữ cho chuyến tham quan tiếp tục đúng tiến độ — khách tham quan sẽ đánh giá cao một chuyến tham quan bắt đầu và kết thúc đúng giờ."
+          }
+        },
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Masumi Toda <mt978@vidatechsystems.com>\nFrom: Ana Miftaroski <am680@vidatechsystems.com>\nDate: May 1\nSubject: Upcoming plant tour\nAttachment: Lessard_article\n\nHi, Masumi,\n\nI have attached an April 15 article by Didiane Lessard to help you plan the tour we will be giving later this month. I especially agree with the section on timing. Since the tour, by necessity, will have to cover the entire plant, it must be conducted as efficiently as possible. As for a guide, I would have recommended Nathan Zarate, but he will be traveling on May 21. Perhaps Maja Clausen could do it. She has also worked here for several years; she is very knowledgeable about our facility, processes, policies, and procedures. I am confident that she will be able to handle any questions the visitors might ask.\n\nAna Miftaroski, Vice President of Operations",
+            "vi": "Đến: Masumi Toda <mt978@vidatechsystems.com>\nTừ: Ana Miftaroski <am680@vidatechsystems.com>\nNgày: 1 tháng 5\nChủ đề: Chuyến tham quan nhà máy sắp tới\nTệp đính kèm: Bài báo của Lessard\n\nChào Masumi,\n\nTôi đã đính kèm một bài báo ngày 15 tháng 4 của Didiane Lessard để giúp anh lên kế hoạch cho chuyến tham quan mà chúng ta sẽ tổ chức vào cuối tháng này. Tôi đặc biệt đồng ý với phần về thời điểm. Vì chuyến tham quan, do cần thiết, sẽ phải bao quát toàn bộ nhà máy, nên nó phải được tiến hành hiệu quả nhất có thể. Về hướng dẫn viên, tôi lẽ ra đã đề xuất Nathan Zarate, nhưng anh ấy sẽ đi công tác vào ngày 21 tháng 5. Có lẽ Maja Clausen có thể đảm nhận. Cô ấy cũng đã làm việc ở đây trong vài năm; cô ấy rất am hiểu về cơ sở, quy trình, chính sách và thủ tục của chúng ta. Tôi tin rằng cô ấy sẽ có thể xử lý bất kỳ câu hỏi nào mà khách tham quan có thể đặt ra.\n\nAna Miftaroski, Phó Chủ tịch Vận hành"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t09-p7-q181",
+          "number": 181,
+          "question": {
+            "en": "What is one problem mentioned about factory tours in the article?",
+            "vi": "Một vấn đề được đề cập về các chuyến tham quan nhà máy trong bài báo là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "They are often rescheduled at the last minute.",
+              "vi": "Chúng thường bị lên lịch lại vào phút chót."
+            },
+            {
+              "key": "B",
+              "en": "They give the same information to all types of visitors.",
+              "vi": "Chúng cung cấp cùng một thông tin cho tất cả các loại khách tham quan."
+            },
+            {
+              "key": "C",
+              "en": "They fail to supply protective gear that fits everyone.",
+              "vi": "Chúng không cung cấp đồ bảo hộ vừa với mọi người."
+            },
+            {
+              "key": "D",
+              "en": "They allow groups that are too large.",
+              "vi": "Chúng cho phép các nhóm quá lớn."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t09-p7-q182",
+          "number": 182,
+          "question": {
+            "en": "According to the article, what is the maximum amount of time that a tour should stay in one area?",
+            "vi": "Theo bài báo, thời gian tối đa mà một chuyến tham quan nên ở lại một khu vực là bao lâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "10 minutes",
+              "vi": "10 phút"
+            },
+            {
+              "key": "B",
+              "en": "20 minutes",
+              "vi": "20 phút"
+            },
+            {
+              "key": "C",
+              "en": "30 minutes",
+              "vi": "30 phút"
+            },
+            {
+              "key": "D",
+              "en": "60 minutes",
+              "vi": "60 phút"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t09-p7-q183",
+          "number": 183,
+          "question": {
+            "en": "What is NOT indicated in the article as a characteristic of a good tour guide?",
+            "vi": "Điều gì KHÔNG được nêu trong bài báo như một đặc điểm của một hướng dẫn viên tốt?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A friendly personality",
+              "vi": "Tính cách thân thiện"
+            },
+            {
+              "key": "B",
+              "en": "The ability to stand for long periods",
+              "vi": "Khả năng đứng trong thời gian dài"
+            },
+            {
+              "key": "C",
+              "en": "A deep knowledge of processes",
+              "vi": "Kiến thức sâu về các quy trình"
+            },
+            {
+              "key": "D",
+              "en": "The ability to pay close attention to time",
+              "vi": "Khả năng chú ý kỹ đến thời gian"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t09-p7-q184",
+          "number": 184,
+          "question": {
+            "en": "For whom is Mr. Toda most likely planning a tour?",
+            "vi": "Ông Toda có khả năng đang lên kế hoạch chuyến tham quan cho ai nhất?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Casual tourists",
+              "vi": "Khách du lịch thông thường"
+            },
+            {
+              "key": "B",
+              "en": "New employees",
+              "vi": "Nhân viên mới"
+            },
+            {
+              "key": "C",
+              "en": "Potential investors",
+              "vi": "Nhà đầu tư tiềm năng"
+            },
+            {
+              "key": "D",
+              "en": "Safety inspectors",
+              "vi": "Thanh tra an toàn"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets24-t09-p7-q185",
+          "number": 185,
+          "question": {
+            "en": "When is the tour scheduled to take place?",
+            "vi": "Chuyến tham quan được lên lịch diễn ra khi nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "On April 15",
+              "vi": "Vào ngày 15 tháng 4"
+            },
+            {
+              "key": "B",
+              "en": "On April 21",
+              "vi": "Vào ngày 21 tháng 4"
+            },
+            {
+              "key": "C",
+              "en": "On May 1",
+              "vi": "Vào ngày 1 tháng 5"
+            },
+            {
+              "key": "D",
+              "en": "On May 21",
+              "vi": "Vào ngày 21 tháng 5"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t09-p7-g186-190",
+      "documents": [
+        {
+          "kind": "web_page",
+          "content": {
+            "en": "https://www.zonecatering.com/home\n\nHome | Menus | Testimonials | Contact Us\n\nZone Catering provides food trucks at film and television production sites throughout California. Just let us know where you need a food truck and how many people you need to feed. We can serve your entire cast and crew. Our trucks also move with you and your team if you are shooting scenes in various locations.\n\nAt Zone Catering, we offer a wide variety of cuisines. All the fruits and vegetables we use in our menus are grown here in California. Our menus are easily adapted to accommodate dietary restrictions. For convenience, our food trucks offer both full meals and individual items. We can serve meals buffet-style, or people can order directly from the truck.\n\nLet us take care of the catering for your production. You will find our food delicious, and you will find our service friendly and convenient. We even offer 24-hour support in case any issues arise while we are at your location. We hope to serve you soon!",
+            "vi": "https://www.zonecatering.com/home\n\nTrang chủ | Thực đơn | Lời chứng thực | Liên hệ với chúng tôi\n\nZone Catering cung cấp xe bán đồ ăn tại các địa điểm sản xuất phim và truyền hình trên khắp California. Chỉ cần cho chúng tôi biết nơi bạn cần xe bán đồ ăn và bạn cần phục vụ bao nhiêu người. Chúng tôi có thể phục vụ toàn bộ dàn diễn viên và ê-kíp của bạn. Xe của chúng tôi cũng di chuyển cùng bạn và đội của bạn nếu bạn đang quay các cảnh ở nhiều địa điểm khác nhau.\n\nTại Zone Catering, chúng tôi cung cấp nhiều loại ẩm thực đa dạng. Tất cả trái cây và rau củ chúng tôi sử dụng trong thực đơn đều được trồng tại California. Thực đơn của chúng tôi có thể dễ dàng điều chỉnh để phù hợp với các hạn chế về chế độ ăn uống. Để thuận tiện, xe bán đồ ăn của chúng tôi cung cấp cả bữa ăn đầy đủ và các món riêng lẻ. Chúng tôi có thể phục vụ bữa ăn theo kiểu buffet, hoặc mọi người có thể đặt món trực tiếp từ xe.\n\nHãy để chúng tôi lo việc phục vụ ăn uống cho quá trình sản xuất của bạn. Bạn sẽ thấy đồ ăn của chúng tôi ngon, và bạn sẽ thấy dịch vụ của chúng tôi thân thiện và tiện lợi. Chúng tôi thậm chí còn cung cấp hỗ trợ 24 giờ trong trường hợp có bất kỳ vấn đề nào phát sinh khi chúng tôi ở địa điểm của bạn. Chúng tôi hy vọng sớm được phục vụ bạn!"
+          }
+        },
+        {
+          "kind": "schedule",
+          "content": {
+            "en": "Zone Catering Food Trucks\n\nSchedule Date: June 10\n\nFilm | Shooting Location | Contact Person\nTrappings | Harpin Lot | Erin Begg\nMake the Meeting | 192 Laredo Street | Mark Lillo\nTutors and Tuxedos | Tandor Fields | Jun-Seo Kil\nJatem and the Storm | Spectrum Hall | Donna Gawason",
+            "vi": "Xe bán đồ ăn Zone Catering\n\nNgày lịch trình: 10 tháng 6\n\nPhim | Địa điểm quay | Người liên hệ\nTrappings | Harpin Lot | Erin Begg\nMake the Meeting | 192 Laredo Street | Mark Lillo\nTutors and Tuxedos | Tandor Fields | Jun-Seo Kil\nJatem and the Storm | Spectrum Hall | Donna Gawason"
+          }
+        },
+        {
+          "kind": "testimonial",
+          "content": {
+            "en": "https://www.zonecatering.com/testimonials\n\nHome | Menus | Testimonials | Contact Us\n\nJune 10—I have been in the acting business for over 25 years and am sometimes disappointed by the food trucks on film production sites. That was not the case today when we were filming Make the Meeting. The food truck had excellent coffee, and the strawberries in the large fruit salad were so fresh and tasty! Even though there was a long line of customers on an extremely hot and uncomfortable day, the server was able to get everyone’s food ready quickly. She was friendly and easygoing, too! Even the food truck was pleasant-looking—the mural painted on the side of the truck was beautiful! I hope to see Zone Catering food trucks at future film shooting locations.\n\n—Robert Chiodo",
+            "vi": "https://www.zonecatering.com/testimonials\n\nTrang chủ | Thực đơn | Lời chứng thực | Liên hệ với chúng tôi\n\nNgày 10 tháng 6 — Tôi đã làm trong ngành diễn xuất hơn 25 năm và đôi khi thất vọng với các xe bán đồ ăn tại các địa điểm sản xuất phim. Hôm nay thì không phải vậy khi chúng tôi đang quay Make the Meeting. Xe bán đồ ăn có cà phê tuyệt vời, và dâu tây trong món salad trái cây lớn rất tươi và ngon! Mặc dù có một hàng dài khách hàng trong một ngày cực kỳ nóng và khó chịu, người phục vụ vẫn có thể chuẩn bị đồ ăn cho mọi người một cách nhanh chóng. Cô ấy cũng thân thiện và dễ gần! Ngay cả xe bán đồ ăn cũng trông dễ chịu — bức tranh tường được vẽ bên hông xe rất đẹp! Tôi hy vọng sẽ thấy các xe bán đồ ăn của Zone Catering tại các địa điểm quay phim trong tương lai.\n\n—Robert Chiodo"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t09-p7-q186",
+          "number": 186,
+          "question": {
+            "en": "What does the Web page indicate about Zone Catering?",
+            "vi": "Trang web cho biết điều gì về Zone Catering?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It specializes in providing food at music concerts.",
+              "vi": "Công ty chuyên cung cấp đồ ăn tại các buổi hòa nhạc."
+            },
+            {
+              "key": "B",
+              "en": "It has lower prices than its competitors.",
+              "vi": "Công ty có giá thấp hơn các đối thủ cạnh tranh."
+            },
+            {
+              "key": "C",
+              "en": "It recently moved its corporate office to California.",
+              "vi": "Công ty gần đây đã chuyển văn phòng công ty đến California."
+            },
+            {
+              "key": "D",
+              "en": "It provides customer support 24 hours a day.",
+              "vi": "Công ty cung cấp hỗ trợ khách hàng 24 giờ mỗi ngày."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets24-t09-p7-q187",
+          "number": 187,
+          "question": {
+            "en": "According to the schedule, who was the contact person for the filming of Trappings on June 10?",
+            "vi": "Theo lịch trình, ai là người liên hệ cho việc quay phim Trappings vào ngày 10 tháng 6?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Erin Begg",
+              "vi": "Erin Begg"
+            },
+            {
+              "key": "B",
+              "en": "Mark Lillo",
+              "vi": "Mark Lillo"
+            },
+            {
+              "key": "C",
+              "en": "Jun-Seo Kil",
+              "vi": "Jun-Seo Kil"
+            },
+            {
+              "key": "D",
+              "en": "Donna Gawason",
+              "vi": "Donna Gawason"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets24-t09-p7-q188",
+          "number": 188,
+          "question": {
+            "en": "Where was the food truck that Mr. Chiodo visited?",
+            "vi": "Xe bán đồ ăn mà ông Chiodo đã ghé ở đâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "At Harpin Lot",
+              "vi": "Tại Harpin Lot"
+            },
+            {
+              "key": "B",
+              "en": "At 192 Laredo Street",
+              "vi": "Tại 192 Laredo Street"
+            },
+            {
+              "key": "C",
+              "en": "At Tandor Fields",
+              "vi": "Tại Tandor Fields"
+            },
+            {
+              "key": "D",
+              "en": "At Spectrum Hall",
+              "vi": "Tại Spectrum Hall"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t09-p7-q189",
+          "number": 189,
+          "question": {
+            "en": "What is probably true about the salad Mr. Chiodo ordered?",
+            "vi": "Điều gì có lẽ đúng về món salad mà ông Chiodo đã gọi?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It had an unusual taste.",
+              "vi": "Nó có vị khác thường."
+            },
+            {
+              "key": "B",
+              "en": "It was too big for him to finish.",
+              "vi": "Nó quá lớn để ông ấy ăn hết."
+            },
+            {
+              "key": "C",
+              "en": "It included several types of berries.",
+              "vi": "Nó bao gồm vài loại quả mọng."
+            },
+            {
+              "key": "D",
+              "en": "It contained fruit grown in California.",
+              "vi": "Nó chứa trái cây được trồng ở California."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets24-t09-p7-q190",
+          "number": 190,
+          "question": {
+            "en": "What is indicated about the food truck server in the testimonial?",
+            "vi": "Điều gì được chỉ ra về người phục vụ xe bán đồ ăn trong lời chứng thực?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She had difficulty working in the heat.",
+              "vi": "Cô ấy gặp khó khăn khi làm việc trong thời tiết nóng."
+            },
+            {
+              "key": "B",
+              "en": "She paints murals in her spare time.",
+              "vi": "Cô ấy vẽ tranh tường trong thời gian rảnh."
+            },
+            {
+              "key": "C",
+              "en": "She prepares orders quickly.",
+              "vi": "Cô ấy chuẩn bị đơn hàng nhanh chóng."
+            },
+            {
+              "key": "D",
+              "en": "She has worked in her industry for 25 years.",
+              "vi": "Cô ấy đã làm việc trong ngành của mình được 25 năm."
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t09-p7-g191-195",
+      "documents": [
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Hae-won Jeong\nFrom: Julia Laurent\nDate: July 28\nSubject: Dallas hotels\nAttachment: List of downtown accommodations\n\nDear Hae-won,\n\nI plan to attend the National Digital Marketing Conference in October. I know you have traveled to this conference in Dallas many times. This will be my first time attending, and I’m not sure which hotel to book. I have attached a list of accommodations that are near the convention center. Right now, I am leaning toward the Bonita Suites Hotel, but I would like to know which property you would recommend.\n\nI hope you have settled into your new position with the digital marketing department. I am looking forward to the conference and hope to see you again there.\n\nKind regards,\n\nJulia Laurent\nE-mail Marketing Specialist\nThe 3R Marketing Firm",
+            "vi": "Đến: Hae-won Jeong\nTừ: Julia Laurent\nNgày: 28 tháng 7\nChủ đề: Khách sạn ở Dallas\nTệp đính kèm: Danh sách chỗ ở trung tâm thành phố\n\nKính gửi Hae-won,\n\nTôi dự định tham dự Hội nghị Tiếp thị Kỹ thuật số Quốc gia vào tháng 10. Tôi biết bạn đã nhiều lần đến Dallas để tham dự hội nghị này. Đây sẽ là lần đầu tiên tôi tham dự, và tôi không chắc nên đặt khách sạn nào. Tôi đã đính kèm danh sách các chỗ ở gần trung tâm hội nghị. Hiện tại, tôi đang nghiêng về Bonita Suites Hotel, nhưng tôi muốn biết bạn sẽ đề xuất khách sạn nào.\n\nTôi hy vọng bạn đã ổn định với vị trí mới trong phòng tiếp thị kỹ thuật số. Tôi rất mong đến hội nghị và hy vọng sẽ gặp lại bạn ở đó.\n\nTrân trọng,\n\nJulia Laurent\nChuyên viên Tiếp thị E-mail\nThe 3R Marketing Firm"
+          }
+        },
+        {
+          "kind": "email",
+          "content": {
+            "en": "List of Downtown Accommodations\n(from www.topbusinesshotels.com/search/Dallashotels)\n\nHotel | Rate | Description\nThe Oaktree Hotel | $204/night | Luxury hotel in the heart of downtown; Close to the convention center; Outdoor pool, three on-site restaurants; Close to shopping\nAlessi Dallas Hotel | $155/night | Quaint boutique hotel in downtown Dallas; Lobby restaurant for breakfast and dinner; Near convention center and history museum\nBonita Suites Hotel | $125/night | New hotel in downtown convention center area; Office and kitchen in each suite; Computer center with printers located in lobby; Meeting space available for groups; Free on-site parking available",
+            "vi": "Danh sách chỗ ở trung tâm thành phố\n(từ www.topbusinesshotels.com/search/Dallashotels)\n\nKhách sạn | Giá | Mô tả\nThe Oaktree Hotel | $204/đêm | Khách sạn sang trọng ở trung tâm thành phố; gần trung tâm hội nghị; hồ bơi ngoài trời, ba nhà hàng tại chỗ; gần khu mua sắm\nAlessi Dallas Hotel | $155/đêm | Khách sạn boutique nhỏ xinh ở trung tâm Dallas; nhà hàng ở sảnh phục vụ bữa sáng và bữa tối; gần trung tâm hội nghị và bảo tàng lịch sử\nBonita Suites Hotel | $125/đêm | Khách sạn mới ở khu vực trung tâm hội nghị trung tâm thành phố; văn phòng và bếp trong mỗi phòng suite; trung tâm máy tính có máy in nằm ở sảnh; có không gian họp cho các nhóm; có chỗ đậu xe miễn phí tại chỗ"
+          }
+        },
+        {
+          "kind": "list",
+          "content": {
+            "en": "To: Julia Laurent\nFrom: Hae-won Jeong\nDate: July 29\nSubject: RE: Dallas hotels\n\nDear Julia,\n\nI will be attending the National Digital Marketing Conference this year as well! I love traveling to Dallas every year for this conference because it is a great networking opportunity. Since this is your first time attending, I recommend you go to the newcomers’ reception on the first night. The conference executive planning committee is putting it on, and it could be an excellent occasion to socialize with other conference goers.\n\nI will be staying at the Alessi Dallas Hotel. It is the closest to the convention center, and the rooms are comfortable. For you, I would suggest the one you already seem to prefer. It so happens that the newcomers’ reception will be held in one of the event rooms there. It is a little farther away but still convenient. As a friendly reminder, we are advised not to book hotels with rates that exceed our company’s limit of $175/night.\n\nI look forward to seeing you in October. It will be lovely to catch up.\n\nBest,\n\nHae-won Jeong\nDigital Marketing Director\nThe 3R Marketing Firm",
+            "vi": "Đến: Julia Laurent\nTừ: Hae-won Jeong\nNgày: 29 tháng 7\nChủ đề: RE: Khách sạn ở Dallas\n\nKính gửi Julia,\n\nTôi cũng sẽ tham dự Hội nghị Tiếp thị Kỹ thuật số Quốc gia năm nay! Tôi thích đến Dallas hằng năm để tham dự hội nghị này vì đây là một cơ hội kết nối rất tốt. Vì đây là lần đầu tiên bạn tham dự, tôi khuyên bạn nên đến buổi tiếp đón dành cho người mới vào đêm đầu tiên. Ủy ban điều hành lập kế hoạch hội nghị đang tổ chức sự kiện đó, và đó có thể là một dịp tuyệt vời để giao lưu với những người tham dự hội nghị khác.\n\nTôi sẽ ở tại Alessi Dallas Hotel. Khách sạn này gần trung tâm hội nghị nhất, và các phòng rất thoải mái. Với bạn, tôi sẽ đề xuất khách sạn mà bạn có vẻ đã thích sẵn. Tình cờ là buổi tiếp đón dành cho người mới sẽ được tổ chức tại một trong các phòng sự kiện ở đó. Khách sạn đó xa hơn một chút nhưng vẫn thuận tiện. Nhắc bạn một cách thân thiện, chúng ta được khuyên không đặt khách sạn có giá vượt quá giới hạn của công ty là $175/đêm.\n\nTôi mong được gặp bạn vào tháng 10. Sẽ rất vui khi được trò chuyện cập nhật với bạn.\n\nTrân trọng,\n\nHae-won Jeong\nGiám đốc Tiếp thị Kỹ thuật số\nThe 3R Marketing Firm"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t09-p7-q191",
+          "number": 191,
+          "question": {
+            "en": "What is the purpose of the first e-mail?",
+            "vi": "Mục đích của e-mail đầu tiên là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To schedule a meeting with a client",
+              "vi": "Để lên lịch một cuộc họp với khách hàng"
+            },
+            {
+              "key": "B",
+              "en": "To ask for assistance with a project",
+              "vi": "Để nhờ hỗ trợ cho một dự án"
+            },
+            {
+              "key": "C",
+              "en": "To seek a suggestion from a colleague",
+              "vi": "Để xin gợi ý từ một đồng nghiệp"
+            },
+            {
+              "key": "D",
+              "en": "To congratulate a colleague who was promoted",
+              "vi": "Để chúc mừng một đồng nghiệp đã được thăng chức"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t09-p7-q192",
+          "number": 192,
+          "question": {
+            "en": "According to the list, what is suggested about the Bonita Suites Hotel?",
+            "vi": "Theo danh sách, điều gì được gợi ý về Bonita Suites Hotel?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is located in a historic building.",
+              "vi": "Khách sạn nằm trong một tòa nhà lịch sử."
+            },
+            {
+              "key": "B",
+              "en": "It features resources for business travelers.",
+              "vi": "Khách sạn có các tài nguyên dành cho khách đi công tác."
+            },
+            {
+              "key": "C",
+              "en": "It is near many downtown tourist attractions.",
+              "vi": "Khách sạn gần nhiều điểm du lịch trung tâm thành phố."
+            },
+            {
+              "key": "D",
+              "en": "It charges a daily fee for parking.",
+              "vi": "Khách sạn tính phí đậu xe hằng ngày."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t09-p7-q193",
+          "number": 193,
+          "question": {
+            "en": "What is true about Ms. Jeong?",
+            "vi": "Điều gì đúng về cô Jeong?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She has not attended a marketing conference before.",
+              "vi": "Cô ấy chưa từng tham dự hội nghị tiếp thị trước đây."
+            },
+            {
+              "key": "B",
+              "en": "She prefers the Alessi Dallas Hotel for its restaurant.",
+              "vi": "Cô ấy thích Alessi Dallas Hotel vì nhà hàng của khách sạn."
+            },
+            {
+              "key": "C",
+              "en": "She thinks Ms. Laurent should stay at the Bonita Suites Hotel.",
+              "vi": "Cô ấy nghĩ cô Laurent nên ở tại Bonita Suites Hotel."
+            },
+            {
+              "key": "D",
+              "en": "She works for a different company than Ms. Laurent.",
+              "vi": "Cô ấy làm việc cho một công ty khác với cô Laurent."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t09-p7-q194",
+          "number": 194,
+          "question": {
+            "en": "Why would Ms. Jeong most likely suggest that Ms. Laurent avoid the Oaktree Hotel?",
+            "vi": "Tại sao cô Jeong có khả năng sẽ đề xuất cô Laurent tránh The Oaktree Hotel?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It does not have an on-site restaurant.",
+              "vi": "Khách sạn không có nhà hàng tại chỗ."
+            },
+            {
+              "key": "B",
+              "en": "Its room rate exceeds the company’s limit.",
+              "vi": "Giá phòng của khách sạn vượt quá giới hạn của công ty."
+            },
+            {
+              "key": "C",
+              "en": "Its clients are mostly noisy tourists.",
+              "vi": "Khách hàng của khách sạn chủ yếu là khách du lịch ồn ào."
+            },
+            {
+              "key": "D",
+              "en": "It is too far from the conference location.",
+              "vi": "Khách sạn quá xa địa điểm hội nghị."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t09-p7-q195",
+          "number": 195,
+          "question": {
+            "en": "What does the second e-mail indicate about the National Digital Marketing Conference?",
+            "vi": "E-mail thứ hai cho biết điều gì về Hội nghị Tiếp thị Kỹ thuật số Quốc gia?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Its location changes to a different city each year.",
+              "vi": "Địa điểm của hội nghị thay đổi sang một thành phố khác mỗi năm."
+            },
+            {
+              "key": "B",
+              "en": "Last year it was held at the Alessi Dallas Hotel.",
+              "vi": "Năm ngoái hội nghị được tổ chức tại Alessi Dallas Hotel."
+            },
+            {
+              "key": "C",
+              "en": "Ms. Jeong is on its executive planning committee.",
+              "vi": "Cô Jeong nằm trong ủy ban điều hành lập kế hoạch của hội nghị."
+            },
+            {
+              "key": "D",
+              "en": "It includes an event for first-time attendees.",
+              "vi": "Hội nghị bao gồm một sự kiện dành cho người tham dự lần đầu."
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t09-p7-g196-200",
+      "documents": [
+        {
+          "kind": "letter",
+          "content": {
+            "en": "Dover Water Supply\n7400 Rodney Boulevard, Dover, DE 19904\n\nMarch 12\n\nMs. Na-Ri Cam\n361 Farming Avenue\nDover, DE 19902\n\nDear Ms. Cam,\n\nThis letter is to confirm that Dover Water Supply will begin service at your address on Wednesday, April 6. Your customer account number, which is the same as your water meter number, is DWS4289.\n\nBilling is monthly, and payment is due on the fifteenth of each month. Bills can be paid by mailing a check to our main address or by entering your account number and payment information on our secure page at www.doverwatersupply.com/billing.\n\nWe will be performing a system flush of the pipes in your area on Monday, April 4. Customers may temporarily see discoloration or sediment in their water around that time. Please visit our Web site for more information. You can also contact Customer Support at questions@doverwatersupply.com or call us at (302) 555-0135.\n\nSincerely,\n\nMatthew Ensign\nMatthew Ensign\nAccount Representative, Dover Water Supply",
+            "vi": "Dover Water Supply\n7400 Rodney Boulevard, Dover, DE 19904\n\nNgày 12 tháng 3\n\nCô Na-Ri Cam\n361 Farming Avenue\nDover, DE 19902\n\nKính gửi cô Cam,\n\nLá thư này nhằm xác nhận rằng Dover Water Supply sẽ bắt đầu cung cấp dịch vụ tại địa chỉ của cô vào thứ Tư, ngày 6 tháng 4. Số tài khoản khách hàng của cô, cũng chính là số đồng hồ nước của cô, là DWS4289.\n\nViệc lập hóa đơn được thực hiện hằng tháng, và hạn thanh toán là ngày mười lăm mỗi tháng. Hóa đơn có thể được thanh toán bằng cách gửi séc qua đường bưu điện đến địa chỉ chính của chúng tôi hoặc bằng cách nhập số tài khoản và thông tin thanh toán của cô trên trang bảo mật của chúng tôi tại www.doverwatersupply.com/billing.\n\nChúng tôi sẽ thực hiện việc xả rửa hệ thống đường ống trong khu vực của cô vào thứ Hai, ngày 4 tháng 4. Khách hàng có thể tạm thời thấy nước bị đổi màu hoặc có cặn vào khoảng thời gian đó. Vui lòng truy cập trang web của chúng tôi để biết thêm thông tin. Cô cũng có thể liên hệ Bộ phận Hỗ trợ Khách hàng tại questions@doverwatersupply.com hoặc gọi cho chúng tôi theo số (302) 555-0135.\n\nTrân trọng,\n\nMatthew Ensign\nMatthew Ensign\nĐại diện Tài khoản, Dover Water Supply"
+          }
+        },
+        {
+          "kind": "email",
+          "content": {
+            "en": "*E-mail*\n\nTo: questions@doverwatersupply.com\nFrom: Na-Ri Cam <n.cam@mailcurrent.com>\nDate: March 17\nSubject: Account number DWS4289\n\nHello,\n\nI am in the process of moving to my new home in Dover. I received a letter stating that my water service will start on April 6. It also said something about pipes being flushed on April 4. Should I expect to see discoloration when I start using my water? Are there any steps I should take?\n\nAlso, I tried to use your secure page, but it gave me an error message saying that my account number was not valid. I will need your help in getting online access by the May 15 due date.\n\nThank you for any information you can provide.\n\nNa-Ri Cam",
+            "vi": "*E-mail*\n\nĐến: questions@doverwatersupply.com\nTừ: Na-Ri Cam <n.cam@mailcurrent.com>\nNgày: 17 tháng 3\nChủ đề: Số tài khoản DWS4289\n\nXin chào,\n\nTôi đang trong quá trình chuyển đến nhà mới ở Dover. Tôi đã nhận được một lá thư nói rằng dịch vụ nước của tôi sẽ bắt đầu vào ngày 6 tháng 4. Thư cũng có nói điều gì đó về việc đường ống sẽ được xả rửa vào ngày 4 tháng 4. Tôi có nên dự kiến sẽ thấy nước đổi màu khi bắt đầu sử dụng nước không? Tôi có cần thực hiện bước nào không?\n\nNgoài ra, tôi đã thử sử dụng trang bảo mật của quý công ty, nhưng trang đó báo lỗi rằng số tài khoản của tôi không hợp lệ. Tôi sẽ cần sự giúp đỡ của quý công ty để có quyền truy cập trực tuyến trước hạn thanh toán ngày 15 tháng 5.\n\nCảm ơn vì bất kỳ thông tin nào quý công ty có thể cung cấp.\n\nNa-Ri Cam"
+          }
+        },
+        {
+          "kind": "email",
+          "content": {
+            "en": "E-Mail Message\n\nTo: Na-Ri Cam <n.cam@mailcurrent.com>\nFrom: Customer Support <questions@doverwatersupply.com>\nDate: March 18\nSubject: RE: Account number DWS4289\n\nDear Ms. Cam,\n\nThank you for your message. Your water might look cloudy on April 6 when you first turn on your faucets. We recommend that you keep the water running until it is clear before you use it. I assure you that the water is not harmful in any way. The minerals that cause the discoloration occur naturally, and our latest water analysis showed very high quality.\n\nI apologize for the problem you described. I have fixed it, so you should not have any further trouble.\n\nIf you have any other questions, please don’t hesitate to reach out to us again.\n\nBest regards,\n\nRamona Hizon\nCustomer Support, Dover Water Supply",
+            "vi": "E-Mail Message\n\nĐến: Na-Ri Cam <n.cam@mailcurrent.com>\nTừ: Customer Support <questions@doverwatersupply.com>\nNgày: 18 tháng 3\nChủ đề: RE: Số tài khoản DWS4289\n\nKính gửi cô Cam,\n\nCảm ơn cô đã nhắn tin. Nước của cô có thể trông bị đục vào ngày 6 tháng 4 khi cô mở vòi lần đầu. Chúng tôi khuyến nghị cô để nước chảy cho đến khi nước trong lại trước khi sử dụng. Tôi xin đảm bảo với cô rằng nước không gây hại theo bất kỳ cách nào. Các khoáng chất gây ra sự đổi màu xuất hiện tự nhiên, và phân tích nước mới nhất của chúng tôi cho thấy chất lượng rất cao.\n\nTôi xin lỗi về vấn đề cô đã mô tả. Tôi đã sửa vấn đề đó, vì vậy cô sẽ không gặp thêm rắc rối nào nữa.\n\nNếu cô có bất kỳ câu hỏi nào khác, xin đừng ngần ngại liên hệ lại với chúng tôi.\n\nTrân trọng,\n\nRamona Hizon\nHỗ trợ Khách hàng, Dover Water Supply"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t09-p7-q196",
+          "number": 196,
+          "question": {
+            "en": "What is one purpose of the letter?",
+            "vi": "Một mục đích của lá thư là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To list customer benefits",
+              "vi": "Để liệt kê các lợi ích dành cho khách hàng"
+            },
+            {
+              "key": "B",
+              "en": "To alert customers to a price change",
+              "vi": "Để thông báo cho khách hàng về việc thay đổi giá"
+            },
+            {
+              "key": "C",
+              "en": "To confirm the start of a service",
+              "vi": "Để xác nhận việc bắt đầu một dịch vụ"
+            },
+            {
+              "key": "D",
+              "en": "To describe changes to a Web site",
+              "vi": "Để mô tả các thay đổi đối với một trang web"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t09-p7-q197",
+          "number": 197,
+          "question": {
+            "en": "What most likely does Ms. Cam want to do online on May 15?",
+            "vi": "Cô Cam có khả năng muốn làm gì trực tuyến vào ngày 15 tháng 5 nhất?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Request a new water meter",
+              "vi": "Yêu cầu một đồng hồ nước mới"
+            },
+            {
+              "key": "B",
+              "en": "Complete a customer survey",
+              "vi": "Hoàn thành một khảo sát khách hàng"
+            },
+            {
+              "key": "C",
+              "en": "Report a leaking pipe",
+              "vi": "Báo cáo một đường ống bị rò rỉ"
+            },
+            {
+              "key": "D",
+              "en": "Pay a water bill",
+              "vi": "Thanh toán hóa đơn nước"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets24-t09-p7-q198",
+          "number": 198,
+          "question": {
+            "en": "According to the second e-mail, what should Ms. Cam do on April 6?",
+            "vi": "Theo e-mail thứ hai, cô Cam nên làm gì vào ngày 6 tháng 4?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Boil her drinking water for five minutes",
+              "vi": "Đun sôi nước uống trong năm phút"
+            },
+            {
+              "key": "B",
+              "en": "Allow her water to run for some time",
+              "vi": "Để nước chảy trong một khoảng thời gian"
+            },
+            {
+              "key": "C",
+              "en": "Contact her neighbors",
+              "vi": "Liên hệ với hàng xóm của cô ấy"
+            },
+            {
+              "key": "D",
+              "en": "Request a service visit",
+              "vi": "Yêu cầu một chuyến thăm dịch vụ"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t09-p7-q199",
+          "number": 199,
+          "question": {
+            "en": "In the second e-mail, what is indicated about the water from Dover Water Supply?",
+            "vi": "Trong e-mail thứ hai, điều gì được chỉ ra về nước từ Dover Water Supply?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is safe to use.",
+              "vi": "Nước an toàn để sử dụng."
+            },
+            {
+              "key": "B",
+              "en": "It is measured every month.",
+              "vi": "Nước được đo mỗi tháng."
+            },
+            {
+              "key": "C",
+              "en": "It is distributed to many cities.",
+              "vi": "Nước được phân phối đến nhiều thành phố."
+            },
+            {
+              "key": "D",
+              "en": "It is naturally free of minerals.",
+              "vi": "Nước tự nhiên không có khoáng chất."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets24-t09-p7-q200",
+          "number": 200,
+          "question": {
+            "en": "What can be concluded about Ms. Hizon?",
+            "vi": "Có thể kết luận điều gì về cô Hizon?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She resolved the issue with Ms. Cam’s account.",
+              "vi": "Cô ấy đã giải quyết vấn đề với tài khoản của cô Cam."
+            },
+            {
+              "key": "B",
+              "en": "She sent a copy of the water analysis to Ms. Cam.",
+              "vi": "Cô ấy đã gửi một bản sao phân tích nước cho cô Cam."
+            },
+            {
+              "key": "C",
+              "en": "She will offer Ms. Cam a discount for new customers.",
+              "vi": "Cô ấy sẽ cung cấp cho cô Cam giảm giá dành cho khách hàng mới."
+            },
+            {
+              "key": "D",
+              "en": "She lives in Ms. Cam’s area.",
+              "vi": "Cô ấy sống trong khu vực của cô Cam."
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}

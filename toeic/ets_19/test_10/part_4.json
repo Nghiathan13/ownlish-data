@@ -1,0 +1,1400 @@
+{
+  "groups": [
+    {
+      "id": "ets19-t10-p4-g071-073",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_10/audio/071-073.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "Hello, this is Max from Priceright Graphics.",
+            "questionIds": [
+              "ets19-t10-p4-q071"
+            ]
+          },
+          {
+            "text": " I'm calling to inform you that your printing order is ready for pickup. You can come to our store anytime during our regular business hours, between nine A.M. and five P.M. ",
+            "questionIds": []
+          },
+          {
+            "text": "The itemized bill you requested has been sent to you by e-mail.",
+            "questionIds": [
+              "ets19-t10-p4-q072"
+            ]
+          },
+          {
+            "text": " ",
+            "questionIds": []
+          },
+          {
+            "text": "If you have the time, we would appreciate it if you could fill out a quick survey about our service on our Web site.",
+            "questionIds": [
+              "ets19-t10-p4-q073"
+            ]
+          },
+          {
+            "text": " Thanks for your business.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Xin chào, tôi là Max đến từ Priceright Graphics. Tôi gọi để thông báo rằng đơn đặt hàng in của bạn đã sẵn sàng để nhận. Bạn có thể đến cửa hàng của chúng tôi bất cứ lúc nào trong giờ làm việc của chúng tôi, từ 9 giờ sáng đến 5 giờ chiều. Hóa đơn chi tiết bạn yêu cầu đã được gửi cho bạn qua e-mail. Nếu bạn có thời gian, chúng tôi rất cảm kích nếu bạn có thể điền vào một cuộc khảo sát nhanh về dịch vụ của chúng tôi trên trang web của chúng tôi. Cảm ơn vì đã sử dụng dịch vụ của chúng tôi.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets19-t10-p4-q071",
+          "number": 71,
+          "question": {
+            "en": "Where does the speaker most likely work?",
+            "vi": "Người nói có khả năng làm việc ở đâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "At a bank",
+              "vi": "Ở một ngân hàng"
+            },
+            {
+              "key": "B",
+              "en": "At an electronics store",
+              "vi": "Ở một cửa hàng điện tử"
+            },
+            {
+              "key": "C",
+              "en": "At a printshop",
+              "vi": "Ở một cửa hàng in ấn"
+            },
+            {
+              "key": "D",
+              "en": "At a museum",
+              "vi": "Ở một bảo tàng"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets19-t10-p4-q072",
+          "number": 72,
+          "question": {
+            "en": "What does the speaker say he has e-mailed?",
+            "vi": "Người nói nói rằng ông ấy đã gửi email cái gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "An invoice",
+              "vi": "Một hóa đơn"
+            },
+            {
+              "key": "B",
+              "en": "A brochure",
+              "vi": "Một tài liệu quảng cáo"
+            },
+            {
+              "key": "C",
+              "en": "A trade-show calendar",
+              "vi": "Một lịch triển lãm thương mại"
+            },
+            {
+              "key": "D",
+              "en": "A reference letter",
+              "vi": "Một thư giới thiệu"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets19-t10-p4-q073",
+          "number": 73,
+          "question": {
+            "en": "What does the speaker ask the listener to do on a Web site?",
+            "vi": "Người nói yêu cầu người nghe làm gì trên một trang web?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Sign a document",
+              "vi": "Ký một tài liệu"
+            },
+            {
+              "key": "B",
+              "en": "Fill out a survey",
+              "vi": "Điền một khảo sát"
+            },
+            {
+              "key": "C",
+              "en": "Submit an application",
+              "vi": "Gửi một đơn xin việc"
+            },
+            {
+              "key": "D",
+              "en": "Register for a class",
+              "vi": "Đăng ký cho một lớp học"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets19-t10-p4-g074-076",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_10/audio/074-076.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "Hi, everyone. I just need all of the prep cooks to listen for a second.",
+            "questionIds": [
+              "ets19-t10-p4-q074"
+            ]
+          },
+          {
+            "text": " Our restaurant's received a few customer complaints. ",
+            "questionIds": []
+          },
+          {
+            "text": "Apparently, the sliced vegetables that go in our chef's salad have been brown and too soft.",
+            "questionIds": [
+              "ets19-t10-p4-q075"
+            ]
+          },
+          {
+            "text": " This is unacceptable. So cooks, remember that we do not use vegetables that are more than a day old. We can't serve poor quality salads at our restaurant. ",
+            "questionIds": []
+          },
+          {
+            "text": "Mark, please sort through the bin of cut vegetables and throw out any that aren't fresh.",
+            "questionIds": [
+              "ets19-t10-p4-q076"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Chào mọi người. Tôi cần tất cả các đầu bếp phụ chú ý một chút. Nhà hàng của chúng ta đã nhận được vài lời phàn nàn từ khách hàng. Rõ ràng là rau củ thái lát dùng trong món salad đầu bếp của chúng ta đã bị thâm và quá mềm. Điều này không thể chấp nhận được. Vì vậy, các đầu bếp, hãy nhớ rằng chúng ta không sử dụng rau củ đã để quá một ngày. Chúng ta không thể phục vụ món salad kém chất lượng tại nhà hàng của mình. Mark, vui lòng phân loại thùng rau củ đã cắt và bỏ bất kỳ loại nào không còn tươi.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets19-t10-p4-q074",
+          "number": 74,
+          "question": {
+            "en": "Who is the intended audience for the announcement?",
+            "vi": "Đối tượng dự định của thông báo là ai?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Cooks",
+              "vi": "Đầu bếp"
+            },
+            {
+              "key": "B",
+              "en": "Customers",
+              "vi": "Khách hàng"
+            },
+            {
+              "key": "C",
+              "en": "Waiters",
+              "vi": "Phục vụ viên"
+            },
+            {
+              "key": "D",
+              "en": "Hosts",
+              "vi": "Người đón tiếp"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets19-t10-p4-q075",
+          "number": 75,
+          "question": {
+            "en": "Which menu item does the speaker mention?",
+            "vi": "Mục nào trên menu mà người nói đề cập?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A soup",
+              "vi": "Một món canh"
+            },
+            {
+              "key": "B",
+              "en": "A salad",
+              "vi": "Một salad"
+            },
+            {
+              "key": "C",
+              "en": "A main course",
+              "vi": "Một món chính"
+            },
+            {
+              "key": "D",
+              "en": "A dessert",
+              "vi": "Một món tráng miệng"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets19-t10-p4-q076",
+          "number": 76,
+          "question": {
+            "en": "What does the speaker ask Mark to do?",
+            "vi": "Người nói yêu cầu Mark làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Sort through some food items",
+              "vi": "Phân loại một số mặt hàng thực phẩm"
+            },
+            {
+              "key": "B",
+              "en": "Apologize to a customer",
+              "vi": "Xin lỗi khách hàng"
+            },
+            {
+              "key": "C",
+              "en": "Stay for a later shift",
+              "vi": "Ở lại cho ca làm việc sau"
+            },
+            {
+              "key": "D",
+              "en": "Clean some dishes",
+              "vi": "Rửa một số đĩa"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets19-t10-p4-g077-079",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_10/audio/077-079.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "All right everyone, that concludes our group training on interviewing strategies from us here at Danley Career Coaching.",
+            "questionIds": [
+              "ets19-t10-p4-q077"
+            ]
+          },
+          {
+            "text": " I heard some very good responses from many of you during our interview role-play. And remember, you can access the video recording of your practice interview online. It's complimentary from our company. ",
+            "questionIds": []
+          },
+          {
+            "text": "Please watch it when you get home so that you can think about the principles we talked about today.",
+            "questionIds": [
+              "ets19-t10-p4-q078"
+            ]
+          },
+          {
+            "text": " ",
+            "questionIds": []
+          },
+          {
+            "text": "Also, if you're considering signing up for one-on-one coaching, Kenta has worked here for over twenty years.",
+            "questionIds": [
+              "ets19-t10-p4-q079"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Được rồi mọi người, buổi tập huấn nhóm của chúng ta về các chiến lược phỏng vấn từ chúng tôi tại Danley Career Coaching đến đây là kết thúc. Tôi đã nghe được một số phản hồi rất tốt từ nhiều người trong số các bạn trong suốt buổi đóng vai phỏng vấn của chúng ta. Và hãy nhớ, các bạn có thể truy cập bản ghi video buổi phỏng vấn thực hành của mình trực tuyến. Đây là dịch vụ miễn phí từ công ty chúng tôi. Hãy xem nó khi về nhà để các bạn có thể suy nghĩ về các nguyên tắc mà chúng ta đã nói hôm nay. Ngoài ra, nếu bạn đang cân nhắc đăng ký huấn luyện 1 kèm 1, Kenta đã làm việc ở đây hơn hai mươi năm.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets19-t10-p4-q077",
+          "number": 77,
+          "question": {
+            "en": "What is the focus of the workshop?",
+            "vi": "Trọng tâm của buổi hội thảo là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Interviewing techniques",
+              "vi": "Kỹ thuật phỏng vấn"
+            },
+            {
+              "key": "B",
+              "en": "Leadership skills",
+              "vi": "Kỹ năng lãnh đạo"
+            },
+            {
+              "key": "C",
+              "en": "Collecting consumer feedback",
+              "vi": "Thu thập phản hồi của người tiêu dùng"
+            },
+            {
+              "key": "D",
+              "en": "Time-management tips",
+              "vi": "Mẹo quản lý thời gian"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets19-t10-p4-q078",
+          "number": 78,
+          "question": {
+            "en": "What should the listeners do at home?",
+            "vi": "Người nghe nên làm gì ở nhà?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Create a schedule",
+              "vi": "Tạo một lịch trình"
+            },
+            {
+              "key": "B",
+              "en": "Work on a résumé",
+              "vi": "Làm việc trên một sơ yếu lý lịch"
+            },
+            {
+              "key": "C",
+              "en": "Read some articles",
+              "vi": "Đọc một số bài viết"
+            },
+            {
+              "key": "D",
+              "en": "Watch a video",
+              "vi": "Xem một video"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets19-t10-p4-q079",
+          "number": 79,
+          "question": {
+            "en": "Why does the speaker say, \"Kenta has worked here for over twenty years\"?",
+            "vi": "Tại sao người nói nói \"Kenta đã làm việc ở đây hơn hai mươi năm\"?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To announce Kenta's retirement",
+              "vi": "Để thông báo sự nghỉ hưu của Kenta"
+            },
+            {
+              "key": "B",
+              "en": "To explain Kenta's promotion",
+              "vi": "Để giải thích sự thăng chức của Kenta"
+            },
+            {
+              "key": "C",
+              "en": "To recommend Kenta's services",
+              "vi": "Để giới thiệu dịch vụ của Kenta"
+            },
+            {
+              "key": "D",
+              "en": "To agree with Kenta's opinion",
+              "vi": "Để đồng ý với ý kiến của Kenta"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets19-t10-p4-g080-082",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_10/audio/080-082.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "Good afternoon, and welcome to Radio Five local news. Crowds have already started gathering near the Millvale stadium for this evening's championship soccer match. ",
+            "questionIds": []
+          },
+          {
+            "text": "Sports fans are very excited about this match because it's the first time in ten years that the Millvale team has made it to the championship.",
+            "questionIds": [
+              "ets19-t10-p4-q080"
+            ]
+          },
+          {
+            "text": " ",
+            "questionIds": []
+          },
+          {
+            "text": "If you're going to the game, you can expect a lot of traffic on roads around the stadium, so you should consider taking public transportation.",
+            "questionIds": [
+              "ets19-t10-p4-q081"
+            ]
+          },
+          {
+            "text": " Transit Authority is running extra buses all evening. ",
+            "questionIds": []
+          },
+          {
+            "text": "And now, let's see what type of weather to expect.",
+            "questionIds": [
+              "ets19-t10-p4-q082"
+            ]
+          },
+          {
+            "text": " Here's Samantha with the forecast.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Xin chào buổi chiều, và chào mừng quý vị đến với tin tức địa phương của Đài Radio Five. Đám đông đã bắt đầu tụ tập gần sân vận động Millvale cho trận đấu bóng đá vô địch tối nay. Những người hâm mộ thể thao rất hào hứng về trận đấu này vì đây là lần đầu tiên sau mười năm đội Millvale lọt vào trận chung kết. Nếu bạn đến sân vận động, bạn có thể sẽ gặp nhiều tắc nghẽn giao thông trên các con đường xung quanh sân vận động, vì vậy bạn nên cân nhắc sử dụng phương tiện giao thông công cộng. Cơ quan Giao thông vận tải đang chạy thêm nhiều chuyến xe buýt suốt buổi tối. Và bây giờ, hãy cùng xem dự báo thời tiết. Sau đây là Samantha với bản tin dự báo thời tiết.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets19-t10-p4-q080",
+          "number": 80,
+          "question": {
+            "en": "What type of event is taking place this evening?",
+            "vi": "Loại sự kiện nào đang diễn ra tối nay?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A holiday parade",
+              "vi": "Một cuộc diễu hành ngày lễ"
+            },
+            {
+              "key": "B",
+              "en": "An arts fair",
+              "vi": "Một hội chợ nghệ thuật"
+            },
+            {
+              "key": "C",
+              "en": "A music concert",
+              "vi": "Một buổi hòa nhạc"
+            },
+            {
+              "key": "D",
+              "en": "A sports competition",
+              "vi": "Một cuộc thi thể thao"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets19-t10-p4-q081",
+          "number": 81,
+          "question": {
+            "en": "What does the speaker advise the listeners to do?",
+            "vi": "Người nói khuyên người nghe làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Save their tickets",
+              "vi": "Lưu lại vé của họ"
+            },
+            {
+              "key": "B",
+              "en": "Take public transportation",
+              "vi": "Sử dụng phương tiện công cộng"
+            },
+            {
+              "key": "C",
+              "en": "Bring a camera",
+              "vi": "Mang theo máy ảnh"
+            },
+            {
+              "key": "D",
+              "en": "Arrive early",
+              "vi": "Đến sớm"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets19-t10-p4-q082",
+          "number": 82,
+          "question": {
+            "en": "What will the listeners hear next?",
+            "vi": "Người nghe sẽ nghe thấy cái gì tiếp theo?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A celebrity speech",
+              "vi": "Một bài phát biểu của một người nổi tiếng"
+            },
+            {
+              "key": "B",
+              "en": "A weather report",
+              "vi": "Một bản báo cáo thời tiết"
+            },
+            {
+              "key": "C",
+              "en": "A new song",
+              "vi": "Một bài hát mới"
+            },
+            {
+              "key": "D",
+              "en": "A business update",
+              "vi": "Một cập nhật kinh doanh"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets19-t10-p4-g083-085",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_10/audio/083-085.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "Hi, Ms. Farrell. It's Bonnie Wolfberg from Goodlane Real Estate returning your call. ",
+            "questionIds": []
+          },
+          {
+            "text": "I understand you're interested in putting your home up for sale next month, and I'd be happy to help you with that.",
+            "questionIds": [
+              "ets19-t10-p4-q083"
+            ]
+          },
+          {
+            "text": " ",
+            "questionIds": []
+          },
+          {
+            "text": "The first step of this process is for me to view your property.",
+            "questionIds": [
+              "ets19-t10-p4-q084"
+            ]
+          },
+          {
+            "text": " After the visit, I can give you an idea of the price you could potentially get for your home. We have a list of buyers looking for houses in your area and could probably make a sale relatively quickly. ",
+            "questionIds": []
+          },
+          {
+            "text": "Unfortunately, I'm leaving town tonight to go on vacation, so I won't be able to meet with you until next week.",
+            "questionIds": [
+              "ets19-t10-p4-q085"
+            ]
+          },
+          {
+            "text": " I hope that's all right.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Chào cô Farrell. Tôi là Bonnie Wolfberg từ Goodlane Real Estate gọi lại cho cô đây. Tôi biết cô muốn rao bán nhà vào tháng tới và tôi rất sẵn lòng giúp cô việc đó. Bước đầu tiên trong quy trình này là tôi sẽ đến xem bất động sản của cô. Sau chuyến thăm, tôi có thể cho cô biết mức giá mà cô có thể nhận được cho ngôi nhà của mình. Chúng tôi có danh sách những người mua đang tìm nhà trong khu vực của cô và có lẽ có thể bán được tương đối nhanh chóng. Thật không may, tôi sẽ rời thành phố tối nay để đi nghỉ mát, nên tôi sẽ không thể gặp cô cho đến tuần tới. Tôi hy vọng điều đó không sao.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets19-t10-p4-q083",
+          "number": 83,
+          "question": {
+            "en": "What does the listener want help with?",
+            "vi": "Người nghe muốn được giúp đỡ về điều gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Completing a building design",
+              "vi": "Hoàn thành một thiết kế tòa nhà"
+            },
+            {
+              "key": "B",
+              "en": "Planning a grand opening",
+              "vi": "Lên kế hoạch cho một buổi khai trương"
+            },
+            {
+              "key": "C",
+              "en": "Selling a home",
+              "vi": "Bán một ngôi nhà"
+            },
+            {
+              "key": "D",
+              "en": "Purchasing furniture",
+              "vi": "Mua nội thất"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets19-t10-p4-q084",
+          "number": 84,
+          "question": {
+            "en": "What does the speaker say she will do first?",
+            "vi": "Người nói nói rằng cô ấy sẽ làm gì đầu tiên?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Get city approval",
+              "vi": "Nhận được sự chấp thuận từ thành phố"
+            },
+            {
+              "key": "B",
+              "en": "Contact a bank",
+              "vi": "Liên hệ với một ngân hàng"
+            },
+            {
+              "key": "C",
+              "en": "Submit a payment",
+              "vi": "Gửi một khoản thanh toán"
+            },
+            {
+              "key": "D",
+              "en": "Visit a property",
+              "vi": "Thăm viếng một tài sản"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets19-t10-p4-q085",
+          "number": 85,
+          "question": {
+            "en": "Why is the speaker unable to meet until next week?",
+            "vi": "Tại sao người nói không thể gặp cho đến tuần tới?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She will be out of town",
+              "vi": "Cô ấy sẽ vắng mặt khỏi thành phố"
+            },
+            {
+              "key": "B",
+              "en": "She is busy with another client",
+              "vi": "Cô ấy bận rộn với một khách hàng khác"
+            },
+            {
+              "key": "C",
+              "en": "Her car is being repaired",
+              "vi": "Chiếc xe của cô ấy đang được sửa chữa"
+            },
+            {
+              "key": "D",
+              "en": "Her house is being renovated",
+              "vi": "Ngôi nhà của cô ấy đang được đổi mới"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets19-t10-p4-g086-088",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_10/audio/086-088.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "OK, before we open this morning, I'd like to talk to you about a couple of things.",
+            "questionIds": [
+              "ets19-t10-p4-q086"
+            ]
+          },
+          {
+            "text": " First—the break room. A lot of staff have been leaving personal items like coats, shoes, and bags in the break room for long periods of time. ",
+            "questionIds": []
+          },
+          {
+            "text": "Keep in mind that everyone working here uses the break room, and it ought to be kept neat and clean.",
+            "questionIds": [
+              "ets19-t10-p4-q087"
+            ]
+          },
+          {
+            "text": " So, if you put any personal belongings in there, please take them with you at the end of your shift. ",
+            "questionIds": []
+          },
+          {
+            "text": "There was one other thing, but, uh, the store's opening in a few minutes.",
+            "questionIds": [
+              "ets19-t10-p4-q088"
+            ]
+          },
+          {
+            "text": " Thanks.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "OK, trước khi chúng ta mở cửa sáng nay, tôi muốn nói chuyện với các bạn về một vài điều. Đầu tiên—phòng nghỉ. Nhiều nhân viên đã để lại các vật dụng cá nhân như áo khoác, giày dép và túi xách trong phòng nghỉ trong thời gian dài. Hãy nhớ rằng mọi người làm việc ở đây đều sử dụng phòng nghỉ, và nó nên được giữ gọn gàng và sạch sẽ. Vì vậy, nếu bạn để bất kỳ vật dụng cá nhân nào ở đó, vui lòng mang chúng theo khi kết thúc ca làm việc. Có một điều khác nữa, nhưng, ừm, cửa hàng sẽ mở cửa trong vài phút nữa. Cảm ơn.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets19-t10-p4-q086",
+          "number": 86,
+          "question": {
+            "en": "Who most likely is the speaker?",
+            "vi": "Người nói rất có khả năng là ai?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A health inspector",
+              "vi": "Một thanh tra sức khỏe"
+            },
+            {
+              "key": "B",
+              "en": "A store supervisor",
+              "vi": "Một giám sát viên cửa hàng"
+            },
+            {
+              "key": "C",
+              "en": "A maintenance worker",
+              "vi": "Một công nhân bảo trì"
+            },
+            {
+              "key": "D",
+              "en": "An interior decorator",
+              "vi": "Một nhà trang trí nội thất"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets19-t10-p4-q087",
+          "number": 87,
+          "question": {
+            "en": "What does the speaker ask the listeners to do?",
+            "vi": "Người nói yêu cầu người nghe làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Send accurate time sheets",
+              "vi": "Gửi các bảng tính thời gian chính xác"
+            },
+            {
+              "key": "B",
+              "en": "Save important documents",
+              "vi": "Lưu các tài liệu quan trọng"
+            },
+            {
+              "key": "C",
+              "en": "Recommend a job candidate",
+              "vi": "Giới thiệu một ứng cử viên công việc"
+            },
+            {
+              "key": "D",
+              "en": "Keep an area neat",
+              "vi": "Giữ gọn gàng một khu vực"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets19-t10-p4-q088",
+          "number": 88,
+          "question": {
+            "en": "What does the speaker imply when he says, \"the store's opening in a few minutes\"?",
+            "vi": "Người nói ngụ ý gì khi nói \"cửa hàng sắp mở trong vài phút nữa\"?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Customers should be patient",
+              "vi": "Khách hàng nên kiên nhẫn"
+            },
+            {
+              "key": "B",
+              "en": "Employees should work quickly",
+              "vi": "Nhân viên nên làm việc nhanh chóng"
+            },
+            {
+              "key": "C",
+              "en": "A schedule was changed",
+              "vi": "Một lịch trình đã thay đổi"
+            },
+            {
+              "key": "D",
+              "en": "A meeting is ending",
+              "vi": "Một cuộc họp sắp kết thúc"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets19-t10-p4-g089-091",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_10/audio/089-091.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "Thanks for joining us today on a tour of our newest art exhibit. ",
+            "questionIds": []
+          },
+          {
+            "text": "This exhibit features the works of Martina Santos, who specializes in making mosaics.",
+            "questionIds": [
+              "ets19-t10-p4-q089"
+            ]
+          },
+          {
+            "text": " Each of her mosaics is crafted from hundreds of small, colored tiles. As you'll notice, the subjects of her artwork are plants and animals. ",
+            "questionIds": []
+          },
+          {
+            "text": "That's because Ms. Santos draws her inspiration from nature.",
+            "questionIds": [
+              "ets19-t10-p4-q090"
+            ]
+          },
+          {
+            "text": " OK, let's get started. While we walk through the exhibit, I'll provide you with some information on each mosaic. ",
+            "questionIds": []
+          },
+          {
+            "text": "And at the end of our tour, we'll stop at the front desk, where you can pick up a free postcard with images of Ms. Santos' most famous works of art.",
+            "questionIds": [
+              "ets19-t10-p4-q091"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Cảm ơn quý vị đã tham gia cùng chúng tôi hôm nay trong chuyến tham quan triển lãm nghệ thuật mới nhất của chúng tôi. Triển lãm này giới thiệu các tác phẩm của Martina Santos, người chuyên làm tranh ghép. Mỗi bức tranh ghép của cô ấy được chế tác từ hàng trăm viên gạch nhỏ, có màu sắc. Như quý vị sẽ nhận thấy, chủ đề trong tác phẩm nghệ thuật của cô ấy là thực vật và động vật. Đó là bởi vì cô Santos lấy cảm hứng từ thiên nhiên. OK, chúng ta hãy bắt đầu. Trong khi chúng ta đi qua triển lãm, tôi sẽ cung cấp cho quý vị một số thông tin về mỗi bức tranh ghép. Và vào cuối chuyến tham quan của chúng ta, chúng ta sẽ dừng lại ở quầy lễ tân, nơi quý vị có thể nhận một tấm bưu thiếp miễn phí với hình ảnh những tác phẩm nghệ thuật nổi tiếng nhất của cô Santos.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets19-t10-p4-q089",
+          "number": 89,
+          "question": {
+            "en": "Who is Martina Santos?",
+            "vi": "Martina Santos là ai?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A reporter",
+              "vi": "Một nhà báo"
+            },
+            {
+              "key": "B",
+              "en": "An architect",
+              "vi": "Một kiến trúc sư"
+            },
+            {
+              "key": "C",
+              "en": "An artist",
+              "vi": "Một nghệ sĩ"
+            },
+            {
+              "key": "D",
+              "en": "A gardener",
+              "vi": "Một người làm vườn"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets19-t10-p4-q090",
+          "number": 90,
+          "question": {
+            "en": "According to the speaker, what is Martina Santos' source of inspiration?",
+            "vi": "Theo người nói, nguồn cảm hứng của Martina Santos là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Travel",
+              "vi": "Du lịch"
+            },
+            {
+              "key": "B",
+              "en": "Nature",
+              "vi": "Thiên nhiên"
+            },
+            {
+              "key": "C",
+              "en": "History",
+              "vi": "Lịch sử"
+            },
+            {
+              "key": "D",
+              "en": "Music",
+              "vi": "Âm nhạc"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets19-t10-p4-q091",
+          "number": 91,
+          "question": {
+            "en": "What does the speaker say the listeners can receive at the front desk?",
+            "vi": "Người nói nói rằng người nghe có thể nhận cái gì ở bàn tiếp tân?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Some tickets",
+              "vi": "Một số vé"
+            },
+            {
+              "key": "B",
+              "en": "Some headphones",
+              "vi": "Một số tai nghe"
+            },
+            {
+              "key": "C",
+              "en": "A receipt",
+              "vi": "Một biên lai"
+            },
+            {
+              "key": "D",
+              "en": "A postcard",
+              "vi": "Một bưu thiếp"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets19-t10-p4-g092-094",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_10/audio/092-094.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "Thanks everyone for coming to Alina's farewell party.",
+            "questionIds": [
+              "ets19-t10-p4-q092"
+            ]
+          },
+          {
+            "text": " I know I speak for the entire marketing department here at Kushing Cosmetics when I say we'll miss working with her. We all appreciate her positive attitude and ability to understand customer needs. ",
+            "questionIds": []
+          },
+          {
+            "text": "She was only with us one year, and during that time sales of our new cosmetics line increased by ten percent!",
+            "questionIds": [
+              "ets19-t10-p4-q093"
+            ]
+          },
+          {
+            "text": " ",
+            "questionIds": []
+          },
+          {
+            "text": "Fortunately, she's not leaving the company but just transferring to the Singapore branch office, so we'll be able to keep in touch.",
+            "questionIds": [
+              "ets19-t10-p4-q094"
+            ]
+          },
+          {
+            "text": " Best of luck, Alina.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Cảm ơn mọi người đã đến dự tiệc chia tay Alina. Tôi biết tôi nói thay cho toàn thể phòng marketing tại Kushing Cosmetics khi tôi nói rằng chúng tôi sẽ nhớ làm việc với cô ấy. Tất cả chúng tôi đều trân trọng thái độ tích cực và khả năng nắm bắt nhu cầu khách hàng của cô ấy. Cô ấy chỉ làm việc với chúng tôi một năm, và trong khoảng thời gian đó doanh số bán dòng mỹ phẩm mới của chúng tôi đã tăng mười phần trăm! May mắn thay, cô ấy không rời công ty mà chỉ chuyển đến chi nhánh Singapore, vì vậy chúng tôi sẽ có thể giữ liên lạc. Chúc Alina mọi điều tốt đẹp nhất.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets19-t10-p4-q092",
+          "number": 92,
+          "question": {
+            "en": "What event is taking place?",
+            "vi": "Sự kiện nào đang diễn ra?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A product launch",
+              "vi": "Một buổi ra mắt sản phẩm"
+            },
+            {
+              "key": "B",
+              "en": "A going-away party",
+              "vi": "Một bữa tiệc chia tay"
+            },
+            {
+              "key": "C",
+              "en": "An awards ceremony",
+              "vi": "Một lễ trao giải"
+            },
+            {
+              "key": "D",
+              "en": "An anniversary celebration",
+              "vi": "Một lễ kỷ niệm sinh nhật"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets19-t10-p4-q093",
+          "number": 93,
+          "question": {
+            "en": "Why does the speaker say, \"sales of our new cosmetics line increased by ten percent\"?",
+            "vi": "Tại sao người nói nói \"doanh số bán của dòng mỹ phẩm mới của chúng tôi tăng mười phần trăm\"?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To request additional staff",
+              "vi": "Để yêu cầu nhân viên bổ sung"
+            },
+            {
+              "key": "B",
+              "en": "To express disappointment",
+              "vi": "Để bày tỏ sự thất vọng"
+            },
+            {
+              "key": "C",
+              "en": "To recognize an accomplishment",
+              "vi": "Để công nhận một thành tích"
+            },
+            {
+              "key": "D",
+              "en": "To describe a new advertising strategy",
+              "vi": "Để mô tả một chiến lược quảng cáo mới"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets19-t10-p4-q094",
+          "number": 94,
+          "question": {
+            "en": "According to the speaker, what is Alina going to do?",
+            "vi": "Theo người nói, Alina sắp làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Transfer to another location",
+              "vi": "Chuyển đến một địa điểm khác"
+            },
+            {
+              "key": "B",
+              "en": "Buy a house",
+              "vi": "Mua một ngôi nhà"
+            },
+            {
+              "key": "C",
+              "en": "Start a new business",
+              "vi": "Bắt đầu một kinh doanh mới"
+            },
+            {
+              "key": "D",
+              "en": "Write a book",
+              "vi": "Viết một cuốn sách"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets19-t10-p4-g095-097",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_10/audio/095-097.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "Let's briefly discuss our progress in developing our new handheld G-Tech video game device. ",
+            "questionIds": []
+          },
+          {
+            "text": "We had twenty-five employees from other departments test out the prototype, so let's look at the results.",
+            "questionIds": [
+              "ets19-t10-p4-q095"
+            ]
+          },
+          {
+            "text": " Most of them really liked the appearance. Hmm... we won't be able to change the weight of the device at this point. ",
+            "questionIds": []
+          },
+          {
+            "text": "But look at this other feature: only ten people liked it.",
+            "questionIds": [
+              "ets19-t10-p4-q096"
+            ]
+          },
+          {
+            "text": " So that's what I want our team to work on—I know we can do better. ",
+            "questionIds": []
+          },
+          {
+            "text": "Please, send me some ideas by the end of the week.",
+            "questionIds": [
+              "ets19-t10-p4-q097"
+            ]
+          },
+          {
+            "text": " We'll have a brainstorming session on Monday to make a final decision.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Chúng ta hãy thảo luận ngắn gọn về tiến độ phát triển thiết bị trò chơi điện tử cầm tay G-Tech mới của chúng ta. Chúng tôi đã có hai mươi lăm nhân viên từ các bộ phận khác thử nghiệm nguyên mẫu, vì vậy hãy xem xét kết quả. Hầu hết họ thực sự thích ngoại hình. Hmm... chúng ta sẽ không thể thay đổi trọng lượng của thiết bị ở thời điểm này. Nhưng hãy nhìn vào tính năng khác này: chỉ có mười người thích nó. Vì vậy, đó là điều tôi muốn nhóm của chúng ta tập trung vào – tôi biết chúng ta có thể làm tốt hơn. Làm ơn, hãy gửi cho tôi một vài ý tưởng trước cuối tuần. Chúng ta sẽ có một buổi động não vào thứ Hai để đưa ra quyết định cuối cùng.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets19-t10-p4-q095",
+          "number": 95,
+          "question": {
+            "en": "According to the speaker, where did the feedback come from?",
+            "vi": "Theo người nói, phản hồi đến từ đâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A trade magazine review",
+              "vi": "Một đánh giá của tạp chí thương mại"
+            },
+            {
+              "key": "B",
+              "en": "A board member",
+              "vi": "Một thành viên hội đồng quản trị"
+            },
+            {
+              "key": "C",
+              "en": "A group of employees",
+              "vi": "Một nhóm nhân viên"
+            },
+            {
+              "key": "D",
+              "en": "A marketing research firm",
+              "vi": "Một công ty nghiên cứu tiếp thị"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets19-t10-p4-q096",
+          "number": 96,
+          "question": {
+            "en": "Look at the graphic. Which feature will the listeners work on?",
+            "vi": "Nhìn vào đồ thị. Tính năng nào mà những người nghe sẽ làm việc?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Appearance",
+              "vi": "Ngoại hình"
+            },
+            {
+              "key": "B",
+              "en": "Processing speed",
+              "vi": "Tốc độ xử lý"
+            },
+            {
+              "key": "C",
+              "en": "Sound quality",
+              "vi": "Chất lượng âm thanh"
+            },
+            {
+              "key": "D",
+              "en": "Weight",
+              "vi": "Trọng lượng"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets19-t10-p4-q097",
+          "number": 97,
+          "question": {
+            "en": "What does the speaker ask the listeners to do by the end of the week?",
+            "vi": "Người nói yêu cầu người nghe làm gì vào cuối tuần?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Talk to their managers",
+              "vi": "Nói chuyện với những người quản lý của họ"
+            },
+            {
+              "key": "B",
+              "en": "Suggest some ideas",
+              "vi": "Đề xuất một số ý tưởng"
+            },
+            {
+              "key": "C",
+              "en": "Revise some documentation",
+              "vi": "Sửa đổi một số tài liệu"
+            },
+            {
+              "key": "D",
+              "en": "Approve some specifications",
+              "vi": "Phê duyệt một số thông số kỹ thuật"
+            }
+          ],
+          "answer": "B"
+        }
+      ],
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_10/image/095-097.png"
+    },
+    {
+      "id": "ets19-t10-p4-g098-100",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_10/audio/098-100.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "Welcome to our fifth annual company retreat here at Bankbury Nature Preserve. This morning we'll start with some hiking. ",
+            "questionIds": []
+          },
+          {
+            "text": "There are four trails to choose from, but I highly recommend going out to the Mountain Lodge.",
+            "questionIds": [
+              "ets19-t10-p4-q098"
+            ]
+          },
+          {
+            "text": " You'll get a great view of the entire nature preserve from up there, and it's a nice spot to stop for lunch. ",
+            "questionIds": []
+          },
+          {
+            "text": "Now, don't forget that we'll be meeting at the Wildflower Garden at three P.M. for some team-building activities, so please make sure to leave enough time to hike over there.",
+            "questionIds": [
+              "ets19-t10-p4-q099"
+            ]
+          },
+          {
+            "text": " ",
+            "questionIds": []
+          },
+          {
+            "text": "Before we split into our groups, I'm going to come around and hand out water bottles.",
+            "questionIds": [
+              "ets19-t10-p4-q100"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Nam-Trung Quốc: Chào mừng đến với buổi dã ngoại thường niên lần thứ năm của công ty chúng ta tại Khu bảo tồn Thiên nhiên Bankbury. Sáng nay chúng ta sẽ bắt đầu bằng việc đi bộ đường dài. Có bốn con đường mòn để lựa chọn, nhưng tôi đặc biệt khuyên bạn nên đi đến Nhà nghỉ Mountain. Bạn sẽ có một cái nhìn tuyệt vời về toàn bộ khu bảo tồn thiên nhiên từ trên đó, và đó là một địa điểm đẹp để dừng chân ăn trưa. Bây giờ, đừng quên rằng chúng ta sẽ gặp nhau tại Vườn Hoa Dại lúc 3 giờ chiều để tham gia một số hoạt động xây dựng đội nhóm, vì vậy hãy đảm bảo dành đủ thời gian để đi bộ đến đó. Trước khi chúng ta chia thành các nhóm, tôi sẽ đi vòng quanh và phát chai nước.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets19-t10-p4-q098",
+          "number": 98,
+          "question": {
+            "en": "Look at the graphic. Which trail does the speaker recommend?",
+            "vi": "Nhìn vào đồ thị. Người nói khuyến nghị đường mòn nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Yellow",
+              "vi": "Vàng"
+            },
+            {
+              "key": "B",
+              "en": "Blue",
+              "vi": "Xanh dương"
+            },
+            {
+              "key": "C",
+              "en": "Red",
+              "vi": "Đỏ"
+            },
+            {
+              "key": "D",
+              "en": "Green",
+              "vi": "Xanh lá"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets19-t10-p4-q099",
+          "number": 99,
+          "question": {
+            "en": "According to the speaker, what will happen at 3:00 P.M.?",
+            "vi": "Theo người nói, điều gì sẽ xảy ra lúc 3 giờ chiều?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "The bus will leave the parking area",
+              "vi": "Xe buýt sẽ rời khỏi khu vực đỗ xe"
+            },
+            {
+              "key": "B",
+              "en": "Some team events will begin",
+              "vi": "Một số sự kiện nhóm sẽ bắt đầu"
+            },
+            {
+              "key": "C",
+              "en": "A photograph will be taken",
+              "vi": "Một bức ảnh sẽ được chụp"
+            },
+            {
+              "key": "D",
+              "en": "A park ranger will give a lecture",
+              "vi": "Một nhân viên công viên sẽ đọc bài giảng"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets19-t10-p4-q100",
+          "number": 100,
+          "question": {
+            "en": "What does the speaker say he will do next?",
+            "vi": "Người nói nói rằng anh ấy sẽ làm gì tiếp theo?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Lead a hike",
+              "vi": "Dẫn đầu một chuyến đi bộ"
+            },
+            {
+              "key": "B",
+              "en": "Meet with the company director",
+              "vi": "Gặp với giám đốc công ty"
+            },
+            {
+              "key": "C",
+              "en": "Distribute some beverages",
+              "vi": "Phát những đồ uống"
+            },
+            {
+              "key": "D",
+              "en": "Go to the visitor center",
+              "vi": "Đi đến trung tâm du khách"
+            }
+          ],
+          "answer": "C"
+        }
+      ],
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_10/image/098-100.png"
+    }
+  ]
+}

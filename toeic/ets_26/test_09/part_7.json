@@ -1,0 +1,1944 @@
+{
+  "groups": [
+    {
+      "id": "ets26-t09-p7-g147-148",
+      "documents": [
+        {
+          "kind": "invitation",
+          "content": {
+            "en": "Russet Capital\n\nJoin your colleagues for pastries and coffee to welcome\n\nMs. Misun Lee\nas Chief Financial Officer\n\nTuesday, September 5\n3:00 P.M.-4:00 P.M.\nConference Room 2100\n\nHosted by the President's Office",
+            "vi": "Russet Capital\n\nHãy cùng các đồng nghiệp của bạn thưởng thức bánh ngọt và cà phê để chào đón\n\nCô Misun Lee\nđảm nhận chức vụ Giám đốc Tài chính\n\nThứ Ba, September 5\nTừ 3:00 P.M. đến 4:00 P.M.\nPhòng hội nghị 2100\n\nĐược tổ chức bởi Văn phòng Chủ tịch"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t09-p7-q147",
+          "number": 147,
+          "question": {
+            "en": "What is the purpose of the event?",
+            "vi": "Mục đích của sự kiện là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To interview candidates for a management position",
+              "vi": "Để phỏng vấn các ứng viên cho vị trí quản lý"
+            },
+            {
+              "key": "B",
+              "en": "To celebrate the retirement of an employee",
+              "vi": "Để tổ chức tiệc nghỉ hưu cho một nhân viên"
+            },
+            {
+              "key": "C",
+              "en": "To allow conference participants to network with one another",
+              "vi": "Để cho phép các thành viên tham gia hội nghị kết nối giao lưu với nhau"
+            },
+            {
+              "key": "D",
+              "en": "To introduce a new company executive to employees",
+              "vi": "Để giới thiệu một giám đốc điều hành mới của công ty với các nhân viên"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t09-p7-q148",
+          "number": 148,
+          "question": {
+            "en": "According to the invitation, what will happen at the event?",
+            "vi": "Theo thư mời, điều gì sẽ diễn ra tại sự kiện?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Refreshments will be served.",
+              "vi": "Đồ ăn thức uống nhẹ sẽ được phục vụ."
+            },
+            {
+              "key": "B",
+              "en": "The president will give a speech.",
+              "vi": "Chủ tịch sẽ có một bài phát biểu."
+            },
+            {
+              "key": "C",
+              "en": "Financial reports will be distributed.",
+              "vi": "Các báo cáo tài chính sẽ được phân phát."
+            },
+            {
+              "key": "D",
+              "en": "The chief financial officer will receive an award.",
+              "vi": "Giám đốc tài chính sẽ nhận được một giải thưởng."
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t09-p7-g149-150",
+      "documents": [
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Michael Hong <mhong73@mailcrate.co.uk>\nFrom: Customer Support <support@toppmanagement.co.uk>\nDate: 20 June\nSubject: Your account access\nAttachment: Topp Management User Guidelines\n\nDear Mr. Hong:\n\nIt appears you have not logged in to your Topp Management online app recently. After six months of inactivity, user accounts are automatically closed. To avoid account deactivation on 20 July, simply sign in to the app before that date. If you have forgotten your password or are having difficulty accessing your account, please see the attached Topp Management User Guidelines.\n\nThousands use our award-winning Topp Management app for managing their project workflows. We trust you will continue as a valued user. Feel free to contact our customer support team if there is any way we can serve you.\n\nSincerely,\n\nThe Topp Management Support Team",
+            "vi": "Đến: Michael Hong <mhong73@mailcrate.co.uk>\nTừ: Hỗ trợ Khách hàng <support@toppmanagement.co.uk>\nNgày: 20 June\nChủ đề: Quyền truy cập tài khoản của bạn\n\nKính gửi ông Hong:\n\nCó vẻ như gần đây ông đã không đăng nhập vào ứng dụng trực tuyến Topp Management của mình. Sau sáu tháng không hoạt động, các tài khoản người dùng sẽ tự động bị đóng. Để tránh bị hủy kích hoạt tài khoản vào ngày 20 July, ông chỉ cần đăng nhập vào ứng dụng trước ngày đó. Nếu ông quên mật khẩu của mình hoặc gặp khó khăn khi truy cập tài khoản, vui lòng xem tài liệu Hướng dẫn Sử dụng Topp Management được đính kèm.\n\nHàng ngàn người đang sử dụng ứng dụng đạt giải thưởng Topp Management của chúng tôi để quản lý quy trình làm việc trong dự án của họ. Chúng tôi tin tưởng rằng ông sẽ tiếp tục đồng hành cùng chúng tôi với tư cách là một người dùng đáng trân quý. Xin vui lòng liên hệ với đội ngũ hỗ trợ khách hàng của chúng tôi bất cứ khi nào ông cần chúng tôi phục vụ.\n\nTrân trọng,\n\nĐội ngũ Hỗ trợ Topp Management"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t09-p7-q149",
+          "number": 149,
+          "question": {
+            "en": "What is most likely true about Mr. Hong's account?",
+            "vi": "Điều gì rất có thể đúng về tài khoản của ông Hong?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It requires a new password.",
+              "vi": "Nó yêu cầu một mật khẩu mới."
+            },
+            {
+              "key": "B",
+              "en": "It was created on June 20.",
+              "vi": "Nó được tạo vào ngày June 20."
+            },
+            {
+              "key": "C",
+              "en": "It was updated by a colleague of his.",
+              "vi": "Nó đã được cập nhật bởi một đồng nghiệp của ông ấy."
+            },
+            {
+              "key": "D",
+              "en": "It has not been used in a few months.",
+              "vi": "Nó đã không được sử dụng trong một vài tháng qua."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t09-p7-q150",
+          "number": 150,
+          "question": {
+            "en": "What must Mr. Hong do to maintain access to his account?",
+            "vi": "Ông Hong phải làm gì để duy trì quyền truy cập vào tài khoản của mình?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Reply to the e-mail",
+              "vi": "Phản hồi e-mail này"
+            },
+            {
+              "key": "B",
+              "en": "Sign in before July 20",
+              "vi": "Đăng nhập trước ngày July 20"
+            },
+            {
+              "key": "C",
+              "en": "Renew his annual membership",
+              "vi": "Gia hạn tư cách thành viên thường niên của mình"
+            },
+            {
+              "key": "D",
+              "en": "Speak with a customer service agent",
+              "vi": "Trao đổi với một nhân viên đại diện dịch vụ khách hàng"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t09-p7-g151-152",
+      "documents": [
+        {
+          "kind": "online_chat_discussion",
+          "content": {
+            "en": "John Dakers [9:30 A.M.]\nHello. I have a furnace service appointment scheduled this morning. Is a technician on the way to my house yet?\n\nHVAC Customer Service [9:31 A.M.]\nLet me check.\n\nHVAC Customer Service [9:32 A.M.]\nOur system shows that someone will be there today between 3:00 P.M. and 5:00 P.M.\n\nJohn Dakers [9:33 A.M.]\nMy notes say 9:00 to 11:00 A.M. today. I took time off from work.\n\nHVAC Customer Service [9:34 A.M.]\nI am sorry for any miscommunication. A technician will be there later today.\n\nJohn Dakers [9:36 A.M.]\nBut I need to get to the office soon.\n\nHVAC Customer Service [9:37 A.M.]\nOur apologies, Mr. Dakers. I will see if we can make some schedule changes.\n\nHVAC Customer Service [9:42 A.M.]\nGood news. I reached your technician. She is finishing a job now and can be there within the hour.\n\nJohn Dakers [9:43 A.M.]\nThank you very much. I appreciate it.",
+            "vi": "John Dakers [9:30 A.M.]\nXin chào. Tôi có lịch hẹn kiểm tra lò sưởi vào sáng nay. Đã có kỹ thuật viên nào đang trên đường đến nhà tôi chưa?\n\nDịch vụ khách hàng HVAC [9:31 A.M.]\nĐể tôi kiểm tra xem nhé.\n\nDịch vụ khách hàng HVAC [9:32 A.M.]\nHệ thống của chúng tôi cho thấy sẽ có người đến đó hôm nay trong khoảng từ 3:00 P.M. đến 5:00 P.M.\n\nJohn Dakers [9:33 A.M.]\nGhi chú của tôi ghi là từ 9:00 đến 11:00 A.M. hôm nay. Tôi đã phải xin nghỉ làm một buổi đấy.\n\nDịch vụ khách hàng HVAC [9:34 A.M.]\nTôi xin lỗi vì bất kỳ sự nhầm lẫn thông tin nào. Kỹ thuật viên sẽ có mặt ở đó muộn hơn trong ngày hôm nay.\n\nJohn Dakers [9:36 A.M.]\nNhưng tôi cần phải đến văn phòng sớm.\n\nDịch vụ khách hàng HVAC [9:37 A.M.]\nChúng tôi vô cùng xin lỗi ông Dakers. Tôi sẽ xem liệu chúng tôi có thể thực hiện một số thay đổi trong lịch trình hay không.\n\nDịch vụ khách hàng HVAC [9:42 A.M.]\nTin tốt đây ạ. Tôi đã liên lạc được với kỹ thuật viên của ông rồi. Cô ấy đang hoàn thành một công việc ngay lúc này và có thể có mặt ở chỗ ông trong vòng một giờ tới.\n\nJohn Dakers [9:43 A.M.]\nCảm ơn cô rất nhiều. Tôi rất trân trọng việc này."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t09-p7-q151",
+          "number": 151,
+          "question": {
+            "en": "Why does Mr. Dakers contact HVAC Customer Service?",
+            "vi": "Tại sao ông Dakers liên hệ với bộ phận Dịch vụ khách hàng HVAC?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To express displeasure over the quality of work",
+              "vi": "Để bày tỏ sự không hài lòng về chất lượng công việc"
+            },
+            {
+              "key": "B",
+              "en": "To confirm that he will be available to work",
+              "vi": "Để xác nhận rằng ông ấy sẽ sẵn sàng làm việc"
+            },
+            {
+              "key": "C",
+              "en": "To ensure that a service will be provided as planned",
+              "vi": "Để đảm bảo rằng một dịch vụ sẽ được cung cấp đúng như kế hoạch"
+            },
+            {
+              "key": "D",
+              "en": "To cancel a service he no longer needs",
+              "vi": "Để hủy bỏ một dịch vụ mà ông ấy không còn cần nữa"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t09-p7-q152",
+          "number": 152,
+          "question": {
+            "en": "At 9:36 A.M., what does Mr. Dakers most likely mean when he writes, \"But I need to get to the office soon\"?",
+            "vi": "Vào lúc 9:36"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He has a question for his supervisor.",
+              "vi": "M., ông Dakers rất có thể có ý gì khi viết \"But I need to get to the office soon\"? (A) Ông ấy có một câu hỏi dành cho người giám sát của mình."
+            },
+            {
+              "key": "B",
+              "en": "He lives far away from his office.",
+              "vi": "Ông ấy sống ở cách xa văn phòng của mình."
+            },
+            {
+              "key": "C",
+              "en": "A technician should go to Mr. Dakers' workplace.",
+              "vi": "Một kỹ thuật viên nên đến nơi làm việc của ông Dakers."
+            },
+            {
+              "key": "D",
+              "en": "An afternoon appointment is unacceptable.",
+              "vi": "Một cuộc hẹn vào buổi chiều là không thể chấp nhận được."
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t09-p7-g153-155",
+      "documents": [
+        {
+          "kind": "memo",
+          "content": {
+            "en": "To: All employees\nFrom: Loretta Hirano, Human Resources Director\nDate: Friday, April 7, 9:03 A.M.\nSubject: Summer work arrangements\n\nDear colleagues,\n\nAs you know, the period from June 1 through August 31 is ordinarily our busiest time. This summer promises to be even busier than usual, as business has increased by 15% since this time last year.\n\nManagement is also well aware that summer is the time when many of our employees like to take time off from work. Still, we must have sufficient staff on hand to deliver service of the highest quality, a policy for which Bellerson Financial is highly regarded by its customers.\n\nTherefore, if you are planning to take a vacation between June 1 and August 31, kindly submit your request by Friday, April 28. You will receive a response as soon as possible but no later than Monday, May 8.\n\nThank you for your assistance.",
+            "vi": "Đến: Toàn thể nhân viên\nTừ: Loretta Hirano, Giám đốc Nhân sự\nNgày: Friday, April 7, 9:03 A.M.\nChủ đề: Sắp xếp công việc mùa hè\n\nKính gửi các đồng nghiệp,\n\nNhư các bạn đã biết, khoảng thời gian từ June 1 đến hết August 31 thông thường là thời điểm bận rộn nhất của chúng ta. Mùa hè năm nay hứa hẹn sẽ còn bận rộn hơn bình thường, vì hoạt động kinh doanh đã tăng 15% so với cùng kỳ năm ngoái.\n\nBan quản lý cũng nhận thức rất rõ rằng mùa hè là thời điểm mà nhiều nhân viên của chúng ta muốn xin nghỉ làm một thời gian. Tuy nhiên, chúng ta phải có đủ nhân sự trực tiếp để cung cấp dịch vụ với chất lượng cao nhất, một chính sách mà Bellerson Financial được các khách hàng đánh giá rất cao.\n\nDo đó, nếu bạn có kế hoạch nghỉ phép trong khoảng thời gian từ June 1 đến August 31, vui lòng gửi yêu cầu của bạn trước thứ Sáu, April 28. Bạn sẽ nhận được câu trả lời sớm nhất có thể nhưng không muộn hơn thứ Hai, May 8.\n\nCảm ơn sự hỗ trợ của các bạn."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t09-p7-q153",
+          "number": 153,
+          "question": {
+            "en": "The word \"ordinarily\" in paragraph 1, line 1, is closest in meaning to",
+            "vi": "Từ \"ordinarily\" trong đoạn 1, dòng 1, gần nghĩa nhất với"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "dully",
+              "vi": "tẻ nhạt"
+            },
+            {
+              "key": "B",
+              "en": "typically",
+              "vi": "thông thường"
+            },
+            {
+              "key": "C",
+              "en": "acceptably",
+              "vi": "chấp nhận được"
+            },
+            {
+              "key": "D",
+              "en": "minimally",
+              "vi": "tối thiểu"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t09-p7-q154",
+          "number": 154,
+          "question": {
+            "en": "What is indicated about Bellerson Financial?",
+            "vi": "Điều gì được chỉ ra về Bellerson Financial?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It recently promoted Ms. Hirano to Human Resources Director.",
+              "vi": "Gần đây công ty đã thăng chức cho bà Hirano lên làm Giám đốc Nhân sự."
+            },
+            {
+              "key": "B",
+              "en": "It experienced some financial difficulties in recent months.",
+              "vi": "Công ty đã gặp phải một số khó khăn về tài chính trong những tháng gần đây."
+            },
+            {
+              "key": "C",
+              "en": "It offers extended service hours between June and August.",
+              "vi": "Công ty cung cấp thêm giờ làm việc dịch vụ kéo dài trong khoảng thời gian từ tháng Sáu đến tháng Tám."
+            },
+            {
+              "key": "D",
+              "en": "It has built a reputation among customers for its excellent service.",
+              "vi": "Công ty đã tạo dựng được uy tín tốt trong lòng khách hàng nhờ dịch vụ xuất sắc của mình."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t09-p7-q155",
+          "number": 155,
+          "question": {
+            "en": "What is the deadline for requesting vacation time?",
+            "vi": "Hạn chót để yêu cầu thời gian nghỉ phép là ngày nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "April 28",
+              "vi": "April 28"
+            },
+            {
+              "key": "B",
+              "en": "May 8",
+              "vi": "May 8"
+            },
+            {
+              "key": "C",
+              "en": "June 1",
+              "vi": "June 1"
+            },
+            {
+              "key": "D",
+              "en": "August 31",
+              "vi": "August 31"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t09-p7-g156-158",
+      "documents": [
+        {
+          "kind": "article",
+          "content": {
+            "en": "Teleteknic Unveils New Phone Models\n\nSYDNEY (21 March)--Electronics giant Teleteknic announced that it is launching three new models of its popular smartphone: the Strato, the Alto, and the Cirro. In terms of physical dimensions and data storage, the Strato is the smallest model, the Alto is in the middle, and the Cirro is the largest. The Cirro model also includes an electronic stylus for writing or drawing on the screen.\n\nMost of the changes from Teleteknic's previous phone models are minor. However, users will be impressed by a significant improvement to the camera. All new models include an upgraded camera with advanced zoom features and automatic focus. It also allows users to take better photos in lower light conditions. Another advancement is in the batteries: the latest phones have a longer battery life and charge faster.\n\nConsumers can get a glimpse of the phones in a promotional video posted on the company's Web site at www.teleteknic.com.au, or they can see the models in person at next month's technical trade show. Preorders are now being accepted at Teleteknic's online shop. The new phones are expected to be on store shelves in November.",
+            "vi": "Teleteknic hé lộ các mẫu điện thoại mới\n\nSYDNEY (21 March)—Gã khổng lồ điện tử Teleteknic đã thông báo rằng họ sẽ ra mắt ba mẫu điện thoại thông minh phổ biến mới của mình: Strato, Alto và Cirro. Về kích thước vật lý và dung lượng lưu trữ dữ liệu, Strato là mẫu nhỏ nhất, Alto ở vị trí tầm trung và Cirro là mẫu lớn nhất. Mẫu Cirro cũng đi kèm một bút cảm ứng điện tử để viết hoặc vẽ trên màn hình.\n\nHầu hết các thay đổi so với các mẫu điện thoại trước đây của Teleteknic đều là những nâng cấp nhỏ. Tuy nhiên, người dùng sẽ bị ấn tượng bởi một sự cải tiến đáng kể đối với máy ảnh. Tất cả các mẫu máy mới đều sở hữu máy ảnh được nâng cấp với các tính năng thu phóng nâng cao và lấy nét tự động. Nó cũng cho phép người dùng chụp những bức ảnh đẹp hơn trong điều kiện thiếu sáng. Một tiến bộ khác nằm ở pin: các dòng điện thoại mới nhất có thời lượng pin dài hơn và sạc nhanh hơn.\n\nNgười tiêu dùng có thể xem qua các mẫu điện thoại này trong một video quảng cáo được đăng tải trên trang web của công ty tại www.teleteknic.com.au, hoặc họ có thể trực tiếp chiêm ngưỡng các mẫu điện thoại tại buổi triển lãm thương mại kỹ thuật vào tháng tới. Các đơn đặt hàng trước hiện đang được tiếp nhận tại cửa hàng trực tuyến của Teleteknic. Các mẫu điện thoại mới dự kiến sẽ có mặt trên các kệ hàng vào tháng Mười Một."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t09-p7-q156",
+          "number": 156,
+          "question": {
+            "en": "How does the Cirro model differ from the other new phone models?",
+            "vi": "Mẫu Cirro khác với các mẫu điện thoại mới khác như thế nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It took the longest time to develop.",
+              "vi": "Nó mất nhiều thời gian nhất để phát triển."
+            },
+            {
+              "key": "B",
+              "en": "It comes with an additional tool.",
+              "vi": "Nó đi kèm với một công cụ bổ sung."
+            },
+            {
+              "key": "C",
+              "en": "It includes expandable memory.",
+              "vi": "Nó bao gồm bộ nhớ có thể mở rộng."
+            },
+            {
+              "key": "D",
+              "en": "It has a screen on the front and the back.",
+              "vi": "Nó có màn hình ở cả mặt trước và mặt sau."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t09-p7-q157",
+          "number": 157,
+          "question": {
+            "en": "What feature of the phones has had the greatest improvement?",
+            "vi": "Tính năng nào của điện thoại có sự cải tiến lớn nhất?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "The operating system",
+              "vi": "Hệ điều hành"
+            },
+            {
+              "key": "B",
+              "en": "The camera",
+              "vi": "Máy ảnh"
+            },
+            {
+              "key": "C",
+              "en": "The screen",
+              "vi": "Màn hình"
+            },
+            {
+              "key": "D",
+              "en": "The speaker",
+              "vi": "Loa"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t09-p7-q158",
+          "number": 158,
+          "question": {
+            "en": "Where can customers currently order the new phones?",
+            "vi": "Khách hàng hiện có thể đặt hàng các dòng điện thoại mới ở đâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "In electronics shops",
+              "vi": "Tại các cửa hàng đồ điện tử"
+            },
+            {
+              "key": "B",
+              "en": "In department stores",
+              "vi": "Tại các cửa hàng bách hóa"
+            },
+            {
+              "key": "C",
+              "en": "At technical trade shows",
+              "vi": "Tại các triển lãm thương mại kỹ thuật"
+            },
+            {
+              "key": "D",
+              "en": "At the company's online shop",
+              "vi": "Tại cửa hàng trực tuyến của công ty"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t09-p7-g159-160",
+      "documents": [
+        {
+          "kind": "online_post",
+          "content": {
+            "en": "Tottenton Community Online Message Board > General\n\nPosted by Thalia Finley on Thursday, 14 September, at 11:41 A.M.:\n\nI am a documentary filmmaker working to tell the story of how Tottenton evolved from a decaying industrial town into a hub for environmentally responsible building initiatives and sustainable architectural design. I am seeking Tottenton residents at least 50 years of age who lived here during the period of transition and can tell me what it was like. If you are interested in participating, please call me at 020 7946 0532. I'll then send you a personal release form to fill out, and we can arrange to meet for a 30- to 45-minute interview.",
+            "vi": "Bảng tin trực tuyến cộng đồng Tottenton Community > Mục chung\n\nĐược đăng bởi Thalia Finley vào thứ Năm, 14 September, lúc 11:41 A.M.:\n\nTôi là một nhà làm phim tài liệu đang thực hiện dự án kể về câu chuyện Tottenton đã phát triển như thế nào từ một thị trấn công nghiệp đang trên đà xuống cấp để trở thành một trung tâm cho các sáng kiến xây dựng có trách nhiệm với môi trường và thiết kế kiến trúc bền vững. Tôi đang tìm kiếm các cư dân Tottenton từ 50 tuổi trở lên, những người đã sống ở đây trong thời kỳ chuyển giao này và có thể chia sẻ cho tôi biết cuộc sống lúc đó như thế nào. Nếu bạn có hứng thú tham gia, vui lòng gọi cho tôi theo số 020 7946 0532. Sau đó, tôi sẽ gửi cho bạn một biểu mẫu chấp thuận cá nhân để điền vào, và chúng ta có thể sắp xếp để gặp mặt cho một cuộc phỏng vấn kéo dài từ 30 đến 45 phút."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t09-p7-q159",
+          "number": 159,
+          "question": {
+            "en": "What is Ms. Finley's film project about?",
+            "vi": "Dự án phim của cô Finley nói về nội dung gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "The life of a public figure",
+              "vi": "Cuộc đời của một nhân vật tầm cỡ công chúng"
+            },
+            {
+              "key": "B",
+              "en": "The restoration of a historic landmark",
+              "vi": "Việc trùng tu một di tích lịch sử nổi tiếng"
+            },
+            {
+              "key": "C",
+              "en": "A town's transformation over a period of time",
+              "vi": "Sự thay đổi của một thị trấn qua một khoảng thời gian"
+            },
+            {
+              "key": "D",
+              "en": "A manufacturing company's innovative policies",
+              "vi": "Các chính sách sáng tạo của một công ty sản xuất"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t09-p7-q160",
+          "number": 160,
+          "question": {
+            "en": "What does Ms. Finley want people to do?",
+            "vi": "Cô Finley muốn mọi người làm điều gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Attend a film screening",
+              "vi": "Tham dự một buổi công chiếu phim"
+            },
+            {
+              "key": "B",
+              "en": "Share their memories",
+              "vi": "Chia sẻ những ký ức của họ"
+            },
+            {
+              "key": "C",
+              "en": "Provide constructive criticism",
+              "vi": "Đưa ra những lời phê bình mang tính xây dựng"
+            },
+            {
+              "key": "D",
+              "en": "Avoid entering an area during filming",
+              "vi": "Tránh đi vào một khu vực trong quá trình quay phim"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t09-p7-g161-164",
+      "documents": [
+        {
+          "kind": "instructions",
+          "content": {
+            "en": "Personal Statements\n\nPersonal statements are brief pieces of writing that showcase a job applicant's most notable talents, accomplishments, and qualities. Personal statements are evaluated both for the facts and details they offer and for the way the writer conveys this information. — [1] —. Therefore, when you are composing a personal statement, it is important to be thoughtful about issues such as word choice and tone.\n\nThough there is no set length for personal statements, employers sometimes offer guidelines. — [2] —. If the employer does not provide a word count, aim for between 300 and 500 words. One page is generally considered the maximum length.\n\nWhen crafting a personal statement, provide concrete examples of times when you had to rely on your unique qualities. This can be an effective way of demonstrating to a prospective employer your ability to overcome challenges. It is also a good idea to give examples of how you work with or learn from others. — [3] —.\n\nDo not forget to mention the specific job you are applying for and explain why you would be a good fit. Your final paragraph is an ideal place for this information, as you can create a separate version of this paragraph for each position you apply for. Finally, ensure that you have carefully proofread your statement before submitting it. — [4] —.",
+            "vi": "Các bài tự giới thiệu cá nhân\n\nBài tự giới thiệu cá nhân là những bài viết ngắn nhằm thể hiện những tài năng, thành tựu và phẩm chất đáng chú ý nhất của một người nộp đơn xin việc. Các bài tự giới thiệu được đánh giá cả về mặt sự thật, chi tiết mà chúng mang lại lẫn cách người viết truyền đạt các thông tin này. — [1] —. Do đó, khi bạn đang soạn thảo một bài giới thiệu cá nhân, điều quan trọng là phải cân nhắc kỹ lưỡng về các vấn đề như việc lựa chọn từ ngữ và tông giọng văn phong.\n\nMặc dù không có độ dài cố định cho các bài tự giới thiệu cá nhân, các nhà tuyển dụng đôi khi vẫn đưa ra các chỉ dẫn hướng dẫn. — [2] —. Nếu nhà tuyển dụng không cung cấp số lượng từ cụ thể, hãy hướng tới độ dài trong khoảng từ 300 đến 500 từ. Thông thường, một trang giấy được coi là độ dài tối đa.\n\nKhi xây dựng một bài tự giới thiệu cá nhân, hãy đưa ra các ví dụ cụ thể về những thời điểm bạn phải dựa vào những phẩm chất độc đáo của mình. Đây có thể là một phương pháp hiệu quả để chứng minh cho nhà tuyển dụng tiềm năng thấy khả năng vượt qua thử thách của bạn. Việc đưa ra các ví dụ về cách bạn làm việc cùng hoặc học hỏi từ những người khác cũng là một ý tưởng hay. — [3] —.\n\nĐừng quên đề cập đến công việc cụ thể mà bạn đang ứng tuyển và giải thích lý do tại sao bạn sẽ là một người phù hợp tốt. Đoạn văn cuối cùng của bạn là một nơi lý tưởng cho thông tin này, vì bạn có thể tạo ra một phiên bản riêng biệt cho đoạn văn này đối với mỗi vị trí mà bạn ứng tuyển. Cuối cùng, hãy đảm bảo rằng bạn đã rà soát lỗi kỹ lưỡng bài viết của mình trước khi nộp. — [4] —."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t09-p7-q161",
+          "number": 161,
+          "question": {
+            "en": "For whom are the instructions most likely intended?",
+            "vi": "Các chỉ dẫn hướng dẫn này rất có thể dành cho đối tượng nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Job applicants",
+              "vi": "Các ứng viên xin việc"
+            },
+            {
+              "key": "B",
+              "en": "Management team members",
+              "vi": "Các thành viên trong ban quản lý"
+            },
+            {
+              "key": "C",
+              "en": "Professional writers",
+              "vi": "Các nhà văn chuyên nghiệp"
+            },
+            {
+              "key": "D",
+              "en": "Human resources staff",
+              "vi": "Các nhân viên nhân sự"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t09-p7-q162",
+          "number": 162,
+          "question": {
+            "en": "What is NOT mentioned as something to be considered when writing a personal statement?",
+            "vi": "Điều gì KHÔNG được đề cập như một điều cần lưu ý khi viết bài tự giới thiệu cá nhân?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "The total number of words",
+              "vi": "Tổng số lượng từ ngữ"
+            },
+            {
+              "key": "B",
+              "en": "The quality of the writing",
+              "vi": "Chất lượng của bài viết"
+            },
+            {
+              "key": "C",
+              "en": "Details about the writer's education",
+              "vi": "Các chi tiết về trình độ học văn của người viết"
+            },
+            {
+              "key": "D",
+              "en": "Examples of past challenges",
+              "vi": "Các ví dụ về những thử thách trong quá khứ"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t09-p7-q163",
+          "number": 163,
+          "question": {
+            "en": "What can be concluded about the final paragraph of a personal statement?",
+            "vi": "Có thể kết luận điều gì về đoạn văn cuối cùng của một bài tự giới thiệu cá nhân?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is the ideal place for a summary of facts and details.",
+              "vi": "Nó là nơi lý tưởng cho một bản tóm tắt các sự thật và chi tiết."
+            },
+            {
+              "key": "B",
+              "en": "It is the only paragraph that does not need careful proofreading.",
+              "vi": "Nó là đoạn văn duy nhất không cần phải soát lỗi kỹ lưỡng."
+            },
+            {
+              "key": "C",
+              "en": "It should appear on the second page.",
+              "vi": "Nó nên xuất hiện ở trang thứ hai."
+            },
+            {
+              "key": "D",
+              "en": "It should be easily customizable.",
+              "vi": "Nó nên dễ dàng được điều chỉnh tùy biến."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t09-p7-q164",
+          "number": 164,
+          "question": {
+            "en": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"You might explain, for instance, how a person you respect had a positive impact on your life.\"",
+            "vi": "Câu sau phù hợp nhất ở vị trí nào trong các vị trí được đánh dấu [1], [2], [3] và [4]? \"Ví dụ, bạn có thể giải thích một người mà bạn kính trọng đã có tầm ảnh hưởng tích cực đến cuộc đời bạn như thế nào.\""
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "[1]",
+              "vi": "[1]"
+            },
+            {
+              "key": "B",
+              "en": "[2]",
+              "vi": "[2]"
+            },
+            {
+              "key": "C",
+              "en": "[3]",
+              "vi": "[3]"
+            },
+            {
+              "key": "D",
+              "en": "[4]",
+              "vi": "[4]"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t09-p7-g165-168",
+      "documents": [
+        {
+          "kind": "text_message_chain",
+          "content": {
+            "en": "Ji-Min Jeon (8:04 A.M.)\nKarl, I am on-site at the Crosley Bridge now.\n\nKarl Scholz (8:06 A.M.)\nWhat do you think?\n\nJi-Min Jeon (8:08 A.M.)\nIt definitely needs routine maintenance, and we may have to plan some additional work.\n\nKarl Scholz (8:09 A.M.)\nIs it something our crews can do, or do we need to contract it out?\n\nJi-Min Jeon (8:13 A.M.)\nNot sure yet. I still need to take pictures and finish the routine inspection. Nothing appears to be critical, but given its age, I expect some preventive work may be required. In any case, I suggest you consider moving up the date of the next in-depth inspection.\n\nAna Vega (8:14 A.M.)\nHi, Ji-Min. Would it be possible for you to be back here for a 12:30 lunch meeting? I know it's short notice, but I have some questions about the Ninth Street Bridge inspection I'm conducting this afternoon. Your previous in-depth report that led to the repair work on that bridge was excellent.\n\nKarl Scholz (8:15 A.M.)\nJi-Min, I know I asked you to go to Lentox County to check out another bridge, but you can do that later this afternoon.\n\nJi-Min Jeon (8:18 A.M.)\nThank you, Ana. I'll be there by 12:30, after I finish up here.\n\nAna Vega (8:19 A.M.)\nPerfect.",
+            "vi": "Ji-Min Jeon (8:04 A.M.)\nKarl, tôi đang có mặt trực tiếp tại cầu Crosley Bridge rồi.\n\nKarl Scholz (8:06 A.M.)\nCô thấy thế nào?\n\nJi-Min Jeon (8:08 A.M.)\nNó chắc chắn cần bảo trì định kỳ, và chúng ta có thể phải lên kế hoạch cho một số công việc bổ sung.\n\nKarl Scholz (8:09 A.M.)\nĐó là việc mà các đội của chúng ta có thể thực hiện được, hay chúng ta cần phải thuê thầu ngoài?\n\nJi-Min Jeon (8:13 A.M.)\nTôi vẫn chưa chắc chắn lắm. Tôi vẫn cần chụp ảnh và hoàn thành việc kiểm tra định kỳ đã. Trông không có vẻ gì là quá nghiêm trọng, nhưng xét theo tuổi thọ của nó, tôi dự đoán có thể sẽ cần thực hiện một số công việc phòng ngừa. Dù sao thì tôi khuyên anh nên cân nhắc đẩy sớm ngày kiểm tra chuyên sâu tiếp theo lên.\n\nAna Vega (8:14 A.M.)\nChào Ji-Min. Liệu cô có thể quay trở lại đây cho cuộc họp ăn trưa lúc 12:30 được không? Tôi biết việc này hơi gấp, nhưng tôi có một vài câu hỏi về cuộc kiểm tra cầu Ninth Street Bridge mà tôi sẽ tiến hành vào chiều nay. Báo cáo chuyên sâu trước đây của cô dẫn đến công việc sửa chữa cây cầu đó thực sự rất xuất sắc.\n\nKarl Scholz (8:15 A.M.)\nJi-Min này, tôi biết tôi đã yêu cầu cô đến Lentox County để kiểm tra một cây cầu khác, nhưng cô có thể thực hiện việc đó muộn hơn vào chiều nay nhé.\n\nJi-Min Jeon (8:18 A.M.)\nCảm ơn Ana. Tôi sẽ có mặt ở đó trước 12:30, sau khi tôi hoàn thành công việc ở đây.\n\nAna Vega (8:19 A.M.)\nTuyệt vời."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t09-p7-q165",
+          "number": 165,
+          "question": {
+            "en": "What is the main purpose of the text-message chain?",
+            "vi": "Mục đích chính của chuỗi tin nhắn văn bản là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To determine an employee's current availability",
+              "vi": "Để xác định sự sẵn sàng làm việc hiện tại của một nhân viên"
+            },
+            {
+              "key": "B",
+              "en": "To provide an update about a bridge",
+              "vi": "Để cung cấp một bản cập nhật thông tin về một cây cầu"
+            },
+            {
+              "key": "C",
+              "en": "To discuss whether an outside contractor is needed",
+              "vi": "Để thảo luận xem có cần thuê một nhà thầu bên ngoài hay không"
+            },
+            {
+              "key": "D",
+              "en": "To thank a coworker for an in-depth report",
+              "vi": "Để cảm ơn một đồng nghiệp vì một bản báo cáo chuyên sâu"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t09-p7-q166",
+          "number": 166,
+          "question": {
+            "en": "Where is Ms. Jeon at the time of the text-message chain?",
+            "vi": "Cô Jeon đang ở đâu vào thời điểm diễn ra chuỗi tin nhắn văn bản?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "At a cafeteria",
+              "vi": "Tại một căng tin ăn uống"
+            },
+            {
+              "key": "B",
+              "en": "At her office",
+              "vi": "Tại văn phòng của cô ấy"
+            },
+            {
+              "key": "C",
+              "en": "At the Crosley Bridge",
+              "vi": "Tại cầu Crosley Bridge"
+            },
+            {
+              "key": "D",
+              "en": "At a site in Lentox County",
+              "vi": "Tại một công trường ở Lentox County"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t09-p7-q167",
+          "number": 167,
+          "question": {
+            "en": "What can be concluded about Mr. Scholz?",
+            "vi": "Có thể kết luận điều gì về ông Scholz?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He is Ms. Vega's assistant.",
+              "vi": "Ông ấy là trợ lý của cô Vega."
+            },
+            {
+              "key": "B",
+              "en": "He plans to have lunch with Ms. Vega.",
+              "vi": "Ông ấy có kế hoạch ăn trưa cùng cô Vega."
+            },
+            {
+              "key": "C",
+              "en": "He recently hired Ms. Jeon.",
+              "vi": "Gần đây ông ấy đã tuyển dụng cô Jeon."
+            },
+            {
+              "key": "D",
+              "en": "He directs Ms. Jeon's work.",
+              "vi": "Ông ấy là người chỉ đạo công việc của cô Jeon."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t09-p7-q168",
+          "number": 168,
+          "question": {
+            "en": "At 8:18 A.M., what does Ms. Jeon most likely mean when she writes, \"I'll be there by 12:30\"?",
+            "vi": "Vào lúc 8:18"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She is leaving a site now.",
+              "vi": "M., cô Jeon rất có thể có ý gì khi viết \"I'll be there by 12:30\"? (A) Cô ấy hiện đang rời khỏi công trường."
+            },
+            {
+              "key": "B",
+              "en": "She has to inspect another bridge.",
+              "vi": "Cô ấy phải đi kiểm tra một cây cầu khác."
+            },
+            {
+              "key": "C",
+              "en": "She intends to be at a meeting.",
+              "vi": "Cô ấy có ý định sẽ tham gia một cuộc họp."
+            },
+            {
+              "key": "D",
+              "en": "She will arrive after her lunch break.",
+              "vi": "Cô ấy sẽ đến nơi sau giờ nghỉ trưa của mình."
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t09-p7-g169-171",
+      "documents": [
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: John Fukiyama <john.fukiyama6775@xmail.ca>\nFrom: Stephanie Acro <sacro@salvadorfashionassociates.ca>\nDate: 18 November\nSubject: Search committee\nAttachment: Confidentiality Agreement\n\nDear Mr. Fukiyama:\n\nI am writing to gauge your interest in becoming a part of a search committee for the newly vacated Senior Director of Graphic Design position here at Salvador Fashion Associates. As you may have heard, Jake Harris left our company last month to start his own business, leaving us without anyone to head our Graphic Design department. As someone who held this role prior to your retirement four years ago, you know exactly what knowledge and skills are needed for this position, making you an ideal candidate for our search committee. Sheila Mendez, our Executive Director of Marketing, and I will also be part of the committee conducting this search.\n\nIf you agree to be a part of the committee, please sign and return the attached confidentiality agreement. At that point, I will send you the applications with their respective résumés and a timeline for the hiring process. For your time and effort, we will compensate you at the standard rate for external consultants. Please let me know your answer as soon as possible. It would be great to work with you again.\n\nBest regards,\n\nStephanie Acro\nDirector of Human Resources\nSalvador Fashion Associates, Toronto",
+            "vi": "Đến: John Fukiyama <john.fukiyama6775@xmail.ca>\nTừ: Stephanie Acro <sacro@salvadorfashionassociates.ca>\nNgày: 18 November\nChủ đề: Ủy ban tìm kiếm ứng viên\nTệp đính kèm: Confidentiality Agreement\n\nKính gửi ông Fukiyama:\n\nTôi viết thư này để khảo sát sự quan tâm của ông đối với việc tham gia vào một ủy ban tìm kiếm ứng viên cho vị trí Giám đốc Cấp cao bộ phận Thiết kế Đồ họa mới bị để trống tại Salvador Fashion Associates. Như ông có thể đã nghe nói, Jake Harris đã rời công ty chúng tôi vào tháng trước để thành lập doanh nghiệp của riêng mình, để lại vị trí trưởng bộ phận Thiết kế Đồ họa không có ai đảm nhiệm. Là một người đã từng nắm giữ vai trò này trước khi ông nghỉ hưu bốn năm về trước, ông hiểu rất rõ những kiến thức và kỹ năng nào là cần thiết cho vị trí này, điều đó giúp ông trở thành một ứng viên lý tưởng cho ủy ban tìm kiếm của chúng tôi. Sheila Mendez, Giám đốc Điều hành bộ phận Tiếp thị của chúng tôi, và tôi cũng sẽ tham gia vào ủy ban tiến hành đợt tìm kiếm này.\n\nNếu ông đồng ý trở thành một phần của ủy ban, vui lòng ký tên và gửi lại bản thỏa thuận bảo mật được đính kèm. Ngay khi đó, tôi sẽ gửi cho ông các đơn ứng tuyển cùng với các sơ yếu lý lịch tương ứng và tiến trình thời gian cho quy trình tuyển dụng. Đối với thời gian và nỗ lực của ông, chúng tôi sẽ bồi dưỡng thù lao cho ông theo mức chuẩn dành cho các chuyên gia tư vấn bên ngoài. Vui lòng cho tôi biết câu trả lời của ông sớm nhất có thể. Sẽ thật tuyệt vời khi được làm việc cùng ông một lần nữa.\n\nTrân trọng,\n\nStephanie Acro\nGiám đốc Nhân sự\nSalvador Fashion Associates, Toronto"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t09-p7-q169",
+          "number": 169,
+          "question": {
+            "en": "What is the purpose of the e-mail?",
+            "vi": "Mục đích của e-mail là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To present a consulting opportunity",
+              "vi": "Để đưa ra một cơ hội tư vấn"
+            },
+            {
+              "key": "B",
+              "en": "To schedule a departmental meeting",
+              "vi": "Để lên lịch cho một cuộc họp bộ phận"
+            },
+            {
+              "key": "C",
+              "en": "To announce an upcoming job opening",
+              "vi": "Để thông báo về một vị trí công việc sắp trống"
+            },
+            {
+              "key": "D",
+              "en": "To welcome a recently hired employee",
+              "vi": "Để chào mừng một nhân viên mới được tuyển dụng gần đây"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t09-p7-q170",
+          "number": 170,
+          "question": {
+            "en": "What is indicated about Mr. Fukiyama?",
+            "vi": "Điều gì được chỉ ra về ông Fukiyama?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He meets regularly with Ms. Acro.",
+              "vi": "Ông ấy thường xuyên gặp gỡ cô Acro."
+            },
+            {
+              "key": "B",
+              "en": "He used to be a senior executive.",
+              "vi": "Ông ấy từng là một nhà quản lý cấp cao."
+            },
+            {
+              "key": "C",
+              "en": "He operates his own fashion business.",
+              "vi": "Ông ấy điều hành doanh nghiệp thời trang của riêng mình."
+            },
+            {
+              "key": "D",
+              "en": "He often serves on search committees.",
+              "vi": "Ông ấy thường xuyên phục vụ trong các ủy ban tìm kiếm ứng viên."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t09-p7-q171",
+          "number": 171,
+          "question": {
+            "en": "What does Ms. Acro offer to send to Mr. Fukiyama?",
+            "vi": "Cô Acro đề nghị gửi tài liệu nào cho ông Fukiyama?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A payment schedule",
+              "vi": "Bảng tiến trình thù lao"
+            },
+            {
+              "key": "B",
+              "en": "A list of required skills",
+              "vi": "Danh sách các kỹ năng được yêu cầu"
+            },
+            {
+              "key": "C",
+              "en": "A collection of résumés",
+              "vi": "Tập hợp các sơ yếu lý lịch"
+            },
+            {
+              "key": "D",
+              "en": "A revised meeting agenda",
+              "vi": "Chương trình nghị sự cuộc họp đã được sửa đổi"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t09-p7-g172-175",
+      "documents": [
+        {
+          "kind": "article",
+          "content": {
+            "en": "Local Museum Goes Interactive\n\nDERRY (April 7)--The Regional History Museum (RHM) has upgraded many of its exhibits to include interactive technologies. The enhanced exhibitions opened on Monday, one week before the scheduled completion date. The museum remained open during the installation, although some offerings were unavailable during the process of upgrading. — [1] —. The enhancements were funded by Arnsby Metal Manufacturing, a major industrial firm in the area. — [2] —. According to RHM director Ann Wert, interactive technology allows exhibits to present information and engage users through various audio and visual media. \"Visitors can now learn the region's history in an immersive way,\" said Ms. Wert. The director's persistent efforts helped to determine the priorities for the project. — [3] —. \"Every week in the museum lobby, I interview patrons and record their opinions,\" said Ms. Wert. \"The changes reflect their wishes and ideas.\"\n\nThe improved RHM exhibits also give the user control over the experience. — [4] —. A touchscreen allows visitors to communicate electronically with an exhibit's unique database and target their interests. The museum now features 26 interactive exhibits that play audio narratives and informative videos.\n\nMs. Wert suggests that guests stroll around the city's adjoining heritage district and admire its vintage architecture after they visit the museum. Guide maps of the district are available in the museum's lobby.",
+            "vi": "Bảo tàng địa phương tăng cường tính năng tương tác\n\nDERRY (April 7)—Bảo tàng Lịch sử Vùng Regional History Museum (RHM) đã nâng cấp nhiều khu triển lãm của mình để tích hợp các công nghệ tương tác. Các khu triển lãm được tăng cường tính năng đã mở cửa vào thứ Hai, trước một tuần so với ngày hoàn thành dự kiến. Bảo tàng vẫn mở cửa trong suốt quá trình lắp đặt, mặc dù một số khu vực phục vụ đã tạm thời không hoạt động trong suốt quá trình nâng cấp. — [1] —. Hoạt động nâng cấp này được tài trợ bởi Arnsby Metal Manufacturing, một hãng sản xuất kim loại lớn trong khu vực. — [2] —. Theo giám đốc của RHM, bà Ann Wert, công nghệ tương tác cho phép các khu triển lãm trình bày thông tin và thu hút người dùng thông qua các phương tiện truyền thông âm thanh và hình ảnh đa dạng. \"Du khách hiện tại có thể tìm hiểu lịch sử của khu vực theo một phương thức vô cùng chân thực và đắm chìm,\" bà Wert chia sẻ. Những nỗ lực bền bỉ của bà giám đốc đã hỗ trợ đắc lực trong việc xác định các mục tiêu ưu tiên cho dự án. — [3] —. \"Mỗi tuần tại sảnh bảo tàng, tôi đều phỏng vấn những người ghé thăm và ghi lại ý kiến của họ,\" bà Wert nói. \"Những thay đổi này phản ánh mong muốn và ý tưởng của chính họ.\"\n\nCác khu triển lãm RHM được cải tiến cũng giúp người dùng tự kiểm soát trải nghiệm của mình. — [4] —. Một màn hình cảm ứng cho phép khách tham quan giao tiếp điện tử với cơ sở dữ liệu độc đáo của khu triển lãm và hướng tới sở thích cụ thể của họ. Bảo tàng hiện sở hữu 26 triển lãm tương tác phát các lời kể thuyết minh bằng âm thanh và các video chứa đựng nhiều thông tin bổ ích.\n\nBà Wert gợi ý rằng khách sau khi tham quan bảo tàng có thể đi dạo xung quanh khu di sản liền kề của thành phố và chiêm ngưỡng kiến trúc cổ điển của nơi đây. Bản đồ hướng dẫn của khu vực này có sẵn tại sảnh của bảo tàng."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t09-p7-q172",
+          "number": 172,
+          "question": {
+            "en": "What is indicated in the article about the upgrades to exhibits?",
+            "vi": "Điều gì được chỉ ra trong bài báo về việc nâng cấp các khu triển lãm?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "They were completed ahead of schedule.",
+              "vi": "Chúng được hoàn thành trước thời hạn kế hoạch."
+            },
+            {
+              "key": "B",
+              "en": "They were designed by Arnsby Metal Manufacturing.",
+              "vi": "Chúng được thiết kế bởi hãng Arnsby Metal Manufacturing."
+            },
+            {
+              "key": "C",
+              "en": "They were demonstrated at a press conference.",
+              "vi": "Chúng đã được trình diễn tại một buổi họp báo."
+            },
+            {
+              "key": "D",
+              "en": "They led to an increase in ticket prices.",
+              "vi": "Chúng dẫn đến việc tăng giá vé."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t09-p7-q173",
+          "number": 173,
+          "question": {
+            "en": "What is suggested about Ms. Wert?",
+            "vi": "Điều gì được gợi ý về bà Wert?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She was recently named museum director.",
+              "vi": "Gần đây bà mới được bổ nhiệm làm giám đốc bảo tàng."
+            },
+            {
+              "key": "B",
+              "en": "She meets with museum visitors in person.",
+              "vi": "Bà trực tiếp gặp gỡ trò chuyện với khách tham quan bảo tàng."
+            },
+            {
+              "key": "C",
+              "en": "She designed some of the museum's original displays.",
+              "vi": "Bà đã thiết kế một số khu trưng bày ban đầu của bảo tàng."
+            },
+            {
+              "key": "D",
+              "en": "She previously worked for a technology company.",
+              "vi": "Bà từng làm việc cho một công ty công nghệ trước đây."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t09-p7-q174",
+          "number": 174,
+          "question": {
+            "en": "What does Ms. Wert encourage museum visitors to do?",
+            "vi": "Bà Wert khuyến khích khách tham quan bảo tàng làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Purchase items in the gift shop.",
+              "vi": "Mua các mặt hàng trong cửa hàng quà lưu niệm."
+            },
+            {
+              "key": "B",
+              "en": "Sign up for a museum membership.",
+              "vi": "Đăng ký thẻ thành viên bảo tàng."
+            },
+            {
+              "key": "C",
+              "en": "Visit a nearby historic neighborhood.",
+              "vi": "Ghé thăm một khu dân cư lịch sử gần đó."
+            },
+            {
+              "key": "D",
+              "en": "Post photos of their visit on social media.",
+              "vi": "Đăng ảnh chuyến đi của họ lên mạng xã hội."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t09-p7-q175",
+          "number": 175,
+          "question": {
+            "en": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Visitors will now be able to choose topics they want to learn more about.\"",
+            "vi": "Câu sau phù hợp nhất ở vị trí nào trong các vị trí được đánh dấu [1], [2], [3] và [4]? \"Du khách hiện tại sẽ có thể lựa chọn các chủ đề mà họ muốn tìm hiểu sâu hơn.\""
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "[1]",
+              "vi": "[1]"
+            },
+            {
+              "key": "B",
+              "en": "[2]",
+              "vi": "[2]"
+            },
+            {
+              "key": "C",
+              "en": "[3]",
+              "vi": "[3]"
+            },
+            {
+              "key": "D",
+              "en": "[4]",
+              "vi": "[4]"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t09-p7-g176-180",
+      "documents": [
+        {
+          "kind": "chart",
+          "content": {
+            "en": "Sixth Annual Arts and Crafts Festival\nSomerville Park, Broad Avenue, Springdale\n\nVendor | Booth | Description\nGreat Woods Crafts | 101 | Elegant salad bowls, serving utensils, cutting boards, and related items lovingly carved from salvaged, purified wood\nFolding Designs | 102 | Stunning paper art items, such as jewelry, greeting cards, bookmarks, and wall hangings\nFairy Dust Pottery | 103 | Whimsical but functional ceramic mugs, bowls, plates, and water pitchers\nFranny's Sensational Scents | 104 | Natural, organic soaps in different colors, scents, and textures, all infused with herbs and flowers harvested from our own garden\nCharmed Glass | 105 | Unique handmade earrings, necklaces, pins, and other wearable art created from glass",
+            "vi": "Lễ hội Nghệ thuật và Thủ công Mỹ nghệ Thường niên Lần thứ Sáu\nSomerville Park, Broad Avenue, Springdale\n\nĐơn vị | Gian hàng | Mô tả\nGreat Woods Crafts | 101 | Những chiếc bát đựng salad thanh lịch, dụng cụ phục vụ ăn uống, thớt và các mặt hàng liên quan được chạm khắc tỉ mỉ từ gỗ tự nhiên đã qua xử lý lọc sạch sạch sẽ\nFolding Designs | 102 | Các mặt hàng nghệ thuật bằng giấy tuyệt đẹp, chẳng hạn như đồ trang sức, thiệp chúc mừng, dấu trang và đồ treo tường\nFairy Dust Pottery | 103 | Các sản phẩm cốc sứ, bát, đĩa và bình đựng nước bằng gốm sứ độc đáo nhưng vẫn tiện dụng\nFranny's Sensational Scents | 104 | Xà phòng hữu cơ tự nhiên với nhiều màu sắc, mùi hương và kết cấu khác nhau, tất cả đều được chiết xuất từ thảo mộc và hoa thu hoạch từ chính khu vườn của chúng tôi\nCharmed Glass | 105 | Các sản phẩm hoa tai, vòng cổ, ghim cài thủ công độc nhất vô nhị và các tác phẩm nghệ thuật đeo được khác được tạo ra từ thủy tinh"
+          }
+        },
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: cho@mailcurrent.com\nFrom: k.mcfarlan@magentamail.com\nDate: July 14\nSubject: Question for you\nAttachment: Photo\n\nHello, Mr. Cho,\n\nIt was a pleasure to speak with you at last month's crafts festival in Somerville Park. Anytime I wear the beautiful pendant you sold me, admirers are stunned when I tell them it is an artistically folded page from a book.\n\nUnfortunately, a piece of the item has broken, and I do not have the tools to repair it. When you gave me your business card, you told me to contact you if I had any problems. I have attached a photo of the item to this e-mail. I work in Springdale, just 3 kilometers north of Somerville Park, on the same street where the festival took place, in fact. I could bring the item to you if you live in the area, or I could mail it to you. Please let me know how to proceed in having the item repaired.\n\nWarm regards,\n\nKelly McFarlan",
+            "vi": "Đến: cho@mailcurrent.com\nTừ: k.mcfarlan@magentamail.com\nNgày: July 14\nChủ đề: Câu hỏi dành cho ông\nTệp đính kèm: Photo\n\nXin chào ông Cho,\n\nThật là một niềm vinh hạnh khi được trò chuyện cùng ông tại lễ hội thủ công mỹ nghệ vào tháng trước tại Somerville Park. Mỗi khi tôi đeo chiếc mặt dây chuyền tuyệt đẹp mà ông đã bán cho tôi, những người chiêm ngưỡng đều vô cùng kinh ngạc khi tôi nói với họ rằng nó là một trang sách được gấp lại một cách đầy tính nghệ thuật.\n\nThật không may, một phần của món đồ đã bị hỏng, và tôi không có các dụng cụ để tự sửa chữa nó. Khi ông đưa cho tôi danh thiếp của mình, ông có nói tôi hãy liên hệ với ông nếu gặp bất kỳ vấn đề gì. Tôi đã đính kèm một bức ảnh chụp món đồ trong e-mail này. Tôi làm việc ở Springdale, chỉ cách Somerville Park 3 kilomet về phía bắc, thực tế là ngay trên cùng một con phố nơi lễ hội diễn ra. Tôi có thể mang món đồ đến cho ông nếu ông sống trong khu vực này, hoặc tôi có thể gửi thư chuyển phát nó cho ông. Vui lòng cho tôi biết cách thức tiến hành để sửa chữa món đồ này nhé.\n\nTrân trọng,\n\nKelly McFarlan"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t09-p7-q176",
+          "number": 176,
+          "question": {
+            "en": "What do the vendors in booths 101 and 103 have in common?",
+            "vi": "Các tiểu thương tại gian hàng 101 và 103 có điểm gì chung?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "They use recycled materials exclusively.",
+              "vi": "Họ chỉ sử dụng độc quyền các vật liệu tái chế."
+            },
+            {
+              "key": "B",
+              "en": "They have retail stores in Springdale.",
+              "vi": "Họ có các cửa hàng bán lẻ ở Springdale."
+            },
+            {
+              "key": "C",
+              "en": "They make wall hangings.",
+              "vi": "Họ làm đồ treo tường."
+            },
+            {
+              "key": "D",
+              "en": "They sell items for the kitchen.",
+              "vi": "Họ bán các mặt hàng dùng cho nhà bếp."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t09-p7-q177",
+          "number": 177,
+          "question": {
+            "en": "What is mentioned about Franny's Sensational Scents?",
+            "vi": "Điều gì được đề cập về Franny's Sensational Scents?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It sells scented candles.",
+              "vi": "Nó bán nến thơm."
+            },
+            {
+              "key": "B",
+              "en": "It has a booth at the craft festival every year.",
+              "vi": "Nó có một gian hàng tại lễ hội thủ công mỹ nghệ hàng năm."
+            },
+            {
+              "key": "C",
+              "en": "Its items are also sold online.",
+              "vi": "Các sản phẩm của nó cũng được bán trực tuyến."
+            },
+            {
+              "key": "D",
+              "en": "Its items contain parts of plants.",
+              "vi": "Các mặt hàng của nó có chứa các thành phần từ thực vật."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t09-p7-q178",
+          "number": 178,
+          "question": {
+            "en": "Why did Ms. McFarlan e-mail Mr. Cho?",
+            "vi": "Tại sao cô McFarlan gửi e-mail cho ông Cho?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To follow up on an offered service",
+              "vi": "Để theo dõi tiếp một dịch vụ đã được đề xuất"
+            },
+            {
+              "key": "B",
+              "en": "To place an order",
+              "vi": "Để đặt một đơn hàng"
+            },
+            {
+              "key": "C",
+              "en": "To outline a marketing strategy",
+              "vi": "Để phác thảo một chiến lược tiếp thị"
+            },
+            {
+              "key": "D",
+              "en": "To propose a partnership",
+              "vi": "Để đề xuất một mối quan hệ hợp tác"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t09-p7-q179",
+          "number": 179,
+          "question": {
+            "en": "Where did Ms. McFarlan most likely purchase an item at the festival?",
+            "vi": "Nhiều khả năng cô McFarlan đã mua một món đồ tại lễ hội từ gian hàng nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "At booth 101",
+              "vi": "Tại gian hàng 101"
+            },
+            {
+              "key": "B",
+              "en": "At booth 102",
+              "vi": "Tại gian hàng 102"
+            },
+            {
+              "key": "C",
+              "en": "At booth 104",
+              "vi": "Tại gian hàng 104"
+            },
+            {
+              "key": "D",
+              "en": "At booth 105",
+              "vi": "Tại gian hàng 105"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t09-p7-q180",
+          "number": 180,
+          "question": {
+            "en": "What is suggested about Ms. McFarlan's workplace?",
+            "vi": "Điều gì được gợi ý về nơi làm việc của cô McFarlan?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is an arts and crafts studio.",
+              "vi": "Nó là một xưởng nghệ thuật và thủ công mỹ nghệ."
+            },
+            {
+              "key": "B",
+              "en": "It is near Mr. Cho's home.",
+              "vi": "Nó nằm gần nhà của ông Cho."
+            },
+            {
+              "key": "C",
+              "en": "It is on Broad Avenue.",
+              "vi": "Nó nằm trên đường Broad Avenue."
+            },
+            {
+              "key": "D",
+              "en": "It is a publishing company.",
+              "vi": "Nó là một công ty xuất bản."
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t09-p7-g181-185",
+      "documents": [
+        {
+          "kind": "web_page",
+          "content": {
+            "en": "https://www.superracleaning.com/specialservices\n\nSuperra Cleaning--Special Services\n\nSuperra Cleaning is the leading provider of residential cleaning services in the Elmwood Valley region. We have built our reputation on our thorough weekly, biweekly, and monthly house cleaning packages. However, customers may not be familiar with our intensive special cleaning services. These services require no long-term contract and are priced affordably. Here is a list of our offerings and a new feature all customers may enjoy.\n\n* Post-event cleaning: A two-person cleaning crew, plus a supervisor, will clean up after a special event so the space looks the way it did before you arrived.\n\n* One-time house cleaning: The ideal service for anyone who hosts guests but does not have time to tidy up beforehand. A supervisor will oversee a three-person cleaning team to ensure your home is sparkling clean.\n\n* Move-out cleaning: Perfect for tenants vacating apartments or homes, this service allows you to focus on moving while we do the cleaning. Under the guidance of a supervisor, a two-person team will handle all the necessary dusting and scrubbing.\n\n* Free cleaning tips: Over the past two months, we have posted video tutorials featuring clever cleaning tips. We hope you will find them useful.\n\nPrices for each special service vary based on the size of the space. Contact us at (616) 555-0189 to request a price quote.",
+            "vi": "https://www.superracleaning.com/specialservices\n\nDịch vụ dọn vệ sinh Superra Cleaning—Các dịch vụ đặc biệt\n\nSuperra Cleaning là đơn vị đi đầu cung cấp các dịch vụ dọn dẹp nhà dân dụng trong khu vực Elmwood Valley. Chúng tôi đã xây dựng uy tín của mình dựa trên các gói dọn dẹp nhà cửa kỹ lưỡng hàng tuần, hai tuần một lần và hàng tháng. Tuy nhiên, khách hàng có thể chưa quen với các dịch vụ dọn dẹp đặc biệt chuyên sâu của chúng tôi. Các dịch vụ này không yêu cầu hợp đồng dài hạn và có mức giá rất phải chăng. Dưới đây là danh sách các gói dịch vụ của chúng tôi và một tính năng mới mà tất cả các khách hàng đều có thể trải nghiệm.\n\n* Dọn dẹp sau sự kiện: Một đội dọn dẹp gồm hai người, cộng với một người giám sát, sẽ dọn dẹp sạch sẽ sau một sự kiện đặc biệt để trả lại không gian nguyên trạng ban đầu như trước khi bạn đến.\n\n* Dọn dẹp nhà cửa một lần: Dịch vụ lý tưởng cho bất kỳ ai chuẩn bị đón tiếp khách khứa nhưng không có thời gian để tự mình dọn dẹp trước đó. Một người giám sát sẽ quản lý đội dọn dẹp ba người để đảm bảo ngôi nhà của bạn luôn sạch bóng.\n\n* Dọn dẹp khi chuyển đi: Hoàn hảo cho những khách thuê chuẩn bị dọn khỏi căn hộ hoặc nhà riêng, dịch vụ này cho phép bạn tập trung vào việc di chuyển đồ đạc trong khi chúng tôi thực hiện công việc dọn dẹp. Dưới sự chỉ dẫn của người giám sát, một đội hai người sẽ xử lý tất cả các công việc lau bụi và cọ rửa cần thiết.\n\n* Lời khuyên dọn dẹp miễn phí: Trong suốt hai tháng qua, chúng tôi đã đăng tải các video hướng dẫn thực hành chia sẻ những mẹo dọn dẹp thông minh. Chúng tôi hy ý vọng bạn sẽ thấy chúng hữu ích.\n\nMức giá cho mỗi dịch vụ đặc biệt sẽ thay đổi tùy thuộc vào quy mô kích thước của không gian. Hãy liên hệ với chúng tôi theo số (616) 555-0189 để yêu cầu báo giá."
+          }
+        },
+        {
+          "kind": "online_review",
+          "content": {
+            "en": "Posted on May 24 by Kenneth Singh\n\nI found myself in a situation recently that required one of Superra Cleaning's special services. At the last minute, a friend informed me that he would be visiting the next day, and I had fallen behind on my house cleaning. It was the first time that I had to use a professional cleaning service, and I am glad I chose Superra. The crew arrived on time and worked hard throughout the afternoon. They did not mind the late notice. The crew even swept off my front porch after cleaning my home's interior.\n\nNote that Superra can be quite busy during the summer season. As it turned out, I managed to contact them at just the right time. Luckily, another customer had canceled a cleaning an hour or so before my call, but otherwise, Superra was booked up for the entire week.",
+            "vi": "Đăng bởi Kenneth Singh vào ngày May 24\n\nTôi gần đây đã rơi vào một tình huống đòi hỏi phải sử dụng một trong các dịch vụ đặc biệt của Superra Cleaning. Vào phút cuối, một người bạn đã thông báo cho tôi rằng anh ấy sẽ đến chơi vào ngày hôm sau, trong khi tôi đã bỏ bê công việc dọn dẹp nhà cửa của mình. Đây là lần đầu tiên tôi phải sử dụng một dịch vụ dọn dẹp chuyên nghiệp, và tôi rất vui vì mình đã chọn Superra. Đội ngũ dọn dẹp đã đến đúng giờ và làm việc chăm chỉ trong suốt cả buổi chiều. Họ không hề phiền lòng về lời thông báo gấp của tôi. Đội dọn dẹp thậm chí còn quét sạch hiên nhà trước của tôi sau khi đã làm sạch toàn bộ nội thất bên trong nhà.\n\nLưu ý rằng Superra có thể khá bận rộn trong mùa hè. Thực tế là tôi đã liên hệ được với họ vào đúng thời điểm thuận lợi. May mắn thay, một khách hàng khác đã hủy lịch hẹn dọn dẹp khoảng một giờ trước cuộc gọi của tôi, nếu không thì Superra đã kín lịch cho cả tuần rồi."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t09-p7-q181",
+          "number": 181,
+          "question": {
+            "en": "What is suggested about Superra Cleaning?",
+            "vi": "Điều gì được gợi ý về dịch vụ Superra Cleaning?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It uses environmentally friendly cleaning materials.",
+              "vi": "Công ty sử dụng các vật liệu làm sạch thân thiện với môi trường."
+            },
+            {
+              "key": "B",
+              "en": "It merged with a competing business.",
+              "vi": "Công ty đã sáp nhập với một doanh nghiệp đối thủ cạnh tranh."
+            },
+            {
+              "key": "C",
+              "en": "It is best known for its regular service packages.",
+              "vi": "Công ty nổi tiếng nhất nhờ các gói dịch vụ định kỳ của mình."
+            },
+            {
+              "key": "D",
+              "en": "It has lowered the prices of its services.",
+              "vi": "Công ty đã giảm giá các dịch vụ của mình."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t09-p7-q182",
+          "number": 182,
+          "question": {
+            "en": "According to the Web page, what do the special services have in common?",
+            "vi": "Theo trang web, các dịch vụ đặc biệt có điểm gì chung?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Supervised work teams",
+              "vi": "Các đội ngũ làm việc có sự giám sát"
+            },
+            {
+              "key": "B",
+              "en": "Affordable long-term contracts",
+              "vi": "Các hợp đồng dài hạn có mức giá phải chăng"
+            },
+            {
+              "key": "C",
+              "en": "Options for weekend service",
+              "vi": "Các lựa chọn cho dịch vụ vào ngày cuối tuần"
+            },
+            {
+              "key": "D",
+              "en": "Discounts for first-time clients",
+              "vi": "Các chương trình giảm giá dành cho các khách hàng lần đầu sử dụng"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t09-p7-q183",
+          "number": 183,
+          "question": {
+            "en": "What did Superra Cleaning do recently?",
+            "vi": "Superra Cleaning đã làm gì gần đây?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It released the results of a customer survey.",
+              "vi": "Công ty đã công bố kết quả của một cuộc khảo sát khách hàng."
+            },
+            {
+              "key": "B",
+              "en": "It celebrated a business anniversary.",
+              "vi": "Công ty đã tổ chức kỷ niệm ngày thành lập doanh nghiệp."
+            },
+            {
+              "key": "C",
+              "en": "It hired additional staff members.",
+              "vi": "Công ty đã tuyển dụng thêm các nhân viên mới."
+            },
+            {
+              "key": "D",
+              "en": "It published instructional content.",
+              "vi": "Công ty đã xuất bản các nội dung hướng dẫn thực hành."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t09-p7-q184",
+          "number": 184,
+          "question": {
+            "en": "What is most likely true about Mr. Singh?",
+            "vi": "Điều gì rất có thể đúng về ông Singh?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He provided a team with his own cleaning materials.",
+              "vi": "Ông ấy đã cung cấp vật liệu làm sạch của riêng mình cho đội dọn dẹp."
+            },
+            {
+              "key": "B",
+              "en": "He had to cancel a cleaning service appointment.",
+              "vi": "Ông ấy đã phải hủy bỏ một cuộc hẹn dịch vụ dọn dẹp."
+            },
+            {
+              "key": "C",
+              "en": "He was visited by a three-person cleaning team.",
+              "vi": "Ông ấy đã được phục vụ bởi một đội dọn dẹp gồm ba người."
+            },
+            {
+              "key": "D",
+              "en": "He is a regular client of Superra Cleaning.",
+              "vi": "Ông ấy là một khách hàng định kỳ của Superra Cleaning."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t09-p7-q185",
+          "number": 185,
+          "question": {
+            "en": "In the online review, the word \"just\" in paragraph 2, line 2, is closest in meaning to",
+            "vi": "Trong bài đánh giá trực tuyến, từ \"just\" trong đoạn 2, dòng 2, gần nghĩa nhất với"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "directly",
+              "vi": "trực tiếp"
+            },
+            {
+              "key": "B",
+              "en": "exactly",
+              "vi": "chính xác"
+            },
+            {
+              "key": "C",
+              "en": "simply",
+              "vi": "đơn giản là"
+            },
+            {
+              "key": "D",
+              "en": "possibly",
+              "vi": "có thể"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t09-p7-g186-190",
+      "documents": [
+        {
+          "kind": "web_page",
+          "content": {
+            "en": "https://www.beachsideusedbooks.co.uk\n\nHome | About Us | Our Selection | Book Exchange\n\nBeachside Used Books will give you store credit for your old books!\n\nWe welcome secondhand hardback books in exchange for shop credit. Books published twenty or more years ago and first editions are favoured. Our standards for accepting a book for resale are as follows:\n\n* No stains or water damage on any pages\n* No creased, torn, or missing pages\n* No textbooks, encyclopaedias, or other reference books\n* No cookbooks except those by a celebrity chef such as Ian Wu\n* No children's picture books",
+            "vi": "https://www.beachsideusedbooks.co.uk\n\nBeachside Used Books sẽ quy đổi điểm mua hàng tại cửa hàng cho những cuốn sách cũ của bạn!\n\nChúng tôi chào đón các cuốn sách bìa cứng đã qua sử dụng để đổi lấy điểm mua hàng của shop. Các cuốn sách được xuất bản từ hai mươi năm trước trở lên và các phiên bản xuất bản đầu tiên được ưu tiên hơn cả. Các tiêu chuẩn của chúng tôi để chấp nhận một cuốn sách để bán lại như sau:\n\n* Không có vết bẩn hoặc hư hỏng do nước trên bất kỳ trang sách nào\n* Không có trang sách bị nhăn, rách hoặc mất trang\n* Không nhận sách giáo khoa, bách khoa toàn thư hoặc các loại sách tra cứu khác\n* Không nhận sách dạy nấu ăn trừ những cuốn sách của các đầu bếp nổi tiếng như Ian Wu\n* Không nhận sách tranh ảnh của trẻ em"
+          }
+        },
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: info@beachsideusedbooks.co.uk\nFrom: rhys.townsend@walemail.com\nDate: Thursday, 3 January, 11:03 A.M.\nSubject: Enquiry\n\nHello,\n\nI am new to the area, and a neighbour mentioned your shop. I would like to bring in some of my old books and use the shop credit to buy books for my six-year-old son. In addition to the picture books he has outgrown, I also have some newer science fiction paperbacks in good condition, two first-edition classic novels inherited from my great-grandmother, and three cookbooks filled with recipes submitted by members of a charity I run. May I stop in next Tuesday or Wednesday? If that's not possible, I could come on Saturday or Sunday before 9:00 A.M.\n\nSincerely,\n\nRhys Townsend",
+            "vi": "Đến: info@beachsideusedbooks.co.uk\nTừ: rhys.townsend@walemail.com\nNgày: Thursday, 3 January, 11:03 A.M.\nChủ đề: Yêu cầu thông tin\n\nXin chào,\n\nTôi là người mới chuyển đến khu vực này, và một người hàng xóm đã nhắc đến cửa hàng của các bạn. Tôi muốn mang đến một số cuốn sách cũ của mình và sử dụng điểm tích lũy của cửa hàng để mua sách cho cậu con trai sáu tuổi của tôi. Ngoài những cuốn sách tranh mà cháu đã quá tuổi đọc, tôi cũng có một vài cuốn sách bìa mềm khoa học viễn tưởng mới hơn trong tình trạng tốt, hai cuốn tiểu thuyết cổ điển phiên bản đầu tiên được thừa kế từ cụ cố của tôi, và ba cuốn sách nấu ăn chứa đầy các công thức được gửi bởi các thành viên của một tổ chức từ thiện mà tôi điều hành. May mắn thay tôi có thể ghé qua vào thứ Ba hoặc thứ Tư tới không? Nếu không thể, tôi có thể đến vào thứ Bảy hoặc Chủ Nhật trước 9:00 A.M.\n\nTrân trọng,\n\nRhys Townsend"
+          }
+        },
+        {
+          "kind": "sign",
+          "content": {
+            "en": "Beachside Used Books\nHours of Operation\n\nMonday: CLOSED\nTuesday: CLOSED\nWednesday: 9:00 A.M. to 8:00 P.M.\nThursday: 9:00 A.M. to 8:00 P.M.\nFriday: 9:00 A.M. to 8:00 P.M.\nSaturday: 10:00 A.M. to 5:00 P.M.\nSunday: Noon to 5:00 P.M.",
+            "vi": "Beachside Used Books\nGiờ hoạt động\n\nThứ Hai: ĐÓNG CỬA\nThứ Ba: ĐÓNG CỬA\nThứ Tư: 9:00 A.M. đến 8:00 P.M.\nThứ Năm: 9:00 A.M. đến 8:00 P.M.\nThứ Sáu: 9:00 A.M. đến 8:00 P.M.\nThứ Bảy: 10:00 A.M. đến 5:00 P.M.\nChủ Nhật: Trưa đến 5:00 P.M."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t09-p7-q186",
+          "number": 186,
+          "question": {
+            "en": "What is the purpose of the Web page?",
+            "vi": "Mục đích của trang web là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To announce a store's sales event",
+              "vi": "Để thông báo về một sự kiện bán hàng của một cửa hàng"
+            },
+            {
+              "key": "B",
+              "en": "To explain a store's policy",
+              "vi": "Để giải thích về một chính sách của cửa hàng"
+            },
+            {
+              "key": "C",
+              "en": "To invite people to join a book club",
+              "vi": "Để mời mọi người tham gia một câu lạc bộ sách"
+            },
+            {
+              "key": "D",
+              "en": "To collect used books for donation",
+              "vi": "Để thu thập sách cũ cho hoạt động quyên góp"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t09-p7-q187",
+          "number": 187,
+          "question": {
+            "en": "What does the Web page suggest about Mr. Wu?",
+            "vi": "Trang web gợi ý điều gì về ông Wu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He is a famous person.",
+              "vi": "Ông ấy là một người nổi tiếng."
+            },
+            {
+              "key": "B",
+              "en": "He owns a restaurant.",
+              "vi": "Ông ấy sở hữu một nhà hàng."
+            },
+            {
+              "key": "C",
+              "en": "He repairs damaged books.",
+              "vi": "Ông ấy sửa chữa những cuốn sách bị hư hỏng."
+            },
+            {
+              "key": "D",
+              "en": "He is a regular customer of Beachside Used Books.",
+              "vi": "Ông ấy là một khách hàng thường xuyên của Beachside Used Books."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t09-p7-q188",
+          "number": 188,
+          "question": {
+            "en": "What items offered by Mr. Townsend will Beachside Used Books most likely accept?",
+            "vi": "Những mặt hàng nào được ông Townsend đưa ra mà cửa hàng Beachside Used Books rất có thể sẽ chấp nhận?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "The picture books",
+              "vi": "Những cuốn sách tranh ảnh"
+            },
+            {
+              "key": "B",
+              "en": "The science fiction books",
+              "vi": "Những cuốn sách khoa học viễn tưởng"
+            },
+            {
+              "key": "C",
+              "en": "The classic novels",
+              "vi": "Những cuốn tiểu thuyết cổ điển"
+            },
+            {
+              "key": "D",
+              "en": "The cookbooks",
+              "vi": "Những cuốn sách dạy nấu ăn"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t09-p7-q189",
+          "number": 189,
+          "question": {
+            "en": "What does Mr. Townsend indicate in the e-mail?",
+            "vi": "Ông Townsend chỉ ra điều gì trong e-mail?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He learned how to cook from his grandmother.",
+              "vi": "Ông ấy học cách nấu ăn từ bà cố của mình."
+            },
+            {
+              "key": "B",
+              "en": "He recommended Beachside Used Books to a friend.",
+              "vi": "Ông ấy đã giới thiệu cửa hàng Beachside Used Books cho một người bạn."
+            },
+            {
+              "key": "C",
+              "en": "He often takes his son to the library.",
+              "vi": "Ông ấy thường xuyên đưa con trai đến thư viện."
+            },
+            {
+              "key": "D",
+              "en": "He oversees a charity organization.",
+              "vi": "Ông ấy quản lý một tổ chức từ thiện."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t09-p7-q190",
+          "number": 190,
+          "question": {
+            "en": "When most likely will Mr. Townsend visit Beachside Used Books?",
+            "vi": "Ông Townsend rất có thể sẽ ghé thăm cửa hàng Beachside Used Books vào ngày nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "On Tuesday",
+              "vi": "Vào thứ Ba"
+            },
+            {
+              "key": "B",
+              "en": "On Wednesday",
+              "vi": "Vào thứ Tư"
+            },
+            {
+              "key": "C",
+              "en": "On Saturday",
+              "vi": "Vào thứ Bảy"
+            },
+            {
+              "key": "D",
+              "en": "On Sunday",
+              "vi": "Vào chủ Nhật"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t09-p7-g191-195",
+      "documents": [
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Max Aurinen <maurinen@edwildurables.com>\nFrom: Jessica Seung <jseung@edwildurables.com>\nDate: April 21\nSubject: Shadowing appointments\n\nHello, Max,\n\nOn May 6, we will welcome Mr. David Rein for his first day as a new employee. Mr. Rein is a graduate of Northburg University and has worked at Zelehost, Inc. and Dorfax Industries. Mr. Rein will fulfill the role of an assistant manufacturing supervisor in our Large Appliance Division. Please prepare his initial onboarding paperwork and arrange a schedule for his first two weeks with Edwil Durables, Inc.\n\nAs part of his training for his new position, let's have him shadow our team leaders in several areas for a couple of days. This will allow him to learn more about the various departments he will eventually be interacting with. Also, assuming Amos Hillman returns on the expected date from his vacation in Thailand, please schedule a day for Mr. Rein to learn how prototypes are developed in the product labs.\n\nThank you,\n\nJessica Seung, Human Resources Director",
+            "vi": "Đến: Max Aurinen <maurinen@edwildurables.com>\nTừ: Jessica Seung <jseung@edwildurables.com>\nNgày: April 21\nChủ đề: Lịch hẹn đi theo học hỏi\n\nChào Max,\n\nVào ngày May 6, chúng ta sẽ chào đón ông David Rein cho ngày đầu tiên của anh ấy với tư cách là một nhân viên mới. Ông Rein tốt nghiệp trường Đại học Northburg University và từng làm việc tại Zelehost, Inc. và Dorfax Industries. Ông Rein sẽ đảm nhận vai trò trợ lý giám sát sản xuất trong Bộ phận Thiết bị gia dụng lớn của chúng ta. Vui lòng chuẩn bị các giấy tờ hội nhập ban đầu của anh ấy và sắp xếp lịch trình cho hai tuần đầu tiên của anh ấy tại Edwil Durables, Inc.\n\nNhư một phần của hoạt động đào tạo cho vị trí mới của anh ấy, chúng ta hãy sắp xếp để anh ấy đi theo quan sát học hỏi các trưởng nhóm của chúng ta trong một số lĩnh vực trong vòng vài ngày. Điều này sẽ cho phép anh ấy tìm hiểu thêm về các bộ phận khác nhau mà anh ấy sẽ tương tác sau này. Ngoài ra, với giả định rằng Amos Hillman sẽ trở về đúng hạn sau kỳ nghỉ của anh ấy tại Thái Lan, vui lòng lên lịch một ngày để ông Rein tìm hiểu cách các mẫu thử nghiệm được phát triển trong các phòng thí nghiệm sản phẩm.\n\nCảm ơn cậu,\n\nJessica Seung, Giám đốc Nhân sự"
+          }
+        },
+        {
+          "kind": "contact_list",
+          "content": {
+            "en": "Edwil Durables, Inc.\nContact List of Department Leaders\n\nName | Title and Division | Building and Office | Phone Extension\nShane Faraci | Director, Information Systems | Ardmore, Room 210 | 022\nMargery Gazda | Sr. Director, Retail Department | Ardmore, Room 323 | 023\nPatricia Nesbit | Director, Small Appliance Division | Winston West, Room 07 | 333\nLatisha Lake | Director, Large Appliance Division | Winston East, Room 102 | 145\nOrville Martin | Sr. Director, Electronics Division | Meisner, Room 410 | 254",
+            "vi": "Edwil Durables, Inc.\nDanh bạ liên hệ của các trưởng bộ phận\n\nHọ và tên | Chức danh và Bộ phận | Tòa nhà và Văn phòng | Số máy lẻ\nShane Faraci | Giám đốc, Hệ thống thông tin | Ardmore, Phòng 210 | 022\nMargery Gazda | Giám đốc cấp cao, Bộ phận bán lẻ | Ardmore, Phòng 323 | 023\nPatricia Nesbit | Giám đốc, Bộ phận thiết bị gia dụng nhỏ | Winston West, Phòng 07 | 333\nLatisha Lake | Giám đốc, Bộ phận thiết bị gia dụng lớn | Winston East, Phòng 102 | 145\nOrville Martin | Giám đốc cấp cao, Bộ phận điện tử | Meisner, Phòng 410 | 254"
+          }
+        },
+        {
+          "kind": "schedule",
+          "content": {
+            "en": "Onboarding Schedule for David Rein\n\nPaper Work and Orientation\nMay 6 | 9 A.M. to noon | Complete documentation, benefits presentation, and enrollment\nMay 6 | Noon to 1 P.M. | Lunch\nMay 6 | 1 P.M. to 3 P.M. | Meet with assigned department head\nMay 6 | 3 P.M. to 5 P.M. | Meet with Information Systems staff for laptop and profile setup\n\nShadowing\nMay 7 | 9 A.M. to 5 P.M. | Latisha Lake\nMay 8 | 9 A.M. to 5 P.M. | Orville Martin\nMay 9 | 9 A.M. to 5 P.M. | Amos Hillman\nMay 10 | 9 A.M. to 5 P.M. | Margery Gazda",
+            "vi": "Lịch trình hội nhập của David Rein\n\nGiấy tờ thủ tục và Định hướng\nMay 6 | 9 A.M. đến trưa | Hoàn thành hồ sơ tài liệu, thuyết trình về các chế độ phúc lợi và đăng ký tham gia\nMay 6 | Trưa đến 1 P.M. | Ăn trưa\nMay 6 | 1 P.M. đến 3 P.M. | Gặp gỡ trưởng bộ phận được phân công\nMay 6 | 3 P.M. đến 5 P.M. | Gặp gỡ nhân viên Hệ thống thông tin để cài đặt máy tính xách tay và tài khoản cá nhân\n\nQuan sát học hỏi\nMay 7 | 9 A.M. đến 5 P.M. | Latisha Lake\nMay 8 | 9 A.M. đến 5 P.M. | Orville Martin\nMay 9 | 9 A.M. đến 5 P.M. | Amos Hillman\nMay 10 | 9 A.M. đến 5 P.M. | Margery Gazda"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t09-p7-q191",
+          "number": 191,
+          "question": {
+            "en": "Why did Ms. Seung write the e-mail?",
+            "vi": "Tại sao cô Seung viết e-mail?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To recommend a job applicant",
+              "vi": "Để giới thiệu một ứng viên xin việc"
+            },
+            {
+              "key": "B",
+              "en": "To respond to a customer inquiry",
+              "vi": "Để phản hồi một yêu cầu thông tin của khách hàng"
+            },
+            {
+              "key": "C",
+              "en": "To outline a plan for a new staff member",
+              "vi": "Để phác thảo một kế hoạch cho một nhân viên mới"
+            },
+            {
+              "key": "D",
+              "en": "To approve an employee's vacation time",
+              "vi": "Để phê duyệt thời gian nghỉ phép của một nhân viên"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t09-p7-q192",
+          "number": 192,
+          "question": {
+            "en": "Who most likely is Mr. Aurinen?",
+            "vi": "Ai rất có thể là ông Aurinen?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A student at Northburg University",
+              "vi": "Một sinh viên tại trường Đại học Northburg University"
+            },
+            {
+              "key": "B",
+              "en": "A sales agent from Zelehost, Inc.",
+              "vi": "Một đại diện bán hàng từ công ty Zelehost, Inc."
+            },
+            {
+              "key": "C",
+              "en": "A client of Dorfax Industries",
+              "vi": "Một khách hàng của Dorfax Industries"
+            },
+            {
+              "key": "D",
+              "en": "An administrative assistant at Edwil Durables, Inc.",
+              "vi": "Một trợ lý hành chính tại Edwil Durables, Inc."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t09-p7-q193",
+          "number": 193,
+          "question": {
+            "en": "Who will be Mr. Rein's director?",
+            "vi": "Ai sẽ là giám đốc trực tiếp của ông Rein?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Mr. Faraci",
+              "vi": "Ông Faraci"
+            },
+            {
+              "key": "B",
+              "en": "Ms. Gazda",
+              "vi": "Bà Gazda"
+            },
+            {
+              "key": "C",
+              "en": "Ms. Lake",
+              "vi": "Bà Lake"
+            },
+            {
+              "key": "D",
+              "en": "Mr. Martin",
+              "vi": "Ông Martin"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t09-p7-q194",
+          "number": 194,
+          "question": {
+            "en": "What is suggested by the contact list?",
+            "vi": "Danh bạ liên hệ gợi ý điều gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "The company has several buildings.",
+              "vi": "Công ty có một vài tòa nhà văn phòng khác nhau."
+            },
+            {
+              "key": "B",
+              "en": "An operator directs each incoming call.",
+              "vi": "Một nhân viên tổng đài sẽ điều hướng mỗi cuộc gọi đến."
+            },
+            {
+              "key": "C",
+              "en": "One director leads two divisions.",
+              "vi": "Một giám đốc dẫn dắt hai bộ phận."
+            },
+            {
+              "key": "D",
+              "en": "Some directors share an office.",
+              "vi": "Some directors share an office. -> Một số giám đốc chia sẻ chung một văn phòng."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t09-p7-q195",
+          "number": 195,
+          "question": {
+            "en": "What is suggested about Mr. Hillman?",
+            "vi": "Điều gì được gợi ý về ông ông Hillman?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He is a new team member.",
+              "vi": "Ông ấy là một thành viên mới của nhóm."
+            },
+            {
+              "key": "B",
+              "en": "He returned from a trip in time to meet Mr. Rein.",
+              "vi": "Ông ấy đã trở về sau một chuyến đi kịp thời để gặp gỡ ông Rein."
+            },
+            {
+              "key": "C",
+              "en": "He was recently promoted.",
+              "vi": "Gần đây ông ấy đã được thăng chức."
+            },
+            {
+              "key": "D",
+              "en": "He works in the human resources department.",
+              "vi": "Ông ấy làm việc tại bộ phận nhân sự."
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t09-p7-g196-200",
+      "documents": [
+        {
+          "kind": "article",
+          "content": {
+            "en": "Video Firm Reaches New Heights\n\nPRETORIA (22 March)--Blue Lapis, a producer of industrial videos, announced today that it is now contracting with two drone pilots to provide the company's clients with aerial videography.\n\n\"We have always excelled at capturing breathtaking video imagery for a wide range of industries, but we can now do so from new perspectives,\" said Yunus Maseko, the CEO of Blue Lapis. \"Whether for marketing, progress reporting, training, or something else, we offer our clients high-resolution videos from the sky. In fact, we just completed the first aerial videos for Kwanduma Realty Ltd., and everyone is very pleased with the results.\"\n\nPrices for aerial videography range from R15,000 to R45,000 per session. The prices include basic editing in the Blue Lapis studio. An additional hourly fee is charged if extensive editing or special effects are required. Visit www.bluelapis.co.za for more information.",
+            "vi": "Công ty sản xuất video đạt đến những tầm cao mới\n\nPRETORIA (22 March)—Blue Lapis, một đơn vị sản xuất các video công nghiệp, hôm nay đã công bố rằng họ hiện đang ký hợp đồng với hai phi công lái máy bay không người lái để cung cấp dịch vụ quay video trên không cho các khách hàng của công ty.\n\n\"Chúng tôi luôn xuất sắc trong việc ghi lại những hình ảnh video ngoạn mục cho nhiều ngành công nghiệp khác nhau, nhưng hiện tại chúng tôi có thể thực hiện điều đó từ những góc nhìn hoàn toàn mới,\" Yunus Maseko, giám đốc điều hành của Blue Lapis cho biết. \"Dù là để tiếp thị, báo cáo tiến độ, đào tạo hay mục đích nào khác, chúng tôi đều cung cấp cho khách hàng những video có độ phân giải cao được quay từ bầu trời. Trên thực tế, chúng tôi vừa hoàn thành các video trên không đầu tiên cho Kwanduma Realty Ltd., và mọi người đều rất hài lòng với kết quả đạt được.\"\n\nMức giá cho việc quay video trên không dao động từ R15,000 đến R45,000 cho mỗi phiên làm việc. Mức giá đã bao gồm các chỉnh sửa cơ bản tại xưởng sản xuất của Blue Lapis. Một khoản phí bổ sung theo giờ sẽ được tính nếu khách hàng yêu cầu chỉnh sửa chuyên sâu hoặc các hiệu ứng đặc biệt. Vui lòng truy cập www.bluelapis.co.za để biết thêm thông tin."
+          }
+        },
+        {
+          "kind": "web_page",
+          "content": {
+            "en": "https://www.rfa.web.za/certification\n\nAbout | News | Certification | Resources\n\nThe Remote Flight Association (RFA) provides training leading to certification for the operation of unmanned aircraft.\n\nPiloting a drone for commercial use requires certification as a precondition of employment. Obtaining a certification card involves:\n\n* completing a course in unmanned aircraft flight regulations\n* filing an online application\n* registering your equipment with the appropriate civil aviation authority\n* completing an interview with a flight examiner to demonstrate knowledge of airspace regulations\n\nAfter you have successfully completed all required steps, your flight examiner will submit your results for processing. You should receive your certification card within ten business days.\n\nDownload our manual for a complete outline of the certification process.",
+            "vi": "https://www.rfa.web.za/certification\n\nGiới thiệu | Tin tức | Chứng chỉ | Tài nguyên\n\nHiệp hội Chuyến bay Từ xa Remote Flight Association (RFA) cung cấp các khóa đào tạo dẫn đến việc cấp chứng chỉ vận hành máy bay không người lái.\n\nViệc điều khiển máy bay không người lái cho mục đích thương mại yêu cầu phải có chứng chỉ như một điều kiện tiên quyết để được tuyển dụng. Để nhận được thẻ chứng chỉ, quy trình bao gồm:\n\n* hoàn thành một khóa học về các quy định bay của máy bay không người lái\n* nộp một đơn đăng ký trực tuyến\n* đăng ký thiết bị của bạn với cơ quan quản lý hàng không dân dụng phù hợp\n* hoàn thành một cuộc phỏng vấn với giám khảo chuyến bay để chứng minh kiến thức về các quy định vùng trời\n\nSau khi bạn đã hoàn thành xuất sắc tất cả các bước bắt buộc, giám khảo chuyến bay của bạn sẽ gửi kết quả của bạn để xử lý. Bạn sẽ nhận được thẻ chứng chỉ của mình trong vòng mười ngày làm việc.\n\nHãy tải xuống tài liệu hướng dẫn của chúng tôi để biết phác thảo đầy đủ về quy trình cấp chứng chỉ."
+          }
+        },
+        {
+          "kind": "work_order",
+          "content": {
+            "en": "Blue Lapis\nWork Order for Drone Video\n\nClient: Lunsklip Construction\n\nOffice address: 220 Sand River Street, Pretoria, 0048\n\nContact person: Tokozile Shabangu, Phone 012 555 0175\n\nRequested date for work: Friday, 12 April\n\nDrone contractor: Olivia Rowley, Card No. 01562\n\nVideography: The client wants a video to show investors. The client requests a drone flight over the entire length of the highway demonstrating the scale of the project, hovering over the section currently under construction, and zooming in to capture action shots of the work. The objective is to present how the highway project is proceeding and highlight what has been completed thus far. Contact Ms. Shabangu to review the flight plan and discuss other areas of focus along the highway.\n\nNotes: No special effects or extra editing is wanted. Include in the title credits the client company's name, project name, and the date the video was taken. Lunsklip Construction is a long-time customer with high expectations. Please consult with Ms. Shabangu throughout the filming and editing process.",
+            "vi": "Blue Lapis\nĐơn yêu cầu công việc cho Video quay bằng Drone\n\nKhách hàng: Lunsklip Construction\n\nĐịa chỉ văn phòng: 220 Sand River Street, Pretoria, 0048\n\nContact person: Tokozile Shabangu, Phone 012 555 0175\n\nNgày yêu cầu thực hiện công việc: Thứ Sáu, 12 April\n\nNhà thầu lái drone: Olivia Rowley, Số thẻ 01562\n\nYêu cầu quay phim: Khách hàng muốn có một video để trình chiếu cho các nhà đầu tư xem. Khách hàng yêu cầu một chuyến bay bằng drone trên toàn bộ chiều dài của đường cao tốc để thể hiện quy mô của dự án, bay lơ lửng trên đoạn đường hiện đang được xây dựng và thu phóng cận cảnh để ghi lại những cảnh quay hành động trực tiếp của công việc. Mục tiêu là trình bày tiến trình thực hiện dự án đường cao tốc đang diễn ra như thế nào và làm nổi bật những gì đã được hoàn thành cho đến nay. Hãy liên hệ với cô Shabangu để soát lại kế hoạch bay và thảo luận về các khu vực cần tập trung khác dọc theo đường cao tốc.\n\nGhi chú: Không yêu cầu hiệu ứng đặc biệt hoặc chỉnh sửa bổ sung. Ghi rõ trong phần giới thiệu tiêu đề tên công ty khách hàng, tên dự án và ngày quay video. Lunsklip Construction là một khách hàng lâu năm với những kỳ vọng rất cao. Vui lòng tham khảo ý kiến của cô Shabangu trong suốt quá trình quay phim và biên tập chỉnh sửa."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t09-p7-q196",
+          "number": 196,
+          "question": {
+            "en": "What is mentioned in the article about Blue Lapis?",
+            "vi": "Điều gì được đề cập trong bài báo về Blue Lapis?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Its work can serve many business purposes.",
+              "vi": "Các sản phẩm của công ty có thể phục vụ cho nhiều mục đích kinh doanh khác nhau."
+            },
+            {
+              "key": "B",
+              "en": "Its pricing is lower than that of its competitors.",
+              "vi": "Mức giá của công ty thấp hơn so với các đối thủ cạnh tranh của mình."
+            },
+            {
+              "key": "C",
+              "en": "It has a new chief executive officer.",
+              "vi": "Công ty có một giám đốc điều hành mới."
+            },
+            {
+              "key": "D",
+              "en": "It is hiring several video editors.",
+              "vi": "Công ty đang tuyển dụng một vài biên tập viên video."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t09-p7-q197",
+          "number": 197,
+          "question": {
+            "en": "According to the Web page, what is one thing people wishing to become drone pilots must do?",
+            "vi": "Theo trang web, một điều mà những người muốn trở thành phi công lái drone phải làm là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Call the association's office",
+              "vi": "Gọi điện đến văn phòng của hiệp hội"
+            },
+            {
+              "key": "B",
+              "en": "Take a test online",
+              "vi": "Thực hiện một bài kiểm tra trực tuyến"
+            },
+            {
+              "key": "C",
+              "en": "Participate in an interview",
+              "vi": "Tham gia vào một cuộc phỏng vấn"
+            },
+            {
+              "key": "D",
+              "en": "Submit professional references",
+              "vi": "Gửi các thư giới thiệu chuyên môn"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t09-p7-q198",
+          "number": 198,
+          "question": {
+            "en": "According to the work order, why did Lunsklip Construction request a video?",
+            "vi": "Theo đơn yêu cầu công việc, tại sao Lunsklip Construction lại yêu cầu một video?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To show progress on a project",
+              "vi": "Để trình bày tiến độ của một dự án"
+            },
+            {
+              "key": "B",
+              "en": "To conduct a safety inspection",
+              "vi": "Để tiến hành một cuộc kiểm tra an toàn"
+            },
+            {
+              "key": "C",
+              "en": "To find an ideal route for a highway",
+              "vi": "Để tìm kiếm một tuyến đường lý tưởng cho đường cao tốc"
+            },
+            {
+              "key": "D",
+              "en": "To map the land features in an area",
+              "vi": "Để lập bản đồ địa hình trong một khu vực"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t09-p7-q199",
+          "number": 199,
+          "question": {
+            "en": "What can be concluded about Ms. Rowley?",
+            "vi": "Có thể kết luận điều gì về cô Rowley?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She has worked with Ms. Shabangu for many years.",
+              "vi": "Cô ấy đã làm việc với cô Shabangu trong nhiều năm."
+            },
+            {
+              "key": "B",
+              "en": "She is a construction supervisor with Lunsklip Construction.",
+              "vi": "Cô ấy là một giám sát viên xây dựng tại Lunsklip Construction."
+            },
+            {
+              "key": "C",
+              "en": "She registered some equipment with an aviation authority.",
+              "vi": "Cô ấy đã đăng ký một số thiết bị với cơ quan quản lý hàng không."
+            },
+            {
+              "key": "D",
+              "en": "She is a flight examiner.",
+              "vi": "Cô ấy là một giám khảo chuyến bay."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t09-p7-q200",
+          "number": 200,
+          "question": {
+            "en": "What is most likely true about Lunsklip Construction?",
+            "vi": "Điều gì rất có thể đúng về Lunsklip Construction?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It did not suggest plans for the video.",
+              "vi": "Công ty đã không đưa ra bất kỳ kế hoạch nào cho video."
+            },
+            {
+              "key": "B",
+              "en": "It will not need to pay an additional hourly fee.",
+              "vi": "Công ty sẽ không cần phải thanh toán thêm khoản phí bổ sung theo giờ."
+            },
+            {
+              "key": "C",
+              "en": "It is in a partnership with Kwanduma Realty Ltd.",
+              "vi": "Công ty đang có mối quan hệ hợp tác với Kwanduma Realty Ltd."
+            },
+            {
+              "key": "D",
+              "en": "It is a new client of Blue Lapis.",
+              "vi": "Công ty là một khách hàng mới của Blue Lapis."
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    }
+  ]
+}

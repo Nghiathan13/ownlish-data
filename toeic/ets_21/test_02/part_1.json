@@ -1,0 +1,178 @@
+{
+  "items": [
+    {
+      "id": "ets21-t02-p1-q001",
+      "number": 1,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_02/image/001.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_02/audio/001.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "He's holding a book.",
+          "vi": "Anh ấy đang cầm một cuốn sách."
+        },
+        {
+          "key": "B",
+          "en": "He's hanging a clock.",
+          "vi": "Anh ấy đang treo một chiếc đồng hồ."
+        },
+        {
+          "key": "C",
+          "en": "He's painting a picture.",
+          "vi": "Anh ấy đang vẽ một bức tranh."
+        },
+        {
+          "key": "D",
+          "en": "He's leaving a room.",
+          "vi": "Anh ấy đang rời khỏi phòng."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets21-t02-p1-q002",
+      "number": 2,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_02/image/002.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_02/audio/002.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "A customer is lifting a box onto a cart.",
+          "vi": "Một khách hàng đang nhấc hộp lên xe đẩy."
+        },
+        {
+          "key": "B",
+          "en": "A customer is paying for a purchase.",
+          "vi": "Một khách hàng đang trả tiền mua hàng."
+        },
+        {
+          "key": "C",
+          "en": "A cashier is wrapping up some merchandise.",
+          "vi": "Một nhân viên thu ngân đang gói hàng hóa."
+        },
+        {
+          "key": "D",
+          "en": "A cashier is writing on a sign.",
+          "vi": "Một nhân viên thu ngân đang viết lên biển hiệu."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets21-t02-p1-q003",
+      "number": 3,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_02/image/003.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_02/audio/003.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "Some chairs are being placed in a closet.",
+          "vi": "Một số ghế đang được đặt vào tủ."
+        },
+        {
+          "key": "B",
+          "en": "Some snacks are being baked in an oven.",
+          "vi": "Một số đồ ăn nhẹ đang được nướng trong lò."
+        },
+        {
+          "key": "C",
+          "en": "The women are shaking hands.",
+          "vi": "Những người phụ nữ đang bắt tay nhau."
+        },
+        {
+          "key": "D",
+          "en": "The women are wearing long-sleeved shirts.",
+          "vi": "Những người phụ nữ đang mặc áo dài tay."
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets21-t02-p1-q004",
+      "number": 4,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_02/image/004.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_02/audio/004.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "One of the men is removing his hat.",
+          "vi": "Một trong những người đàn ông đang tháo mũ."
+        },
+        {
+          "key": "B",
+          "en": "One of the men is replacing a tire.",
+          "vi": "Một trong những người đàn ông đang thay lốp xe."
+        },
+        {
+          "key": "C",
+          "en": "A car is parked on the side of a road.",
+          "vi": "Một chiếc xe đang đỗ bên đường."
+        },
+        {
+          "key": "D",
+          "en": "Some people are washing a car.",
+          "vi": "Một số người đang rửa xe."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets21-t02-p1-q005",
+      "number": 5,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_02/image/005.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_02/audio/005.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "The woman is picking up a test tube.",
+          "vi": "Người phụ nữ đang nhặt ống nghiệm."
+        },
+        {
+          "key": "B",
+          "en": "The woman is examining a patient.",
+          "vi": "Người phụ nữ đang khám bệnh nhân."
+        },
+        {
+          "key": "C",
+          "en": "The woman is looking out a window.",
+          "vi": "Người phụ nữ đang nhìn ra cửa sổ."
+        },
+        {
+          "key": "D",
+          "en": "The woman is using a microscope.",
+          "vi": "Người phụ nữ đang sử dụng kính hiển vi."
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets21-t02-p1-q006",
+      "number": 6,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_02/image/006.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_02/audio/006.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "Some floor tiles are in a pattern.",
+          "vi": "Một số gạch lát sàn được xếp theo hoa văn."
+        },
+        {
+          "key": "B",
+          "en": "Some elevator doors are open.",
+          "vi": "Một số cửa thang máy đang mở."
+        },
+        {
+          "key": "C",
+          "en": "There's a mirror on a cabinet.",
+          "vi": "Có một chiếc gương trên tủ."
+        },
+        {
+          "key": "D",
+          "en": "There's a sofa on a patio.",
+          "vi": "Có một chiếc sofa trên sân hiên."
+        }
+      ],
+      "answer": "A"
+    }
+  ]
+}

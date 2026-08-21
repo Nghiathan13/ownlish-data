@@ -1,0 +1,934 @@
+{
+  "items": [
+    {
+      "id": "ybm25-t05-p5-q101",
+      "number": 101,
+      "question": {
+        "en": "The lunch special includes one sandwich along with a salad, fries, ______ a bowl of soup.",
+        "vi": "Suất ăn trưa đặc biệt bao gồm một chiếc bánh sandwich cùng với một phần salad, khoai tây chiên và một bát súp."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "as",
+          "vi": "as (conj): như, vì"
+        },
+        {
+          "key": "B",
+          "en": "and",
+          "vi": "and (conj): và"
+        },
+        {
+          "key": "C",
+          "en": "for",
+          "vi": "for (prep/conj): cho, vì"
+        },
+        {
+          "key": "D",
+          "en": "nor",
+          "vi": "nor (conj): cũng không"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ybm25-t05-p5-q102",
+      "number": 102,
+      "question": {
+        "en": "Mr. Fletcher was transferred to another branch after ______ department was eliminated in the corporate restructuring.",
+        "vi": "Ông Fletcher đã được chuyển sang chi nhánh khác sau khi bộ phận của ông bị loại bỏ trong quá trình tái cơ cấu công ty."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "he",
+          "vi": "he (pron): anh ấy, ông ấy (chủ ngữ)"
+        },
+        {
+          "key": "B",
+          "en": "him",
+          "vi": "him (pron): anh ấy, ông ấy (tân ngữ)"
+        },
+        {
+          "key": "C",
+          "en": "his",
+          "vi": "his (adj): của anh ấy, của ông ấy"
+        },
+        {
+          "key": "D",
+          "en": "himself",
+          "vi": "himself (pron): bản thân ông ấy"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ybm25-t05-p5-q103",
+      "number": 103,
+      "question": {
+        "en": "The tech team's most ______ solution for the software issue will be used in the updated version of the program.",
+        "vi": "Giải pháp sáng tạo nhất của đội kỹ thuật cho vấn đề phần mềm sẽ được sử dụng trong phiên bản cập nhật của chương trình."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "innovatively",
+          "vi": "innovatively (adv): một cách sáng tạo"
+        },
+        {
+          "key": "B",
+          "en": "innovates",
+          "vi": "innovates (v): đổi mới (ngôi 3 số ít)"
+        },
+        {
+          "key": "C",
+          "en": "innovative",
+          "vi": "innovative (adj): sáng tạo, đổi mới"
+        },
+        {
+          "key": "D",
+          "en": "innovation",
+          "vi": "innovation (n): sự đổi mới"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ybm25-t05-p5-q104",
+      "number": 104,
+      "question": {
+        "en": "Attendees of the writing conference can ______ participate in workshops on a number of relevant topics.",
+        "vi": "Những người tham dự hội nghị viết lách có thể tích cực tham gia các buổi hội thảo về nhiều chủ đề liên quan."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "activate",
+          "vi": "activate (v): kích hoạt"
+        },
+        {
+          "key": "B",
+          "en": "actively",
+          "vi": "actively (adv): một cách tích cực"
+        },
+        {
+          "key": "C",
+          "en": "activity",
+          "vi": "activity (n): hoạt động"
+        },
+        {
+          "key": "D",
+          "en": "active",
+          "vi": "active (adj): tích cực, năng động"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ybm25-t05-p5-q105",
+      "number": 105,
+      "question": {
+        "en": "If an insured vehicle is involved in an accident, we will assess the ______ quickly, within three business days.",
+        "vi": "Nếu một chiếc xe được bảo hiểm liên quan đến tai nạn, chúng tôi sẽ nhanh chóng đánh giá yêu cầu bồi thường trong vòng ba ngày làm việc."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "signal",
+          "vi": "signal (n): tín hiệu"
+        },
+        {
+          "key": "B",
+          "en": "claim",
+          "vi": "claim (n): yêu cầu bồi thường"
+        },
+        {
+          "key": "C",
+          "en": "inventory",
+          "vi": "inventory (n): hàng tồn kho"
+        },
+        {
+          "key": "D",
+          "en": "conflict",
+          "vi": "conflict (n): xung đột"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ybm25-t05-p5-q106",
+      "number": 106,
+      "question": {
+        "en": "Problems with the air purifier may ______ either by incorrect storage or the use of the wrong filters.",
+        "vi": "Các vấn đề với máy lọc không khí có thể phát sinh do bảo quản không đúng cách hoặc sử dụng bộ lọc sai."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "realize",
+          "vi": "realize (v): nhận ra"
+        },
+        {
+          "key": "B",
+          "en": "select",
+          "vi": "select (v): lựa chọn"
+        },
+        {
+          "key": "C",
+          "en": "arise",
+          "vi": "arise (v): phát sinh, nảy sinh"
+        },
+        {
+          "key": "D",
+          "en": "indicate",
+          "vi": "indicate (v): chỉ ra, biểu thị"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ybm25-t05-p5-q107",
+      "number": 107,
+      "question": {
+        "en": "The university's new ______ coordinator has streamlined the steps to reduce processing times.",
+        "vi": "Điều phối viên tuyển sinh mới của trường đại học đã tinh gọn các bước để giảm thời gian xử lý."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "admissions",
+          "vi": "admissions (n): việc tuyển sinh"
+        },
+        {
+          "key": "B",
+          "en": "admitted",
+          "vi": "admitted (v-pp): đã được nhận vào"
+        },
+        {
+          "key": "C",
+          "en": "admits",
+          "vi": "admits (v): thừa nhận (ngôi 3 số ít)"
+        },
+        {
+          "key": "D",
+          "en": "to admit",
+          "vi": "to admit (v-inf): để thừa nhận"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ybm25-t05-p5-q108",
+      "number": 108,
+      "question": {
+        "en": "Ms. Burke will encourage the staff to donate canned goods ______ she did during the holidays last year.",
+        "vi": "Cô Burke sẽ khuyến khích nhân viên quyên góp thực phẩm đóng hộp như cô ấy đã làm trong kỳ nghỉ lễ năm ngoái."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "likewise",
+          "vi": "likewise (adv): tương tự, cũng vậy"
+        },
+        {
+          "key": "B",
+          "en": "regarding",
+          "vi": "regarding (prep): liên quan đến"
+        },
+        {
+          "key": "C",
+          "en": "as",
+          "vi": "as (conj): giống như, khi"
+        },
+        {
+          "key": "D",
+          "en": "so",
+          "vi": "so (conj): vì vậy"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ybm25-t05-p5-q109",
+      "number": 109,
+      "question": {
+        "en": "The pharmacy's medications and supplements must be ______ labeled.",
+        "vi": "Các loại thuốc và thực phẩm bổ sung của hiệu thuốc phải được dán nhãn rõ ràng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "clear",
+          "vi": "clear (adj): rõ ràng"
+        },
+        {
+          "key": "B",
+          "en": "clarity",
+          "vi": "clarity (n): sự rõ ràng"
+        },
+        {
+          "key": "C",
+          "en": "clearer",
+          "vi": "clearer (adj): rõ ràng hơn (so sánh hơn)"
+        },
+        {
+          "key": "D",
+          "en": "clearly",
+          "vi": "clearly (adv): một cách rõ ràng"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ybm25-t05-p5-q110",
+      "number": 110,
+      "question": {
+        "en": "Bayside Financial has expanded its customer base by an impressive ninety percent ______ the past five years.",
+        "vi": "Bayside Financial đã mở rộng cơ sở khách hàng của mình với mức ấn tượng 90% trong suốt năm năm qua."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "by",
+          "vi": "by (prep): bởi, bằng"
+        },
+        {
+          "key": "B",
+          "en": "from",
+          "vi": "from (prep): từ"
+        },
+        {
+          "key": "C",
+          "en": "between",
+          "vi": "between (prep): giữa (hai đối tượng)"
+        },
+        {
+          "key": "D",
+          "en": "over",
+          "vi": "over (prep): trong suốt, hơn"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ybm25-t05-p5-q111",
+      "number": 111,
+      "question": {
+        "en": "You must assess all aspects of the properties before ______ which best suits your personal circumstances.",
+        "vi": "Bạn phải đánh giá tất cả các khía cạnh của bất động sản trước khi xác định cái nào phù hợp nhất với hoàn cảnh cá nhân của bạn."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "determines",
+          "vi": "determines (v): xác định (ngôi 3 số ít)"
+        },
+        {
+          "key": "B",
+          "en": "to determine",
+          "vi": "to determine (v-inf): để xác định"
+        },
+        {
+          "key": "C",
+          "en": "determining",
+          "vi": "determining (v-ing): việc xác định"
+        },
+        {
+          "key": "D",
+          "en": "must determine",
+          "vi": "must determine (v): phải xác định"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ybm25-t05-p5-q112",
+      "number": 112,
+      "question": {
+        "en": "FT Supplies' headquarters building was ______ used as a ceramics factory because the surrounding area is rich in clay deposits.",
+        "vi": "Tòa nhà trụ sở của FT Supplies ban đầu được sử dụng làm nhà máy gốm sứ vì khu vực xung quanh rất giàu mỏ đất sét."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "to originate",
+          "vi": "to originate (v-inf): để bắt nguồn"
+        },
+        {
+          "key": "B",
+          "en": "originally",
+          "vi": "originally (adv): ban đầu, vốn dĩ"
+        },
+        {
+          "key": "C",
+          "en": "original",
+          "vi": "original (adj): nguyên gốc, ban đầu"
+        },
+        {
+          "key": "D",
+          "en": "origins",
+          "vi": "origins (n): nguồn gốc (số nhiều)"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ybm25-t05-p5-q113",
+      "number": 113,
+      "question": {
+        "en": "Every semester, Laurel Technical Institute offers online and in-person courses in an impressive ______ of fields.",
+        "vi": "Mỗi học kỳ, Viện Kỹ thuật Laurel cung cấp các khóa học trực tuyến và trực tiếp trong một loạt ấn tượng các lĩnh vực."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "effort",
+          "vi": "effort (n): nỗ lực"
+        },
+        {
+          "key": "B",
+          "en": "version",
+          "vi": "version (n): phiên bản"
+        },
+        {
+          "key": "C",
+          "en": "array",
+          "vi": "array (n): một loạt, hàng loạt"
+        },
+        {
+          "key": "D",
+          "en": "degree",
+          "vi": "degree (n): mức độ, bằng cấp"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ybm25-t05-p5-q114",
+      "number": 114,
+      "question": {
+        "en": "Many airline employees found learning the luggage tracking system difficult, but explaining it to passengers was an even ______ challenge.",
+        "vi": "Nhiều nhân viên hãng hàng không thấy việc học hệ thống theo dõi hành lý rất khó, nhưng việc giải thích nó cho hành khách còn là một thách thức khó hơn nữa."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "hard",
+          "vi": "hard (adj): khó, cứng"
+        },
+        {
+          "key": "B",
+          "en": "hardly",
+          "vi": "hardly (adv): hầu như không"
+        },
+        {
+          "key": "C",
+          "en": "harder",
+          "vi": "harder (adj): khó hơn (so sánh hơn)"
+        },
+        {
+          "key": "D",
+          "en": "hardest",
+          "vi": "hardest (adj): khó nhất (so sánh nhất)"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ybm25-t05-p5-q115",
+      "number": 115,
+      "question": {
+        "en": "Once the interns have completed their probation period, a manager at Camco will evaluate ______ one of them.",
+        "vi": "Một khi các thực tập sinh đã hoàn thành thời gian thử việc, một quản lý tại Camco sẽ đánh giá từng người trong số họ."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "whole",
+          "vi": "whole (adj): toàn bộ"
+        },
+        {
+          "key": "B",
+          "en": "each",
+          "vi": "each (adj): mỗi, từng"
+        },
+        {
+          "key": "C",
+          "en": "full",
+          "vi": "full (adj): đầy đủ"
+        },
+        {
+          "key": "D",
+          "en": "total",
+          "vi": "total (adj): tổng cộng"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ybm25-t05-p5-q116",
+      "number": 116,
+      "question": {
+        "en": "The automated system allows us to respond ______ to basic customer inquiries and requests.",
+        "vi": "Hệ thống tự động cho phép chúng tôi phản hồi ngay lập tức các yêu cầu và thắc mắc cơ bản của khách hàng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "instantly",
+          "vi": "instantly (adv): ngay lập tức"
+        },
+        {
+          "key": "B",
+          "en": "fondly",
+          "vi": "fondly (adv): một cách trìu mến"
+        },
+        {
+          "key": "C",
+          "en": "abundantly",
+          "vi": "abundantly (adv): một cách dồi dào"
+        },
+        {
+          "key": "D",
+          "en": "curiously",
+          "vi": "curiously (adv): một cách tò mò"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ybm25-t05-p5-q117",
+      "number": 117,
+      "question": {
+        "en": "Morrison Automotive has confirmed the ______ of its accounting and finance departments due to extensive corporate growth.",
+        "vi": "Morrison Automotive đã xác nhận việc tách biệt các bộ phận kế toán và tài chính do sự tăng trưởng rộng lớn của công ty."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "separated",
+          "vi": "separated (v-pp): đã được tách ra"
+        },
+        {
+          "key": "B",
+          "en": "separate",
+          "vi": "separate (adj/v): riêng biệt / tách ra"
+        },
+        {
+          "key": "C",
+          "en": "separates",
+          "vi": "separates (v): tách ra (ngôi 3 số ít)"
+        },
+        {
+          "key": "D",
+          "en": "separation",
+          "vi": "separation (n): sự tách biệt"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ybm25-t05-p5-q118",
+      "number": 118,
+      "question": {
+        "en": "The shopping mall kept the majority of its shops open ______ the renovation process because of working in phases.",
+        "vi": "Trung tâm mua sắm đã giữ cho phần lớn các cửa hàng của mình mở cửa trong suốt quá trình cải tạo nhờ vào việc làm việc theo từng giai đoạn."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "while",
+          "vi": "while (conj): trong khi"
+        },
+        {
+          "key": "B",
+          "en": "prior to",
+          "vi": "prior to (prep): trước khi"
+        },
+        {
+          "key": "C",
+          "en": "throughout",
+          "vi": "throughout (prep): xuyên suốt, trong suốt"
+        },
+        {
+          "key": "D",
+          "en": "along",
+          "vi": "along (prep): dọc theo"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ybm25-t05-p5-q119",
+      "number": 119,
+      "question": {
+        "en": "The café, ______ caters to vegan and vegetarian diners, has received positive reviews so far.",
+        "vi": "Quán cà phê, nơi phục vụ thực khách ăn thuần chay và ăn chay, cho đến nay đã nhận được các đánh giá tích cực."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "whether",
+          "vi": "whether (conj): liệu có hay không"
+        },
+        {
+          "key": "B",
+          "en": "which",
+          "vi": "which (pron): cái mà (đại từ quan hệ)"
+        },
+        {
+          "key": "C",
+          "en": "neither",
+          "vi": "neither (pron): không cái nào"
+        },
+        {
+          "key": "D",
+          "en": "it",
+          "vi": "it (pron): nó"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ybm25-t05-p5-q120",
+      "number": 120,
+      "question": {
+        "en": "Angela Cruz, editor of the Newport Daily Herald, includes nothing but ______ facts in the newspaper's articles.",
+        "vi": "Angela Cruz, biên tập viên của Newport Daily Herald, chỉ đưa những sự thật có thể kiểm chứng vào các bài báo."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "intensive",
+          "vi": "intensive (adj): chuyên sâu"
+        },
+        {
+          "key": "B",
+          "en": "competent",
+          "vi": "competent (adj): có năng lực"
+        },
+        {
+          "key": "C",
+          "en": "verifiable",
+          "vi": "verifiable (adj): có thể kiểm chứng"
+        },
+        {
+          "key": "D",
+          "en": "economical",
+          "vi": "economical (adj): tiết kiệm"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ybm25-t05-p5-q121",
+      "number": 121,
+      "question": {
+        "en": "The judging panel can only consider art entries received ______ the designated period of June 28 to July 5.",
+        "vi": "Ban giám khảo chỉ có thể xem xét các tác phẩm nghệ thuật dự thi nhận được trong khoảng thời gian quy định từ ngày 28 tháng 6 đến ngày 5 tháng 7."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "above",
+          "vi": "above (prep): phía trên"
+        },
+        {
+          "key": "B",
+          "en": "except",
+          "vi": "except (prep): ngoại trừ"
+        },
+        {
+          "key": "C",
+          "en": "among",
+          "vi": "among (prep): trong số"
+        },
+        {
+          "key": "D",
+          "en": "within",
+          "vi": "within (prep): trong khoảng, trong vòng"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ybm25-t05-p5-q122",
+      "number": 122,
+      "question": {
+        "en": "Ms. Kirby is ______ filling out paperwork for a small business loan for her bakery.",
+        "vi": "Cô Kirby hiện đang điền đơn giấy tờ để xin một khoản vay kinh doanh nhỏ cho tiệm bánh của mình."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "how",
+          "vi": "how (adv): như thế nào"
+        },
+        {
+          "key": "B",
+          "en": "lately",
+          "vi": "lately (adv): gần đây"
+        },
+        {
+          "key": "C",
+          "en": "anywhere",
+          "vi": "anywhere (adv): bất cứ đâu"
+        },
+        {
+          "key": "D",
+          "en": "currently",
+          "vi": "currently (adv): hiện đang, hiện nay"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ybm25-t05-p5-q123",
+      "number": 123,
+      "question": {
+        "en": "Dr. Charlotte Collins requires further funding to remain at the forefront of medical ______ in the field.",
+        "vi": "Tiến sĩ Charlotte Collins cần thêm kinh phí để duy trì vị trí dẫn đầu về những tiến bộ y tế trong lĩnh vực này."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "advanced",
+          "vi": "advanced (adj): tiên tiến"
+        },
+        {
+          "key": "B",
+          "en": "is advancing",
+          "vi": "is advancing (v): đang tiến bộ (hiện tại tiếp diễn)"
+        },
+        {
+          "key": "C",
+          "en": "advances",
+          "vi": "advances (n): những tiến bộ (số nhiều)"
+        },
+        {
+          "key": "D",
+          "en": "advancing",
+          "vi": "advancing (v-ing): đang tiến bộ"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ybm25-t05-p5-q124",
+      "number": 124,
+      "question": {
+        "en": "Please take down the patio umbrellas today, as they are designed to ______ winds of up to twenty-five miles per hour only.",
+        "vi": "Vui lòng hạ các ô sân hôm nay xuống vì chúng chỉ được thiết kế để chịu đựng được gió lên đến hai mươi lăm dặm một giờ."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "forbid",
+          "vi": "forbid (v): cấm"
+        },
+        {
+          "key": "B",
+          "en": "expose",
+          "vi": "expose (v): phơi bày, phơi nhiễm"
+        },
+        {
+          "key": "C",
+          "en": "occur",
+          "vi": "occur (v): xảy ra"
+        },
+        {
+          "key": "D",
+          "en": "withstand",
+          "vi": "withstand (v): chịu đựng, chống chọi"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ybm25-t05-p5-q125",
+      "number": 125,
+      "question": {
+        "en": "The temporary workers that have been hired to assemble the trade fair booth will be ______ helpful to us.",
+        "vi": "Các nhân viên tạm thời đã được thuê để lắp ráp gian hàng hội chợ thương mại sẽ khá hữu ích cho chúng tôi."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "enough",
+          "vi": "enough (adv): đủ"
+        },
+        {
+          "key": "B",
+          "en": "shortly",
+          "vi": "shortly (adv): sớm, chẳng mấy chốc"
+        },
+        {
+          "key": "C",
+          "en": "quite",
+          "vi": "quite (adv): khá, hoàn toàn"
+        },
+        {
+          "key": "D",
+          "en": "than",
+          "vi": "than (conj): hơn (dùng trong so sánh)"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ybm25-t05-p5-q126",
+      "number": 126,
+      "question": {
+        "en": "Book a room at Parkview Hotel to be looked after by our ______ staff during your stay.",
+        "vi": "Hãy đặt phòng tại Khách sạn Parkview để được nhân viên chu đáo của chúng tôi chăm sóc trong thời gian lưu trú."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "optimal",
+          "vi": "optimal (adj): tối ưu"
+        },
+        {
+          "key": "B",
+          "en": "former",
+          "vi": "former (adj): trước đây"
+        },
+        {
+          "key": "C",
+          "en": "attentive",
+          "vi": "attentive (adj): chu đáo, ân cần"
+        },
+        {
+          "key": "D",
+          "en": "potential",
+          "vi": "potential (adj): tiềm năng"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ybm25-t05-p5-q127",
+      "number": 127,
+      "question": {
+        "en": "Hospital Director Owen Abbott expressed a desire to move ______ a more patient-centered approach to care.",
+        "vi": "Giám đốc Bệnh viện Owen Abbott đã bày tỏ mong muốn hướng tới một phương pháp chăm sóc lấy bệnh nhân làm trung tâm hơn."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "toward",
+          "vi": "toward (prep): hướng tới"
+        },
+        {
+          "key": "B",
+          "en": "since",
+          "vi": "since (prep): kể từ"
+        },
+        {
+          "key": "C",
+          "en": "alongside",
+          "vi": "alongside (prep): bên cạnh"
+        },
+        {
+          "key": "D",
+          "en": "through",
+          "vi": "through (prep): qua, xuyên qua"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ybm25-t05-p5-q128",
+      "number": 128,
+      "question": {
+        "en": "Pinewell Supermarket's customer loyalty program will continue ______ the target demographic is still participating in it.",
+        "vi": "Chương trình khách hàng thân thiết của Siêu thị Pinewell sẽ tiếp tục miễn là nhóm khách hàng mục tiêu vẫn còn tham gia."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "as long as",
+          "vi": "as long as (conj): miễn là, chừng nào"
+        },
+        {
+          "key": "B",
+          "en": "in spite of",
+          "vi": "in spite of (prep): mặc dù"
+        },
+        {
+          "key": "C",
+          "en": "rather than",
+          "vi": "rather than (conj): thay vì"
+        },
+        {
+          "key": "D",
+          "en": "in order to",
+          "vi": "in order to (conj): để, nhằm"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ybm25-t05-p5-q129",
+      "number": 129,
+      "question": {
+        "en": "______ of prevention methods over cutting-edge treatments may lead to better health outcomes.",
+        "vi": "Việc ưu tiên các phương pháp phòng ngừa hơn các phương pháp điều trị tiên tiến có thể dẫn đến kết quả sức khỏe tốt hơn."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Consumption",
+          "vi": "Consumption (n): sự tiêu thụ"
+        },
+        {
+          "key": "B",
+          "en": "Prioritization",
+          "vi": "Prioritization (n): sự ưu tiên"
+        },
+        {
+          "key": "C",
+          "en": "Destination",
+          "vi": "Destination (n): điểm đến"
+        },
+        {
+          "key": "D",
+          "en": "Intention",
+          "vi": "Intention (n): ý định"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ybm25-t05-p5-q130",
+      "number": 130,
+      "question": {
+        "en": "All standard orders for banner printing will ______ until the express requests have been completed and shipped.",
+        "vi": "Tất cả các đơn đặt hàng in biểu ngữ tiêu chuẩn sẽ bị tạm hoãn cho đến khi các yêu cầu gấp được hoàn thành và gửi đi."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "suspend",
+          "vi": "suspend (v): tạm hoãn"
+        },
+        {
+          "key": "B",
+          "en": "be suspended",
+          "vi": "be suspended (v): bị tạm hoãn (bị động)"
+        },
+        {
+          "key": "C",
+          "en": "have suspended",
+          "vi": "have suspended (v): đã tạm hoãn (hiện tại hoàn thành)"
+        },
+        {
+          "key": "D",
+          "en": "be suspending",
+          "vi": "be suspending (v): đang tạm hoãn (tiếp diễn)"
+        }
+      ],
+      "answer": "B"
+    }
+  ]
+}

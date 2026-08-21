@@ -1,0 +1,178 @@
+{
+  "items": [
+    {
+      "id": "ets23-t05-p1-q001",
+      "number": 1,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_05/image/001.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_05/audio/001.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "He's working on a puzzle.",
+          "vi": "Anh ấy đang chơi xếp hình."
+        },
+        {
+          "key": "B",
+          "en": "He’s lying on a sofa.",
+          "vi": "Anh ấy đang nằm trên ghế sofa."
+        },
+        {
+          "key": "C",
+          "en": "He’s reaching for a book.",
+          "vi": "Anh ấy đang với lấy một cuốn sách."
+        },
+        {
+          "key": "D",
+          "en": "He’s putting on a sweater.",
+          "vi": "Anh ấy đang mặc một chiếc áo len."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets23-t05-p1-q002",
+      "number": 2,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_05/image/002.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_05/audio/002.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "She’s organizing some books.",
+          "vi": "Cô ấy đang sắp xếp một số cuốn sách."
+        },
+        {
+          "key": "B",
+          "en": "She’s buying a toothbrush.",
+          "vi": "Cô ấy đang mua một chiếc bàn chải đánh răng."
+        },
+        {
+          "key": "C",
+          "en": "She’s holding some products.",
+          "vi": "Cô ấy đang cầm một số sản phẩm."
+        },
+        {
+          "key": "D",
+          "en": "She’s talking to a store employee.",
+          "vi": "Cô ấy đang nói chuyện với nhân viên cửa hàng."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets23-t05-p1-q003",
+      "number": 3,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_05/image/003.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_05/audio/003.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "He’s wearing safety glasses.",
+          "vi": "Anh ấy đang đeo kính bảo hộ."
+        },
+        {
+          "key": "B",
+          "en": "He’s cleaning some equipment.",
+          "vi": "Anh ấy đang lau chùi một số thiết bị."
+        },
+        {
+          "key": "C",
+          "en": "He’s picking up a hammer.",
+          "vi": "Anh ấy đang nhặt một chiếc búa lên."
+        },
+        {
+          "key": "D",
+          "en": "He’s laying stones on a driveway.",
+          "vi": "Anh ấy đang lát đá trên lối đi."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets23-t05-p1-q004",
+      "number": 4,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_05/image/004.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_05/audio/004.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "Some flowerpots have been placed along a walkway.",
+          "vi": "Một số chậu hoa đã được đặt dọc theo lối đi bộ."
+        },
+        {
+          "key": "B",
+          "en": "The gate of a fence was left open.",
+          "vi": "Cổng của hàng rào đã bị để mở."
+        },
+        {
+          "key": "C",
+          "en": "Some stairway railings are being installed.",
+          "vi": "Một số tay vịn cầu thang đang được lắp đặt."
+        },
+        {
+          "key": "D",
+          "en": "The building entrance has columns.",
+          "vi": "Lối vào tòa nhà có các hàng cột."
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets23-t05-p1-q005",
+      "number": 5,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_05/image/005.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_05/audio/005.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "Two people are standing around a buffet counter.",
+          "vi": "Hai người đang đứng quanh quầy buffet."
+        },
+        {
+          "key": "B",
+          "en": "Two people are having a meal together.",
+          "vi": "Hai người đang dùng bữa cùng nhau."
+        },
+        {
+          "key": "C",
+          "en": "A server is bringing dishes to a customer.",
+          "vi": "Người phục vụ đang mang món ăn cho khách hàng."
+        },
+        {
+          "key": "D",
+          "en": "A server is pouring water into glasses.",
+          "vi": "Người phục vụ đang rót nước vào ly."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets23-t05-p1-q006",
+      "number": 6,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_05/image/006.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_05/audio/006.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "Electrical cables have been stacked on the floor.",
+          "vi": "Các dây cáp điện đã được xếp chồng trên sàn."
+        },
+        {
+          "key": "B",
+          "en": "Stools have been placed around the room.",
+          "vi": "Những chiếc ghế đẩu đã được đặt quanh phòng."
+        },
+        {
+          "key": "C",
+          "en": "Cabinets are being emptied.",
+          "vi": "Các ngăn tủ đang được dọn trống."
+        },
+        {
+          "key": "D",
+          "en": "The floor of the workshop is being swept.",
+          "vi": "Sàn của xưởng đang được quét dọn."
+        }
+      ],
+      "answer": "B"
+    }
+  ]
+}

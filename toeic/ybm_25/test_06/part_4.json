@@ -1,0 +1,1399 @@
+{
+  "groups": [
+    {
+      "id": "ybm25-t06-p4-g071-073",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/071-073.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "M-Cn: Hi, Ms. Bailey. It's Diego Medero from Bader Motorcycles. ",
+            "questionIds": []
+          },
+          {
+            "text": "Our company is having an issue that we'd like your professional legal advice on.",
+            "questionIds": [
+              "ybm25-t06-p4-q071"
+            ]
+          },
+          {
+            "text": " Uh, I'll give you the basics now. ",
+            "questionIds": []
+          },
+          {
+            "text": "We're concerned because another company, Rinford Services, recently adopted a logo that looks very similar to ours—a golden wing on top of the company name written in black letters.",
+            "questionIds": [
+              "ybm25-t06-p4-q072"
+            ]
+          },
+          {
+            "text": " I'm sending you an e-mail with images of both so you can see for yourself. ",
+            "questionIds": []
+          },
+          {
+            "text": "Now, you should know that Rinford is a shipping company, so it's not one of our competitors.",
+            "questionIds": [
+              "ybm25-t06-p4-q073"
+            ]
+          },
+          {
+            "text": " But we'd still prefer not to have our brands confused. Could you call me back to discuss our options for handling this matter? Thanks.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Chào cô Bailey. Tôi là Diego Medero đến từ công ty Bader Motorcycles. Công ty chúng tôi đang gặp một vấn đề mà chúng tôi muốn nhận lời khuyên pháp lý chuyên nghiệp từ cô. Ờ, tôi sẽ cho cô biết những điều cơ bản ngay bây giờ. Chúng tôi lo ngại vì một công ty khác, Rinford Services, gần đây đã sử dụng một biểu tượng trông rất giống của chúng tôi - một chiếc cánh vàng trên tên công ty được viết bằng chữ đen. Tôi sẽ gửi cho cô một e-mail với hình ảnh của cả hai để cô có thể tự mình xem. Bây giờ, cô nên biết rằng Rinford là một công ty vận chuyển, vì vậy nó không phải là đối thủ cạnh tranh của chúng tôi. Nhưng chúng tôi vẫn muốn tránh việc các thương hiệu của chúng tôi bị nhầm lẫn. Cô có thể gọi lại cho tôi để thảo luận về các lựa chọn của chúng ta để giải quyết vấn đề này không? Cảm ơn.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ybm25-t06-p4-q071",
+          "number": 71,
+          "question": {
+            "en": "Who is the speaker calling?",
+            "vi": "Người nói đang gọi cho ai?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A publicist",
+              "vi": "Một chuyên viên quan hệ công chúng"
+            },
+            {
+              "key": "B",
+              "en": "A graphic designer",
+              "vi": "Một nhà thiết kế đồ họa"
+            },
+            {
+              "key": "C",
+              "en": "A property manager",
+              "vi": "Một quản lý bất động sản"
+            },
+            {
+              "key": "D",
+              "en": "A corporate attorney",
+              "vi": "Một luật sư doanh nghiệp"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ybm25-t06-p4-q072",
+          "number": 72,
+          "question": {
+            "en": "What is the speaker concerned about?",
+            "vi": "Người nói lo ngại về điều gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "The terms of a contract",
+              "vi": "Các điều khoản của hợp đồng"
+            },
+            {
+              "key": "B",
+              "en": "A building directory",
+              "vi": "Một danh bạ tòa nhà"
+            },
+            {
+              "key": "C",
+              "en": "A logo design",
+              "vi": "Một thiết kế logo"
+            },
+            {
+              "key": "D",
+              "en": "A shipping method",
+              "vi": "Một phương thức vận chuyển"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ybm25-t06-p4-q073",
+          "number": 73,
+          "question": {
+            "en": "What does the speaker say about Rinford Services?",
+            "vi": "Người nói nói gì về Rinford Services?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is in a different field.",
+              "vi": "Nó ở một lĩnh vực khác."
+            },
+            {
+              "key": "B",
+              "en": "It was recently founded.",
+              "vi": "Nó vừa mới được thành lập."
+            },
+            {
+              "key": "C",
+              "en": "It is based overseas.",
+              "vi": "Nó có trụ sở ở nước ngoài."
+            },
+            {
+              "key": "D",
+              "en": "It is well-known.",
+              "vi": "Nó nổi tiếng."
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ybm25-t06-p4-g074-076",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/074-076.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "W-Br: Are you planning to make some improvements to your home this fall? Make sure to stop by Barnett Brothers beforehand to pick up the supplies and equipment you'll need. ",
+            "questionIds": []
+          },
+          {
+            "text": "We carry everything from power tools to paint, and light fixtures to building materials.",
+            "questionIds": [
+              "ybm25-t06-p4-q074"
+            ]
+          },
+          {
+            "text": " Not sure what to look for? We're happy to help! ",
+            "questionIds": []
+          },
+          {
+            "text": "Barnett Brothers is famous for the expert advice provided by our friendly floor staff.",
+            "questionIds": [
+              "ybm25-t06-p4-q075"
+            ]
+          },
+          {
+            "text": " And, throughout October, we'll be offering discounts on weatherproofing supplies to help you prepare your house for winter. ",
+            "questionIds": []
+          },
+          {
+            "text": "Visit BarnettBrothers.com to learn more.",
+            "questionIds": [
+              "ybm25-t06-p4-q076"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Bạn có định cải thiện nhà cửa vào mùa thu này không? Hãy nhớ ghé qua Barnett Brothers trước để mua vật tư và thiết bị bạn sẽ cần. Chúng tôi có mọi thứ, từ dụng cụ điện đến sơn, và từ đồ chiếu sáng đến vật liệu xây dựng. Không chắc nên tìm gì? Chúng tôi rất sẵn lòng giúp đỡ! Barnett Brothers nổi tiếng với những lời khuyên chuyên nghiệp từ đội ngũ nhân viên thân thiện của chúng tôi. Và, trong suốt tháng 10, chúng tôi sẽ giảm giá các vật tư chống thấm thời tiết để giúp bạn chuẩn bị nhà cửa cho mùa đông. Truy cập BarnettBrothers.com để tìm hiểu thêm.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ybm25-t06-p4-q074",
+          "number": 74,
+          "question": {
+            "en": "What most likely is being advertised?",
+            "vi": "Có vẻ như cái gì đang được quảng cáo?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A construction company",
+              "vi": "Một công ty xây dựng"
+            },
+            {
+              "key": "B",
+              "en": "A real estate Web site",
+              "vi": "Một trang web bất động sản"
+            },
+            {
+              "key": "C",
+              "en": "A hardware store",
+              "vi": "Một cửa hàng đồ kim khí"
+            },
+            {
+              "key": "D",
+              "en": "An interior design firm",
+              "vi": "Một công ty thiết kế nội thất"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ybm25-t06-p4-q075",
+          "number": 75,
+          "question": {
+            "en": "What is the business known for?",
+            "vi": "Doanh nghiệp này được biết đến với điều gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Its pricing",
+              "vi": "Giá cả"
+            },
+            {
+              "key": "B",
+              "en": "Its speed",
+              "vi": "Tốc độ"
+            },
+            {
+              "key": "C",
+              "en": "Its creativity",
+              "vi": "Sự sáng tạo"
+            },
+            {
+              "key": "D",
+              "en": "Its customer service",
+              "vi": "Dịch vụ khách hàng"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ybm25-t06-p4-q076",
+          "number": 76,
+          "question": {
+            "en": "What does the speaker say is on a Web site?",
+            "vi": "Người nói nói gì có trên trang web?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Hours of operation",
+              "vi": "Giờ làm việc"
+            },
+            {
+              "key": "B",
+              "en": "Details about a sale",
+              "vi": "Chi tiết về một đợt giảm giá"
+            },
+            {
+              "key": "C",
+              "en": "Pictures of houses",
+              "vi": "Hình ảnh các ngôi nhà"
+            },
+            {
+              "key": "D",
+              "en": "Positive reviews",
+              "vi": "Các đánh giá tích cực"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ybm25-t06-p4-g077-079",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/077-079.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "M-Au: ",
+            "questionIds": []
+          },
+          {
+            "text": "Hi, Robin. This is Noah Adkins from Lakeside Dental.",
+            "questionIds": [
+              "ybm25-t06-p4-q077"
+            ]
+          },
+          {
+            "text": " ",
+            "questionIds": []
+          },
+          {
+            "text": "We're looking forward to speaking to you about the hygienist position on Thursday.",
+            "questionIds": [
+              "ybm25-t06-p4-q078"
+            ]
+          },
+          {
+            "text": " I'm calling to make sure you know that this first interview will just be a conversation about your skills and experience. You won't be interacting with patients. There's been some confusion about this among our other candidates. All right, then we'll see you at two on Thursday. Oh, and you should probably start heading over quite early. ",
+            "questionIds": []
+          },
+          {
+            "text": "It can be hard to find parking around here.",
+            "questionIds": [
+              "ybm25-t06-p4-q079"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Chào Robin. Tôi là Noah Adkins từ Lakeside Dental. Chúng tôi mong được nói chuyện với bạn về vị trí chuyên viên vệ sinh răng miệng vào thứ Năm. Tôi gọi để đảm bảo rằng bạn biết cuộc phỏng vấn đầu tiên này sẽ chỉ là một cuộc trò chuyện về kỹ năng và kinh nghiệm của bạn. Bạn sẽ không tương tác với bệnh nhân. Đã có một số nhầm lẫn về điều này giữa các ứng viên khác của chúng tôi. Được rồi, vậy chúng tôi sẽ gặp bạn lúc hai giờ vào thứ Năm. Ồ, và bạn có lẽ nên khởi hành khá sớm. Có thể khó tìm chỗ đậu xe ở quanh đây.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ybm25-t06-p4-q077",
+          "number": 77,
+          "question": {
+            "en": "Where most likely does the speaker work?",
+            "vi": "Người nói có khả năng làm việc ở đâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "At a hair salon",
+              "vi": "Tại tiệm cắt tóc"
+            },
+            {
+              "key": "B",
+              "en": "At a dentist's office",
+              "vi": "Tại phòng khám nha khoa"
+            },
+            {
+              "key": "C",
+              "en": "At an auto repair shop",
+              "vi": "Tại tiệm sửa xe"
+            },
+            {
+              "key": "D",
+              "en": "At a dry cleaning business",
+              "vi": "Tại tiệm giặt khô"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ybm25-t06-p4-q078",
+          "number": 78,
+          "question": {
+            "en": "What is the speaker calling about?",
+            "vi": "Người nói gọi điện về việc gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "An appliance delivery",
+              "vi": "Việc giao một thiết bị"
+            },
+            {
+              "key": "B",
+              "en": "A customer appointment",
+              "vi": "Một cuộc hẹn của khách hàng"
+            },
+            {
+              "key": "C",
+              "en": "A safety inspection",
+              "vi": "Một cuộc kiểm tra an toàn"
+            },
+            {
+              "key": "D",
+              "en": "A job interview",
+              "vi": "Một cuộc phỏng vấn việc làm"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ybm25-t06-p4-q079",
+          "number": 79,
+          "question": {
+            "en": "Why does the speaker say, \"It can be hard to find parking around here\"?",
+            "vi": "Tại sao người nói lại nói: \"Có thể khó tìm chỗ đậu xe ở đây\"?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To explain a recommendation",
+              "vi": "Để giải thích một lời khuyên"
+            },
+            {
+              "key": "B",
+              "en": "To justify an expense",
+              "vi": "Để biện minh cho một khoản chi phí"
+            },
+            {
+              "key": "C",
+              "en": "To express doubt about a plan",
+              "vi": "Để bày tỏ nghi ngờ về một kế hoạch"
+            },
+            {
+              "key": "D",
+              "en": "To request patience with a delay",
+              "vi": "Để yêu cầu kiên nhẫn với sự chậm trễ"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ybm25-t06-p4-g080-082",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/080-082.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "M-Au: ",
+            "questionIds": []
+          },
+          {
+            "text": "Today's episode of Tech Insider is for some of you who aren't part of the technology industry yet, but want to be. Specifically, I'll be talking about intensive courses in computer coding, and how to choose the one that best suits your goals and existing skills.",
+            "questionIds": [
+              "ybm25-t06-p4-q080"
+            ]
+          },
+          {
+            "text": " These days, there are many options for coding courses. ",
+            "questionIds": []
+          },
+          {
+            "text": "It's important to carry out detailed research on several factors before enrolling.",
+            "questionIds": [
+              "ybm25-t06-p4-q081"
+            ]
+          },
+          {
+            "text": " I'll tell you what information you need to know and how to find it—with some help from my guest today. ",
+            "questionIds": []
+          },
+          {
+            "text": "His name is Hinata Kondo, and he has written extensively about coding courses for TechNation.com and other sites.",
+            "questionIds": [
+              "ybm25-t06-p4-q082"
+            ]
+          },
+          {
+            "text": " Hinata, welcome.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Tập hôm nay của Tech Insider dành cho một vài bạn chưa phải là một phần của ngành công nghệ nhưng muốn trở thành một phần của nó. Cụ thể, tôi sẽ nói về các khóa học chuyên sâu về lập trình máy tính, và cách chọn khóa học phù hợp nhất với mục tiêu và kỹ năng hiện có của bạn. Ngày nay, có nhiều lựa chọn cho các khóa học lập trình. Điều quan trọng là phải thực hiện nghiên cứu chi tiết về một số yếu tố trước khi đăng ký. Tôi sẽ cho bạn biết những thông tin bạn cần biết và cách tìm nó—với một số trợ giúp từ khách mời của tôi hôm nay. Anh ấy tên là Hinata Kondo, và anh ấy đã viết rất nhiều về các khóa học lập trình cho TechNation.com và các trang web khác. Hinata, chào mừng.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ybm25-t06-p4-q080",
+          "number": 80,
+          "question": {
+            "en": "What is the focus of the episode?",
+            "vi": "Trọng tâm của tập này là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Developing a mobile application",
+              "vi": "Phát triển ứng dụng di động"
+            },
+            {
+              "key": "B",
+              "en": "Taking advantage of a new technology",
+              "vi": "Tận dụng công nghệ mới"
+            },
+            {
+              "key": "C",
+              "en": "Selecting a training program",
+              "vi": "Chọn chương trình đào tạo"
+            },
+            {
+              "key": "D",
+              "en": "Evaluating job candidates",
+              "vi": "Đánh giá ứng viên"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ybm25-t06-p4-q081",
+          "number": 81,
+          "question": {
+            "en": "What does the speaker say is important?",
+            "vi": "Người nói nói điều gì là quan trọng?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Conducting thorough research",
+              "vi": "Thực hiện nghiên cứu kỹ lưỡng"
+            },
+            {
+              "key": "B",
+              "en": "Specifying a set of goals",
+              "vi": "Xác định một loạt mục tiêu"
+            },
+            {
+              "key": "C",
+              "en": "Joining an industry association",
+              "vi": "Tham gia một hiệp hội ngành"
+            },
+            {
+              "key": "D",
+              "en": "Asking others for recommendations",
+              "vi": "Hỏi người khác để được giới thiệu"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ybm25-t06-p4-q082",
+          "number": 82,
+          "question": {
+            "en": "Who most likely is Hinata Kondo?",
+            "vi": "Hinata Kondo có khả năng là ai?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A professional recruiter",
+              "vi": "Một nhà tuyển dụng chuyên nghiệp"
+            },
+            {
+              "key": "B",
+              "en": "An online journalist",
+              "vi": "Một nhà báo trực tuyến"
+            },
+            {
+              "key": "C",
+              "en": "A business consultant",
+              "vi": "Một tư vấn viên kinh doanh"
+            },
+            {
+              "key": "D",
+              "en": "A computer programmer",
+              "vi": "Một lập trình viên máy tính"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ybm25-t06-p4-g083-085",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/083-085.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "M-Cn: ",
+            "questionIds": []
+          },
+          {
+            "text": "Welcome to today's tour of Fox Canyon, one of the highlights of Hodges National Park.",
+            "questionIds": [
+              "ybm25-t06-p4-q083"
+            ]
+          },
+          {
+            "text": " I'm Eric, your guide. I'll also be driving the UTV, or utility terrain vehicle, that will take us to the canyon. It's about a twenty-minute drive across the desert. ",
+            "questionIds": []
+          },
+          {
+            "text": "You can take pictures and video along the way—just make sure to keep your seat belt fastened until we've come to a complete stop at the canyon.",
+            "questionIds": [
+              "ybm25-t06-p4-q084"
+            ]
+          },
+          {
+            "text": " Also, for anyone who's interested, I have a few copies of a park vegetation guide. ",
+            "questionIds": []
+          },
+          {
+            "text": "It's just one page, but it shows a lot of the trees, cacti, and wildflowers you'll be able to see today.",
+            "questionIds": [
+              "ybm25-t06-p4-q085"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Chào mừng đến với chuyến tham quan Hẻm núi Fox hôm nay, một trong những điểm nổi bật của Công viên Quốc gia Hodges. Tôi là Eric, hướng dẫn viên của các bạn. Tôi cũng sẽ lái chiếc UTV, hay xe địa hình đa dụng, sẽ đưa chúng ta đến hẻm núi. Đó là một chuyến lái xe khoảng hai mươi phút xuyên qua sa mạc. Bạn có thể chụp ảnh và quay video trên đường đi — chỉ cần đảm bảo giữ dây an toàn được thắt cho đến khi chúng ta đã dừng hoàn toàn tại hẻm núi. Ngoài ra, đối với bất cứ ai quan tâm, tôi có một vài bản sao của một hướng dẫn về thực vật trong công viên. Nó chỉ có một trang, nhưng nó cho thấy rất nhiều cây cối, xương rồng và hoa dại mà bạn sẽ có thể nhìn thấy hôm nay.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ybm25-t06-p4-q083",
+          "number": 83,
+          "question": {
+            "en": "Where is the tour taking place?",
+            "vi": "Chuyến tham quan đang diễn ra ở đâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "At a city zoo",
+              "vi": "Tại một sở thú thành phố"
+            },
+            {
+              "key": "B",
+              "en": "At a national park",
+              "vi": "Tại một công viên quốc gia"
+            },
+            {
+              "key": "C",
+              "en": "At a vegetable farm",
+              "vi": "Tại một trang trại rau"
+            },
+            {
+              "key": "D",
+              "en": "At a historical site",
+              "vi": "Tại một di tích lịch sử"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ybm25-t06-p4-q084",
+          "number": 84,
+          "question": {
+            "en": "What does the speaker tell the listeners to do during a drive?",
+            "vi": "Người nói bảo người nghe làm gì trong chuyến đi?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Refrain from speaking",
+              "vi": "Không nói chuyện"
+            },
+            {
+              "key": "B",
+              "en": "Handle some electronics carefully",
+              "vi": "Cẩn thận với đồ điện tử"
+            },
+            {
+              "key": "C",
+              "en": "Watch out for some animals",
+              "vi": "Cẩn thận với một số động vật"
+            },
+            {
+              "key": "D",
+              "en": "Leave their seat belts on",
+              "vi": "Để dây an toàn được thắt"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ybm25-t06-p4-q085",
+          "number": 85,
+          "question": {
+            "en": "According to a speaker, what is shown on a handout?",
+            "vi": "Theo người nói, cái gì được hiển thị trên tài liệu phát?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A route map",
+              "vi": "Bản đồ đường đi"
+            },
+            {
+              "key": "B",
+              "en": "Meal options",
+              "vi": "Các lựa chọn bữa ăn"
+            },
+            {
+              "key": "C",
+              "en": "Operating instructions",
+              "vi": "Hướng dẫn vận hành"
+            },
+            {
+              "key": "D",
+              "en": "Images of plants",
+              "vi": "Hình ảnh các loại cây"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ybm25-t06-p4-g086-088",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/086-088.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "W-Am: Thank you all for coming in early. As you know, our bookstore chain has been losing customers since Internet booksellers became popular. ",
+            "questionIds": []
+          },
+          {
+            "text": "Management has come to the conclusion that what our stores need is a unique, local flavor—after all, you can't get that online.",
+            "questionIds": [
+              "ybm25-t06-p4-q086",
+              "ybm25-t06-p4-q087"
+            ]
+          },
+          {
+            "text": " So, headquarters just let us know that each location no longer has to follow strict guidelines about brand identity. We can make changes to our store's interior and even inventory. Exciting, isn't it? And please know that your input will be welcome. ",
+            "questionIds": []
+          },
+          {
+            "text": "In fact, I'm going to form an ",
+            "questionIds": [
+              "ybm25-t06-p4-q088"
+            ]
+          },
+          {
+            "text": "\"Improvements Committee.\" Those of you who have time should sign up.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Cảm ơn tất cả các bạn đã đến sớm. Như các bạn đã biết, chuỗi nhà sách của chúng ta đã mất khách hàng kể từ khi những người bán sách trên Internet trở nên phổ biến. Ban quản lý đã đi đến kết luận rằng điều mà các cửa hàng của chúng ta cần là một hương vị độc đáo, mang tính địa phương – xét cho cùng, bạn không thể có được điều đó trên mạng. Vì vậy, trụ sở chính vừa cho chúng tôi biết rằng mỗi địa điểm không còn phải tuân theo các nguyên tắc nghiêm ngặt về nhận diện thương hiệu nữa. Chúng ta có thể thực hiện những thay đổi đối với nội thất và thậm chí cả hàng tồn kho của cửa hàng. Thật thú vị phải không? Và xin hãy biết rằng ý kiến đóng góp của các bạn sẽ được hoan nghênh. Trên thực tế, tôi sẽ thành lập một “Ủy ban Cải tiến.” Những bạn nào có thời gian nên đăng ký.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ybm25-t06-p4-q086",
+          "number": 86,
+          "question": {
+            "en": "What does the speaker imply when she says, \"you can't get that online\"?",
+            "vi": "Người nói ngụ ý gì khi cô ấy nói, \"bạn không thể có điều đó trên mạng\"?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is becoming difficult to obtain some merchandise.",
+              "vi": "Việc lấy được một số hàng hóa đang trở nên khó khăn."
+            },
+            {
+              "key": "B",
+              "en": "The price of high-quality service provided at the store.",
+              "vi": "Giá của dịch vụ chất lượng cao được cung cấp tại cửa hàng."
+            },
+            {
+              "key": "C",
+              "en": "Some news has not been communicated to the public yet.",
+              "vi": "Một số tin tức chưa được thông báo cho công chúng."
+            },
+            {
+              "key": "D",
+              "en": "The company will differentiate itself from some competitors.",
+              "vi": "Công ty sẽ khác biệt mình với một số đối thủ cạnh tranh."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ybm25-t06-p4-q087",
+          "number": 87,
+          "question": {
+            "en": "What is the main topic of the announcement?",
+            "vi": "Chủ đề chính của thông báo là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A revision to a corporate policy",
+              "vi": "Một sửa đổi đối với chính sách công ty"
+            },
+            {
+              "key": "B",
+              "en": "The relocation of a store branch",
+              "vi": "Việc di dời một chi nhánh cửa hàng"
+            },
+            {
+              "key": "C",
+              "en": "A search for a new supplier",
+              "vi": "Việc tìm kiếm nhà cung cấp mới"
+            },
+            {
+              "key": "D",
+              "en": "The launch of a marketing campaign",
+              "vi": "Việc ra mắt một chiến dịch tiếp thị"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ybm25-t06-p4-q088",
+          "number": 88,
+          "question": {
+            "en": "What are some of the listeners asked to do?",
+            "vi": "Một số người nghe được yêu cầu làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Check some inventory",
+              "vi": "Kiểm tra hàng tồn kho"
+            },
+            {
+              "key": "B",
+              "en": "Visit some retail spaces",
+              "vi": "Ghé thăm một số không gian bán lẻ"
+            },
+            {
+              "key": "C",
+              "en": "Join a committee",
+              "vi": "Tham gia một ủy ban"
+            },
+            {
+              "key": "D",
+              "en": "Set up a display",
+              "vi": "Sắp xếp một màn trưng bày"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ybm25-t06-p4-g089-091",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/089-091.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "M-Au: ",
+            "questionIds": []
+          },
+          {
+            "text": "It's great to see everyone gathered here to say goodbye to Angela Thorne.",
+            "questionIds": [
+              "ybm25-t06-p4-q089"
+            ]
+          },
+          {
+            "text": " Our hotel has been lucky to have her as our head of human resources for the past five years. ",
+            "questionIds": []
+          },
+          {
+            "text": "In that time, she did wonderful work in fostering a culture of transparency and teamwork here.",
+            "questionIds": [
+              "ybm25-t06-p4-q090"
+            ]
+          },
+          {
+            "text": " Let's hope that she can make a similar impact on our other locations as the new regional vice president of HR. Now, we'd usually present Angela with a gift at this point, but she's asked that we give money to one of her favorite causes, animal welfare, instead. ",
+            "questionIds": []
+          },
+          {
+            "text": "So, I'm proud to announce that I've sent a generous check to Herrick Animal Shelter.",
+            "questionIds": [
+              "ybm25-t06-p4-q091"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Thật tuyệt khi thấy mọi người tụ tập ở đây để tiễn biệt Angela Thorne. Khách sạn của chúng ta đã may mắn có cô ấy làm trưởng phòng nhân sự trong năm năm qua. Trong thời gian đó, cô ấy đã làm rất tốt trong việc thúc đẩy văn hóa minh bạch và làm việc nhóm ở đây. Hãy hy vọng rằng cô ấy có thể tạo ra tác động tương tự tại các địa điểm khác của chúng ta với tư cách là phó chủ tịch khu vực mới về nhân sự. Bây giờ, thông thường chúng ta sẽ tặng Angela một món quà vào lúc này, nhưng cô ấy đã yêu cầu chúng ta chuyển tiền cho một trong những mục đích yêu thích của cô ấy, phúc lợi động vật, thay vào đó. Vì vậy, tôi tự hào thông báo rằng tôi đã gửi một tấm séc hào phóng cho Trung tâm cứu hộ động vật Herrick.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ybm25-t06-p4-q089",
+          "number": 89,
+          "question": {
+            "en": "What event is taking place?",
+            "vi": "Sự kiện nào đang diễn ra?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A community fund-raiser",
+              "vi": "Một sự kiện gây quỹ cộng đồng"
+            },
+            {
+              "key": "B",
+              "en": "A going-away party",
+              "vi": "Một bữa tiệc chia tay"
+            },
+            {
+              "key": "C",
+              "en": "An awards dinner",
+              "vi": "Một bữa tối trao giải"
+            },
+            {
+              "key": "D",
+              "en": "A press conference",
+              "vi": "Một cuộc họp báo"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ybm25-t06-p4-q090",
+          "number": 90,
+          "question": {
+            "en": "What does the speaker praise Angela Thorne for?",
+            "vi": "Người nói khen ngợi Angela Thorne vì điều gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Improving a workplace's culture",
+              "vi": "Cải thiện văn hóa nơi làm việc"
+            },
+            {
+              "key": "B",
+              "en": "Increasing awareness of a local issue",
+              "vi": "Nâng cao nhận thức về một vấn đề địa phương"
+            },
+            {
+              "key": "C",
+              "en": "Forming an effective project team",
+              "vi": "Thành lập một đội dự án hiệu quả"
+            },
+            {
+              "key": "D",
+              "en": "Managing a budget wisely",
+              "vi": "Quản lý ngân sách một cách khôn ngoan"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ybm25-t06-p4-q091",
+          "number": 91,
+          "question": {
+            "en": "What does the speaker say he has done?",
+            "vi": "Người nói nói anh ấy đã làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Prepared a visual presentation",
+              "vi": "Chuẩn bị một bài thuyết trình trực quan"
+            },
+            {
+              "key": "B",
+              "en": "Invited another person to speak",
+              "vi": "Mời người khác nói"
+            },
+            {
+              "key": "C",
+              "en": "Made a charitable donation",
+              "vi": "Quyên góp từ thiện"
+            },
+            {
+              "key": "D",
+              "en": "Purchased a personal gift",
+              "vi": "Mua một món quà cá nhân"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ybm25-t06-p4-g092-094",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/092-094.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "W-Br: Since we're speaking of plans for our new manufacturing plant, I'd like to bring up an idea I had. ",
+            "questionIds": []
+          },
+          {
+            "text": "During my family vacation last week, we toured a chocolate factory, and the best part was an enclosed walkway that went right over the production floor.",
+            "questionIds": [
+              "ybm25-t06-p4-q092"
+            ]
+          },
+          {
+            "text": " We could see everything that was going on, and we weren't bothering the workers. ",
+            "questionIds": []
+          },
+          {
+            "text": "I believe that people would be interested in seeing how our products are made—especially our baseballs and baseball gloves.",
+            "questionIds": [
+              "ybm25-t06-p4-q093"
+            ]
+          },
+          {
+            "text": " Why don't we include a walkway like that in the new plant and start offering tours? ",
+            "questionIds": []
+          },
+          {
+            "text": "It seems to me like it wouldn't be hard to have that feature added to the plans, but I'm not an architect.",
+            "questionIds": [
+              "ybm25-t06-p4-q094"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Vì chúng ta đang nói về kế hoạch cho nhà máy sản xuất mới của mình, tôi muốn đưa ra một ý tưởng tôi đã có. Trong chuyến đi nghỉ mát cùng gia đình tuần trước, chúng tôi đã tham quan một nhà máy sô cô la, và phần hay nhất là một lối đi bộ kín đáo chạy ngay phía trên xưởng sản xuất. Chúng tôi có thể nhìn thấy mọi thứ đang diễn ra, và chúng tôi không làm phiền công nhân. Tôi tin rằng mọi người sẽ hứng thú khi thấy các sản phẩm của chúng ta được tạo ra như thế nào—đặc biệt là bóng chày và găng tay bóng chày của chúng ta. Tại sao chúng ta không đưa một lối đi bộ như vậy vào nhà máy mới và bắt đầu cung cấp các chuyến tham quan nhỉ? Theo tôi thì sẽ không khó để thêm tính năng đó vào kế hoạch, nhưng tôi không phải là kiến ​​trúc sư.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ybm25-t06-p4-q092",
+          "number": 92,
+          "question": {
+            "en": "What did the speaker recently do?",
+            "vi": "Người nói gần đây đã làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She took a factory tour.",
+              "vi": "Cô ấy đã tham quan một nhà máy."
+            },
+            {
+              "key": "B",
+              "en": "She read a journal article.",
+              "vi": "Cô ấy đã đọc một bài báo tạp chí."
+            },
+            {
+              "key": "C",
+              "en": "She spoke with some workers.",
+              "vi": "Cô ấy đã nói chuyện với một số công nhân."
+            },
+            {
+              "key": "D",
+              "en": "She hosted some visitors.",
+              "vi": "Cô ấy đã tiếp đón một số khách."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ybm25-t06-p4-q093",
+          "number": 93,
+          "question": {
+            "en": "What does the speaker's company make?",
+            "vi": "Công ty của người nói sản xuất gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Musical instruments",
+              "vi": "Nhạc cụ"
+            },
+            {
+              "key": "B",
+              "en": "Sporting goods",
+              "vi": "Đồ thể thao"
+            },
+            {
+              "key": "C",
+              "en": "Snack foods",
+              "vi": "Đồ ăn vặt"
+            },
+            {
+              "key": "D",
+              "en": "Wooden furniture",
+              "vi": "Đồ nội thất bằng gỗ"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ybm25-t06-p4-q094",
+          "number": 94,
+          "question": {
+            "en": "What does the speaker mean when she says, \"I'm not an architect\"?",
+            "vi": "Người nói có ý gì khi cô ấy nói, \"tôi không phải là kiến trúc sư\"?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She does not know if a proposal is reasonable.",
+              "vi": "Cô ấy không biết liệu một đề xuất có hợp lý hay không."
+            },
+            {
+              "key": "B",
+              "en": "She will need assistance with an assignment.",
+              "vi": "Cô ấy sẽ cần hỗ trợ với một nhiệm vụ."
+            },
+            {
+              "key": "C",
+              "en": "She is not interested in the details of a building plan.",
+              "vi": "Cô ấy không quan tâm đến chi tiết của một kế hoạch xây dựng."
+            },
+            {
+              "key": "D",
+              "en": "She is concerned that the listeners have been misled.",
+              "vi": "Cô ấy lo ngại rằng người nghe đã bị hiểu lầm."
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ybm25-t06-p4-g095-097",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/095-097.mp3",
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/image/095-097.png",
+      "transcript": {
+        "en": [
+          {
+            "text": "W-Am: Thank you all for coming to Venegas Fashion's development day for store staff. Today you'll have the chance to develop your skills as retail professionals and consider the futures of your careers. ",
+            "questionIds": []
+          },
+          {
+            "text": "Uh, if you didn't do so when you arrived, please sign in now by writing your name on the sheet near the door.",
+            "questionIds": [
+              "ybm25-t06-p4-q095"
+            ]
+          },
+          {
+            "text": " We want to know who's in attendance today. As you can see, we have four workshops scheduled. ",
+            "questionIds": []
+          },
+          {
+            "text": "Each will last fifty minutes, except the four o'clock workshop. That will last just half an hour, so it will end around four-thirty.",
+            "questionIds": [
+              "ybm25-t06-p4-q096"
+            ]
+          },
+          {
+            "text": " Now, I have a special guest to introduce. This is Yuko Ikeda, the company's director of personnel for more than ten years. ",
+            "questionIds": []
+          },
+          {
+            "text": "She would like to say a few words before we begin the first workshop.",
+            "questionIds": [
+              "ybm25-t06-p4-q097"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Cảm ơn tất cả các bạn đã đến tham dự ngày phát triển của Venegas Fashion dành cho nhân viên cửa hàng. Hôm nay các bạn sẽ có cơ hội phát triển kỹ năng của mình với tư cách là những chuyên gia bán lẻ và xem xét tương lai sự nghiệp của mình. Nếu bạn chưa đăng ký khi đến, xin hãy đăng ký ngay bây giờ bằng cách ghi tên vào tờ giấy gần cửa. Chúng tôi muốn biết ai đang tham dự hôm nay. Như các bạn thấy, chúng tôi có bốn buổi hội thảo đã được lên lịch. Mỗi buổi sẽ kéo dài năm mươi phút, ngoại trừ buổi hội thảo lúc bốn giờ. Buổi đó sẽ chỉ kéo dài nửa tiếng, vì vậy nó sẽ kết thúc vào khoảng bốn rưỡi. Bây giờ, tôi có một khách mời đặc biệt muốn giới thiệu. Đây là Yuko Ikeda, giám đốc nhân sự của công ty trong hơn mười năm. Cô ấy muốn nói vài lời trước khi chúng ta bắt đầu buổi hội thảo đầu tiên.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ybm25-t06-p4-q095",
+          "number": 95,
+          "question": {
+            "en": "What are the listeners asked to do?",
+            "vi": "Người nghe được yêu cầu làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Put on name tags",
+              "vi": "Đeo bảng tên"
+            },
+            {
+              "key": "B",
+              "en": "Silence their mobile phones",
+              "vi": "Tắt điện thoại di động"
+            },
+            {
+              "key": "C",
+              "en": "Sign an attendance sheet",
+              "vi": "Ký vào danh sách điểm danh"
+            },
+            {
+              "key": "D",
+              "en": "Take their seats",
+              "vi": "Ngồi vào chỗ của họ"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ybm25-t06-p4-q096",
+          "number": 96,
+          "question": {
+            "en": "Look at the graphic. Which workshop will be shorter than the others?",
+            "vi": "Nhìn vào biểu đồ. Hội thảo nào sẽ ngắn hơn các hội thảo khác?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Introduction to Upcoming Products",
+              "vi": "Giới thiệu về Sản phẩm Sắp tới"
+            },
+            {
+              "key": "B",
+              "en": "Good Customer Service",
+              "vi": "Dịch vụ Khách hàng Tốt"
+            },
+            {
+              "key": "C",
+              "en": "How to Arrange Displays",
+              "vi": "Cách Sắp xếp Trưng bày"
+            },
+            {
+              "key": "D",
+              "en": "Career Paths at Venegas Fashion",
+              "vi": "Con đường Sự nghiệp tại Venegas Fashion"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ybm25-t06-p4-q097",
+          "number": 97,
+          "question": {
+            "en": "According to the speaker, what will Ms. Ikeda do?",
+            "vi": "Theo người nói, bà Ikeda sẽ làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Make an audio recording",
+              "vi": "Thu một bản ghi âm"
+            },
+            {
+              "key": "B",
+              "en": "Give a short speech",
+              "vi": "Phát biểu ngắn"
+            },
+            {
+              "key": "C",
+              "en": "Lead one of the workshops",
+              "vi": "Dẫn dắt một trong các hội thảo"
+            },
+            {
+              "key": "D",
+              "en": "Distribute an employee survey",
+              "vi": "Phân phát một khảo sát nhân viên"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ybm25-t06-p4-g098-100",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/098-100.mp3",
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/image/098-100.png",
+      "transcript": {
+        "en": [
+          {
+            "text": "M-Cn: All right, everyone, I have the latest results from our customer exit survey—the one we ask them to take when they cancel our meal kit service. ",
+            "questionIds": []
+          },
+          {
+            "text": "To make the survey easier to complete, we recently cut it down to just one question about their reason for canceling.",
+            "questionIds": [
+              "ybm25-t06-p4-q098"
+            ]
+          },
+          {
+            "text": " I'm happy to say that this has resulted in a better response rate. So, what have we found out? ",
+            "questionIds": []
+          },
+          {
+            "text": "Well, you'll see here that a surprisingly high percentage of people are canceling because they're not satisfied with the food.",
+            "questionIds": [
+              "ybm25-t06-p4-q099"
+            ]
+          },
+          {
+            "text": " It seems we need new and exciting recipes. Perhaps we should try asking popular food bloggers to develop some, like other services have done. ",
+            "questionIds": []
+          },
+          {
+            "text": "What do you all think of that idea?",
+            "questionIds": [
+              "ybm25-t06-p4-q100"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Nam-Trung Quốc: Được rồi mọi người, tôi có kết quả mới nhất từ khảo sát mức độ hài lòng của khách hàng của chúng ta—khảo sát mà chúng ta yêu cầu họ thực hiện khi họ hủy dịch vụ bữa ăn đóng gói sẵn của chúng ta. Để làm cho cuộc khảo sát dễ hoàn thành hơn, gần đây chúng ta đã rút gọn nó xuống chỉ còn một câu hỏi về lý do hủy. Tôi vui mừng thông báo rằng điều này đã mang lại tỷ lệ phản hồi tốt hơn. Vậy, chúng ta đã tìm ra điều gì? À, các bạn sẽ thấy ở đây là một tỷ lệ đáng ngạc nhiên số người hủy vì họ không hài lòng với thức ăn. Có vẻ như chúng ta cần những công thức nấu ăn mới và thú vị. Có lẽ chúng ta nên thử nhờ các blogger ẩm thực nổi tiếng phát triển một số công thức, như các dịch vụ khác đã làm. Mọi người nghĩ gì về ý tưởng đó?",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ybm25-t06-p4-q098",
+          "number": 98,
+          "question": {
+            "en": "What does the speaker mention about the survey?",
+            "vi": "Người nói đề cập điều gì về cuộc khảo sát?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It has been simplified.",
+              "vi": "Nó đã được đơn giản hóa."
+            },
+            {
+              "key": "B",
+              "en": "It does not receive many responses.",
+              "vi": "Nó không nhận được nhiều phản hồi."
+            },
+            {
+              "key": "C",
+              "en": "A question has been added to it.",
+              "vi": "Một câu hỏi đã được thêm vào."
+            },
+            {
+              "key": "D",
+              "en": "It is delivered by e-mail.",
+              "vi": "Nó được gửi qua email."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ybm25-t06-p4-q099",
+          "number": 99,
+          "question": {
+            "en": "Look at the graphic. Which figure does the speaker call attention to?",
+            "vi": "Nhìn vào biểu đồ. Người nói đề cập đến con số nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "41%",
+              "vi": "41%"
+            },
+            {
+              "key": "B",
+              "en": "22%",
+              "vi": "22%"
+            },
+            {
+              "key": "C",
+              "en": "16%",
+              "vi": "16%"
+            },
+            {
+              "key": "D",
+              "en": "9%",
+              "vi": "9%"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ybm25-t06-p4-q100",
+          "number": 100,
+          "question": {
+            "en": "What will the listeners most likely do next?",
+            "vi": "Người nghe có khả năng làm gì tiếp theo?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Divide into groups",
+              "vi": "Chia thành các nhóm"
+            },
+            {
+              "key": "B",
+              "en": "Look at more data",
+              "vi": "Xem thêm dữ liệu"
+            },
+            {
+              "key": "C",
+              "en": "Sample some food",
+              "vi": "Nếm thử một số thức ăn"
+            },
+            {
+              "key": "D",
+              "en": "Give their opinions",
+              "vi": "Đưa ra ý kiến của họ"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    }
+  ]
+}

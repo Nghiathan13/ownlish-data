@@ -1,0 +1,1944 @@
+{
+  "groups": [
+    {
+      "id": "ets26-t07-p7-g147-148",
+      "documents": [
+        {
+          "kind": "coupon",
+          "content": {
+            "en": "If you love the delicious cheese and crackers served at Truli Cafés, you can now enjoy this popular snack at home! Truli crackers and cheese are now available at major supermarkets.\n\nSave $2.00 on the purchase of ONE box of Truli crackers (any size) when you buy any TWO packages of Truli cheese.\n\nLimit one coupon per customer. This coupon may not be combined with other special offers.\n\nExpires July 31.",
+            "vi": "Nếu bạn yêu thích món phô mai và bánh quy giòn ngon tuyệt được phục vụ tại các quán Truli Cafés, giờ đây bạn có thể thưởng thức món ăn nhẹ phổ biến này tại nhà! Bánh quy và phô mai Truli hiện đã có mặt tại các siêu thị lớn.\n\nTiết kiệm $2.00 khi mua MỘT hộp bánh quy giòn Truli (bất kỳ kích cỡ nào) khi bạn mua bất kỳ HAI gói phô mai Truli nào.\n\nGiới hạn một phiếu giảm giá cho mỗi khách hàng. Phiếu giảm giá này không được kết hợp với các chương trình ưu đãi đặc biệt khác.\n\nHết hạn vào ngày July 31."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t07-p7-q147",
+          "number": 147,
+          "question": {
+            "en": "What is indicated about boxes of Truli crackers?",
+            "vi": "Điều gì được chỉ ra về các hộp bánh quy giòn Truli?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "They come in various sizes.",
+              "vi": "Chúng có nhiều kích cỡ khác nhau."
+            },
+            {
+              "key": "B",
+              "en": "They are available in several flavors.",
+              "vi": "Chúng có sẵn một số hương vị khác nhau."
+            },
+            {
+              "key": "C",
+              "en": "They are sold exclusively at Truli Cafés.",
+              "vi": "Chúng được bán độc quyền tại các quán Truli Cafés."
+            },
+            {
+              "key": "D",
+              "en": "They cost $2.00 more than a package of Truli cheese.",
+              "vi": "Chúng có giá đắt hơn $2.00 so với một gói phô mai Truli."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t07-p7-q148",
+          "number": 148,
+          "question": {
+            "en": "What is indicated about the coupon?",
+            "vi": "Điều gì được chỉ ra về phiếu giảm giá?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It can be used more than once.",
+              "vi": "Nó có thể được sử dụng nhiều lần."
+            },
+            {
+              "key": "B",
+              "en": "It requires the purchase of another product.",
+              "vi": "Nó yêu cầu mua kèm một sản phẩm khác."
+            },
+            {
+              "key": "C",
+              "en": "It can be used for buying hot drinks.",
+              "vi": "Nó có thể được sử dụng để mua đồ uống nóng."
+            },
+            {
+              "key": "D",
+              "en": "It must be used before July 1.",
+              "vi": "Nó phải được sử dụng trước ngày July 1."
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t07-p7-g149-150",
+      "documents": [
+        {
+          "kind": "text_message",
+          "content": {
+            "en": "Brice's Ice Creamery\n\nJune 29, 2:02 P.M.\n\nThank you, Nathan Thielen, for joining Brice's Ice Creamery's rewards program. You have earned your first points just by signing up for our program.\n\nFor every $1.00 you spend in one of our ice cream shops, you earn 1 point. Every 100 points you earn can be redeemed for $5.00 off your purchase of ice cream or store merchandise, including T-shirts and tote bags. You are even entitled to a free scoop at any Brice's Ice Creamery on your birthday.\n\nYou have earned: 20 points. You are 80 points away from earning your next reward.",
+            "vi": "Brice's Ice Creamery\n\nJune 29, 2:02 P.M.\n\nCảm ơn Nathan Thielen vì đã tham gia chương trình khách hàng thân thiết của Brice's Ice Creamery. Bạn đã tích lũy được những điểm số đầu tiên chỉ bằng cách đăng ký chương trình của chúng tôi.\n\nVới mỗi $1.00 bạn chi tiêu tại một trong những cửa hàng kem của chúng tôi, bạn sẽ tích lũy được 1 điểm. Mỗi 100 điểm tích lũy được có thể quy đổi để được giảm giá $5.00 cho đơn hàng mua kem hoặc hàng hóa của cửa hàng, bao gồm áo thun và túi vải thô. Bạn thậm chí còn được tặng một viên kem miễn phí tại bất kỳ cửa hàng Brice's Ice Creamery nào vào ngày sinh nhật của mình.\n\nBạn đã tích lũy được: 20 điểm. Bạn còn thiếu 80 điểm nữa để đạt được phần thưởng tiếp theo."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t07-p7-q149",
+          "number": 149,
+          "question": {
+            "en": "What does the text message indicate about Brice's Ice Creamery?",
+            "vi": "Tin nhắn văn bản chỉ ra điều gì về Brice's Ice Creamery?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It has more than one location.",
+              "vi": "Nó có nhiều hơn một địa điểm."
+            },
+            {
+              "key": "B",
+              "en": "It rents space for birthday parties.",
+              "vi": "Nó cho thuê không gian cho các bữa tiệc sinh nhật."
+            },
+            {
+              "key": "C",
+              "en": "It sells ice cream cones for $5.00 each.",
+              "vi": "Nó bán các cây kem ốc quế với giá $5.00 mỗi cây."
+            },
+            {
+              "key": "D",
+              "en": "It rewards customers for referring friends.",
+              "vi": "Nó thưởng cho khách hàng khi giới thiệu bạn bè."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t07-p7-q150",
+          "number": 150,
+          "question": {
+            "en": "What did Mr. Thielen receive for signing up for the rewards program?",
+            "vi": "Ông Thielen đã nhận được gì khi đăng ký chương trình khách hàng thân thiết?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "1 point",
+              "vi": "1 điểm"
+            },
+            {
+              "key": "B",
+              "en": "20 points",
+              "vi": "20 điểm"
+            },
+            {
+              "key": "C",
+              "en": "80 points",
+              "vi": "80 điểm"
+            },
+            {
+              "key": "D",
+              "en": "100 points",
+              "vi": "100 điểm"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t07-p7-g151-152",
+      "documents": [
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Charlie Tran <Charlie.Tran@mailcrate.com>\nFrom: Grace Drance <GDrance@hoppersmedicalcenter.org>\nDate: January 10\nSubject: Missed appointment\n\nDear Mr. Tran,\n\nI am contacting you because you did not appear for your 1:00 p.m. appointment for your annual physical exam at Hopper's Medical Center (HMC) today. As you know, it is our policy to charge the full appointment fee for missed appointments unless the patient notifies us at least 24 hours in advance of the scheduled visit.\n\nHowever, we are waiving the fee because this is your first missed appointment in fifteen years of being a patient at the center. Please contact the office as soon as possible to reschedule your appointment. Your physician, Dr. Ramanathan, has created additional appointment times this month because he will be on vacation in February.\n\nSincerely,\n\nGrace Drance, Scheduling Assistant",
+            "vi": "Đến: Charlie Tran <Charlie.Tran@mailcrate.com>\nTừ: Grace Drance <GDrance@hoppersmedicalcenter.org>\nNgày: January 10\nChủ đề: Cuộc hẹn bị lỡ\n\nKính gửi ông Tran,\n\nTôi liên hệ với ông vì ông đã không đến buổi hẹn kiểm tra sức khỏe hàng năm vào lúc 1:00 p.m. tại Trung tâm Y tế Hopper's Medical Center (HMC) ngày hôm nay. Như ông đã biết, chính sách của chúng tôi là tính toàn bộ phí cuộc hẹn đối với các cuộc hẹn bị lỡ trừ khi bệnh nhân thông báo cho chúng tôi ít nhất 24 giờ trước thời gian đã lên lịch.\n\nTuy nhiên, chúng tôi sẽ miễn khoản phí này vì đây là cuộc hẹn bị lỡ đầu tiên của ông trong mười lăm năm làm bệnh nhân tại trung tâm. Vui lòng liên hệ với văn phòng càng sớm càng tốt để lên lịch lại cuộc hẹn của ông. Bác sĩ của ông, Dr. Ramanathan, đã bổ sung thêm một số khung giờ hẹn trong tháng này vì ông ấy sẽ đi nghỉ vào tháng Hai.\n\nTrân trọng,\n\nGrace Drance, Trợ lý lên lịch"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t07-p7-q151",
+          "number": 151,
+          "question": {
+            "en": "What is one purpose of the e-mail?",
+            "vi": "Mục đích của e-mail là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To remind a patient of an upcoming appointment",
+              "vi": "Để nhắc nhở một bệnh nhân về một cuộc hẹn sắp tới"
+            },
+            {
+              "key": "B",
+              "en": "To recommend that an appointment be rescheduled",
+              "vi": "Để khuyến nghị lên lịch lại cho một cuộc hẹn"
+            },
+            {
+              "key": "C",
+              "en": "To inform a patient that a fee has been charged",
+              "vi": "Để thông báo cho một bệnh nhân rằng một khoản phí đã bị tính"
+            },
+            {
+              "key": "D",
+              "en": "To provide a patient with the results of a recent physical exam",
+              "vi": "Để cung cấp cho bệnh nhân kết quả của cuộc kiểm tra sức khỏe gần đây"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t07-p7-q152",
+          "number": 152,
+          "question": {
+            "en": "What is indicated about Dr. Ramanathan?",
+            "vi": "Điều gì được chỉ ra về bác sĩ Ramanathan?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He will be taking time off soon.",
+              "vi": "Ông ấy sẽ sớm nghỉ phép."
+            },
+            {
+              "key": "B",
+              "en": "He is a longtime friend of Mr. Tran.",
+              "vi": "Ông ấy là một người bạn lâu năm của ông Tran."
+            },
+            {
+              "key": "C",
+              "en": "He earned his medical degree 24 years ago.",
+              "vi": "Ông ấy đã nhận bằng y khoa từ 24 năm trước."
+            },
+            {
+              "key": "D",
+              "en": "He is relocating his practice in February.",
+              "vi": "Ông ấy sẽ chuyển địa điểm phòng khám của mình vào tháng Hai."
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t07-p7-g153-154",
+      "documents": [
+        {
+          "kind": "text_message_chain",
+          "content": {
+            "en": "Kanae Ikeda (5:46 P.M.)\nHi, Anders. Are you still in the office by any chance?\n\nAnders Lorck (5:48 P.M.)\nI was just packing up.\n\nKanae Ikeda (5:50 P.M.)\nThank goodness! Could you do me a favour and adjust the temperature setting on the office thermostat down to 20 degrees on your way out? The custodian is out today, and I was supposed to do it. Unfortunately, I'm on a train to Melbourne for the weekend.\n\nAnders Lorck (5:51 P.M.)\nI'll take care of it right now. Enjoy your time in Melbourne!\n\nKanae Ikeda (5:52 P.M.)\nThanks. I definitely will.",
+            "vi": "Kanae Ikeda (5:46 P.M.)\nChào Anders. Có phải anh vẫn còn ở văn phòng không?\n\nAnders Lorck (5:48 P.M.)\nTôi vừa đang thu dọn đồ đạc.\n\nKanae Ikeda (5:50 P.M.)\nCảm ơn trời đất! Anh có thể giúp tôi một việc là điều chỉnh nhiệt độ trên máy điều nhiệt văn phòng xuống 20 độ trên đường anh ra ngoài được không? Nhân viên vệ sinh hôm nay nghỉ, và đáng lẽ tôi phải làm việc đó. Thật không may, tôi đang trên tàu đến Melbourne để nghỉ cuối tuần rồi.\n\nAnders Lorck (5:51 P.M.)\nTôi sẽ xử lý việc đó ngay bây giờ. Chúc cô có một chuyến đi vui vẻ ở Melbourne nhé!\n\nKanae Ikeda (5:52 P.M.)\nCảm ơn anh nhé. Chắc chắn rồi."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t07-p7-q153",
+          "number": 153,
+          "question": {
+            "en": "At 5:48 P.M., what does Mr. Lorck imply when he writes, \"I was just packing up\"?",
+            "vi": "Vào lúc 5:48 P.M., ông Lorck có ý gì khi viết \"I was just packing up\"?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He is preparing for a trip.",
+              "vi": "Ông đang chuẩn bị cho một chuyến đi."
+            },
+            {
+              "key": "B",
+              "en": "He has not yet left the office.",
+              "vi": "Ông vẫn chưa rời khỏi văn phòng."
+            },
+            {
+              "key": "C",
+              "en": "He must return some important documents.",
+              "vi": "Ông phải trả lại một số tài liệu quan trọng."
+            },
+            {
+              "key": "D",
+              "en": "He plans to work late this evening.",
+              "vi": "Ông có kế hoạch làm việc muộn tối nay."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t07-p7-q154",
+          "number": 154,
+          "question": {
+            "en": "What is most likely true about Ms. Ikeda?",
+            "vi": "Điều gì rất có thể đúng về cô Ikeda?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She forgot to perform a task.",
+              "vi": "Cô đã quên thực hiện một nhiệm vụ."
+            },
+            {
+              "key": "B",
+              "en": "She usually works from home.",
+              "vi": "Cô thường làm việc tại nhà."
+            },
+            {
+              "key": "C",
+              "en": "She regularly travels to Melbourne.",
+              "vi": "Cô thường xuyên đi du lịch đến Melbourne."
+            },
+            {
+              "key": "D",
+              "en": "She thinks the office is too cold.",
+              "vi": "Cô nghĩ văn phòng quá lạnh."
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t07-p7-g155-157",
+      "documents": [
+        {
+          "kind": "web_page",
+          "content": {
+            "en": "https://www.qualitekkresearch.com/aboutus\n\nHome | About Us | Register | Testimonials\n\nThousands of large companies use surveys to measure customer satisfaction with the goal of improving their business. Qualitekk Research serves its client companies by analyzing survey results and producing detailed reports containing insights about customers' preferences. — [1] —. Over twelve years of operation, Qualitekk Research has built a strong reputation for providing valuable data.\n\nEvery day, consumers complete more than 20,000 online surveys that provide feedback on hundreds of different products. — [2] —. We connect consumers with surveys about products that may interest them. Participants who submit a survey that we facilitate will earn reward points from us. After as few as five surveys, points can be redeemed for a gift card usable at many stores. — [3] —.\n\nIf you would like to join, visit our Register page and complete the member profile questionnaire. This information will help us identify surveys that match your interests. We will then send you links to those surveys to complete at your leisure. If your interests change, simply update your profile. — [4] —. All responses in Qualitekk Research surveys are confidential, and you will never be personally identified with survey data.",
+            "vi": "https://www.qualitekkresearch.com/aboutus\n\nTrang chủ | Về chúng tôi | Đăng ký | Lời chứng thực\n\nHàng ngàn công ty lớn sử dụng các cuộc khảo sát để đo lường mức độ hài lòng của khách hàng với mục tiêu cải thiện hoạt động kinh doanh của họ. Qualitekk Research phục vụ các công ty khách hàng của mình bằng cách phân tích kết quả khảo sát và tạo ra các báo cáo chi tiết chứa đựng những hiểu biết sâu sắc về sở thích của khách hàng. — [1] —. Qua mười hai năm hoạt động, Qualitekk Research đã tạo dựng được uy tín vững chắc trong việc cung cấp dữ liệu có giá trị.\n\nMỗi ngày, người tiêu dùng hoàn thành hơn 20,000 cuộc khảo sát trực tuyến cung cấp thông tin phản hồi về hàng trăm sản phẩm khác nhau. — [2] —. Chúng tôi kết nối người tiêu dùng với các cuộc khảo sát về các sản phẩm mà họ có thể quan tâm. Những người tham gia gửi cuộc khảo sát do chúng tôi hỗ trợ sẽ nhận được điểm thưởng từ chúng tôi. Sau chỉ tối thiểu năm cuộc khảo sát, điểm số có thể được quy đổi thành thẻ quà tặng có thể sử dụng tại nhiều cửa hàng. — [3] —.\n\nNếu bạn muốn tham gia, hãy truy cập trang Đăng ký của chúng tôi và hoàn thành bảng câu hỏi hồ sơ thành viên. Thông tin này sẽ giúp chúng tôi xác định các cuộc khảo sát phù hợp với sở thích của bạn. Sau đó, chúng tôi sẽ gửi cho bạn các liên kết đến những cuộc khảo sát đó để bạn hoàn thành khi rảnh rỗi. Nếu sở thích của bạn thay đổi, chỉ cần cập nhật lại hồ sơ của bạn. — [4] —. Tất cả các câu trả lời trong các cuộc khảo sát của Qualitekk Research đều được bảo mật và bạn sẽ không bao giờ bị nhận dạng cá nhân trong dữ liệu khảo sát."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t07-p7-q155",
+          "number": 155,
+          "question": {
+            "en": "What is indicated about Qualitekk Research?",
+            "vi": "Điều gì được chỉ ra về Qualitekk Research?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It recently revised its Web site.",
+              "vi": "Gần đây nó đã sửa đổi trang web của mình."
+            },
+            {
+              "key": "B",
+              "en": "It has won awards for its services.",
+              "vi": "Nó đã giành được các giải thưởng cho dịch vụ của mình."
+            },
+            {
+              "key": "C",
+              "en": "It produces reports for companies.",
+              "vi": "Nó sản xuất các báo cáo cho các công ty."
+            },
+            {
+              "key": "D",
+              "en": "It has been in business for twenty years.",
+              "vi": "Nó đã hoạt động kinh doanh được hai mươi năm."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t07-p7-q156",
+          "number": 156,
+          "question": {
+            "en": "What are Qualitekk Research's participants encouraged to do?",
+            "vi": "Những người tham gia khảo sát của Qualitekk Research được khuyến khích làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Write their own survey questions",
+              "vi": "Tự viết các câu hỏi khảo sát của riêng họ"
+            },
+            {
+              "key": "B",
+              "en": "Persuade their friends to register",
+              "vi": "Thuyết phục bạn bè của họ đăng ký"
+            },
+            {
+              "key": "C",
+              "en": "Submit photos of preferred products",
+              "vi": "Gửi ảnh về các sản phẩm ưa thích"
+            },
+            {
+              "key": "D",
+              "en": "Update their member profiles if necessary",
+              "vi": "Cập nhật hồ sơ thành viên của họ nếu cần thiết"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t07-p7-q157",
+          "number": 157,
+          "question": {
+            "en": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"These numbers continue to grow as online commerce increases.\"",
+            "vi": "Câu sau phù hợp nhất ở vị trí nào trong các vị trí được đánh dấu [1], [2], [3] và [4]? \"Những con số này tiếp tục tăng lên khi thương mại trực tuyến gia tăng.\""
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "[1]",
+              "vi": "[1]"
+            },
+            {
+              "key": "B",
+              "en": "[2]",
+              "vi": "[2]"
+            },
+            {
+              "key": "C",
+              "en": "[3]",
+              "vi": "[3]"
+            },
+            {
+              "key": "D",
+              "en": "[4]",
+              "vi": "[4]"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t07-p7-g158-160",
+      "documents": [
+        {
+          "kind": "memo",
+          "content": {
+            "en": "To: Swansea Spotlight Theatre staff\nFrom: Rhian Griffudd, Chief Executive\nDate: 7 September\nSubject: What's happening\n\nDear Staff:\n\nI am thrilled about the imminent reopening of our theatre, and I hope you are too. It has been a long process, and audiences will undoubtedly appreciate all the renovations, including the newly upholstered seats and the updated heating and air-conditioning system. I believe that all of us who work in the theatre will enjoy the changes as well. I know you must be eager to rehearse in the newly refurbished building next week.\n\nOne of the more visible updates to the space is the Swansea Spotlight Bistro, a new restaurant with a large seating area that replaces our previous concession stand. The bistro faces the street and will be open to the public even when no performances are scheduled. The menu will feature a wide selection of beverages, snacks, and meals, and it will change with the seasons to highlight locally available products.\n\nOn 2 October, we will celebrate the theatre's grand reopening with a one-night musical showcase starring some of the best actors and singers in Wales. One week later, we will begin the run of Blake's River. I appreciate all your hard work and patience as we start this new chapter in the history of Swansea Spotlight Theatre, and I look forward to our exciting future together.",
+            "vi": "Đến: Toàn thể nhân viên Nhà hát Swansea Spotlight Theatre\nTừ: Rhian Griffudd, Giám đốc điều hành\nNgày: 7 September\nChủ đề: Những hoạt động đang diễn ra\n\nKính gửi toàn thể nhân viên:\n\nTôi vô cùng hào hứng về việc mở cửa trở lại sắp tới của nhà hát chúng ta, và tôi hy vọng quý vị cũng như vậy. Đó là một quá trình dài, và khán giả chắc chắn sẽ đánh giá cao tất cả những cải tạo mới, bao gồm các hàng ghế được bọc đệm mới và hệ thống sưởi cũng như điều hòa không khí đã được cập nhật. Tôi tin rằng tất cả chúng ta, những người làm việc tại nhà hát, cũng sẽ tận hưởng những thay đổi này. Tôi biết quý vị chắc hẳn đang rất háo hức để tập dượt trong tòa nhà mới được tân trang lại vào tuần tới.\n\nMột trong những cập nhật dễ thấy nhất đối với không gian này là Swansea Spotlight Bistro, một nhà hàng mới với khu vực chỗ ngồi lớn thay thế cho quầy bán đồ ăn nhẹ trước đây của chúng ta. Nhà hàng hướng ra phía đường phố và sẽ mở cửa cho công chúng ngay cả khi không có lịch biểu diễn nào. Thực đơn sẽ có nhiều lựa chọn đồ uống, đồ ăn nhẹ và các bữa ăn, và thực đơn này sẽ thay đổi theo mùa để làm nổi bật các sản phẩm sẵn có tại địa phương.\n\nVào ngày 2 October, chúng tôi sẽ kỷ niệm ngày khai trương trở lại của nhà hát bằng một chương trình giới thiệu âm nhạc kéo dài một đêm với sự tham gia của một số diễn viên và ca sĩ xuất sắc nhất xứ Wales. Một tuần sau đó, chúng tôi sẽ bắt đầu công chiếu vở kịch Blake's River. Tôi trân quý tất cả sự chăm chỉ và kiên nhẫn của quý vị khi chúng ta bắt đầu chương trình mới này trong lịch sử của Swansea Spotlight Theatre, và tôi mong đợi một tương lai thú vị của chúng ta cùng nhau."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t07-p7-q158",
+          "number": 158,
+          "question": {
+            "en": "What is the purpose of the memo?",
+            "vi": "Mục đích của bản ghi nhớ là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To announce a collaboration with another theater group",
+              "vi": "Để thông báo về việc hợp tác với một nhóm nhà hát khác"
+            },
+            {
+              "key": "B",
+              "en": "To update employees about the completion of a project",
+              "vi": "Để cập nhật cho nhân viên về việc hoàn thành một dự án"
+            },
+            {
+              "key": "C",
+              "en": "To schedule some rehearsal spaces",
+              "vi": "Để lên lịch cho một số không gian tập dượt"
+            },
+            {
+              "key": "D",
+              "en": "To report on problems with a heating and cooling system",
+              "vi": "Để báo cáo về các vấn đề với hệ thống sưởi ấm và làm mát"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t07-p7-q159",
+          "number": 159,
+          "question": {
+            "en": "What is indicated about the Swansea Spotlight Bistro?",
+            "vi": "Điều gì được chỉ ra về Swansea Spotlight Bistro?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It will feature a fixed menu.",
+              "vi": "Nó sẽ có một thực đơn cố định."
+            },
+            {
+              "key": "B",
+              "en": "It will be open only during performances.",
+              "vi": "Nó sẽ chỉ mở cửa trong suốt các buổi biểu diễn."
+            },
+            {
+              "key": "C",
+              "en": "It replaces a concession stand.",
+              "vi": "Nó thay thế cho một quầy bán đồ ăn nhẹ."
+            },
+            {
+              "key": "D",
+              "en": "It needs more tables and chairs.",
+              "vi": "Nó cần thêm nhiều bàn và ghế."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t07-p7-q160",
+          "number": 160,
+          "question": {
+            "en": "What is mentioned about October 2?",
+            "vi": "Điều gì được đề cập về ngày October 2?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A single performance of a show will take place.",
+              "vi": "Một buổi biểu diễn duy nhất của một chương trình sẽ diễn ra."
+            },
+            {
+              "key": "B",
+              "en": "Town officials will attend an event.",
+              "vi": "Các quan chức thị trấn sẽ tham dự một sự kiện."
+            },
+            {
+              "key": "C",
+              "en": "Blake's River will begin its run.",
+              "vi": "Blake's River sẽ bắt đầu đợt công chiếu của mình."
+            },
+            {
+              "key": "D",
+              "en": "New costumes will be delivered for an upcoming play.",
+              "vi": "Các trang phục mới sẽ được giao cho vở kịch sắp tới."
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t07-p7-g161-163",
+      "documents": [
+        {
+          "kind": "company_web_page",
+          "content": {
+            "en": "Join the Building Blocks Team\n\nBuilding Blocks is the newest employee-led volunteer group at Milos Tek Corporation. Unlike other company groups that organize charity fund-raisers or clean up local parks, Building Blocks asks its members to share their professional expertise with others. We offer free seminars on management, public relations, grant writing, and various types of application software to nonprofit organizations in Lalortown. These organizations include youth clubs, community sports leagues, the Lalortown Nature Center, and Lalortown's public radio station!\n\nParticipation in Building Blocks generally involves more time than what is encouraged by other volunteer groups at Milos Tek. While each seminar is typically one hour long, planning and preparation are also part of our activities. Those who choose to volunteer with us can expect to dedicate about two hours each week to our work.\n\nWe will hold a 30-minute information session on Friday, May 3, at 12:30 P.M., in conference room B-2. In the meantime, if you have questions, please contact Min-Gyu Byun at byun003@milostek.com.",
+            "vi": "Tham gia nhóm Building Blocks\n\nBuilding Blocks là nhóm tình nguyện viên do nhân viên dẫn đầu mới nhất tại Milos Tek Corporation. Không giống như các hội nhóm khác trong công ty thường tổ chức quyên góp từ thiện hoặc dọn dẹp các công viên địa phương, Building Blocks yêu cầu các thành viên chia sẻ kiến thức chuyên môn nghề nghiệp của họ với những người khác. Chúng tôi cung cấp các hội thảo miễn phí về quản lý, quan hệ công chúng, viết đơn xin tài trợ và các loại phần mềm ứng dụng khác nhau cho các tổ chức phi lợi nhuận ở Lalortown. Những tổ chức này bao gồm các câu lạc bộ thanh thiếu niên, các giải thể thao cộng đồng, Trung tâm Thiên nhiên Lalortown Nature Center và đài phát thanh công cộng của Lalortown!\n\nViệc tham gia vào Building Blocks nhìn chung đòi hỏi nhiều thời gian hơn những gì được khuyến khích bởi các nhóm tình nguyện khác tại Milos Tek. Mặc dù mỗi buổi hội thảo thường kéo dài một giờ, nhưng việc lập kế hoạch và chuẩn bị cũng là một phần trong các hoạt động của chúng tôi. Những người chọn tình nguyện với chúng tôi có thể dự kiến sẽ dành ra khoảng hai giờ mỗi tuần cho công việc của chúng tôi.\n\nChúng tôi sẽ tổ chức một buổi cung cấp thông tin kéo dài 30 phút vào thứ Sáu, May 3, lúc 12:30 P.M., tại phòng hội nghị B-2. Trong thời gian này, nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ với Min-Gyu Byun tại byun003@milostek.com."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t07-p7-q161",
+          "number": 161,
+          "question": {
+            "en": "For whom is the information most likely intended?",
+            "vi": "Thông tin này rất có thể dành cho ai?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Lalortown residents who work for nonprofit organizations",
+              "vi": "Những cư dân Lalortown làm việc cho các tổ chức phi lợi nhuận"
+            },
+            {
+              "key": "B",
+              "en": "Lalortown residents who are changing careers",
+              "vi": "Những cư dân Lalortown đang thay đổi nghề nghiệp"
+            },
+            {
+              "key": "C",
+              "en": "Milos Tek employees who want to help the local community",
+              "vi": "Các nhân viên Milos Tek muốn giúp đỡ cộng đồng địa phương"
+            },
+            {
+              "key": "D",
+              "en": "Milos Tek employees who want to mentor newly hired staff members",
+              "vi": "Các nhân viên Milos Tek muốn hướng dẫn các nhân viên mới được tuyển dụng"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t07-p7-q162",
+          "number": 162,
+          "question": {
+            "en": "What is the main activity performed by Building Blocks?",
+            "vi": "Hoạt động chính được thực hiện bởi Building Blocks là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Developing radio programming",
+              "vi": "Phát triển chương trình phát thanh"
+            },
+            {
+              "key": "B",
+              "en": "Planning fund-raisers",
+              "vi": "Lên kế hoạch cho các hoạt động gây quỹ"
+            },
+            {
+              "key": "C",
+              "en": "Presenting informational sessions",
+              "vi": "Trình bày các buổi cung cấp thông tin"
+            },
+            {
+              "key": "D",
+              "en": "Organizing job fairs",
+              "vi": "Tổ chức hội chợ việc làm"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t07-p7-q163",
+          "number": 163,
+          "question": {
+            "en": "What is required of Building Blocks members?",
+            "vi": "Yêu cầu đối với các thành viên Building Blocks là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "They must be residents of Lalortown.",
+              "vi": "Họ phải là cư dân của Lalortown."
+            },
+            {
+              "key": "B",
+              "en": "They must give a fairly large amount of time.",
+              "vi": "Họ phải dành ra một lượng thời gian khá lớn."
+            },
+            {
+              "key": "C",
+              "en": "They must hold advanced academic degrees.",
+              "vi": "Họ phải có các bằng cấp học thuật nâng cao."
+            },
+            {
+              "key": "D",
+              "en": "They must attend a day-long seminar each month.",
+              "vi": "Họ phải tham dự một buổi hội thảo kéo dài một ngày mỗi tháng."
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t07-p7-g164-167",
+      "documents": [
+        {
+          "kind": "article",
+          "content": {
+            "en": "Mehan Motors Appoints New CEO\nBy Jonas Schulz\n\nDETROIT (January 2)--This will be a year of firsts at Mehan Motors. For the first time in its 35-year history, the company is changing its top leadership; Mehan will soon welcome the first American and the first woman to hold the title of CEO. — [1] —.\n\nDana Loeb will begin her tenure at Mehan Motors on February 1, the company announced yesterday. Ms. Loeb graduated with top honors from Clover University of Technology in Boston, where she completed a degree in electrical engineering. — [2] —. She eventually rose to lead the electric vehicle (EV) division at Tafts Motors in Detroit. Within two years, the company promoted her to the position of chief operating officer.\n\nMs. Loeb eventually left her position at Tafts Motors to become CEO of the British car company Norana, where she spearheaded the introduction of its popular subcompact EV, the Radar. Within its category, this vehicle achieved a stunning 20% higher range on a single charge than its nearest EV competitor. — [3] —.\n\nMs. Loeb summarized her vision for Mehan Motors in a recent interview. — [4] —. \"I look forward to leveraging the company's abundant talent to build EVs that are affordable to a mass market. The vehicles must be offered at a price that is reasonable for the average consumer.\"",
+            "vi": "Mehan Motors bổ nhiệm giám đốc điều hành mới\nBởi Jonas Schulz\n\nDETROIT (January 2)—Đây sẽ là một năm của những dấu mốc đầu tiên tại Mehan Motors. Lần đầu tiên trong lịch sử 35 năm của mình, công ty đang thay đổi ban lãnh đạo cấp cao nhất; Mehan sẽ sớm chào đón người Mỹ đầu tiên và người phụ nữ đầu tiên nắm giữ chức danh giám đốc điều hành (CEO). — [1] —.\n\nDana Loeb sẽ bắt đầu nhiệm kỳ của mình tại Mehan Motors vào ngày February 1, công ty đã công bố vào ngày hôm qua. Bà Loeb tốt nghiệp với thành tích xuất sắc nhất tại Đại học Công nghệ Clover (Clover University of Technology) ở Boston, nơi bà đã hoàn thành tấm bằng kỹ sư điện. — [2] —. Cuối cùng, bà đã vươn lên dẫn dắt bộ phận xe điện (EV) tại Tafts Motors ở Detroit. Trong vòng hai năm, công ty đã thăng chức cho bà lên vị trí giám đốc vận hành (COO).\n\nBà Loeb cuối cùng đã rời bỏ vị trí của mình tại Tafts Motors để trở thành CEO của công ty xe hơi Norana của Anh, nơi bà đi tiên phong trong việc giới thiệu mẫu xe điện subcompact phổ biến của hãng, chiếc Radar. Trong phân khúc của mình, chiếc xe này đạt được phạm vi hoạt động cao hơn 20% đáng kinh ngạc trong một lần sạc so với đối thủ cạnh tranh xe điện gần nhất của nó. — [3] —.\n\nBà Loeb đã tóm tắt tầm nhìn của mình đối với Mehan Motors trong một cuộc phỏng vấn gần đây. — [4] —. \"Tôi mong muốn tận dụng tài năng dồi dào của công ty để chế tạo những chiếc xe điện có giá cả phải chăng cho thị trường đại chúng. Các phương tiện giao thông phải được cung cấp ở mức giá hợp lý cho người tiêu dùng trung bình.\""
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t07-p7-q164",
+          "number": 164,
+          "question": {
+            "en": "What is the purpose of the article?",
+            "vi": "Mục đích của bài báo là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To describe the future of electric vehicles",
+              "vi": "Để mô tả tương lai của xe điện"
+            },
+            {
+              "key": "B",
+              "en": "To profile a company's incoming leader",
+              "vi": "Để phác họa chân dung nhà lãnh đạo sắp tới của một công ty"
+            },
+            {
+              "key": "C",
+              "en": "To analyze trends in the sales prices of automobiles",
+              "vi": "Để phân tích các xu hướng về giá bán của ô tô"
+            },
+            {
+              "key": "D",
+              "en": "To explain how a company decision was made",
+              "vi": "Để giải thích cách thức một quyết định của công ty được đưa ra"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t07-p7-q165",
+          "number": 165,
+          "question": {
+            "en": "Where was Ms. Loeb's first experience working on electric vehicles?",
+            "vi": "Trải nghiệm đầu tiên của bà Loeb làm việc về xe điện là ở đâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "At Mehan Motors",
+              "vi": "Tại Mehan Motors"
+            },
+            {
+              "key": "B",
+              "en": "At Clover University of Technology",
+              "vi": "Tại Clover University of Technology"
+            },
+            {
+              "key": "C",
+              "en": "At Norana",
+              "vi": "Tại Norana"
+            },
+            {
+              "key": "D",
+              "en": "At Tafts Motors",
+              "vi": "Tại Tafts Motors"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t07-p7-q166",
+          "number": 166,
+          "question": {
+            "en": "What is special about the Radar?",
+            "vi": "Chiếc Radar có gì đặc biệt?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Its large size",
+              "vi": "Kích thước lớn của nó"
+            },
+            {
+              "key": "B",
+              "en": "Its attractive body design",
+              "vi": "Thiết kế thân xe hấp dẫn của nó"
+            },
+            {
+              "key": "C",
+              "en": "Its long battery life",
+              "vi": "Tuổi thọ pin dài của nó"
+            },
+            {
+              "key": "D",
+              "en": "Its low price",
+              "vi": "Giá rẻ của nó"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t07-p7-q167",
+          "number": 167,
+          "question": {
+            "en": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"She also earned a certificate in corporate management.\"",
+            "vi": "Câu sau phù hợp nhất ở vị trí nào trong các vị trí được đánh dấu [1], [2], [3] và [4]? \"Bà cũng đã đạt được một chứng chỉ về quản lý doanh nghiệp.\""
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "[1]",
+              "vi": "[1]"
+            },
+            {
+              "key": "B",
+              "en": "[2]",
+              "vi": "[2]"
+            },
+            {
+              "key": "C",
+              "en": "[3]",
+              "vi": "[3]"
+            },
+            {
+              "key": "D",
+              "en": "[4]",
+              "vi": "[4]"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t07-p7-g168-171",
+      "documents": [
+        {
+          "kind": "advertisement",
+          "content": {
+            "en": "Dan's Specialty Bicycles\n60 Everett Way, London, SW11 1AH\nHours: Monday-Sunday 10 A.M.-6 P.M.\n\nTenth Annual Sale of Secondhand Bicycles!\n\nWe are known for our stock of high-end racing bicycles, but for a limited time every year, we offer a wide selection of secondhand mountain, road, and hybrid bicycles for all ages and abilities. Each bicycle has been refurbished by a certified technician to ensure a smooth, safe ride. Prices range from £15 to £50.\n\nThe sale runs from 9 May to 22 May. Show or mention this advertisement to receive ten percent off the price of any secondhand or new bicycle. For more information, visit www.dansspecialtybicycles.co.uk.",
+            "vi": "Dan's Specialty Bicycles\n60 Everett Way, London, SW11 1AH\nGiờ mở cửa: Thứ Hai-Chủ Nhật 10 A.M.-6 P.M.\n\nĐợt bán xe đạp cũ thường niên lần thứ mười!\n\nChúng tôi nổi tiếng với nguồn hàng xe đạp đua cao cấp, nhưng trong một thời gian giới hạn mỗi năm, chúng tôi cung cấp nhiều lựa chọn xe đạp địa hình, xe đạp đường trường và xe đạp lai đã qua sử dụng cho mọi lứa tuổi và khả năng. Mỗi chiếc xe đạp đều đã được tân trang lại bởi một kỹ thuật viên có chứng nhận để đảm bảo một hành trình êm ái, an toàn. Giá dao động từ £15 đến £50.\n\nĐợt bán hàng diễn ra từ ngày 9 May đến ngày 22 May. Hãy xuất trình hoặc đề cập đến quảng cáo này để được giảm giá mười phần trăm trên giá của bất kỳ chiếc xe đạp mới hoặc đã qua sử dụng nào. Để biết thêm thông tin, hãy truy cập www.dansspecialtybicycles.co.uk."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t07-p7-q168",
+          "number": 168,
+          "question": {
+            "en": "What is the main purpose of the advertisement?",
+            "vi": "Mục đích chính của quảng cáo là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To announce a store's grand opening",
+              "vi": "Để thông báo về lễ khai trương của một cửa hàng"
+            },
+            {
+              "key": "B",
+              "en": "To encourage bicyclists to compete in a race",
+              "vi": "Để khuyến khích những người đi xe đạp tham gia một cuộc đua"
+            },
+            {
+              "key": "C",
+              "en": "To generate interest in an annual event",
+              "vi": "Để tạo ra sự quan tâm đối với một sự kiện thường niên"
+            },
+            {
+              "key": "D",
+              "en": "To invite people to attend a bicycle repair workshop",
+              "vi": "Để mời mọi người tham dự một buổi hội thảo sửa chữa xe đạp"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t07-p7-q169",
+          "number": 169,
+          "question": {
+            "en": "What is indicated about Dan's Specialty Bicycles?",
+            "vi": "Điều gì được chỉ ra về Dan's Specialty Bicycles?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It will increase the price of most bicycles by ten percent next year.",
+              "vi": "Nó sẽ tăng giá của hầu hết các loại xe đạp lên mười phần trăm vào năm tới."
+            },
+            {
+              "key": "B",
+              "en": "It has several locations in London.",
+              "vi": "Nó có một vài địa điểm ở London."
+            },
+            {
+              "key": "C",
+              "en": "It is open seven days a week.",
+              "vi": "Nó mở cửa bảy ngày một tuần."
+            },
+            {
+              "key": "D",
+              "en": "It will host a party in May.",
+              "vi": "Nó sẽ tổ chức một bữa tiệc vào tháng Năm."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t07-p7-q170",
+          "number": 170,
+          "question": {
+            "en": "What is suggested about the secondhand bicycles?",
+            "vi": "Điều gì được gợi ý về những chiếc xe đạp cũ (đã qua sử dụng)?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "They will be available for sale all year.",
+              "vi": "Chúng sẽ có sẵn để bán quanh năm."
+            },
+            {
+              "key": "B",
+              "en": "Each comes with a bicycle helmet.",
+              "vi": "Mỗi chiếc đều đi kèm với một mũ bảo hiểm xe đạp."
+            },
+            {
+              "key": "C",
+              "en": "Some are designed for children.",
+              "vi": "Một số chiếc được thiết kế dành cho trẻ em."
+            },
+            {
+              "key": "D",
+              "en": "Some need to be repaired.",
+              "vi": "Một số chiếc cần phải được sửa chữa."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t07-p7-q171",
+          "number": 171,
+          "question": {
+            "en": "What information is NOT included in the advertisement?",
+            "vi": "Thông tin nào KHÔNG được bao gồm trong quảng cáo?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "The type of bicycle regularly sold at Dan's Specialty Bicycles",
+              "vi": "Loại xe đạp thường được bán tại Dan's Specialty Bicycles"
+            },
+            {
+              "key": "B",
+              "en": "The credentials of those who serviced some bicycles",
+              "vi": "Bằng cấp của những người đã bảo dưỡng một số chiếc xe đạp"
+            },
+            {
+              "key": "C",
+              "en": "How to save money on a purchase at Dan's Specialty Bicycles",
+              "vi": "Cách để tiết kiệm tiền khi mua hàng tại Dan's Specialty Bicycles"
+            },
+            {
+              "key": "D",
+              "en": "Where to find bicycle trails in the London area",
+              "vi": "Nơi tìm các con đường dành cho xe đạp ở khu vực London"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t07-p7-g172-175",
+      "documents": [
+        {
+          "kind": "online_chat_discussion",
+          "content": {
+            "en": "Morton Talbert (7:32 P.M.)\nHas anyone used the Internet device Bam Booster?\n\nChaya Leven (7:37 P.M.)\nI have used other brands in the past, but now I have the Bam Booster 10, and I love it.\n\nLaria Jones (7:38 P.M.)\nI have a poor connection to the Internet in my basement. I have tried several Internet boosters, but they haven't helped at all. They're just not worth the money.\n\nMorton Talbert (7:40 P.M.)\nI am looking for a reliable booster that's easy to set up.\n\nChaya Leven (7:41 P.M.)\nThat one is the best.\n\nLeonard Keff (7:48 P.M.)\nI have the Bam Booster 7. It works fine and was easy to set up, but I've heard their newer Bam Booster 10 model is better.\n\nDanyelle Walken (7:52 P.M.)\nI have the Zeertox Signal Booster and it's somewhat big and unsightly. On the positive side, it's inexpensive and it works.\n\nChaya Leven (7:58 P.M.)\nThe Bam Booster 10 is much smaller. It does cost more than other brands, though.\n\nMorton Talbert (8:02 P.M.)\nI didn't realize there was more than one Bam Booster model. Thanks, everybody! Now I know what to get.",
+            "vi": "Morton Talbert (7:32 P.M.)\nCó ai từng sử dụng thiết bị mạng Bam Booster chưa?\n\nChaya Leven (7:37 P.M.)\nTôi đã từng sử dụng các thương hiệu khác trong quá khứ, nhưng bây giờ tôi đang có chiếc Bam Booster 10, và tôi rất thích nó.\n\nLaria Jones (7:38 P.M.)\nKết nối Internet dưới tầng hầm của tôi rất kém. Tôi đã thử một vài bộ kích sóng Internet, nhưng chúng không giúp ích được gì cả. Chúng thực sự không đáng tiền.\n\nMorton Talbert (7:40 P.M.)\nTôi đang tìm kiếm một bộ kích sóng đáng tin cậy và dễ cài đặt.\n\nChaya Leven (7:41 P.M.)\nThiết bị đó là tốt nhất đấy.\n\nLeonard Keff (7:48 P.M.)\nTôi đang dùng Bam Booster 7. Nó hoạt động tốt và rất dễ cài đặt, nhưng tôi nghe nói mẫu Bam Booster 10 mới hơn của họ tốt hơn.\n\nDanyelle Walken (7:52 P.M.)\nTôi đang dùng Zeertox Signal Booster và nó có phần hơi to và mất thẩm mỹ. Về mặt tích cực thì nó rẻ và hoạt động ổn.\n\nChaya Leven (7:58 P.M.)\nChiếc Bam Booster 10 nhỏ hơn nhiều. Tuy nhiên, nó có giá đắt hơn các thương hiệu khác.\n\nMorton Talbert (8:02 P.M.)\nTôi không nhận ra là có nhiều hơn một mẫu Bam Booster. Cảm ơn mọi người nhé! Bây giờ tôi đã biết nên mua loại nào rồi."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t07-p7-q172",
+          "number": 172,
+          "question": {
+            "en": "Why did Mr. Talbert initiate the online chat discussion?",
+            "vi": "Tại sao ông Talbert bắt đầu cuộc thảo luận qua đoạn chat trực tuyến?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To solicit advice about purchasing a product",
+              "vi": "Để xin lời khuyên về việc mua một sản phẩm"
+            },
+            {
+              "key": "B",
+              "en": "To provide a review of an appliance",
+              "vi": "Để cung cấp một bài đánh giá về một thiết bị gia dụng"
+            },
+            {
+              "key": "C",
+              "en": "To offer a specialized tool for sale",
+              "vi": "Để chào bán một công cụ chuyên dụng"
+            },
+            {
+              "key": "D",
+              "en": "To ask how to install equipment in a basement",
+              "vi": "Để hỏi cách lắp đặt thiết bị dưới tầng hầm"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t07-p7-q173",
+          "number": 173,
+          "question": {
+            "en": "Who reported a negative experience with multiple products?",
+            "vi": "Ai đã báo cáo một trải nghiệm tiêu cực với nhiều sản phẩm?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Mr. Talbert",
+              "vi": "Ông Talbert"
+            },
+            {
+              "key": "B",
+              "en": "Ms. Jones",
+              "vi": "Bà Jones"
+            },
+            {
+              "key": "C",
+              "en": "Mr. Keff",
+              "vi": "Ông Keff"
+            },
+            {
+              "key": "D",
+              "en": "Ms. Walken",
+              "vi": "Bà Walken"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t07-p7-q174",
+          "number": 174,
+          "question": {
+            "en": "At 7:41 P.M., what does Ms. Leven imply when she writes, \"That one is the best\"?",
+            "vi": "Vào lúc 7:41 P.M., bà Leven có ý gì khi viết \"That one is the best\"?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She appreciated a prior online chat discussion.",
+              "vi": "Bà đánh giá cao cuộc thảo luận qua đoạn chat trực tuyến trước đó."
+            },
+            {
+              "key": "B",
+              "en": "She has been eager to try a new product.",
+              "vi": "Bà đã rất háo hức muốn thử một sản phẩm mới."
+            },
+            {
+              "key": "C",
+              "en": "She finds Mr. Talbert's question helpful.",
+              "vi": "Bà thấy câu hỏi của ông Talbert rất hữu ích."
+            },
+            {
+              "key": "D",
+              "en": "She is pleased with the device she uses.",
+              "vi": "Bà hài lòng với thiết bị mà bà đang sử dụng."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t07-p7-q175",
+          "number": 175,
+          "question": {
+            "en": "What is indicated about the Zeertox Signal Booster?",
+            "vi": "Điều gì được chỉ ra về bộ kích sóng Zeertox Signal Booster?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is too expensive.",
+              "vi": "Nó quá đắt."
+            },
+            {
+              "key": "B",
+              "en": "It is unreliable.",
+              "vi": "Nó không đáng tin cậy."
+            },
+            {
+              "key": "C",
+              "en": "It is better than the older version.",
+              "vi": "Nó tốt hơn phiên bản cũ hơn."
+            },
+            {
+              "key": "D",
+              "en": "It is comparatively large.",
+              "vi": "Nó tương đối lớn."
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t07-p7-g176-180",
+      "documents": [
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Mark Schroeder\nFrom: Ashley Nguyen\nDate: May 5\nSubject: Seasonal hiring",
+            "vi": "Đến: Mark Schroeder\nTừ: Ashley Nguyen\nNgày: May 5\nChủ đề: Tuyển dụng theo mùa"
+          }
+        },
+        {
+          "kind": "advertisement",
+          "content": {
+            "en": "Hi, Mark,\n\nI hope you can take care of our summer hiring this year. Last year, Nancy Adams put an advertisement in the Shoreline Observer, and we had applicants right away. I suggest using that paper again. We should hire the same number of workers as last year, but this time, all four should be full-time. Please write a new advertisement, and we can look at it together next week before sending it out.\n\nAnd by the way, thanks for your work getting the Gravel Road store ready to open. I know you will be a great store manager when it is operational next month. One of your first responsibilities will be to put together a terrific staff.\n\nBest,\n\nAshley Nguyen, General Manager\nSurf Bird Beachwear\n\nSurf Bird Beachwear is Hiring for the Summer!\n\nSurf Bird Beachwear, Jaxon Shore's best shop for casual clothing and beach supplies, has openings for four full-time workers. These seasonal positions will be available from the beginning of June until the end of August. Duties include handling sales, stocking shelves, assisting customers, and setting up displays. Some early morning and weekend work is required. We offer a competitive salary and excellent working conditions.\n\nSurf Bird Beachwear has two locations in Jaxon Shore: the original Pelican Inlet store and, opening in June, our new Gravel Road location. All interviews will be conducted at the Gravel Road store. Go to www.surfbirdbeachwear.com/jobs to apply.",
+            "vi": "Chào Mark,\n\nTôi hy vọng cậu có thể phụ trách việc tuyển dụng cho mùa hè năm nay. Năm ngoái, Nancy Adams đã đăng một quảng cáo trên tờ Shoreline Observer và chúng ta đã có người nộp đơn ngay lập tức. Tôi đề xuất sử dụng lại tờ báo đó. Chúng ta nên tuyển số lượng nhân viên bằng năm ngoái, nhưng lần này, cả bốn người đều phải làm việc toàn thời gian. Vui lòng viết một quảng cáo mới, và chúng ta có thể cùng xem xét nó vào tuần tới trước khi gửi đi.\n\nAnd by the way, thanks for your work getting the Gravel Road store ready to open. Tôi biết cậu sẽ là một quản lý cửa hàng tuyệt vời khi nó đi vào hoạt động vào tháng tới. Một trong những trách nhiệm đầu tiên của cậu sẽ là xây dựng một đội ngũ nhân viên tuyệt vời.\n\nThân mến,\n\nAshley Nguyen, Giám đốc Tổng hợp\nSurf Bird Beachwear\n\nSurf Bird Beachwear đang tuyển dụng cho mùa hè!\n\nSurf Bird Beachwear, cửa hàng tốt nhất tại Jaxon Shore về quần áo thường ngày và đồ dùng bãi biển, đang có các vị trí trống cho bốn nhân viên toàn thời gian. Các vị trí theo mùa này sẽ có sẵn từ đầu tháng Sáu cho đến cuối tháng Tám. Nhiệm vụ bao gồm xử lý việc bán hàng, sắp xếp hàng lên kệ, hỗ trợ khách hàng và dựng các khu trưng bày. Yêu cầu làm việc vào sáng sớm và cuối tuần. Chúng tôi cung cấp mức lương cạnh tranh và điều kiện làm việc tuyệt vời.\n\nSurf Bird Beachwear có hai địa điểm tại Jaxon Shore: cửa hàng Pelican Inlet ban đầu và cửa hàng mới tại Gravel Road sẽ mở cửa vào tháng Sáu. Tất cả các cuộc phỏng vấn sẽ được tiến hành tại cửa hàng Gravel Road. Truy cập www.surfbirdbeachwear.com/jobs để nộp đơn ứng tuyển."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t07-p7-q176",
+          "number": 176,
+          "question": {
+            "en": "Why did Ms. Nguyen write the e-mail?",
+            "vi": "Tại sao bà Nguyen viết e-mail?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To make a job offer to an applicant",
+              "vi": "To make a job offer to an applicant -> Để gửi lời mời nhận việc đến một ứng viên"
+            },
+            {
+              "key": "B",
+              "en": "To assign a task to an employee",
+              "vi": "To assign a task to an employee -> Để giao một nhiệm vụ cho một nhân viên"
+            },
+            {
+              "key": "C",
+              "en": "To announce opening hours at a store",
+              "vi": "To announce opening hours at a store -> Để thông báo giờ mở cửa tại một cửa hàng"
+            },
+            {
+              "key": "D",
+              "en": "To ask a question about newspaper advertising",
+              "vi": "To ask a question about newspaper advertising -> Để hỏi một câu hỏi về quảng cáo trên báo"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t07-p7-q177",
+          "number": 177,
+          "question": {
+            "en": "What is suggested about the workers who were hired last year?",
+            "vi": "Điều gì được gợi ý về những nhân viên đã được tuyển dụng vào năm ngoái?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "They will be rehired this year.",
+              "vi": "Họ sẽ được tuyển dụng lại vào năm nay."
+            },
+            {
+              "key": "B",
+              "en": "They will begin working in May.",
+              "vi": "Họ sẽ bắt đầu làm việc vào tháng Năm."
+            },
+            {
+              "key": "C",
+              "en": "They lived near Jaxon Shore.",
+              "vi": "Họ sống gần Jaxon Shore."
+            },
+            {
+              "key": "D",
+              "en": "They did not all work full-time.",
+              "vi": "Họ không phải tất cả đều làm việc toàn thời gian."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t07-p7-q178",
+          "number": 178,
+          "question": {
+            "en": "What is NOT mentioned as a job duty in the advertisement?",
+            "vi": "Điều gì KHÔNG được đề cập như một nhiệm vụ công việc trong quảng cáo?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Placing items on shelves",
+              "vi": "Đặt các mặt hàng lên kệ"
+            },
+            {
+              "key": "B",
+              "en": "Displaying merchandise",
+              "vi": "Trưng bày hàng hóa"
+            },
+            {
+              "key": "C",
+              "en": "Unloading deliveries",
+              "vi": "Dỡ các chuyến hàng giao đến"
+            },
+            {
+              "key": "D",
+              "en": "Helping shoppers",
+              "vi": "Giúp đỡ những người mua sắm"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t07-p7-q179",
+          "number": 179,
+          "question": {
+            "en": "What is most likely true about the job interviews?",
+            "vi": "Điều gì rất có thể đúng về các cuộc phỏng vấn xin việc?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "They will take place in July.",
+              "vi": "Chúng sẽ diễn ra vào tháng Bảy."
+            },
+            {
+              "key": "B",
+              "en": "They will be held at the Pelican Inlet location.",
+              "vi": "Chúng sẽ được tổ chức tại địa điểm Pelican Inlet."
+            },
+            {
+              "key": "C",
+              "en": "They will be led by Mr. Schroeder.",
+              "vi": "Chúng sẽ được dẫn dắt bởi ông Schroeder."
+            },
+            {
+              "key": "D",
+              "en": "They will be conducted online.",
+              "vi": "Chúng sẽ được tiến hành trực tuyến."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t07-p7-q180",
+          "number": 180,
+          "question": {
+            "en": "In the advertisement, the word \"original\" in paragraph 2, line 1, is closest in meaning to",
+            "vi": "Trong quảng cáo, từ \"original\" trong đoạn 2, dòng 1, gần nghĩa nhất với"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "first",
+              "vi": "đầu tiên"
+            },
+            {
+              "key": "B",
+              "en": "unique",
+              "vi": "độc đáo"
+            },
+            {
+              "key": "C",
+              "en": "imaginative",
+              "vi": "giàu trí tưởng tượng"
+            },
+            {
+              "key": "D",
+              "en": "best",
+              "vi": "tốt nhất"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t07-p7-g181-185",
+      "documents": [
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Executive Team\nFrom: Kota Adachi\nDate: October 11\nSubject: Trak-4 jets\n\nDear Team:\n\nIn late December, we will take possession of the first six of the twelve Trak-4 jets we ordered last year. The remaining jets will be delivered throughout the coming year. I believe these narrow-body jets represent the future of our airline. In addition to being the quietest jets on the market today, they are 20 percent more fuel efficient than the DB90s that we currently fly. They also have a smaller passenger capacity of 76 seats, making them ideally suited to underserved regional markets.\n\nIn anticipation of the upcoming delivery, we must decide what routes to fly the new aircraft on. Perhaps we need to rethink our entire hub system. We currently have seven regional urban hubs where our flights connect. Passengers flying between smaller cities must change planes at one of these hubs. Landing fees at these larger airports tend to be very high. We could drastically reduce our operating expenses by flying narrow-body craft directly to and from airports located away from these major urban centers.\n\nI am setting up a meeting one week from today to discuss this issue. We will analyze the profitability of each of our current routes in order to reach an informed decision.\n\nKota Adachi\nCEO, Ventana Airlines",
+            "vi": "Đến: Ban Điều hành\nTừ: Kota Adachi\nNgày: October 11\nChủ đề: Các máy bay phản lực Trak-4\n\nKính gửi Ban Điều hành:\n\nVào cuối tháng Mười Hai, chúng ta sẽ tiếp nhận sáu chiếc đầu tiên trong số mười hai chiếc máy bay phản lực Trak-4 mà chúng ta đã đặt hàng vào năm ngoái. Các máy bay phản lực còn lại sẽ được bàn giao trong suốt năm tới. Tôi tin rằng những chiếc máy bay phản lực thân hẹp này đại diện cho tương lai của hãng hàng không chúng ta. Ngoài việc là những chiếc máy bay phản lực yên tĩnh nhất trên thị trường hiện nay, chúng còn tiết kiệm nhiên liệu hơn 20 phần trăm so với những chiếc DB90 mà chúng ta hiện đang bay. Chúng cũng có sức chứa hành khách nhỏ hơn với 76 chỗ ngồi, khiến chúng phù hợp lý tưởng với các thị trường khu vực chưa được phục vụ đầy đủ.\n\nĐể chuẩn bị cho đợt bàn giao sắp tới, chúng ta phải quyết định sẽ khai thác máy bay mới trên các tuyến đường bay nào. Có lẽ chúng ta cần phải suy nghĩ lại về toàn bộ hệ thống trung tâm kết nối của mình. Chúng ta hiện có bảy trung tâm kết nối đô thị khu vực, nơi các chuyến bay của chúng ta kết nối. Hành khách bay giữa các thành phố nhỏ hơn phải đổi máy bay tại một trong các trung tâm này. Phí hạ cánh tại các sân bay lớn này có xu hướng rất cao. Chúng ta có thể giảm mạnh chi phí vận hành bằng cách bay các máy bay thân hẹp trực tiếp đến và đi từ các sân bay nằm ngoài các trung tâm đô thị lớn này.\n\nTôi đang thiết lập một cuộc họp vào một tuần kể từ hôm nay để thảo luận về vấn đề này. Chúng ta sẽ phân tích khả năng sinh lời của từng tuyến đường bay hiện tại để đi đến một quyết định sáng suốt.\n\nKota Adachi\nCEO, Ventana Airlines"
+          }
+        },
+        {
+          "kind": "blog_post",
+          "content": {
+            "en": "Travelaider: A Blog about Where, Why, and How to Travel\n\nBy Ken Ogawa\n\nSpringfield (January 20)--I recently flew nonstop from Silver City to Centerville on Ventana Airlines. That's right, I said \"nonstop.\" Ventana now offers direct flights between these two small cities with no need for travelers to change planes at Midwest National Airport, our only regional hub. I surely will not miss hurrying between terminals at Midwest through a sea of fellow passengers.\n\nAs for the flight itself, Ventana's new jets are a vast improvement over the old ones. The possibility of being stuck in the middle seat is no longer a concern. The new aircraft have only two seats on each side of the aisle, so everyone gets an aisle or window seat. The seats are also more comfortable than most airplane seats. The legroom was a little tight for a person my size, but someone of average height should have plenty of room to stretch out.",
+            "vi": "Travelaider: Một trang blog về địa điểm, lý do và cách thức đi du lịch\n\nBởi Ken Ogawa\n\nSpringfield (January 20)—Gần đây tôi đã bay thẳng từ Silver City đến Centerville trên hãng hàng không Ventana Airlines. Đúng vậy, tôi nói là \"bay thẳng\". Ventana hiện cung cấp các chuyến bay trực tiếp giữa hai thành phố nhỏ này mà hành khách không cần phải đổi máy bay tại Midwest National Airport, trung tâm kết nối khu vực duy nhất của chúng tôi. Tôi chắc chắn sẽ không phải bận rộn di chuyển giữa các nhà ga tại Midwest thông qua một biển hành khách đi cùng nữa.\n\nVề bản sinh hoạt trong chuyến bay, các máy bay phản lực mới của Ventana là một sự cải tiến vượt bậc so với những chiếc cũ. Khả năng bị kẹt ở ghế giữa không còn là mối lo ngại nữa. Máy bay mới chỉ có hai ghế ở mỗi bên lối đi, vì vậy mọi người đều có được ghế cạnh lối đi hoặc cạnh cửa sổ. Ghế ngồi cũng thoải mái hơn hầu hết các ghế máy bay khác. Khoảng trống để chân hơi chật đối với một người có vóc dáng như tôi, nhưng một người có chiều cao trung bình sẽ có nhiều không gian để duỗi chân thoải mái."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t07-p7-q181",
+          "number": 181,
+          "question": {
+            "en": "According to the e-mail, what will happen over the next twelve months?",
+            "vi": "Theo e-mail, điều gì sẽ xảy ra trong mười hai tháng tới?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Travel to smaller cities will decrease.",
+              "vi": "Hoạt động du lịch đến các thành phố nhỏ hơn sẽ giảm đi."
+            },
+            {
+              "key": "B",
+              "en": "Landing fees at airports will increase.",
+              "vi": "Phí hạánh tại các sân bay sẽ tăng lên."
+            },
+            {
+              "key": "C",
+              "en": "Ventana Airlines will receive new aircraft.",
+              "vi": "Hãng hàng không Ventana Airlines sẽ tiếp nhận các máy bay mới."
+            },
+            {
+              "key": "D",
+              "en": "Ventana Airlines will hire 76 additional staff.",
+              "vi": "Hãng hàng không Ventana Airlines sẽ tuyển dụng thêm 76 nhân viên."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t07-p7-q182",
+          "number": 182,
+          "question": {
+            "en": "How does the Trak-4 jet compare with the DB90 aircraft?",
+            "vi": "Máy bay phản lực Trak-4 có điểm gì khác so với máy bay DB90?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It has more legroom.",
+              "vi": "Nó có nhiều khoảng trống để chân hơn."
+            },
+            {
+              "key": "B",
+              "en": "It has larger windows.",
+              "vi": "Nó có cửa sổ lớn hơn."
+            },
+            {
+              "key": "C",
+              "en": "It can accommodate more passengers per flight.",
+              "vi": "Nó có thể chứa nhiều hành khách hơn trên mỗi chuyến bay."
+            },
+            {
+              "key": "D",
+              "en": "It has no middle seats in its cabin.",
+              "vi": "Nó không có các ghế ở giữa trong cabin của mình."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t07-p7-q183",
+          "number": 183,
+          "question": {
+            "en": "What can be concluded about the Ventana Airlines executive team?",
+            "vi": "Có thể kết luận điều gì về ban điều hành của Ventana Airlines?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is no longer interested in using the Trak-4 jet.",
+              "vi": "Họ không còn quan tâm đến việc sử dụng máy bay phản lực Trak-4 nữa."
+            },
+            {
+              "key": "B",
+              "en": "Its next meeting will be held on January 20.",
+              "vi": "Cuộc họp tiếp theo của họ sẽ được tổ chức vào ngày January 20."
+            },
+            {
+              "key": "C",
+              "en": "It decided to add routes that bypass urban hubs.",
+              "vi": "Họ đã quyết định bổ sung thêm các tuyến bay bỏ qua các trung tâm đô thị."
+            },
+            {
+              "key": "D",
+              "en": "It received an award for achieving its profitability goals.",
+              "vi": "Họ đã nhận được một giải thưởng vì đạt được các mục tiêu sinh lời của mình."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t07-p7-q184",
+          "number": 184,
+          "question": {
+            "en": "What does Mr. Ogawa dislike about connecting at a hub?",
+            "vi": "Ông Ogawa không thích điều gì về việc kết nối tại một trung tâm?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Waiting in line at security checkpoints",
+              "vi": "Việc chờ đợi xếp hàng tại các điểm kiểm tra an ninh"
+            },
+            {
+              "key": "B",
+              "en": "Rushing from one terminal to another",
+              "vi": "Việc vội vã di chuyển từ nhà ga này sang nhà ga khác"
+            },
+            {
+              "key": "C",
+              "en": "Having to eat quickly at the airport",
+              "vi": "Việc phải ăn uống nhanh chóng tại sân bay"
+            },
+            {
+              "key": "D",
+              "en": "Boarding and deboarding the aircraft",
+              "vi": "Việc lên và xuống máy bay"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t07-p7-q185",
+          "number": 185,
+          "question": {
+            "en": "What is most likely true about Mr. Ogawa?",
+            "vi": "Điều gì rất có thể đúng về ông Ogawa?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He is relatively tall.",
+              "vi": "Ông ấy tương đối cao."
+            },
+            {
+              "key": "B",
+              "en": "He is a commercial pilot.",
+              "vi": "Ông ấy là một phi công thương mại."
+            },
+            {
+              "key": "C",
+              "en": "He lives in Centerville.",
+              "vi": "Ông ấy sống ở Centerville."
+            },
+            {
+              "key": "D",
+              "en": "He prefers a window seat.",
+              "vi": "Ông ấy thích một chiếc ghế cạnh cửa sổ hơn."
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t07-p7-g186-190",
+      "documents": [
+        {
+          "kind": "notice",
+          "content": {
+            "en": "Attention: Oxton Science Museum Visitors\n\nThe Gartner Wing of the museum is currently closed. We apologize for the inconvenience.\n\nPlease be patient as we prepare the space for our next exhibit, The Power of Light. Designed by curator Sachiko Morishita, it explores innovations that will affect the future, particularly in the world of lasers and optics. The exhibit will be open to members and private group tours starting August 15 and to the general public starting September 2.",
+            "vi": "Lưu ý: Khách tham quan Bảo tàng Khoa học Oxton Science Museum\n\nPhân khu Gartner Wing của bảo tàng hiện đang đóng cửa. Chúng tôi xin lỗi vì sự bất tiện này.\n\nVui lòng kiên nhẫn khi chúng tôi chuẩn bị không gian cho triển lãm tiếp theo của mình, Sức mạnh của Ánh sáng (The Power of Light). Được thiết kế bởi giám tuyển Sachiko Morishita, triển lãm khám phá những cải tiến sẽ ảnh hưởng đến tương lai, đặc biệt là trong thế giới của laser và quang học. Triển lãm sẽ mở cửa cho các thành viên và các chuyến tham quan của nhóm tư nhân bắt đầu từ ngày August 15 và cho công chúng bắt đầu từ ngày September 2."
+          }
+        },
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Summer Interns <interns@renmarksolutions.com>\nFrom: Tae-Ho Mun <thmun@renmarksolutions.com>\nDate: July 7\nSubject: August trip\n\nGood morning, team,\n\nInterns and their mentors are invited to take a trip to the Oxton Science Museum on Friday, August 19. Many of you have been on previous Renmark Solutions trips, so you know they are always educational and exciting. Participants will get a look at the science and technology that drives our company and customers.\n\nWe will see The Power of Light exhibit as part of our group tour. Vouchers will be handed out for lunch at the museum's restaurant.\n\nOur schedule is as follows.\n\n9:00 A.M. Meet in the company lobby (The bus departs at 9:15 A.M.)\n10:00 A.M. to noon Private group tour\nNoon to 1:00 P.M. Lunch in the museum restaurant\n1:45 to 2:00 P.M. Meet in room 203\n3:15 P.M. Bus leaves for the return to Renmark Solutions offices\n\nYours,\n\nTae-Ho Mun\nResearch and Development Manager",
+            "vi": "Đến: Các thực tập sinh mùa hè <interns@renmarksolutions.com>\nTừ: Tae-Ho Mun <thmun@renmarksolutions.com>\nNgày: July 7\nChủ đề: Chuyến đi tháng Tám\n\nChào buổi sáng cả đội,\n\nCác thực tập sinh và người hướng dẫn của họ được mời tham gia một chuyến đi đến Bảo tàng Khoa học Oxton Science Museum vào thứ Sáu, August 19. Nhiều người trong số các bạn đã tham gia các chuyến đi trước đây của Renmark Solutions, vì vậy các bạn biết chúng luôn mang tính giáo dục và thú vị. Những người tham gia sẽ có cái nhìn thực tế về khoa học và công nghệ thúc đẩy công ty và khách hàng của chúng tôi phát triển.\n\nChúng ta sẽ xem triển lãm Sức mạnh của Ánh sáng như một phần của chuyến tham quan nhóm của mình. Các phiếu ăn sẽ được phát để dùng bữa trưa tại nhà hàng của bảo tàng.\n\nLịch trình của chúng ta như sau.\n\n9:00 A.M. Gặp nhau tại sảnh công ty (Xe buýt khởi hành lúc 9:15 A.M.)\n10:00 A.M. đến trưa Chuyến tham quan nhóm tư nhân\nTrưa đến 1:00 P.M. Ăn trưa tại nhà hàng bảo tàng\n1:45 đến 2:00 P.M. Gặp nhau tại phòng 203\n3:15 P.M. Xe buýt khởi hành để trở về văn phòng Renmark Solutions\n\nThân mến,\n\nTae-Ho Mun, Quản lý Nghiên cứu và Phát triển"
+          }
+        },
+        {
+          "kind": "schedule",
+          "content": {
+            "en": "Oxton Science Museum\nViewing Room Schedule (Room 203)--August 19\n\nTime | Event Title | Event Description\n9:45 A.M. | \"Optical Systems and Applied Observation\" | Lecture by Professor Kaori Okada of Oxton University\n10:30 A.M. | \"Quantum Optics\" | Presentation by Oxton Science Museum curator Wallace McCabe\n1:00 P.M. | \"Increasing the Use of Lasers\" | Presentation by Jee-Min Hahm of Solfis University\n1:45 P.M. | Mirrors, Lenses, and Prisms | Short film by FK Institute of Technology\n2:45 P.M. | \"New Platforms, New Products\" | Product demonstrations by Bigham Industries",
+            "vi": "Bảo tàng Khoa học Oxton Science Museum\n\nLịch trình Phòng Chiếu (Phòng 203)—August 19\n\nThời gian | Tiêu đề sự kiện | Mô tả sự kiện\n9:45 A.M. | \"Các hệ thống quang học và quan sát ứng dụng\" | Bài thuyết trình của Giáo sư Kaori Okada của Đại học Oxton University\n10:30 A.M. | \"Quang học lượng tử\" | Bài trình bày của giám tuyển Bảo tàng Khoa học Oxton Science Museum Wallace McCabe\n1:00 P.M. | \"Tăng cường sử dụng tia laser\" | Bài trình bày của Jee-Min Hahm thuộc Đại học Solfis University\n1:45 P.M. | Gương, Thấu kính và Lăng kính | Phim ngắn của Viện Công nghệ FK Institute of Technology\n2:45 P.M. | \"Các nền tảng mới, Sản phẩm mới\" | Trình diễn sản phẩm của Bigham Industries"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t07-p7-q186",
+          "number": 186,
+          "question": {
+            "en": "What is one purpose of the notice?",
+            "vi": "Một mục đích của thông báo là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To direct people to a different entrance",
+              "vi": "Để chỉ đường cho mọi người đến một lối vào khác"
+            },
+            {
+              "key": "B",
+              "en": "To warn visitors about a temporary closure",
+              "vi": "Để cảnh báo khách tham quan về một đợt đóng cửa tạm thời"
+            },
+            {
+              "key": "C",
+              "en": "To announce the grand opening of an institution",
+              "vi": "Để thông báo về lễ khai trương của một tổ chức"
+            },
+            {
+              "key": "D",
+              "en": "To explain a change in operating hours",
+              "vi": "Để giải thích về một sự thay đổi trong giờ hoạt động"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t07-p7-q187",
+          "number": 187,
+          "question": {
+            "en": "What is indicated about some of Renmark Solutions' interns?",
+            "vi": "Điều gì được chỉ ra về một số thực tập sinh của Renmark Solutions?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "They have volunteered at the Oxton Science Museum before.",
+              "vi": "Họ từng tình nguyện tại Bảo tàng Khoa học Oxton Science Museum trước đây."
+            },
+            {
+              "key": "B",
+              "en": "They installed some audiovisual equipment for Mr. Mun.",
+              "vi": "Họ đã lắp đặt một số thiết bị nghe nhìn cho ông Mun."
+            },
+            {
+              "key": "C",
+              "en": "They have joined Renmark Solutions trips in the past.",
+              "vi": "Họ từng tham gia các chuyến đi của Renmark Solutions trong quá khứ."
+            },
+            {
+              "key": "D",
+              "en": "They assisted with the setup of an educational display.",
+              "vi": "Họ đã hỗ trợ thiết lập một không gian trưng bày giáo dục."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t07-p7-q188",
+          "number": 188,
+          "question": {
+            "en": "What is suggested about the trip on August 19?",
+            "vi": "Điều gì được gợi ý về chuyến đi vào ngày August 19?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It will be led by Mr. Mun.",
+              "vi": "Nó sẽ được dẫn dắt bởi ông Mun."
+            },
+            {
+              "key": "B",
+              "en": "Its participants will travel by train.",
+              "vi": "Những người tham gia sẽ di chuyển bằng tàu hỏa."
+            },
+            {
+              "key": "C",
+              "en": "It includes a tour of Ms. Morishita's exhibit.",
+              "vi": "Nó bao gồm một chuyến tham quan triển lãm của bà Morishita."
+            },
+            {
+              "key": "D",
+              "en": "It must be paid for in advance by attendees.",
+              "vi": "Những người tham gia phải thanh toán trước chi phí chuyến đi."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t07-p7-q189",
+          "number": 189,
+          "question": {
+            "en": "Why will the interns go to room 203?",
+            "vi": "Tại sao các thực tập sinh sẽ đến phòng 203?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To attend a lecture by Ms. Okada",
+              "vi": "Để tham dự một bài thuyết trình của bà Okada"
+            },
+            {
+              "key": "B",
+              "en": "To see a presentation by Mr. McCabe",
+              "vi": "Để xem một bài trình bày của ông McCabe"
+            },
+            {
+              "key": "C",
+              "en": "To view a presentation by Solfis University",
+              "vi": "Để xem một bài trình bày của Đại học Solfis University"
+            },
+            {
+              "key": "D",
+              "en": "To watch a film by FK Institute of Technology",
+              "vi": "Để xem một bộ phim của Viện Công nghệ FK Institute of Technology"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t07-p7-q190",
+          "number": 190,
+          "question": {
+            "en": "According to the schedule, when will a company give a presentation about its merchandise?",
+            "vi": "Theo lịch trình, khi nào một công ty sẽ thực hiện bài trình bày về hàng hóa của mình?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "At 9:45 A.M.",
+              "vi": "Vào lúc 9:45 A.M."
+            },
+            {
+              "key": "B",
+              "en": "At 10:30 A.M.",
+              "vi": "Vào lúc 10:30 A.M."
+            },
+            {
+              "key": "C",
+              "en": "At 1:00 P.M.",
+              "vi": "Vào lúc 1:00 P.M."
+            },
+            {
+              "key": "D",
+              "en": "At 2:45 P.M.",
+              "vi": "Vào lúc 2:45 P.M."
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t07-p7-g191-195",
+      "documents": [
+        {
+          "kind": "advertisement",
+          "content": {
+            "en": "Protecto Umbrella Wrapping Machines\n\nVisitors entering and walking through a building with wet umbrellas unintentionally create wet and slippery floors. The Protecto Umbrella Wrapping machine (PUW machine) provides a simple and convenient way to address this problem. The machine is best placed in the entryway of your building. Upon entry, visitors insert their wet umbrellas into the machine. It automatically wraps the umbrella in a clear plastic bag, after which visitors can take their umbrellas. Upon leaving, they can discard the used bags in any nearby trash can.\n\nPUW machines are available with one or two umbrella-wrapping devices and come in stainless steel or black. The machine wraps umbrellas in 1.5 seconds. The stand is mobile and thus can be rolled around to different locations. Purchase a PUW machine throughout November and receive a lightweight umbrella featuring our company logo.",
+            "vi": "Máy bọc ô Protecto Umbrella Wrapping Machines\n\nKhách truy cập bước vào và đi qua một tòa nhà với những chiếc ô ướt sẽ vô tình tạo ra những sàn nhà ẩm ướt và trơn trượt. Máy bọc ô Protecto Umbrella Wrapping (máy PUW) cung cấp một cách đơn giản và thuận tiện để giải quyết vấn đề này. Máy được đặt tốt nhất ở lối vào tòa nhà của bạn. Khi bước vào, khách tham quan đưa những chiếc ô ướt của họ vào máy. Máy sẽ tự động bọc chiếc ô trong một túi nhựa trong suốt, sau đó khách tham quan có thể lấy ô của họ đi. Khi rời đi, họ can discard những chiếc túi đã qua sử dụng vào bất kỳ thùng rác nào gần đó.\n\nCác máy PUW có sẵn loại một hoặc hai thiết bị bọc ô và có phiên bản thép không gỉ hoặc màu đen. Máy bọc ô trong vòng 1,5 giây. Giá đỡ có tính di động và do đó có thể được lăn di chuyển đến các địa điểm khác nhau. Hãy mua máy PUW trong suốt tháng Mười Một để nhận được một chiếc ô trọng lượng nhẹ có logo công ty của chúng tôi."
+          }
+        },
+        {
+          "kind": "price_list",
+          "content": {
+            "en": "Protecto Products Price List\n\nProduct Number | Description | Price per Unit\n143 | PUW machine with two umbrella-wrapping devices. Price includes 2,000 bags. Perfect for large, high-foot-traffic areas. Available in stainless steel or black. | $450\n144 | PUW machine with one umbrella-wrapping device. Price includes 1,000 bags. Available in stainless steel or black. | $350\n192 | Box of 3,000 plastic bags for refilling any of our units. Available online only. | $100\n194 | Box of 1,000 plastic bags for refilling any of our units. Available online only. | $35",
+            "vi": "Bảng giá sản phẩm Protecto Products\n\nMã sản phẩm | Mô tả | Đơn giá\n143 | Máy PUW với hai thiết bị bọc ô. Giá đã bao gồm 2,000 túi. Hoàn hảo cho các khu vực rộng lớn có lưu lượng người qua lại cao. Có sẵn phiên bản thép không gỉ hoặc màu đen. | $450\n144 | Máy PUW với một thiết bị bọc ô. Giá đã bao gồm 1,000 túi. Có sẵn phiên bản thép không gỉ hoặc màu đen. | $350\n192 | Hộp chứa 3,000 túi nhựa để nạp lại cho bất kỳ sản phẩm nào của chúng tôi. Chỉ bán trực tuyến. | $100\n194 | Hộp chứa 1,000 túi nhựa để nạp lại cho bất kỳ sản phẩm nào của chúng tôi. Chỉ bán trực tuyến. | $35"
+          }
+        },
+        {
+          "kind": "review",
+          "content": {
+            "en": "https://www.setterlyproductreviews.com/officeequipment\n\nOffice Equipment Review: Protecto Umbrella Wrapping Machines\n\nI love our new PUW machine! As the facilities manager of a medium-sized office building, I often have to deal with the inconvenience of wet floors caused by visitors entering with umbrellas. We used to have a large umbrella stand in the lobby where visitors could leave umbrellas, but only a few people used it. Then we tried an umbrella stand that included disposable plastic bags that visitors could tear off and put their umbrellas in. However, this method was ineffective because the bags were rather flimsy, thus failing to prevent water leakage.\n\nSo, in November, we decided to try a PUW machine. Because we have many visitors, we purchased the PUW machine with two devices and ordered it in stainless steel to match our modern-looking lobby.\n\nSince then, the entranceway has been safer and cleaner. Visitors love that it is automatic, and everyone is grateful that the lobby is no longer wet and slippery because of umbrellas dripping with water!\n\n--Andrew Barr",
+            "vi": "https://www.setterlyproductreviews.com/officeequipment\n\nĐánh giá thiết bị văn phòng: Máy bọc ô Protecto Umbrella Wrapping Machines\n\nTôi rất thích máy PUW mới của chúng tôi! Là quản lý cơ sở vật chất của một tòa nhà văn phòng có quy mô trung bình, tôi thường xuyên phải đối mặt với sự bất tiện của những sàn nhà ẩm ướt do khách tham quan mang theo ô bước vào gây ra. Chúng tôi từng để một giá để ô lớn ở sảnh nơi khách có thể để ô lại, nhưng chỉ có một vài người sử dụng nó. Sau đó, chúng tôi đã thử một giá để ô bao gồm các túi nhựa dùng một lần mà khách có thể tự xé ra và bọc ô của họ vào. Tuy nhiên, phương pháp này không hiệu quả vì các túi này khá mỏng manh, do đó không ngăn được nước rò rỉ ra ngoài.\n\nVì vậy, vào tháng Mười Một, chúng tôi quyết định dùng thử máy PUW. Vì chúng tôi có nhiều khách tham quan nên chúng tôi đã mua máy PUW có hai thiết bị và đặt hàng phiên bản thép không gỉ để phù hợp với sảnh đợi trông rất hiện đại của chúng tôi.\n\nKể từ đó, lối vào đã trở nên an toàn và sạch sẽ hơn. Khách tham quan rất thích việc máy hoạt động tự động, và mọi người đều biết ơn vì sảnh đợi không còn ẩm ướt và trơn trượt do nước nhỏ giọt từ những chiếc ô nữa!\n\n—Andrew Barr"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t07-p7-q191",
+          "number": 191,
+          "question": {
+            "en": "What does the advertisement suggest about PUW machines?",
+            "vi": "Quảng cáo gợi ý điều gì về máy PUW?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Their material makes them cost-efficient.",
+              "vi": "Vật liệu của chúng giúp chúng tiết kiệm chi phí."
+            },
+            {
+              "key": "B",
+              "en": "They can wrap an umbrella in less than one second.",
+              "vi": "Chúng có thể bọc một chiếc ô trong vòng chưa đầy một giây."
+            },
+            {
+              "key": "C",
+              "en": "Their wheels allow them to be moved around.",
+              "vi": "Bánh xe của chúng cho phép chúng được di chuyển xung quanh."
+            },
+            {
+              "key": "D",
+              "en": "They contain a receptacle for used bags.",
+              "vi": "Chúng chứa một ngăn chứa cho các túi đã qua sử dụng."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t07-p7-q192",
+          "number": 192,
+          "question": {
+            "en": "What does the price list indicate about bags?",
+            "vi": "Bảng giá chỉ ra điều gì về các túi bọc?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "They are available to buy in different quantities.",
+              "vi": "Chúng sẵn có để mua với các số lượng khác nhau."
+            },
+            {
+              "key": "B",
+              "en": "They fit in all brands of umbrella-wrapping machines.",
+              "vi": "Chúng vừa vặn với tất cả các nhãn hiệu máy bọc ô."
+            },
+            {
+              "key": "C",
+              "en": "They are not included in the price of PUW machines.",
+              "vi": "Chúng không được bao gồm trong giá của các máy PUW."
+            },
+            {
+              "key": "D",
+              "en": "They are sold in retail stores.",
+              "vi": "Chúng được bán tại các cửa hàng bán lẻ."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t07-p7-q193",
+          "number": 193,
+          "question": {
+            "en": "What is suggested about Mr. Barr?",
+            "vi": "Điều gì được gợi ý về ông Barr?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He is a longtime customer of Protecto.",
+              "vi": "Ông ấy là một khách hàng lâu năm của Protecto."
+            },
+            {
+              "key": "B",
+              "en": "He received an umbrella with his order.",
+              "vi": "Ông ấy đã nhận được một chiếc ô đi kèm với đơn đặt hàng của mình."
+            },
+            {
+              "key": "C",
+              "en": "He works in a quiet office building.",
+              "vi": "Ông ấy làm việc trong một tòa nhà văn phòng yên tĩnh."
+            },
+            {
+              "key": "D",
+              "en": "He recently changed jobs.",
+              "vi": "Gần đây ông ấy đã thay đổi công việc."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t07-p7-q194",
+          "number": 194,
+          "question": {
+            "en": "What is the cost of the product that Mr. Barr reviewed?",
+            "vi": "Chi phí của sản phẩm mà ông Barr đã đánh giá là bao nhiêu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "$35",
+              "vi": "$35"
+            },
+            {
+              "key": "B",
+              "en": "$100",
+              "vi": "$100"
+            },
+            {
+              "key": "C",
+              "en": "$350",
+              "vi": "$350"
+            },
+            {
+              "key": "D",
+              "en": "$450",
+              "vi": "$450"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t07-p7-q195",
+          "number": 195,
+          "question": {
+            "en": "What problem does Mr. Barr describe?",
+            "vi": "Ông Barr mô tả vấn đề nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Protecto products are not modern-looking.",
+              "vi": "Các sản phẩm của Protecto trông không hiện đại."
+            },
+            {
+              "key": "B",
+              "en": "Visitors were not using an umbrella stand.",
+              "vi": "Khách tham quan đã không sử dụng giá để ô."
+            },
+            {
+              "key": "C",
+              "en": "The lobby of his building is not clean.",
+              "vi": "Sảnh đợi trong tòa nhà của ông ấy không sạch sẽ."
+            },
+            {
+              "key": "D",
+              "en": "Some disposable umbrella bags were too small.",
+              "vi": "Một số túi đựng ô dùng một lần quá nhỏ."
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t07-p7-g196-200",
+      "documents": [
+        {
+          "kind": "web_page",
+          "content": {
+            "en": "https://www.croydonconstruction.co.nz/news\n\nHome | News | Jobs | Contact Us\n\nIn December, Croydon Construction will mark 25 years in business on the South Island of New Zealand. We take great pride in the many buildings we have built here in Christchurch, where our headquarters are located, and in other locations along the South Island's east coast.\n\nWe have been busy recently with some exciting projects. In Christchurch, we are building the Willoughby Medical Clinic on Grove Road, with a grand opening date of 1 November, and we are expanding the Blakefield Community Centre on Springdale Avenue. In Ashburton, we have nearly finished a 107-unit apartment complex on Passerine Way and have just broken ground on the new wing of the Dismus School on Sixth Street. Steve Kogler is our new chief site engineer.\n\nAre you interested in employment with Croydon Construction? We're hiring for both office and jobsite positions. Go to our Jobs page to view open positions and to apply.",
+            "vi": "https://www.croydonconstruction.co.nz/news\n\nVào tháng Mười Hai, Croydon Construction sẽ đánh dấu mốc 25 năm hoạt động kinh doanh tại Đảo Nam của New Zealand. Chúng tôi vô cùng tự hào về nhiều tòa nhà mà chúng tôi đã xây dựng tại Christchurch, nơi đặt trụ sở chính của chúng tôi, và tại các địa điểm khác dọc theo bờ biển phía đông của Đảo Nam.\n\nGần đây chúng tôi rất bận rộn với một số dự án thú vị. Tại Christchurch, chúng tôi đang xây dựng Phòng khám Y khoa Willoughby Medical Clinic trên Grove Road, với ngày khai trương là ngày 1 November, và chúng tôi đang mở rộng Trung tâm Cộng đồng Blakefield Community Centre trên Springdale Avenue. Tại Ashburton, chúng tôi đã gần như hoàn thành một khu phức hợp căn hộ gồm 107 căn trên Passerine Way và vừa khởi công xây dựng phân khu mới của Trường Dismus School trên Sixth Street. Steve Kogler là giám đốc công trình mới của chúng tôi.\n\nBạn có quan tâm đến việc làm việc tại Croydon Construction không? Chúng tôi đang tuyển dụng cho cả các vị trí văn phòng và công trường. Hãy truy cập trang Việc làm của chúng tôi để xem các vị trí đang tuyển và nộp đơn ứng tuyển."
+          }
+        },
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Sanaa Rahija <srahija@wilmawindows.co.nz>\nFrom: Zack Makoare <zmakoare@croydonconstruction.co.nz>\nDate: 15 August\nSubject: Shipment overdue\n\nDear Ms. Rahija:\n\nI am writing to check on the status of order 47992, which should have arrived here by 31 July and is now two weeks overdue. We are extremely concerned. The building's completion date cannot be postponed. Please let me know when we can expect our windows to arrive. We shall withhold the balance of payment until the items have been received. Wilma Windows has been our supplier for many years, and this is the first time a problem like this has occurred.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\n\nZack Makoare\nConstruction Manager, Croydon Construction",
+            "vi": "Đến: Sanaa Rahija <srahija@wilmawindows.co.nz>\nTừ: Zack Makoare <zmakoare@croydonconstruction.co.nz>\nNgày: 15 August\nChủ đề: Lô hàng quá hạn\n\nKính gửi bà Rahija:\n\nTôi viết thư này để kiểm tra tình trạng của đơn hàng số 47992, đáng lẽ phải được giao đến đây trước ngày 31 July và hiện đã quá hạn hai tuần. Chúng tôi vô cùng lo ngại. Ngày hoàn thành tòa nhà không thể bị trì hoãn thêm. Vui lòng cho tôi biết khi nào chúng tôi có thể nhận được các cửa sổ của mình. Chúng tôi sẽ tạm giữ phần thanh toán còn lại cho đến khi nhận được hàng. Wilma Windows đã là nhà cung cấp của chúng tôi trong nhiều năm, và đây là lần đầu tiên xảy ra sự cố như thế này.\n\nCảm ơn bà đã nhanh chóng lưu ý đến vấn đề này.\n\nTrân trọng,\n\nZack Makoare, Giám đốc Xây dựng, Croydon Construction"
+          }
+        },
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Zack Makoare <zmakoare@croydonconstruction.co.nz>\nFrom: Sanaa Rahija <srahija@wilmawindows.co.nz>\nDate: 16 August\nSubject: RE: Shipment overdue\n\nDear Mr. Makoare:\n\nPlease accept my apologies for the lateness of order 47992. A machine in our factory malfunctioned, creating flaws in the window glass. The machine has been repaired, and the factory is back to its usual production schedule. We are expediting your order and will ship it tomorrow. It will arrive at your medical clinic construction site on 20 August. As a goodwill gesture, we will refund your entire shipping fee.\n\nSincerely,\n\nSanaa Rahija",
+            "vi": "Đến: Zack Makoare <zmakoare@croydonconstruction.co.nz>\nTừ: Sanaa Rahija <srahija@wilmawindows.co.nz>\nNgày: 16 August\nChủ đề: RE: Lô hàng quá hạn\n\nKính gửi ông Makoare:\n\nVui lòng chấp nhận lời xin lỗi của tôi về sự chậm trễ của đơn hàng số 47992. Một chiếc máy trong nhà máy của chúng tôi đã gặp trục trặc, tạo ra các vết nứt trên kính cửa sổ. Chiếc máy đã được sửa chữa, và nhà máy đã quay trở lại lịch trình sản xuất thông thường. Chúng tôi đang đẩy nhanh tiến độ đơn hàng của ông và sẽ vận chuyển nó vào ngày mai. Nó sẽ được giao đến công trường xây dựng phòng khám y khoa của ông vào ngày 20 August. Như một cử chỉ thiện chí, chúng tôi sẽ hoàn trả toàn bộ phí vận chuyển của ông.\n\nTrân trọng,\n\nSanaa Rahija"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t07-p7-q196",
+          "number": 196,
+          "question": {
+            "en": "What is suggested on the Web page about Croydon Construction?",
+            "vi": "Điều gì được gợi ý trên trang web về Croydon Construction?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It recently hired Mr. Kogler.",
+              "vi": "Gần đây công ty đã tuyển dụng ông Kogler."
+            },
+            {
+              "key": "B",
+              "en": "It has been in business for only a short time.",
+              "vi": "Công ty chỉ mới hoạt động kinh doanh trong một thời gian ngắn."
+            },
+            {
+              "key": "C",
+              "en": "It is planning to move its headquarters to Christchurch.",
+              "vi": "Công ty đang có kế hoạch chuyển trụ sở chính đến Christchurch."
+            },
+            {
+              "key": "D",
+              "en": "It completes projects in countries outside of New Zealand.",
+              "vi": "Công ty hoàn thành các dự án ở các quốc gia ngoài New Zealand."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t07-p7-q197",
+          "number": 197,
+          "question": {
+            "en": "According to the Web page, what should job applicants do?",
+            "vi": "Theo trang web, các ứng viên ứng tuyển việc làm nên làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Visit the company headquarters in person",
+              "vi": "Đến trực tiếp trụ sở chính của công ty"
+            },
+            {
+              "key": "B",
+              "en": "Attend a career fair",
+              "vi": "Tham dự một hội chợ việc làm"
+            },
+            {
+              "key": "C",
+              "en": "Contact the hiring manager by e-mail",
+              "vi": "Liên hệ với quản lý tuyển dụng qua e-mail"
+            },
+            {
+              "key": "D",
+              "en": "Submit an application online",
+              "vi": "Nộp đơn ứng tuyển trực tuyến"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t07-p7-q198",
+          "number": 198,
+          "question": {
+            "en": "In the second e-mail, what problem does Ms. Rahija describe?",
+            "vi": "Trong e-mail thứ hai, bà Rahija mô tả vấn đề nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "The wrong product was manufactured.",
+              "vi": "Sản phẩm bị sản xuất sai loại."
+            },
+            {
+              "key": "B",
+              "en": "The factory was understaffed.",
+              "vi": "Nhà máy bị thiếu nhân sự."
+            },
+            {
+              "key": "C",
+              "en": "Some equipment did not operate properly.",
+              "vi": "Một số thiết bị đã hoạt động không bình thường."
+            },
+            {
+              "key": "D",
+              "en": "Some items in an order broke during transport.",
+              "vi": "Một số mặt hàng trong một đơn hàng đã bị vỡ trong quá trình vận chuyển."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t07-p7-q199",
+          "number": 199,
+          "question": {
+            "en": "Where most likely will order 47992 be delivered?",
+            "vi": "Đơn hàng số 47992 rất có thể sẽ được giao đến đâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To Grove Road",
+              "vi": "Đến Grove Road"
+            },
+            {
+              "key": "B",
+              "en": "To Springdale Avenue",
+              "vi": "Đến Springdale Avenue"
+            },
+            {
+              "key": "C",
+              "en": "To Passerine Way",
+              "vi": "Đến Passerine Way"
+            },
+            {
+              "key": "D",
+              "en": "To Sixth Street",
+              "vi": "Đến Sixth Street"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t07-p7-q200",
+          "number": 200,
+          "question": {
+            "en": "What can be concluded about Mr. Makoare?",
+            "vi": "Có thể kết luận điều gì về ông Makoare?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He plans to retire on November 1.",
+              "vi": "Ông có kế hoạch nghỉ hưu vào ngày November 1."
+            },
+            {
+              "key": "B",
+              "en": "He wants to change his order to a better type of window glass.",
+              "vi": "Ông muốn thay đổi đơn hàng của mình sang một loại kính cửa sổ tốt hơn."
+            },
+            {
+              "key": "C",
+              "en": "He will probably have to postpone a building's completion date.",
+              "vi": "Ông có thể sẽ phải hoãn ngày hoàn thành một tòa nhà."
+            },
+            {
+              "key": "D",
+              "en": "He will soon pay a supplier in full.",
+              "vi": "Ông sẽ sớm thanh toán đầy đủ cho một nhà cung cấp."
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    }
+  ]
+}

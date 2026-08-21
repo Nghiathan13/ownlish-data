@@ -1,0 +1,1944 @@
+{
+  "groups": [
+    {
+      "id": "ets26-t10-p7-g147-148",
+      "documents": [
+        {
+          "kind": "form",
+          "content": {
+            "en": "Crystal Brothers Satisfaction Survey\n\nThank you for hiring Crystal Brothers to clean your building. Please circle the appropriate numbers, ranging from 5, \"Excellent,\" to 1, \"Poor.\" Circle \"NP\" for a type of room that is not present in the location that was cleaned.\n\nCustomer: Geraldine Hwang | Date: February 22\n\nCleaning Services\nLiving room | 5 | (4) | 3 | 2 | 1 | NP\nKitchen | (5) | 4 | 3 | 2 | 1 | NP\nDining room | 5 | (4) | 3 | 2 | 1 | NP\nBedroom(s) | (5) | 4 | 3 | 2 | 1 | NP\nLobby | 5 | 4 | 3 | 2 | 1 | (NP)\nConference room(s) | 5 | 4 | 3 | 2 | 1 | (NP)\n\nOther Information\nWas it easy to make an appointment? | 5 | 4 | 3 | 2 | (1)\nDid our staff follow your specific instructions? | (5) | 4 | 3 | 2 | 1\nDid our staff provide information before the visit? | 5 | (4) | 3 | 2 | 1\nWas the cost of the service what you expected? | (5) | 4 | 3 | 2 | 1",
+            "vi": "Khảo sát mức độ hài lòng của Crystal Brothers\n\nCảm ơn bạn đã thuê Crystal Brothers dọn dẹp tòa nhà của mình. Vui lòng khoanh tròn vào các con số thích hợp, từ 5, \"Xuất sắc\", đến 1, \"Kém\". Khoanh tròn \"NP\" cho loại phòng không có tại địa điểm được dọn dẹp.\n\nKhách hàng: Geraldine Hwang | Ngày: February 22\n\nDịch vụ dọn dẹp\nPhòng khách | 5 | (4) | 3 | 2 | 1 | NP\nNhà bếp | (5) | 4 | 3 | 2 | 1 | NP\nPhòng ăn | 5 | (4) | 3 | 2 | 1 | NP\n(Các) phòng ngủ | (5) | 4 | 3 | 2 | 1 | NP\nSảnh chờ | 5 | 4 | 3 | 2 | 1 | (NP)\n(Các) phòng họp | 5 | 4 | 3 | 2 | 1 | (NP)\n\nThông tin khác\nViệc đặt cuộc hẹn có dễ dàng không? | 5 | 4 | 3 | 2 | (1)\nNhân viên của chúng tôi có làm theo các hướng dẫn cụ thể của bạn không? | (5) | 4 | 3 | 2 | 1\nNhân viên của chúng tôi có cung cấp thông tin trước chuyến thăm không? | 5 | (4) | 3 | 2 | 1\nChi phí dịch vụ có đúng như bạn mong đợi không? | (5) | 4 | 3 | 2 | 1"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t10-p7-q147",
+          "number": 147,
+          "question": {
+            "en": "What type of building did Crystal Brothers clean?",
+            "vi": "Crystal Brothers đã dọn dẹp loại tòa nhà nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A hotel",
+              "vi": "Khách sạn"
+            },
+            {
+              "key": "B",
+              "en": "A warehouse",
+              "vi": "Nhà kho"
+            },
+            {
+              "key": "C",
+              "en": "An office building",
+              "vi": "Tòa nhà văn phòng"
+            },
+            {
+              "key": "D",
+              "en": "A home",
+              "vi": "Nhà ở"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t10-p7-q148",
+          "number": 148,
+          "question": {
+            "en": "What part of the cleaning service was Ms. Hwang least satisfied with?",
+            "vi": "Bộ phận dịch vụ dọn dẹp nào mà cô Hwang ít hài lòng nhất?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "The price",
+              "vi": "Giá cả"
+            },
+            {
+              "key": "B",
+              "en": "The scheduling",
+              "vi": "Việc đặt lịch"
+            },
+            {
+              "key": "C",
+              "en": "The customizing",
+              "vi": "Việc tùy chỉnh theo yêu cầu"
+            },
+            {
+              "key": "D",
+              "en": "The staffs punctuality",
+              "vi": "Sự đúng giờ của nhân viên"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t10-p7-g149-150",
+      "documents": [
+        {
+          "kind": "web_page",
+          "content": {
+            "en": "https://www.hamptonlandscaping.com/productdelivery\n\nProduct Delivery\n\nHampton Landscaping offers customers the option of having landscaping products delivered to their residences or businesses. This includes topsoil, compost, gravel, bark dust, firewood, and planting mixes. For your convenience, we offer large- and small-volume deliveries Monday through Saturday. Delivery rates vary based on volume, product, and location. Please call us at 904-555-0132 for detailed pricing. You do not need to be home for delivery. Please note that the requested delivery area must be accessible for our trucks. In the event that this requirement is not met, a $50 restocking fee will be charged.",
+            "vi": "https://www.hamptonlandscaping.com/productdelivery\n\nGiao hàng sản phẩm\n\nHampton Landscaping cung cấp cho khách hàng tùy chọn giao các sản phẩm cảnh quan đến nhà riêng hoặc doanh nghiệp của họ. Sản phẩm bao gồm đất mặt, phân bón hữu cơ, sỏi, mùn vỏ cây, củi và hỗn hợp trồng cây. Để thuận tiện cho bạn, chúng tôi cung cấp dịch vụ giao hàng khối lượng lớn và nhỏ từ Monday đến Saturday. Giá giao hàng thay đổi tùy theo khối lượng, sản phẩm và địa điểm. Vui lòng gọi cho chúng tôi theo số 904-555-0132 để biết giá chi tiết. Bạn không cần phải có nhà để nhận hàng. Xin lưu ý rằng khu vực giao hàng được yêu cầu phải có lối vào cho xe tải của chúng tôi. Trong trường hợp yêu cầu này không được đáp ứng, phí lưu kho $50 sẽ được tính."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t10-p7-q149",
+          "number": 149,
+          "question": {
+            "en": "What is true about Hampton Landscaping?",
+            "vi": "Điều gì đúng về Hampton Landscaping?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It serves only private residences.",
+              "vi": "Nó chỉ phục vụ các nhà riêng."
+            },
+            {
+              "key": "B",
+              "en": "It delivers orders of varying sizes.",
+              "vi": "Nó giao các đơn hàng với nhiều kích cỡ khác nhau."
+            },
+            {
+              "key": "C",
+              "en": "It charges one standard delivery fee.",
+              "vi": "Nó tính một mức phí giao hàng tiêu chuẩn duy nhất."
+            },
+            {
+              "key": "D",
+              "en": "It makes deliveries seven days a week.",
+              "vi": "Nó thực hiện giao hàng bảy ngày một tuần."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t10-p7-q150",
+          "number": 150,
+          "question": {
+            "en": "In what situation would a customer be billed $50?",
+            "vi": "Trong tình huống nào khách hàng sẽ bị tính phí $50?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "When the products to be delivered exceed a specific weight",
+              "vi": "Khi các sản phẩm được giao vượt quá một trọng lượng cụ thể"
+            },
+            {
+              "key": "B",
+              "en": "When the customer is not present to receive an order",
+              "vi": "Khi khách hàng không có mặt để nhận đơn hàng"
+            },
+            {
+              "key": "C",
+              "en": "When the delivery address is not within the metro area",
+              "vi": "Khi địa chỉ giao hàng không nằm trong khu vực nội đô"
+            },
+            {
+              "key": "D",
+              "en": "When a delivery driver cannot access a drop-off location",
+              "vi": "Khi tài xế giao hàng không thể tiếp cận địa điểm trả hàng"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t10-p7-g151-152",
+      "documents": [
+        {
+          "kind": "text_message_chain",
+          "content": {
+            "en": "Hannah Fisk (1:18 P.M.)\nHi, Frank. I was wondering if you could check the budget report I've been working on before I submit it to Accounting later this afternoon. I want to make sure that my estimates are sound.\n\nFrank Gerlin (1:20 P.M.)\nCan you give me 45 minutes or so? I'm in the middle of my monthly performance update. It's taking a little longer than I had expected.\n\nHannah Fisk (1:22 P.M.)\nOh, that's fine! I'll double-check the cost data in the meantime.\n\nFrank Gerlin (1:24 P.M.)\nGood idea. Those estimates can be tricky!\n\nHannah Fisk (1:25 P.M.)\nCan I stop by your office at 2:30?\n\nFrank Gerlin (1:26 P.M.)\nPerfect. See you then.",
+            "vi": "Hannah Fisk (1:18 P.M.)\nChào Frank. Tôi tự hỏi không biết bạn có thể kiểm tra báo cáo ngân sách tôi đang làm trước khi tôi nộp cho Bộ phận Kế toán vào chiều muộn hôm nay không. Tôi muốn chắc chắn rằng các ước tính của mình là hợp lý.\n\nFrank Gerlin (1:20 P.M.)\nBạn có thể cho tôi khoảng 45 phút được không? Tôi đang dở tay làm bản cập nhật hiệu suất làm việc hàng tháng của mình. Việc này mất nhiều thời gian hơn tôi dự kiến một chút.\n\nHannah Fisk (1:22 P.M.)\nỒ, không sao đâu! Trong lúc đó tôi sẽ kiểm tra lại dữ liệu chi phí.\n\nFrank Gerlin (1:24 P.M.)\nÝ kiến hay đấy. Những ước tính đó có thể rất phức tạp!\n\nHannah Fisk (1:25 P.M.)\nTôi có thể ghé qua văn phòng của bạn lúc 2:30 không?\n\nFrank Gerlin (1:26 P.M.)\nTuyệt vời. Hẹn gặp bạn lúc đó."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t10-p7-q151",
+          "number": 151,
+          "question": {
+            "en": "At 1:20 P.M., what does Mr. Gerlin imply when he writes, \"Can you give me 45 minutes or so\"?",
+            "vi": "Lúc 1:20 P.M., ông Gerlin ngụ ý điều gì khi viết \"Can you give me 45 minutes or so\"?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He is willing to assist Ms. Fisk later.",
+              "vi": "Ông sẵn lòng hỗ trợ cô Fisk sau đó."
+            },
+            {
+              "key": "B",
+              "en": "His performance update was due yesterday.",
+              "vi": "Bản cập nhật hiệu suất của ông đã đến hạn vào ngày hôm qua."
+            },
+            {
+              "key": "C",
+              "en": "Compiling cost estimates should take less than an hour.",
+              "vi": "Việc tổng hợp các ước tính chi phí sẽ mất chưa đầy một giờ."
+            },
+            {
+              "key": "D",
+              "en": "He will complete the budget report himself.",
+              "vi": "Ông sẽ tự mình hoàn thành báo cáo ngân sách."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t10-p7-q152",
+          "number": 152,
+          "question": {
+            "en": "What will Ms. Fisk most likely do next?",
+            "vi": "Cô Fisk rất có thể sẽ làm gì tiếp theo?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She will work on her monthly performance update.",
+              "vi": "Cô sẽ làm việc với bản cập nhật hiệu suất hàng tháng của mình."
+            },
+            {
+              "key": "B",
+              "en": "She will ask Accounting to extend a deadline.",
+              "vi": "Cô sẽ yêu cầu Bộ phận Kế toán gia hạn thời hạn."
+            },
+            {
+              "key": "C",
+              "en": "She will contact another colleague for advice.",
+              "vi": "Cô sẽ liên hệ với một đồng nghiệp khác để xin lời khuyên."
+            },
+            {
+              "key": "D",
+              "en": "She will review a portion of the budget report.",
+              "vi": "Cô sẽ xem xét lại một phần của báo cáo ngân sách."
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t10-p7-g153-154",
+      "documents": [
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Seo-Yun Jang <s_jang@lazulinamail.com>\nFrom: Travel Today <team@traveltoday.com>\nDate: March 18\nSubject: Price alert\n\nHello, Travel Today Subscriber,\n\nYou recently signed up for airfare notifications. Please see the information below for price cuts on your preferred trips. Remember that airlines usually offer a limited number of the lowest fares, so you may want to make a reservation soon to take advantage of these prices.\n\nIf you have questions or need assistance making reservations, please contact us at 210-555-0137.\n\nThank you,\n\nYour Travel Today Team\n\nTrip 1: Seattle to Chicago\nJuly 28\nOne way, 1 adult, economy seat\n\nNomata Airlines | 1 stop (Denver) | 2:42 P.M.–11:05 P.M.\nAverage price: $401 | Current price: $315\n\nBlue Range Airways | Nonstop | 4:40 P.M.–10:40 P.M.\nAverage price: $439 | Current price: $376\n\nTrip 2: Los Angeles to New York\nAugust 15\nOne way, 1 adult, comfort-plus seat\n\nNomata Airlines | 1 stop (Houston) | 6:00 A.M.–5:32 P.M.\nAverage price: $465 | Current price: $385\n\nBlue Range Airways | Nonstop | 11:30 A.M.–8:00 P.M.\nAverage price: $518 | Current price: $436",
+            "vi": "Đến: Seo-Yun Jang <s_jang@lazulinamail.com>\nTừ: Travel Today <team@traveltoday.com>\nNgày: March 18\nChủ đề: Cảnh báo giá\n\nXin chào người đăng ký Travel Today,\n\nBạn gần đây đã đăng ký nhận thông báo vé máy bay. Vui lòng xem thông tin bên dưới để biết các đợt giảm giá cho các chuyến đi yêu thích của bạn. Hãy nhớ rằng các hãng hàng không thường cung cấp số lượng vé giá rẻ nhất có hạn, vì vậy bạn có thể muốn đặt chỗ sớm để tận dụng các mức giá này.\n\nNếu bạn có thắc mắc hoặc cần hỗ trợ đặt chỗ, vui lòng liên hệ với chúng tôi theo số 210-555-0137.\n\nCảm ơn bạn,\n\nĐội ngũ Travel Today của bạn\n\nChuyến đi 1: Seattle đến Chicago\nJuly 28\nMột chiều, 1 người lớn, ghế hạng phổ thông\n\nNomata Airlines | 1 điểm dừng (Denver) | 2:42 P.M.–11:05 P.M.\nGiá trung bình: $401 | Giá hiện tại: $315\n\nBlue Range Airways | Bay thẳng | 4:40 P.M.–10:40 P.M.\nGiá trung bình: $439 | Giá hiện tại: $376\n\nChuyến đi 2: Los Angeles đến New York\nAugust 15\nMột chiều, 1 người lớn, ghế hạng phổ thông đặc biệt (comfort-plus)\n\nNomata Airlines | 1 điểm dừng (Houston) | 6:00 A.M.–5:32 P.M.\nGiá trung bình: $465 | Giá hiện tại: $385\n\nBlue Range Airways | Bay thẳng | 11:30 A.M.–8:00 P.M.\nGiá trung bình: $518 | Giá hiện tại: $436"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t10-p7-q153",
+          "number": 153,
+          "question": {
+            "en": "What is the purpose of the e-mail?",
+            "vi": "Mục đích của e-mail là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To confirm a purchase",
+              "vi": "Để xác nhận một giao dịch mua hàng"
+            },
+            {
+              "key": "B",
+              "en": "To provide cost information",
+              "vi": "Để cung cấp thông tin chi phí"
+            },
+            {
+              "key": "C",
+              "en": "To request a seat upgrade",
+              "vi": "Để yêu cầu nâng hạng ghế"
+            },
+            {
+              "key": "D",
+              "en": "To cancel a reservation",
+              "vi": "Để hủy một đặt chỗ"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t10-p7-q154",
+          "number": 154,
+          "question": {
+            "en": "What do both trips have in common?",
+            "vi": "Cả hai chuyến đi có điểm gì chung?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "The departure date",
+              "vi": "Ngày khởi hành"
+            },
+            {
+              "key": "B",
+              "en": "The destination city",
+              "vi": "Thành phố điểm đến"
+            },
+            {
+              "key": "C",
+              "en": "The choice of airlines",
+              "vi": "Lựa chọn các hãng hàng không"
+            },
+            {
+              "key": "D",
+              "en": "The type of seating",
+              "vi": "Loại ghế ngồi"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t10-p7-g155-157",
+      "documents": [
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: rogelio.garza@gerimail.net\nFrom: sasha_lombardo@onyxmail.com\nDate: January 18\nSubject: My cookbook\nAttachment: Draft manuscript\n\nRogelio,\n\nHere is the latest draft of the cookbook I will be self-publishing. Thank you for reviewing my recipes to ensure they are easy to follow. Your input is much appreciated. — [1] —. This project has taken a lot of my energy over the past few years, and I am thrilled it is finally coming together. — [2] —.\n\nI already received feedback from a few others and was told that the instructions in some places were confusingly worded. — [3] —. I am interested to know if you think so as well. I do have one request—when you respond, can you please include your comments in the margins so they are all in this one document? — [4] —.\n\nYou'll also notice that some pages have special boxes marked with a big red X. You can ignore those. I did not take great pictures of certain steps, so the Xs are reminders to take better ones to insert later.\n\nThanks again!\n\nSasha",
+            "vi": "Đến: rogelio.garza@gerimail.net\nTừ: sasha_lombardo@onyxmail.com\nNgày: January 18\nChủ đề: Sách dạy nấu ăn của tôi\nTệp đính kèm: Bản thảo nháp\n\nRogelio,\n\nĐây là bản thảo mới nhất của cuốn sách nấu ăn mà tôi sẽ tự xuất bản. Cảm ơn bạn đã xem lại các công thức nấu ăn của tôi để đảm bảo chúng dễ làm theo. Ý kiến đóng góp của bạn được đánh giá rất cao. — [1] —. Dự án này đã lấy đi rất nhiều năng lượng của tôi trong vài năm qua, và tôi rất vui mừng vì cuối cùng nó cũng đang thành hình. — [2] —.\n\nTôi đã nhận được phản hồi từ một vài người khác và được biết rằng hướng dẫn ở một số chỗ được diễn đạt hơi khó hiểu. — [3] —. Tôi muốn biết liệu bạn có nghĩ như vậy không. Tôi có một yêu cầu—khi bạn phản hồi, bạn có thể vui lòng đưa các bình luận của mình vào phần lề để tất cả nằm trong cùng một tài liệu này không? — [4] —.\n\nBạn cũng sẽ nhận thấy một số trang có các ô đặc biệt được đánh dấu bằng chữ X màu đỏ lớn. Bạn có thể bỏ qua chúng. Tôi đã không chụp được những bức ảnh đẹp cho một số bước nhất định, vì vậy các chữ X đó là lời nhắc nhở tôi chụp những bức ảnh đẹp hơn để chèn vào sau.\n\nCảm ơn bạn một lần nữa!\n\nSasha"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t10-p7-q155",
+          "number": 155,
+          "question": {
+            "en": "What does Ms. Lombardo ask Mr. Garza to do?",
+            "vi": "Cô Lombardo yêu cầu ông Garza làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Make sure her recipes are clear",
+              "vi": "Đảm bảo các công thức nấu ăn của cô rõ ràng"
+            },
+            {
+              "key": "B",
+              "en": "Create an index of all her ingredients",
+              "vi": "Tạo một danh mục tất cả các nguyên liệu của cô"
+            },
+            {
+              "key": "C",
+              "en": "Suggest possible publishers for her book",
+              "vi": "Gợi ý các nhà xuất bản tiềm năng cho cuốn sách của cô"
+            },
+            {
+              "key": "D",
+              "en": "Help her format a final manuscript",
+              "vi": "Giúp cô định dạng bản thảo cuối cùng"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t10-p7-q156",
+          "number": 156,
+          "question": {
+            "en": "What do boxes marked with a red X indicate?",
+            "vi": "Các ô được đánh dấu bằng chữ X màu đỏ biểu thị điều gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Ideas for formatting modifications",
+              "vi": "Các ý tưởng cho việc sửa đổi định dạng"
+            },
+            {
+              "key": "B",
+              "en": "Suggestions for inserting page breaks",
+              "vi": "Các gợi ý về việc ngắt trang"
+            },
+            {
+              "key": "C",
+              "en": "Images that need to be replaced",
+              "vi": "Các hình ảnh cần được thay thế"
+            },
+            {
+              "key": "D",
+              "en": "Terms that should be defined",
+              "vi": "Các thuật ngữ cần được định nghĩa"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t10-p7-q157",
+          "number": 157,
+          "question": {
+            "en": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Otherwise it is hard to keep track of all the changes.\"",
+            "vi": "Câu sau phù hợp nhất ở vị trí nào trong các vị trí được đánh dấu [1], [2], [3] và [4]? \"Nếu không thì rất khó để theo dõi tất cả các thay đổi.\""
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "[1]",
+              "vi": "[1]"
+            },
+            {
+              "key": "B",
+              "en": "[2]",
+              "vi": "[2]"
+            },
+            {
+              "key": "C",
+              "en": "[3]",
+              "vi": "[3]"
+            },
+            {
+              "key": "D",
+              "en": "[4]",
+              "vi": "[4]"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t10-p7-g158-160",
+      "documents": [
+        {
+          "kind": "letter",
+          "content": {
+            "en": "Priscilla Yamaguchi\nFalkenweg 19\n10719 Berlin\n\n23 March\n\nDear Ms. Yamaguchi,\n\nI am writing to you to share the exciting news that Aqua Voyage Cruise Lines will be expanding its fleet next July. As part of our plan, we would welcome the opportunity to form a partnership with you.\n\nYou have established a solid reputation regarding your restaurant chain, Saffron Moon. Your commitment to offering your customers across Europe unique and delicious menu items aligns with our vision for providing cruise-ship passengers with distinct restaurant options.\n\nThere are several benefits of entering into a partnership with us. Since our cruise excursions attract a diverse group of people, an even more extensive group will become familiar with your restaurant chain. Aqua Voyage Cruise Lines will mention your top-rated chain in our brochures and feature it on our Web site. Through our network of suppliers, we can help negotiate exceptionally low rates for recipe ingredients and restaurant equipment, thereby reducing your expenses.\n\nIf you are interested in pursuing this proposition and wish to discuss the details, you can reach me at kbasrawi@aquavoyagecruiselines.de or by phone at 30-23125 032.\n\nSincerely,\n\nKhalid Basrawi\nKhalid Basrawi, Vice President of Corporate Development\nAqua Voyage Cruise Lines",
+            "vi": "Priscilla Yamaguchi\nFalkenweg 19\n10719 Berlin\n\n23 March\n\nDear Ms. Yamaguchi,\n\nTôi viết thư này cho bà để chia sẻ tin vui rằng Aqua Voyage Cruise Lines sẽ mở rộng đội tàu của mình vào July tới. Là một phần trong kế hoạch của mình, chúng tôi rất hoan nghênh cơ hội được thiết lập mối quan hệ hợp tác với bà.\n\nBà đã tạo dựng được một danh tiếng vững chắc liên quan đến chuỗi nhà hàng của mình, Saffron Moon. Cam kết của bà trong việc mang đến cho khách hàng trên khắp Europe các món ăn độc đáo và thơm ngon trong thực đơn hoàn toàn phù hợp với tầm nhìn của chúng tôi trong việc cung cấp cho hành khách trên tàu du lịch các lựa chọn nhà hàng khác biệt.\n\nCó một số lợi ích khi tham gia hợp tác với chúng tôi. Vì các chuyến du ngoạn trên biển của chúng tôi thu hút một nhóm khách hàng đa dạng, một nhóm khách hàng thậm chí còn rộng lớn hơn sẽ biết đến chuỗi nhà hàng của bà. Aqua Voyage Cruise Lines sẽ đề cập đến chuỗi nhà hàng được đánh giá cao của bà trong các tài liệu quảng cáo và giới thiệu trên trang web của chúng tôi. Thông qua mạng lưới nhà cung cấp của mình, chúng tôi có thể giúp thương lượng các mức giá đặc biệt thấp cho các nguyên liệu công thức và thiết bị nhà hàng, từ đó giảm chi phí của bà.\n\nNếu bà quan tâm đến việc theo đuổi đề xuất này và muốn thảo luận chi tiết, bà có thể liên hệ với tôi qua email kbasrawi@aquavoyagecruiselines.de hoặc qua điện thoại số 30-23125 032.\n\nSincerely,\n\nKhalid Basrawi\nKhalid Basrawi, Vice President of Corporate Development\nAqua Voyage Cruise Lines"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t10-p7-q158",
+          "number": 158,
+          "question": {
+            "en": "What is suggested about Ms. Yamaguchi?",
+            "vi": "Điều gì được gợi ý về bà Yamaguchi?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She has won several business awards.",
+              "vi": "Bà đã giành được nhiều giải thưởng kinh doanh."
+            },
+            {
+              "key": "B",
+              "en": "She has scheduled a cruise vacation in July.",
+              "vi": "Bà đã lên lịch cho một chuyến đi nghỉ mát bằng tàu du lịch vào July."
+            },
+            {
+              "key": "C",
+              "en": "She operates restaurants in multiple European locations.",
+              "vi": "Bà vận hành các nhà hàng ở nhiều địa điểm khác nhau tại Europe."
+            },
+            {
+              "key": "D",
+              "en": "She is planning to revise her restaurant chain's menu.",
+              "vi": "Bà đang có kế hoạch sửa đổi thực đơn của chuỗi nhà hàng của mình."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t10-p7-q159",
+          "number": 159,
+          "question": {
+            "en": "The word \"solid\" in paragraph 2, line 1, is closest in meaning to",
+            "vi": "Từ \"solid\" trong đoạn 2, dòng 1, gần nghĩa nhất với"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "precise",
+              "vi": "chính xác"
+            },
+            {
+              "key": "B",
+              "en": "reliable",
+              "vi": "đáng tin cậy"
+            },
+            {
+              "key": "C",
+              "en": "compact",
+              "vi": "chặt chẽ, đặc"
+            },
+            {
+              "key": "D",
+              "en": "thorough",
+              "vi": "kỹ lưỡng"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t10-p7-q160",
+          "number": 160,
+          "question": {
+            "en": "What is NOT mentioned as a benefit of the proposed partnership?",
+            "vi": "Điều gì KHÔNG được đề cập như một lợi ích của mối quan hệ hợp tác được đề xuất?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Increased advertising opportunities",
+              "vi": "Gia tăng cơ hội quảng cáo"
+            },
+            {
+              "key": "B",
+              "en": "Lower cost for food preparation supplies",
+              "vi": "Chi phí thấp hơn cho các vật tư chuẩn bị thực phẩm"
+            },
+            {
+              "key": "C",
+              "en": "Exposure to a new customer base",
+              "vi": "Tiếp cận với một nhóm khách hàng mới"
+            },
+            {
+              "key": "D",
+              "en": "Quality training programs",
+              "vi": "Các chương trình đào tạo chất lượng"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t10-p7-g161-163",
+      "documents": [
+        {
+          "kind": "article",
+          "content": {
+            "en": "KMC Scores Major Triumph\n\nWESTERN AUSTRALIA (21 June)—On 19 June, Western Australia's Karinya Medical Centre (KMC) was awarded the Valorcare Foundation's Stellar Service Merit, regarded as one of the highest honours an Australian hospital can receive. To qualify for the award, hospitals must meet a set of criteria, including timely access to care, superior medical outcomes, extensive staff training, and exceptional patient satisfaction.\n\n\"Congratulations to KMC's board of directors, management, and staff,\" said Lee Cinder, president of the Valorcare Foundation. \"The centre has consistently demonstrated dedication to high-quality care; therefore, we are pleased to recognise it this year as one of the nation's outstanding medical facilities.\"\n\nDr. Linh Nguyen, who became CEO of KMC last March, said, \"We are extremely proud that KMC is among the seven hospitals in the country recognised by the Valorcare Foundation. This award reflects our commitment to putting patient well-being at the forefront of everything we do. Since KMC opened its doors, we have set high patient care standards and strive to maintain this goal every year. For 47 years now, I believe we have been quite successful in this endeavour.\"",
+            "vi": "KMC đạt được chiến thắng lớn\n\nWESTERN AUSTRALIA (21 June)—Vào ngày 19 June, Karinya Medical Centre (KMC) của Western Australia đã được trao tặng giải thưởng Stellar Service Merit của Valorcare Foundation, được coi là một trong những vinh dự cao quý nhất mà một bệnh viện của Úc có thể nhận được. Để đủ điều kiện nhận giải thưởng, các bệnh viện phải đáp ứng một loạt tiêu chí, bao gồm khả năng tiếp cận dịch vụ chăm sóc kịp thời, kết quả y tế vượt trội, đào tạo nhân viên sâu rộng và sự hài lòng đặc biệt của bệnh nhân.\n\n\"Xin chúc mừng ban giám đốc, ban quản lý và nhân viên của KMC,\" Lee Cinder, chủ tịch của Valorcare Foundation phát biểu. \"Trung tâm đã liên tục chứng minh sự cống hiến cho dịch vụ chăm sóc chất lượng cao; do đó, chúng tôi rất vui mừng được công nhận trung tâm năm nay là một trong những cơ sở y tế xuất sắc của quốc gia.\"\n\nTiến sĩ Linh Nguyen, người trở thành CEO của KMC vào March năm ngoái, cho biết: \"Chúng tôi vô cùng tự hào khi KMC nằm trong số bảy bệnh viện trên cả nước được vinh danh bởi Valorcare Foundation. Giải thưởng này phản ánh cam kết của chúng tôi trong việc đặt sức khỏe của bệnh nhân lên hàng đầu trong mọi việc chúng tôi làm. Kể từ khi KMC mở cửa, chúng tôi đã đặt ra các tiêu chuẩn chăm sóc bệnh nhân cao và nỗ lực duy trì mục tiêu này hàng năm. Cho đến nay đã được 47 năm, tôi tin rằng chúng tôi đã khá thành công trong nỗ lực này.\""
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t10-p7-q161",
+          "number": 161,
+          "question": {
+            "en": "What is one purpose of the article?",
+            "vi": "Một mục đích của bài báo là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To announce a hospital merger",
+              "vi": "Để công bố một vụ sáp nhập bệnh viện"
+            },
+            {
+              "key": "B",
+              "en": "To offer praise to an organization",
+              "vi": "Để dành lời khen ngợi cho một tổ chức"
+            },
+            {
+              "key": "C",
+              "en": "To explain the reasons for a leadership change",
+              "vi": "Để giải thích lý do thay đổi ban lãnh đạo"
+            },
+            {
+              "key": "D",
+              "en": "To emphasize the need for high-quality care",
+              "vi": "Để nhấn mạnh nhu cầu chăm sóc sức khỏe chất lượng cao"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t10-p7-q162",
+          "number": 162,
+          "question": {
+            "en": "What is NOT indicated about KMC?",
+            "vi": "Điều gì KHÔNG được chỉ ra về KMC?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It has been in operation for more than four decades.",
+              "vi": "Nó đã hoạt động được hơn bốn thập kỷ."
+            },
+            {
+              "key": "B",
+              "en": "It has high patient-satisfaction ratings.",
+              "vi": "Nó có tỷ lệ hài lòng của bệnh nhân cao."
+            },
+            {
+              "key": "C",
+              "en": "It recently appointed a new leader.",
+              "vi": "Gần đây nó đã bổ nhiệm một nhà lãnh đạo mới."
+            },
+            {
+              "key": "D",
+              "en": "It has received many honors over the years.",
+              "vi": "Nó đã nhận được nhiều giải thưởng trong những năm qua."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t10-p7-q163",
+          "number": 163,
+          "question": {
+            "en": "The word \"reflects\" in paragraph 3, line 5, is closest in meaning to",
+            "vi": "Từ \"reflects\" trong đoạn 3, dòng 5, gần nghĩa nhất với"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "shows",
+              "vi": "hiển thị, cho thấy"
+            },
+            {
+              "key": "B",
+              "en": "notices",
+              "vi": "chú ý, nhận thấy"
+            },
+            {
+              "key": "C",
+              "en": "imitates",
+              "vi": "bắt chước, mô phỏng"
+            },
+            {
+              "key": "D",
+              "en": "recommends",
+              "vi": "khuyến nghị"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t10-p7-g164-167",
+      "documents": [
+        {
+          "kind": "online_chat_discussion",
+          "content": {
+            "en": "Alexa Balog (4:02 P.M.)\nI'm on lifeguard duty today at Rosemoor Park. Jamie Kerr asked me to fill in for him. Just letting you know that I've had to close the pool several times because of the bad weather.\n\nMaxwell Diego (4:03 P.M.)\nIs the weather bad right now?\n\nAlexa Balog (4:03 P.M.)\nNo, but it was raining heavily about 20 minutes ago.\n\nMaxwell Diego (4:04 P.M.)\nThen you'll have to wait ten more minutes before reopening. As you know, the rule for Pool Guardian lifeguards is to wait for 30 minutes after bad weather passes.\n\nAlexa Balog (4:06 P.M.)\nYes, I understand. But no one has been here since 2:30. Can I close the pool now?\n\nMaxwell Diego (4:07 P.M.)\nThat would make sense. What's our policy on that, Mr. Nolan?\n\nWade Nolan (4:08 P.M.)\nSorry, but we can't. Our contract says we must supply Rosemoor Park with a lifeguard until 5 P.M. on Thursdays. So Alexa needs to stay.\n\nAlexa Balog (4:09 P.M.)\nOK. I'm in the equipment shed. I've been cleaning it up and straightening up the pool supplies here.\n\nWade Nolan (4:10 P.M.)\nBut if there's heavy rain again after 4:30, just go ahead and close things up, Alexa.\n\nMaxwell Diego (4:10 P.M.)\nIt must be spotless now.\n\nAlexa Balog (4:11 P.M.)\nIt has never looked so good. And thanks, Mr. Nolan.",
+            "vi": "Alexa Balog (4:02 P.M.)\nTôi đang làm nhiệm vụ cứu hộ hôm nay tại Rosemoor Park. Jamie Kerr đã nhờ tôi làm thay anh ấy. Chỉ muốn thông báo cho các bạn biết rằng tôi đã phải đóng cửa hồ bơi vài lần vì thời tiết xấu.\n\nMaxwell Diego (4:03 P.M.)\nBây giờ thời tiết có xấu không?\n\nAlexa Balog (4:03 P.M.)\nKhông, nhưng trời đã mưa rất to cách đây khoảng 20 phút.\n\nMaxwell Diego (4:04 P.M.)\nVậy thì bạn sẽ phải đợi thêm mười phút nữa trước khi mở cửa trở lại. Như bạn đã biết, quy tắc dành cho nhân viên cứu hộ của Pool Guardian là đợi 30 phút sau khi thời tiết xấu đi qua.\n\nAlexa Balog (4:06 P.M.)\nVâng, tôi hiểu. Nhưng không có ai ở đây kể từ 2:30. Tôi có thể đóng cửa hồ bơi bây giờ không?\n\nMaxwell Diego (4:07 P.M.)\nĐiều đó nghe có vẻ hợp lý. Chính sách của chúng ta về việc đó như thế nào, thưa ông Nolan?\n\nWade Nolan (4:08 P.M.)\nXin lỗi, nhưng chúng ta không thể làm vậy. Hợp đồng của chúng ta ghi rõ chúng ta phải cung cấp cho Rosemoor Park một nhân viên cứu hộ cho đến 5 P.M. vào các ngày thứ Năm. Vì vậy Alexa cần phải ở lại.\n\nAlexa Balog (4:09 P.M.)\nĐược rồi. Tôi đang ở trong nhà kho chứa thiết bị. Tôi đang dọn dẹp và sắp xếp lại các vật dụng hồ bơi ở đây.\n\nWade Nolan (4:10 P.M.)\nNhưng nếu trời lại mưa to sau 4:30, cứ tiến hành đóng cửa mọi thứ đi, Alexa.\n\nMaxwell Diego (4:10 P.M.)\nNơi đó chắc giờ sạch không tì vết rồi.\n\nAlexa Balog (4:11 P.M.)\nNó chưa bao giờ trông đẹp như thế này. Và cảm ơn ông, ông Nolan."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t10-p7-q164",
+          "number": 164,
+          "question": {
+            "en": "What can be concluded about Ms. Balog?",
+            "vi": "Có thể kết luận điều gì về cô Balog?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She is afraid of heavy rain.",
+              "vi": "Cô sợ trời mưa to."
+            },
+            {
+              "key": "B",
+              "en": "She was hired to clean the pool.",
+              "vi": "Cô được thuê để dọn dẹp hồ bơi."
+            },
+            {
+              "key": "C",
+              "en": "She is an employee of Pool Guardian.",
+              "vi": "Cô là nhân viên của Pool Guardian."
+            },
+            {
+              "key": "D",
+              "en": "She works at Rosemoor Park every Thursday.",
+              "vi": "Cô làm việc tại Rosemoor Park vào thứ Năm hàng tuần."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t10-p7-q165",
+          "number": 165,
+          "question": {
+            "en": "Why does Ms. Balog want to close the pool early?",
+            "vi": "Tại sạo cô Balog muốn đóng cửa hồ bơi sớm?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Because she has completed all her duties",
+              "vi": "Vì cô đã hoàn thành tất cả các nhiệm vụ của mình"
+            },
+            {
+              "key": "B",
+              "en": "Because Mr. Kerr has not arrived",
+              "vi": "Vì anh Kerr vẫn chưa đến"
+            },
+            {
+              "key": "C",
+              "en": "Because she is not allowed to swim",
+              "vi": "Vì cô không được phép bơi"
+            },
+            {
+              "key": "D",
+              "en": "Because no guests are currently using the pool",
+              "vi": "Vì hiện tại không có khách nào sử dụng hồ bơi"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t10-p7-q166",
+          "number": 166,
+          "question": {
+            "en": "What is implied about Rosemoor Park?",
+            "vi": "Điều gì được ngụ ý về Rosemoor Park?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It has a contract with a company that provides lifeguards.",
+              "vi": "Nó có hợp đồng với một công ty cung cấp nhân viên cứu hộ."
+            },
+            {
+              "key": "B",
+              "en": "Its pool has been closed all week.",
+              "vi": "Hồ bơi của nó đã bị đóng cửa cả tuần."
+            },
+            {
+              "key": "C",
+              "en": "Its pool has been poorly maintained.",
+              "vi": "Hồ bơi của nó được bảo dưỡng kém."
+            },
+            {
+              "key": "D",
+              "en": "It would like to hire Ms. Balog to work full-time.",
+              "vi": "Nó muốn thuê cô Balog làm việc toàn thời gian."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t10-p7-q167",
+          "number": 167,
+          "question": {
+            "en": "At 4:11 P.M., what does Ms. Balog most likely mean when she writes, \"It has never looked so good\"?",
+            "vi": "Lúc 4:11 P.M., cô Balog rất có thể có ý gì khi viết \"It has never looked so good\"?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She washed the pool deck.",
+              "vi": "Cô đã cọ rửa sàn hồ bơi."
+            },
+            {
+              "key": "B",
+              "en": "She did a good job organizing the equipment shed.",
+              "vi": "Cô đã làm rất tốt việc sắp xếp nhà kho chứa thiết bị."
+            },
+            {
+              "key": "C",
+              "en": "The rain has finally stopped.",
+              "vi": "Mưa cuối cùng cũng đã tạnh."
+            },
+            {
+              "key": "D",
+              "en": "The water in the pool is extremely clear.",
+              "vi": "Nước trong hồ bơi vô cùng trong vắt."
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t10-p7-g168-171",
+      "documents": [
+        {
+          "kind": "web_page",
+          "content": {
+            "en": "https://www.sagemontservices.com\n\nHome | About Us | IT Services | Client Testimonials\n\nAt Sagemont Services, we offer custom-tailored information technology solutions to clients in various industries. Founded over twenty years ago, Sagemont Services began as a start-up competing with larger businesses in a crowded field. — [1] —. Subsequently, we have become a leader in the industry. Our expert staff members are cross-trained in every aspect of our services.\n\nWe have helped several businesses complete technology projects on tight deadlines in the past few months. — [2] —. For example, with the online retailer Clothing Discounters rapidly expanding, we assisted the company in increasing its call-center capability. Specifically, in just two days, we provided the company with all the equipment and connections needed for newly hired customer-service agents to handle calls from home. — [3] —.\n\nTo learn more about how we meet the needs of our customers, please visit the Client Testimonials page. — [4] —.",
+            "vi": "https://www.sagemontservices.com\n\nTrang chủ | Về chúng tôi | Dịch vụ CNTT | Ý kiến đánh giá của khách hàng\n\nTại Sagemont Services, chúng tôi cung cấp các giải pháp công nghệ thông tin được thiết kế riêng cho khách hàng trong nhiều ngành công nghiệp khác nhau. Được thành lập cách đây hơn hai mươi năm, Sagemont Services bắt đầu hoạt động như một công ty khởi nghiệp cạnh tranh với các doanh nghiệp lớn hơn trong một lĩnh vực đông đúc. — [1] —. Sau đó, chúng tôi đã trở thành một đơn vị dẫn đầu trong ngành. Đội ngũ nhân viên chuyên gia của chúng tôi được đào tạo chéo trong mọi khía cạnh của các dịch vụ mà chúng tôi cung cấp.\n\nChúng tôi đã giúp một vài doanh nghiệp hoàn thành các dự án công nghệ đúng thời hạn chặt chẽ trong vài tháng qua. — [2] —. Ví dụ, với việc nhà bán lẻ trực tuyến Clothing Discounters đang mở rộng nhanh chóng, chúng tôi đã hỗ trợ công ty tăng cường năng lực cho trung tâm cuộc gọi của mình. Cụ thể, chỉ trong hai ngày, chúng tôi đã cung cấp cho công ty tất cả các thiết bị và kết nối cần thiết để các nhân viên dịch vụ khách hàng mới tuyển dụng có thể xử lý các cuộc gọi từ nhà. — [3] —.\n\nĐể tìm hiểu thêm về cách chúng tôi đáp ứng nhu cầu của khách hàng, vui lòng truy cập trang Ý kiến đánh giá của khách hàng (Client Testimonials). — [4] —."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t10-p7-q168",
+          "number": 168,
+          "question": {
+            "en": "What kind of business is Sagemont Services?",
+            "vi": "Sagemont Services là loại hình doanh nghiệp nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A technology consulting firm",
+              "vi": "Một công ty tư vấn công nghệ"
+            },
+            {
+              "key": "B",
+              "en": "A telephone service provider",
+              "vi": "Một nhà cung cấp dịch vụ điện thoại"
+            },
+            {
+              "key": "C",
+              "en": "A computer software supplier",
+              "vi": "Một nhà cung cấp phần mềm máy tính"
+            },
+            {
+              "key": "D",
+              "en": "An executive recruiting service",
+              "vi": "Một dịch vụ tuyển dụng nhân sự cấp cao"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t10-p7-q169",
+          "number": 169,
+          "question": {
+            "en": "According to the Web page, what has Sagemont Services done recently?",
+            "vi": "Theo trang web, Sagemont Services đã làm gì gần đây?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It has developed a series of online workshops.",
+              "vi": "Họ đã phát triển một chuỗi các hội thảo trực tuyến."
+            },
+            {
+              "key": "B",
+              "en": "It has hired additional staff members.",
+              "vi": "Họ đã tuyển dụng thêm nhân viên."
+            },
+            {
+              "key": "C",
+              "en": "It has updated some space in its main office.",
+              "vi": "Họ đã nâng cấp một số không gian trong văn phòng chính của mình."
+            },
+            {
+              "key": "D",
+              "en": "It has completed projects within a short time period.",
+              "vi": "Họ đã hoàn thành các dự án trong một khoảng thời gian ngắn."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t10-p7-q170",
+          "number": 170,
+          "question": {
+            "en": "What is indicated about Clothing Discounters?",
+            "vi": "Điều gì được chỉ ra về Clothing Discounters?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It has won awards.",
+              "vi": "Nó đã giành được các giải thưởng."
+            },
+            {
+              "key": "B",
+              "en": "It is growing quickly.",
+              "vi": "Nó đang phát triển nhanh chóng."
+            },
+            {
+              "key": "C",
+              "en": "It is less than one year old.",
+              "vi": "Nó chưa đầy một năm tuổi."
+            },
+            {
+              "key": "D",
+              "en": "It plans to open physical stores.",
+              "vi": "Nó có kế hoạch mở các cửa hàng vật lý."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t10-p7-q171",
+          "number": 171,
+          "question": {
+            "en": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"This solution eliminated the possibility of business disruption.\"",
+            "vi": "Câu sau phù hợp nhất ở vị trí nào trong các vị trí được đánh dấu [1], [2], [3] và [4]? \"Giải pháp này đã loại bỏ khả năng gián đoạn hoạt động kinh doanh.\""
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "[1]",
+              "vi": "[1]"
+            },
+            {
+              "key": "B",
+              "en": "[2]",
+              "vi": "[2]"
+            },
+            {
+              "key": "C",
+              "en": "[3]",
+              "vi": "[3]"
+            },
+            {
+              "key": "D",
+              "en": "[4]",
+              "vi": "[4]"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t10-p7-g172-175",
+      "documents": [
+        {
+          "kind": "article",
+          "content": {
+            "en": "MCAC to Exhibit Alonso's Works\n\nMAURELY CITY (August 29)—Using recycled materials has become popular with artists, and local sculptor Ida Alonso has happily embraced this trend. Her new exhibition, Throwaways into Treasure, runs from today until November 4 at the Maurely City Art Center (MCAC). Ms. Alonso had the idea for the project while reading about recycled plastic being made into park benches in the Journal for Professional Landscape Architects. She then began to collect old plastic bottles and cardboard shipping boxes and innovatively combined them with commercially made, recyclable building materials.\n\nFor the exhibition, Ms. Alonso has created a life-size imitation of commercial offices, with cubicles and partitions made from recovered materials. \"By means of my synthetic office space, I am hoping to highlight the idea that old, unwanted objects can take on a new purpose,\" Ms. Alonso said. Guests who attend the art show will have the opportunity to bring in their own recyclable plastic items and place them in large collection bags set up around the perimeter of the exhibition room. Ms. Alonso also plans to add more recyclable material to her installation as the show progresses.\n\nAlthough MCAC will be the only venue for Ms. Alonso's show, the exhibition is expected to travel in a different sense. On the exhibition's final day, the works will be dismantled, and all the recyclable materials, including the items brought by visitors, will be transported to a Flyner Industries facility, where they will be shredded and transformed into material for waterproof curtains.\n\nMCAC is open daily from 10:00 A.M. to 5:00 P.M. Admission to the art center is free. In addition to Ms. Alonso's show, works by several local art students will be on view in MCAC's main gallery.",
+            "vi": "MCAC trưng bày các tác phẩm của Alonso\n\nMAURELY CITY (August 29)—Sử dụng vật liệu tái chế đã trở nên phổ biến đối với các nghệ sĩ, và nhà điêu khắc địa phương Ida Alonso đã vui vẻ đón nhận xu hướng này. Triển lãm mới của cô, Throwaways into Treasure, diễn ra từ hôm nay cho đến November 4 tại Maurely City Art Center (MCAC). Cô Alonso nảy ra ý tưởng cho dự án này khi đọc về nhựa tái chế được làm thành ghế băng công viên trên tạp chí Journal for Professional Landscape Architects. Sau đó, cô bắt đầu thu gom các chai nhựa cũ và hộp các-tông vận chuyển, rồi kết hợp chúng một cách sáng tạo với các vật liệu xây dựng có thể tái chế được sản xuất thương mại.\n\nĐối với triển lãm lần này, cô Alonso đã tạo ra một mô phỏng kích thước thật của các văn phòng thương mại, với các vách ngăn và buồng làm việc được làm từ vật liệu thu hồi. \"Bằng không gian văn phòng tổng hợp của mình, tôi hy vọng sẽ làm nổi bật ý tưởng rằng những đồ vật cũ kỹ, không dùng đến có thể đảm nhận một mục đích mới,\" cô Alonso nói. Khách tham quan triển lãm nghệ thuật sẽ có cơ hội mang theo các vật phẩm nhựa có thể tái chế của riêng họ và đặt chúng vào các túi thu gom lớn được bố trí xung quanh chu vi của phòng triển lãm. Cô Alonso cũng có kế hoạch bổ sung thêm vật liệu tái chế vào tác phẩm sắp đặt của mình khi triển lãm tiếp diễn.\n\nMặc dù MCAC sẽ là địa điểm duy nhất diễn ra buổi triển lãm của cô Alonso, nhưng triển lãm này dự kiến sẽ \"di chuyển\" theo một nghĩa khác. Vào ngày cuối cùng của triển lãm, các tác phẩm sẽ được tháo dỡ, và tất cả các vật liệu có thể tái chế, bao gồm cả các vật phẩm do khách tham quan mang đến, sẽ được vận chuyển đến một cơ sở của Flyner Industries, nơi chúng sẽ được cắt nhỏ và chuyển hóa thành nguyên liệu làm rèm chống nước.\n\nMCAC mở cửa hàng ngày từ 10:00 A.M. đến 5:00 P.M. Vé vào cửa trung tâm nghệ thuật là miễn phí. Ngoài buổi triển lãm của cô Alonso, các tác phẩm của một số sinh viên nghệ thuật địa phương cũng sẽ được trưng bày tại phòng trưng bày chính của MCAC."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t10-p7-q172",
+          "number": 172,
+          "question": {
+            "en": "What is indicated about Ms. Alonso?",
+            "vi": "Điều gì được chỉ ra về cô Alonso?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She manages her own art gallery.",
+              "vi": "Cô quản lý phòng trưng bày nghệ thuật của riêng mình."
+            },
+            {
+              "key": "B",
+              "en": "She previously worked for a shipping company.",
+              "vi": "Cô trước đây đã làm việc cho một công ty vận chuyển."
+            },
+            {
+              "key": "C",
+              "en": "She was inspired by an article in a trade publication.",
+              "vi": "Cô được truyền cảm hứng bởi một bài báo trên một ấn phẩm chuyên ngành."
+            },
+            {
+              "key": "D",
+              "en": "She works part-time as an interior designer.",
+              "vi": "Cô làm việc bán thời gian như một nhà thiết kế nội thất."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t10-p7-q173",
+          "number": 173,
+          "question": {
+            "en": "According to the article, what will visitors to Ms. Alonso's exhibition be able to do?",
+            "vi": "Theo bài báo, khách tham quan triển lãm của cô Alonso sẽ có thể làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Meet local artists in person",
+              "vi": "Gặp gỡ trực tiếp các nghệ sĩ địa phương"
+            },
+            {
+              "key": "B",
+              "en": "Drop off recyclable plastics",
+              "vi": "Bỏ lại các đồ nhựa có thể tái chế"
+            },
+            {
+              "key": "C",
+              "en": "Operate specialized office equipment",
+              "vi": "Vận hành các thiết bị văn phòng chuyên dụng"
+            },
+            {
+              "key": "D",
+              "en": "Purchase repurposed paper products",
+              "vi": "Mua các sản phẩm giấy tái chế"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t10-p7-q174",
+          "number": 174,
+          "question": {
+            "en": "What will happen on November 4?",
+            "vi": "Điều gì sẽ xảy ra vào November 4?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Parts of an exhibition will be taken to an industrial plant.",
+              "vi": "Các phần của một triển lãm sẽ được đưa đến một nhà máy công nghiệp."
+            },
+            {
+              "key": "B",
+              "en": "Some films about recycling will be shown.",
+              "vi": "Một số bộ phim về tái chế sẽ được trình chiếu."
+            },
+            {
+              "key": "C",
+              "en": "Winners of a slogan contest will be announced.",
+              "vi": "Những người chiến thắng trong một cuộc thi khẩu hiệu sẽ được công bố."
+            },
+            {
+              "key": "D",
+              "en": "An art center will close for renovations.",
+              "vi": "Một trung tâm nghệ thuật sẽ đóng cửa để cải tạo."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t10-p7-q175",
+          "number": 175,
+          "question": {
+            "en": "What is indicated about MCAC?",
+            "vi": "Điều gì được chỉ ra về MCAC?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It requires reservations to visit.",
+              "vi": "Nó yêu cầu đặt chỗ trước để tham quan."
+            },
+            {
+              "key": "B",
+              "en": "It charges an entrance fee.",
+              "vi": "Nó tính phí vào cửa."
+            },
+            {
+              "key": "C",
+              "en": "It displays works by art students.",
+              "vi": "Nó trưng bày các tác phẩm của các sinh viên nghệ thuật."
+            },
+            {
+              "key": "D",
+              "en": "It sponsors its own art workshops.",
+              "vi": "Nó tài trợ cho các hội thảo nghệ thuật của riêng mình."
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t10-p7-g176-180",
+      "documents": [
+        {
+          "kind": "table",
+          "content": {
+            "en": "Superb Hotels—Lisbon\nCustomer Survey Results / June\n\nFeature | Satisfaction Level | Change from May\nGuest room | 91% | +8% ↑\nBreakfast | 82% | +10% ↑\nReception | 80% | -5% ↓\nOverall experience | 87% | +7% ↑\n\nCollected and analysed by Naomi Akdemir, Customer Solutions, Exelrate",
+            "vi": "Superb Hotels—Lisbon\nKết quả khảo sát khách hàng / June\n\nĐặc điểm | Mức độ hài lòng | Thay đổi so với May\nPhòng khách | 91% | +8% ↑\nBữa sáng | 82% | +10% ↑\nQuầy lễ tân | 80% | -5% ↓\nTrải nghiệm tổng thể | 87% | +7% ↑\n\nThu thập và phân tích bởi Naomi Akdemir, Bộ phận Giải pháp Khách hàng, Exelrate"
+          }
+        },
+        {
+          "kind": "article",
+          "content": {
+            "en": "Exelrate Relocates Main Office\n\nTORONTO (3 July)—Consumer analysis giant Exelrate will soon begin construction of its new headquarters in Toronto. Many well-known businesses use Exelrate's services to obtain an accurate understanding of their customers' experiences. The company's entry into North American markets is a promising sign of expected growth in the coming years. The recently promoted vice president of development, Rosa Martin, will be directing this expansion once she wraps up her work running the Customer Solutions Team at Exelrate's current headquarters in Frankfurt at the end of this month.\n\nThe new office building was designed by Frank Tsudama, whose latest project involved Seoul's futurist Global Trade Centre. Exelrate's building will feature a ground-level courtyard with seating areas for public use, symbolising its insertion into the community. The establishment of companies like Exelrate will help cement Toronto's fame as a centre for data and management consulting.",
+            "vi": "Exelrate chuyển văn phòng chính\n\nTORONTO (3 July)—Tập đoàn phân tích người tiêu dùng khổng lồ Exelrate sẽ sớm bắt đầu xây dựng trụ sở chính mới tại Toronto. Nhiều doanh nghiệp nổi tiếng sử dụng dịch vụ của Exelrate để có được sự hiểu biết chính xác về trải nghiệm của khách hàng của họ. Việc công ty gia nhập thị trường North America là một dấu hiệu đầy hứa hẹn về sự tăng trưởng kỳ vọng trong những năm tới. Phó chủ tịch phát triển vừa được thăng chức gần đây, Rosa Martin, sẽ chỉ đạo việc mở rộng này sau khi cô hoàn thành công việc điều hành Nhóm Giải pháp Khách hàng tại trụ sở hiện tại của Exelrate ở Frankfurt vào cuối tháng này.\n\nTòa nhà văn phòng mới được thiết kế bởi Frank Tsudama, người có dự án gần đây nhất liên quan đến Global Trade Centre có tính tương lai của Seoul. Tòa nhà của Exelrate sẽ có một khoảng sân ở tầng trệt với các khu vực chỗ ngồi cho công chúng sử dụng, tượng trưng cho sự hòa nhập của tòa nhà vào cộng đồng. Việc thành lập các công ty như Exelrate sẽ giúp củng cố danh tiếng của Toronto như một trung tâm tư vấn dữ liệu và quản lý."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t10-p7-q176",
+          "number": 176,
+          "question": {
+            "en": "What does the table indicate about customers' satisfaction with their overall experience?",
+            "vi": "Bảng số liệu chỉ ra điều gì về sự hài lòng của khách hàng đối với trải nghiệm tổng thể của họ?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is mentioned in marketing materials.",
+              "vi": "Nó được đề cập trong các tài liệu tiếp thị."
+            },
+            {
+              "key": "B",
+              "en": "It is better than it was the previous month.",
+              "vi": "Nó tốt hơn so với tháng trước."
+            },
+            {
+              "key": "C",
+              "en": "It is reported on a quarterly basis.",
+              "vi": "Nó được báo cáo theo định kỳ hàng quý."
+            },
+            {
+              "key": "D",
+              "en": "It decreased by five percent in June.",
+              "vi": "Nó đã giảm năm phần trăm vào June."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t10-p7-q177",
+          "number": 177,
+          "question": {
+            "en": "What is suggested about Exelrate?",
+            "vi": "Điều gì được gợi ý về Exelrate?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It both collects and analyzes data.",
+              "vi": "Nó vừa thu thập vừa phân tích dữ liệu."
+            },
+            {
+              "key": "B",
+              "en": "It is a hotel chain.",
+              "vi": "Nó là một chuỗi khách sạn."
+            },
+            {
+              "key": "C",
+              "en": "It renovates industrial buildings.",
+              "vi": "Nó cải tạo các tòa nhà công nghiệp."
+            },
+            {
+              "key": "D",
+              "en": "It was founded in Toronto.",
+              "vi": "Nó được thành lập tại Toronto."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t10-p7-q178",
+          "number": 178,
+          "question": {
+            "en": "In the article, the word \"directing\" in paragraph 1, line 10, is closest in meaning to",
+            "vi": "Từ \"directing\" trong đoạn 1, dòng 10, của bài báo gần nghĩa nhất với"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "aiming",
+              "vi": "nhắm tới, hướng tới"
+            },
+            {
+              "key": "B",
+              "en": "leading",
+              "vi": "dẫn dắt, chỉ đạo"
+            },
+            {
+              "key": "C",
+              "en": "financing",
+              "vi": "tài trợ tài chính"
+            },
+            {
+              "key": "D",
+              "en": "addressing",
+              "vi": "giải quyết, gửi đến"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t10-p7-q179",
+          "number": 179,
+          "question": {
+            "en": "Where was Ms. Akdemir's supervisor based in July?",
+            "vi": "Cấp trên của cô Akdemir làm việc ở đâu vào July?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "In Toronto",
+              "vi": "Ở Toronto"
+            },
+            {
+              "key": "B",
+              "en": "In Lisbon",
+              "vi": "Ở Lisbon"
+            },
+            {
+              "key": "C",
+              "en": "In Frankfurt",
+              "vi": "Ở Frankfurt"
+            },
+            {
+              "key": "D",
+              "en": "In Seoul",
+              "vi": "Ở Seoul"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t10-p7-q180",
+          "number": 180,
+          "question": {
+            "en": "What is Mr. Tsudama's area of expertise?",
+            "vi": "Lĩnh vực chuyên môn của ông Tsudama là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Management consulting",
+              "vi": "Tư vấn quản lý"
+            },
+            {
+              "key": "B",
+              "en": "Tourism",
+              "vi": "Du lịch"
+            },
+            {
+              "key": "C",
+              "en": "Architecture",
+              "vi": "Kiến trúc"
+            },
+            {
+              "key": "D",
+              "en": "Hospitality",
+              "vi": "Khách sạn-nhà hàng"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t10-p7-g181-185",
+      "documents": [
+        {
+          "kind": "notice",
+          "content": {
+            "en": "WELCOME TO RICHMOND SUPERMARKET!\n\nDID YOU KNOW?\n\nRichmond Supermarket is now offering cooking classes in our own state-of-the-art kitchen, the same kitchen where we create flavourful soups, salads, and entrées for our prepared foods department. Every Monday evening from 7:00 P.M. to 8:30 P.M. we turn our kitchen over to a guest chef from one of Richmond's many fine restaurants. Participants learn to prepare a different dish each week. Learn new techniques you can bring home to delight your friends and family! All classes use ingredients you can find right here in the store.\n\nThis month's classes are as follows:\n\n2 August | Butter Chicken (India)\n9 August | Pad Thai (Thailand)\n16 August | Fish Tacos (Mexico)\n23 August | Roast Vegetable Lasagna (Italy)\n\nThe fee for each class is $55.00. To register, please call us at 604-555-0175 or visit www.richmondsupermarket.ca. There is a limit of 15 students per class. Classes sell out quickly, so reserve your spot today.",
+            "vi": "CHÀO MỪNG ĐẾN VỚI RICHMOND SUPERMARKET!\n\nBẠN CÓ BIẾT?\n\nRichmond Supermarket hiện đang cung cấp các lớp học nấu ăn tại căn bếp hiện đại của riêng chúng tôi, chính là căn bếp nơi chúng tôi tạo ra các món súp, salad và món chính đậm đà hương vị cho bộ phận thực phẩm chế biến sẵn của mình. Mỗi tối thứ Hai hàng tuần từ 7:00 P.M. đến 8:30 P.M., chúng tôi bàn giao căn bếp của mình cho một đầu bếp khách mời đến từ một trong nhiều nhà hàng cao cấp của Richmond. Học viên sẽ được học cách chuẩn bị một món ăn khác nhau mỗi tuần. Hãy học các kỹ thuật mới mà bạn có thể mang về nhà để làm hài lòng bạn bè và gia đình! Tất cả các lớp học đều sử dụng các nguyên liệu mà bạn có thể tìm thấy ngay tại đây trong cửa hàng.\n\nCác lớp học của tháng này như sau:\n\n2 August | Gà nấu bơ (Ấn Độ)\n9 August | Phở xào kiểu Thái (Thái Lan)\n16 August | Bánh Tacos nhân cá (Mexico)\n23 August | Mỳ Ý đút lò rau củ nướng (Ý)\n\nHọc phí cho mỗi lớp là $55.00. Để đăng ký, vui lòng gọi cho chúng tôi theo số 604-555-0175 hoặc truy cập www.richmondsupermarket.ca. Giới hạn 15 học viên cho mỗi lớp. Các lớp học được bán hết chỗ rất nhanh, vì vậy hãy đặt chỗ của bạn ngay hôm nay."
+          }
+        },
+        {
+          "kind": "review",
+          "content": {
+            "en": "https://www.richmondsupermarket.ca/reviews\n\nOnline Shopping | Contact Us | Reviews | Cooking Classes\n\nThanks to Richmond Supermarket's new cooking classes, community members can take lessons from some of the best chefs in the area. Last week I learned how to prepare fish tacos with Mateo Bernal, head chef at Bernal's Restaurant. We made every component of the tacos from scratch, including the corn tortillas, grilled tilapia, and tomatillo salsa. Before leaving, each attendee received a small notebook containing the recipe we made that day as well as a few of Mr. Bernal's other favourite recipes. I'm going to clear my Monday evenings so I can go back again and again!\n\n—Astrid Klein",
+            "vi": "https://www.richmondsupermarket.ca/reviews\n\nMua sắm trực tuyến | Liên hệ với chúng tôi | Đánh giá | Lớp học nấu ăn\n\nNhờ có các lớp học nấu ăn mới của Richmond Supermarket, các thành viên trong cộng đồng có thể học hỏi từ một số đầu bếp giỏi nhất trong khu vực. Tuần trước, tôi đã học cách chuẩn bị món bánh tacos nhân cá với Mateo Bernal, bếp trưởng tại Bernal's Restaurant. Chúng tôi đã tự tay làm mọi thành phần của món bánh tacos, bao gồm vỏ bánh ngô (tortillas), cá rô phi nướng và sốt cà chua xanh (tomatillo salsa). Trước khi về, mỗi người tham dự đều nhận được một cuốn sổ tay nhỏ chứa công thức nấu ăn mà chúng tôi đã làm ngày hôm đó cũng như một vài công thức nấu ăn yêu thích khác của ông Bernal. Tôi sẽ để trống các buổi tối thứ Hai của mình để có thể quay lại đây thường xuyên hơn!\n\n—Astrid Klein"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t10-p7-q181",
+          "number": 181,
+          "question": {
+            "en": "For whom is the notice most likely intended?",
+            "vi": "Thông báo này rất có thể dành cho ai?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Kitchen workers",
+              "vi": "Nhân viên nhà bếp"
+            },
+            {
+              "key": "B",
+              "en": "Store customers",
+              "vi": "Khách hàng của cửa hàng"
+            },
+            {
+              "key": "C",
+              "en": "Restaurant chefs",
+              "vi": "Đầu bếp nhà hàng"
+            },
+            {
+              "key": "D",
+              "en": "Cookbook authors",
+              "vi": "Tác giả sách dạy nấu ăn"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t10-p7-q182",
+          "number": 182,
+          "question": {
+            "en": "What is indicated in the notice about August's cooking classes at Richmond Supermarket?",
+            "vi": "Điều gì được chỉ ra trong thông báo về các lớp học nấu ăn trong tháng Tám tại Richmond Supermarket?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "They feature dishes from different countries.",
+              "vi": "Chúng có các món ăn từ các quốc gia khác nhau."
+            },
+            {
+              "key": "B",
+              "en": "They are held on different days of the week.",
+              "vi": "Chúng được tổ chức vào các ngày khác nhau trong tuần."
+            },
+            {
+              "key": "C",
+              "en": "They are taught by supermarket employees.",
+              "vi": "Chúng được giảng dạy bởi các nhân viên siêu thị."
+            },
+            {
+              "key": "D",
+              "en": "They require students to register in person.",
+              "vi": "Chúng yêu cầu học viên phải đăng ký trực tiếp."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t10-p7-q183",
+          "number": 183,
+          "question": {
+            "en": "When most likely did Ms. Klein participate in a Richmond Supermarket cooking class?",
+            "vi": "Cô Klein rất có thể đã tham gia lớp học nấu ăn của Richmond Supermarket vào khi nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "On August 2",
+              "vi": "Vào August 2"
+            },
+            {
+              "key": "B",
+              "en": "On August 9",
+              "vi": "Vào August 9"
+            },
+            {
+              "key": "C",
+              "en": "On August 16",
+              "vi": "Vào August 16"
+            },
+            {
+              "key": "D",
+              "en": "On August 23",
+              "vi": "Vào August 23"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t10-p7-q184",
+          "number": 184,
+          "question": {
+            "en": "What ingredient is NOT mentioned in the review?",
+            "vi": "Nguyên liệu nào KHÔNG được đề cập trong bài đánh giá?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Corn tortillas",
+              "vi": "Vỏ bánh ngô (corn tortillas)"
+            },
+            {
+              "key": "B",
+              "en": "Grilled tilapia",
+              "vi": "Cá rô phi nướng (grilled tilapia)"
+            },
+            {
+              "key": "C",
+              "en": "Tomatillo salsa",
+              "vi": "Sốt cà chua xanh (tomatillo salsa)"
+            },
+            {
+              "key": "D",
+              "en": "Shredded cabbage",
+              "vi": "Bắp cải thái nhỏ (shredded cabbage)"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t10-p7-q185",
+          "number": 185,
+          "question": {
+            "en": "What does Ms. Klein say she intends to do?",
+            "vi": "Cô Klein nói cô ấy có ý định làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Take a trip to Mexico",
+              "vi": "Thực hiện một chuyến đi đến Mexico"
+            },
+            {
+              "key": "B",
+              "en": "Eat at Bernal's Restaurant",
+              "vi": "Ăn uống tại Bernal's Restaurant"
+            },
+            {
+              "key": "C",
+              "en": "Attend more cooking classes",
+              "vi": "Tham gia thêm nhiều lớp học nấu ăn"
+            },
+            {
+              "key": "D",
+              "en": "Collect recipes in a notebook",
+              "vi": "Thu thập các công thức nấu ăn vào một cuốn sổ tay"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t10-p7-g186-190",
+      "documents": [
+        {
+          "kind": "article",
+          "content": {
+            "en": "New Dean Appointed at Institute\n\nYORK (17 January)—The Callard Eye Institute announced on Tuesday that Jennifer Robbins, M.D., has accepted the position of dean, effective immediately.\n\nDr. Robbins, who grew up in York, earned her medical degree at Labato School of Medicine and completed a postdoctoral residency at Petersen Medical Center. Before she arrived at the institute, Dr. Robbins was the founder and director of the ophthalmology clinic at Morseville Hospital. Her innovations in treating eye diseases have benefited thousands of patients worldwide.\n\nOn April 17, Dr. Robbins will be in Berlin to receive the Kramer Medal for Medical Excellence at this year's conference of the International Center for Vision Advancement.\n\nInternational Center for Vision Advancement (ICVA) Conference\nJT Pepper Convention Hall (17–19 April)\nRosenthaler Strasse 65, Berlin, Germany 25627",
+            "vi": "Hiệu trưởng mới được bổ nhiệm tại Viện\n\nYORK (17 January)—Callard Eye Institute đã thông báo vào thứ Ba rằng Jennifer Robbins, M.D., đã chấp nhận vị trí hiệu trưởng, có hiệu lực ngay lập tức.\n\nBác sĩ Robbins, người lớn lên ở York, đã lấy bằng y khoa tại Labato School of Medicine và hoàn thành chương trình bác sĩ nội trú sau tiến sĩ tại Petersen Medical Center. Trước khi đến viện, Bác sĩ Robbins là người sáng lập và giám đốc của phòng khám nhãn khoa tại Morseville Hospital. Những cải tiến của bà trong việc điều trị các bệnh về mắt đã mang lại lợi ích cho hàng ngàn bệnh nhân trên toàn thế giới.\n\nVào April 17, Bác sĩ Robbins sẽ có mặt tại Berlin để nhận Kramer Medal cho Sự xuất sắc trong Y khoa tại hội nghị năm nay của International Center for Vision Advancement.\n\nHội nghị của International Center for Vision Advancement (ICVA)\nJT Pepper Convention Hall (17–19 April)\nRosenthaler Strasse 65, Berlin, Germany 25627"
+          }
+        },
+        {
+          "kind": "schedule",
+          "content": {
+            "en": "Day 1 Schedule: Monday, 17 April\n\n8:00–10:00 A.M. | Breakfast | Maiwald Lounge\n10:00–11:00 A.M. | Welcome and keynote address | Jahn Conference Hall\n11:15 A.M.–1:15 P.M. | Session 1: New Technologies | Breakout rooms, as assigned\n1:30–3:30 P.M. | Lunch group seminar | Edwards Room\n3:45–5:45 P.M. | Session 2: Quality Eye Care | Breakout rooms, as assigned\n6:00–7:30 P.M. | Free period | ---\n7:30–9:00 P.M. | Dinner | Regal Ballroom\n9:00–9:30 P.M. | Dessert and awards ceremony | Regal Ballroom",
+            "vi": "Lịch trình Ngày 1: Monday, 17 April\n\n8:00–10:00 A.M. | Bữa sáng | Maiwald Lounge\n10:00–11:00 A.M. | Chào mừng và bài phát biểu chính | Jahn Conference Hall\n11:15 A.M.–1:15 P.M. | Phiên 1: Công nghệ mới | Các phòng thảo luận riêng, theo phân công\n1:30–3:30 P.M. | Hội thảo nhóm ăn trưa | Edwards Room\n3:45–5:45 P.M. | Phiên 2: Chăm sóc mắt chất lượng | Các phòng thảo luận riêng, theo phân công\n6:00–7:30 P.M. | Thời gian tự do | ---\n7:30–9:00 P.M. | Bữa tối | Regal Ballroom\n9:00–9:30 P.M. | Tráng miệng và lễ trao giải | Regal Ballroom"
+          }
+        },
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Dae-Ho Sohn\nFrom: Paulina Raskin\nSubject: Your presentation\nDate: 22 April\n\nDear Dr. Sohn,\n\nI just wanted to thank you again for speaking at the ICVA conference in Berlin last week. I am sure I am not alone in saying that the highlight of the conference was your keynote address. Your insights into recent advancements in eye-surgery techniques captured the attention of everyone in the room. We were grateful that you could join us and even more appreciative of all the help and guidance you have provided in the past as an active member of the ICVA Board of Directors.\n\nSincerely,\n\nPaulina Raskin\nPresident, International Center for Vision Advancement",
+            "vi": "Đến: Dae-Ho Sohn\nTừ: Paulina Raskin\nChủ đề: Bài thuyết trình của ông\nNgày: 22 April\n\nKính gửi Tiến sĩ Sohn,\n\nTôi chỉ muốn cảm ơn ông một lần nữa vì đã phát biểu tại hội nghị ICVA ở Berlin tuần trước. Tôi chắc chắn rằng tôi không phải là người duy nhất cho rằng điểm nhấn của hội nghị là bài phát biểu chính của ông. Những hiểu biết sâu sắc của ông về những tiến bộ gần đây trong kỹ thuật phẫu thuật mắt đã thu hút sự chú ý của mọi người trong phòng. Chúng tôi rất biết ơn vì ông đã có thể tham gia cùng chúng tôi và thậm chí còn đánh giá cao hơn tất cả sự giúp đỡ và hướng dẫn mà ông đã cung cấp trước đây với tư cách là một thành viên tích cực của Ban Giám đốc ICVA.\n\nSincerely,\n\nPaulina Raskin\nPresident, International Center for Vision Advancement"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t10-p7-q186",
+          "number": 186,
+          "question": {
+            "en": "What is indicated about Dr. Robbins in the article?",
+            "vi": "Điều gì được chỉ ra về Bác sĩ Robbins trong bài báo?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She is starting a new job.",
+              "vi": "Bà đang bắt đầu một công việc mới."
+            },
+            {
+              "key": "B",
+              "en": "She owns a house in York.",
+              "vi": "Bà sở hữu một ngôi nhà ở York."
+            },
+            {
+              "key": "C",
+              "en": "She specializes in designing eyeglasses.",
+              "vi": "Bà chuyên thiết kế kính mắt."
+            },
+            {
+              "key": "D",
+              "en": "She has taught classes in Berlin.",
+              "vi": "Bà đã dạy các lớp học ở Berlin."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t10-p7-q187",
+          "number": 187,
+          "question": {
+            "en": "Where did Dr. Robbins complete her postdoctoral residency?",
+            "vi": "Bác sĩ Robbins đã hoàn thành chương trình bác sĩ nội trú sau tiến sĩ ở đâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "At the Callard Eye Institute",
+              "vi": "Tại Callard Eye Institute"
+            },
+            {
+              "key": "B",
+              "en": "At Labato School of Medicine",
+              "vi": "Tại Labato School of Medicine"
+            },
+            {
+              "key": "C",
+              "en": "At Petersen Medical Center",
+              "vi": "Tại Petersen Medical Center"
+            },
+            {
+              "key": "D",
+              "en": "At Morseville Hospital",
+              "vi": "Tại Morseville Hospital"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t10-p7-q188",
+          "number": 188,
+          "question": {
+            "en": "Where most likely did Dr. Robbins receive the Kramer Medal?",
+            "vi": "Bác sĩ Robbins rất có thể đã nhận Kramer Medal ở đâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "In the Maiwald Lounge",
+              "vi": "Trong phòng Maiwald Lounge"
+            },
+            {
+              "key": "B",
+              "en": "In the Jahn Conference Hall",
+              "vi": "Trong phòng Jahn Conference Hall"
+            },
+            {
+              "key": "C",
+              "en": "In the Edwards Room",
+              "vi": "Trong phòng Edwards Room"
+            },
+            {
+              "key": "D",
+              "en": "In the Regal Ballroom",
+              "vi": "Trong phòng Regal Ballroom"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t10-p7-q189",
+          "number": 189,
+          "question": {
+            "en": "Why did Ms. Raskin send the e-mail to Dr. Sohn?",
+            "vi": "Tại sao bà Raskin gửi e-mail cho Tiến sĩ Sohn?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To ask him to join the board of the ICVA",
+              "vi": "Để yêu cầu ông tham gia ban giám đốc của ICVA"
+            },
+            {
+              "key": "B",
+              "en": "To invite him to speak at a conference",
+              "vi": "Để mời ông phát biểu tại một hội nghị"
+            },
+            {
+              "key": "C",
+              "en": "To request information about his surgical techniques",
+              "vi": "Để yêu cầu thông tin về các kỹ thuật phẫu thuật của ông"
+            },
+            {
+              "key": "D",
+              "en": "To express gratitude for his participation in an event",
+              "vi": "Để bày tỏ sự biết ơn đối với sự tham gia của ông vào một sự kiện"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t10-p7-q190",
+          "number": 190,
+          "question": {
+            "en": "When did Dr. Sohn most likely make a speech on April 17?",
+            "vi": "Tiến sĩ Sohn rất có thể đã có bài phát biểu vào lúc nào vào ngày April 17?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "At 8:00 A.M.",
+              "vi": "Lúc 8:00 A.M."
+            },
+            {
+              "key": "B",
+              "en": "At 10:00 A.M.",
+              "vi": "Lúc 10:00 A.M."
+            },
+            {
+              "key": "C",
+              "en": "At 11:15 A.M.",
+              "vi": "Lúc 11:15 A.M."
+            },
+            {
+              "key": "D",
+              "en": "At 3:45 P.M.",
+              "vi": "Lúc 3:45 P.M."
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t10-p7-g191-195",
+      "documents": [
+        {
+          "kind": "web_page",
+          "content": {
+            "en": "https://www.freewheeloasis.com/trade-in-and-consignment\n\nHome | Service and Repair | Trade-in and Consignment | Accessories\n\nFreewheel Oasis offers two programs that make selling your bicycle easier: trade-in and consignment. If you select our trade-in program, you give us your bicycle, and, in exchange, we give you credit toward the purchase of a new one. If you opt for our consignment program, we will sell your bicycle for you.\n\nTo take advantage of either option, e-mail us at programs@freewheeloasis.com to schedule an appointment. In your e-mail, you should also indicate whether you wish to trade in your bicycle or place it on consignment. You will receive a response from our customer service manager. We take appointments during regular business hours, Monday through Saturday from 9:00 A.M. to 5:00 P.M.\n\nWhen you come in for your appointment, a technician will assess the condition of your bicycle, and a sales associate will determine its current value. If the value specified is acceptable to you and you wish to trade in your bicycle, we deduct that amount from the purchase price of your new bicycle. If you prefer a consignment arrangement, we will sell your bicycle for the agreed-upon amount. Note that we will withhold a service fee equal to 15 percent of this amount at the time your bicycle is sold, while the rest of the earnings will be sent to you.",
+            "vi": "https://www.freewheeloasis.com/trade-in-and-consignment\n\nTrang chủ | Dịch vụ và Sửa chữa | Thu cũ đổi mới và Ký gửi | Phụ kiện\n\nFreewheel Oasis cung cấp hai chương trình giúp việc bán xe đạp của bạn trở nên dễ dàng hơn: thu cũ đổi mới (trade-in) và ký gửi (consignment). Nếu bạn chọn chương trình thu cũ đổi mới của chúng tôi, bạn đưa xe đạp của mình cho chúng tôi và đổi lại, chúng tôi cung cấp cho bạn một khoản tiền tích lũy (credit) để mua một chiếc xe đạp mới. Nếu bạn chọn chương trình ký gửi của chúng tôi, chúng tôi sẽ bán xe đạp giúp bạn.\n\nĐể tận dụng một trong hai tùy chọn, hãy gửi email cho chúng tôi theo địa chỉ programs@freewheeloasis.com để đặt lịch hẹn. Trong email, bạn cũng nên cho biết mình muốn đổi xe đạp hay ký gửi xe. Bạn sẽ nhận được phản hồi từ quản lý bộ phận dịch vụ khách hàng của chúng tôi. Chúng tôi nhận các cuộc hẹn trong giờ làm việc thông thường, từ Monday đến Saturday từ 9:00 A.M. đến 5:00 P.M.\n\nKhi bạn đến cuộc hẹn, một kỹ thuật viên sẽ đánh giá tình trạng xe đạp của bạn, và một nhân viên bán hàng sẽ xác định giá trị hiện tại của nó. Nếu giá trị được xác định là chấp nhận được đối với bạn và bạn muốn đổi xe đạp, chúng tôi sẽ khấu trừ số tiền đó vào giá mua xe đạp mới của bạn. Nếu bạn thích một thỏa thuận ký gửi, chúng tôi sẽ bán xe đạp của bạn với số tiền đã thỏa thuận. Lưu ý rằng chúng tôi sẽ giữ lại một khoản phí dịch vụ tương đương 15% số tiền này tại thời điểm xe đạp của bạn được bán, trong khi phần doanh thu còn lại sẽ được gửi cho bạn."
+          }
+        },
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: programs@freewheeloasis.com\nFrom: Nicola Johnson <njohnson92@rapidonet.com>\nDate: November 2\nSubject: Appointment request\n\nHello,\n\nI have a mountain bicycle that is now six years old. However, I only used it for the first three years. I have tried to sell it myself but was not successful, so I would like to place it on consignment with you. Therefore, I would like to schedule an appointment.\n\nAlso, I recently accepted a job in Kuwait and will be leaving on November 30. Do you expect that the bicycle will be sold by then? If not, how can I receive my portion of the selling price?\n\nBest regards,\n\nNicola Johnson",
+            "vi": "Đến: programs@freewheeloasis.com\nTừ: Nicola Johnson <njohnson92@rapidonet.com>\nNgày: November 2\nChủ đề: Yêu cầu đặt hẹn\n\nXin chào,\n\nTôi có một chiếc xe đạp địa hình hiện đã sáu năm tuổi. Tuy nhiên, tôi chỉ sử dụng nó trong ba năm đầu tiên. Tôi đã tự mình thử bán nó nhưng không thành công, vì vậy tôi muốn ký gửi nó tại cửa hàng của các bạn. Do đó, tôi muốn lên lịch hẹn.\n\nNgoài ra, gần đây tôi đã nhận một công việc ở Kuwait và sẽ rời đi vào ngày November 30. Các bạn có mong đợi chiếc xe đạp sẽ được bán trước thời điểm đó không? Nếu không, làm cách nào để tôi có thể nhận được phần tiền bán hàng của mình?\n\nBest regards,\n\nNicola Johnson"
+          }
+        },
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Nicola Johnson <njohnson92@rapidonet.com>\nFrom: programs@freewheeloasis.com\nDate: November 2\nSubject: RE: Appointment request\n\nHi, Nicola,\n\nThanks for your interest in placing your bicycle on consignment with Freewheel Oasis. Your appointment is scheduled for Friday, November 4, at 3:00 P.M. Let me know if this arrangement works for you.\n\nOur consignment policy stipulates that once the sale of a bicycle has been finalized, the money owed to the customer must be paid into the person's bank account. Please note that Freewheel Oasis cannot guarantee the sale of a bicycle by a date specified by the bicycle owner.\n\nBest of luck with your new endeavor!\n\nSincerely,\n\nPeter Moran",
+            "vi": "Đến: Nicola Johnson <njohnson92@rapidonet.com>\nTừ: programs@freewheeloasis.com\nNgày: November 2\nChủ đề: RE: Yêu cầu đặt hẹn\n\nChào Nicola,\n\nCảm ơn bạn đã quan tâm đến việc ký gửi xe đạp của mình tại Freewheel Oasis. Cuộc hẹn của bạn được lên lịch vào Friday, November 4, lúc 3:00 P.M. Hãy cho tôi biết nếu sự sắp xếp này phù hợp với bạn.\n\nChính sách ký gửi của chúng tôi quy định rằng một khi việc bán xe đạp đã được hoàn tất, số tiền nợ khách hàng phải được thanh toán vào tài khoản ngân hàng của người đó. Xin lưu ý rằng Freewheel Oasis không thể đảm bảo việc bán xe đạp trước một ngày cụ thể do chủ sở hữu xe đạp yêu cầu.\n\nChúc bạn gặp nhiều may mắn với nỗ lực mới của mình!\n\nSincerely,\n\nPeter Moran"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t10-p7-q191",
+          "number": 191,
+          "question": {
+            "en": "According to the Web page, what is suggested about Freewheel Oasis?",
+            "vi": "Theo trang web, điều gì được gợi ý về Freewheel Oasis?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is currently having a sale on used bicycles.",
+              "vi": "Nó hiện đang có chương trình giảm giá cho xe đạp đã qua sử dụng."
+            },
+            {
+              "key": "B",
+              "en": "It performs inspections on certain bicycles.",
+              "vi": "Nó thực hiện kiểm tra đối với một số loại xe đạp nhất định."
+            },
+            {
+              "key": "C",
+              "en": "It has recently increased in popularity.",
+              "vi": "Gần đây nó đã trở nên phổ biến hơn."
+            },
+            {
+              "key": "D",
+              "en": "It is open daily.",
+              "vi": "Nó mở cửa hàng ngày."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t10-p7-q192",
+          "number": 192,
+          "question": {
+            "en": "What does Ms. Johnson indicate in her e-mail?",
+            "vi": "Cô Johnson cho biết điều gì trong e-mail của mình?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She regularly travels abroad.",
+              "vi": "Cô thường xuyên đi du lịch nước ngoài."
+            },
+            {
+              "key": "B",
+              "en": "She got her bicycle six years ago.",
+              "vi": "Cô đã mua chiếc xe đạp của mình cách đây sáu năm."
+            },
+            {
+              "key": "C",
+              "en": "She prefers an appointment on November 30.",
+              "vi": "Cô muốn có một cuộc hẹn vào ngày November 30."
+            },
+            {
+              "key": "D",
+              "en": "She has made repairs to the bicycle by herself.",
+              "vi": "Cô đã tự mình thực hiện các sửa chữa cho chiếc xe đạp."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t10-p7-q193",
+          "number": 193,
+          "question": {
+            "en": "What can be concluded about Ms. Johnson?",
+            "vi": "Có thể kết luận điều gì về cô Johnson?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She is currently working in Kuwait.",
+              "vi": "Cô hiện đang làm việc tại Kuwait."
+            },
+            {
+              "key": "B",
+              "en": "She has done business with Freewheel Oasis before.",
+              "vi": "Cô đã từng giao dịch với Freewheel Oasis trước đây."
+            },
+            {
+              "key": "C",
+              "en": "She has agreed to let Freewheel Oasis charge her a service fee.",
+              "vi": "Cô đã đồng ý để Freewheel Oasis tính phí dịch vụ."
+            },
+            {
+              "key": "D",
+              "en": "She plans to buy a bicycle from Freewheel Oasis.",
+              "vi": "Cô có kế hoạch mua một chiếc xe đạp từ Freewheel Oasis."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t10-p7-q194",
+          "number": 194,
+          "question": {
+            "en": "What is one purpose of Mr. Moran's e-mail?",
+            "vi": "Một mục đích của e-mail của ông Moran là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To ask for additional information about a service request",
+              "vi": "Để yêu cầu thêm thông tin về một yêu cầu dịch vụ"
+            },
+            {
+              "key": "B",
+              "en": "To request the rescheduling of an appointment",
+              "vi": "Để yêu cầu lên lịch lại cho một cuộc hẹn"
+            },
+            {
+              "key": "C",
+              "en": "To indicate the completion date of a service",
+              "vi": "Để chỉ ra ngày hoàn thành của một dịch vụ"
+            },
+            {
+              "key": "D",
+              "en": "To state a company rule",
+              "vi": "Để nêu ra một quy định của công ty"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t10-p7-q195",
+          "number": 195,
+          "question": {
+            "en": "Who most likely is Mr. Moran?",
+            "vi": "Ai rất có thể là ông Moran?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A customer service manager",
+              "vi": "Quản lý dịch vụ khách hàng"
+            },
+            {
+              "key": "B",
+              "en": "A bank accountant",
+              "vi": "Kế toán ngân hàng"
+            },
+            {
+              "key": "C",
+              "en": "A sales associate",
+              "vi": "Nhân viên bán hàng"
+            },
+            {
+              "key": "D",
+              "en": "A bicycle repair technician",
+              "vi": "Kỹ thuật viên sửa chữa xe đạp"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t10-p7-g196-200",
+      "documents": [
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: y.kuroda@coralmail.com\nFrom: simoncady@techsolve.com\nDate: May 12, 1:30 P.M.\nSubject: Paperwork\nAttachment: Checklist",
+            "vi": "Đến: y.kuroda@coralmail.com\nTừ: simoncady@techsolve.com\nNgày: May 12, 1:30 P.M.\nChủ đề: Giấy tờ hồ sơ\nTệp đính kèm: Danh sách kiểm tra"
+          }
+        },
+        {
+          "kind": "checklist",
+          "content": {
+            "en": "Dear Ms. Kuroda,\n\nWe still need a few things for your personnel file. At the training for new hires this morning, we provided you with a checklist of the documents that we need to have on file. For your reference, I've attached a scanned copy of your checklist to this e-mail.\n\nFirst, our security office requires proof of your identity. Employees usually submit a copy of their driver's license (front and back) or the personal information page from their passport, but any official government identification is acceptable. We also require your banking information to set up the electronic transfer of your salary to your account.\n\nThe final item on the list will only be needed if you join the company softball team. Do you play? Our company team participates in a league, and it's a great way to build rapport with the people you will be working alongside. The season is just beginning. I can send you details if you're interested.\n\nFinally, I want to encourage you to attend the company picnic, which is always held on the third Friday in May at Briarwood Park. It's an opportunity to interact with your coworkers in an informal, nonworking environment. It's always well attended.\n\nIf you have any questions, contact me and we can schedule a chat.\n\nSimon Cady, Human Resources Division\nTechsolve, Inc.\n\nNew Employee Forms Checklist\n\nName: Yumiko Kuroda\nDepartment: Data entry\nStart Date: May 15\n\n1. Proof of identity (copy of driver's license, passport, or other official ID)\n[Check mark] 2. Personal data form\n[Check mark] 3. Tax withholding form\n4. Bank account information form\n[Check mark] 5. Insurance selection form\n6. Release of liability form (if required)",
+            "vi": "Kính gửi cô Kuroda,\n\nChúng tôi vẫn cần một vài thứ cho hồ sơ nhân sự của cô. Tại buổi đào tạo cho nhân viên mới vào sáng nay, chúng tôi đã cung cấp cho cô một danh sách kiểm tra các tài liệu mà chúng tôi cần lưu trữ trong hồ sơ. Để cô tham khảo, tôi đã đính kèm một bản sao quét danh sách kiểm tra của cô vào email này.\n\nĐầu tiên, văn phòng an ninh của chúng tôi yêu cầu bằng chứng chứng minh danh tính của cô. Nhân viên thường nộp một bản sao bằng lái xe của họ (mặt trước và mặt sau) hoặc trang thông tin cá nhân từ hộ chiếu của họ, nhưng bất kỳ giấy tờ tùy thân chính thức nào của chính phủ đều được chấp nhận. Chúng tôi cũng yêu cầu thông tin ngân hàng của cô để thiết lập việc chuyển khoản điện tử tiền lương của cô vào tài khoản của cô.\n\nMục cuối cùng trong danh sách sẽ chỉ cần thiết nếu cô tham gia đội bóng chày mềm (softball) của công ty. Cô có chơi không? Đội tuyển công ty của chúng tôi tham gia vào một giải đấu, và đó là một cách tuyệt vời để xây dựng mối quan hệ tốt đẹp với những người mà cô sẽ làm việc cùng. Mùa giải vừa mới bắt đầu. Tôi có thể gửi cho cô thông tin chi tiết nếu cô quan tâm.\n\nCuối cùng, tôi muốn khuyến khích cô tham dự buổi dã ngoại của công ty, buổi dã ngoại này luôn được tổ chức vào ngày thứ Sáu thứ ba của May tại Briarwood Park. Đây là cơ hội để tương tác với các đồng nghiệp của cô trong một môi trường thân mật, phi công việc. Sự kiện này luôn có sự tham gia đông đảo.\n\nNếu cô có bất kỳ câu hỏi nào, hãy liên hệ với tôi và chúng ta có thể lên lịch để trò chuyện.\n\nSimon Cady, Bộ phận Nhân sự\nTechsolve, Inc.\n\nDanh sách kiểm tra biểu mẫu nhân viên mới\n\nTên: Yumiko Kuroda\nBộ phận: Nhập dữ liệu\nNgày bắt đầu: May 15\n\n1. Bằng chứng nhận dạng (bản sao bằng lái xe, hộ chiếu hoặc ID chính thức khác)\n[Dấu tích] 2. Biểu mẫu dữ liệu cá nhân\n[Dấu tích] 3. Biểu mẫu khấu trừ thuế\n4. Biểu mẫu thông tin tài khoản ngân hàng\n[Dấu tích] 5. Biểu mẫu lựa chọn bảo hiểm\n6. Biểu mẫu miễn trừ trách nhiệm pháp lý (nếu được yêu cầu)"
+          }
+        },
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: simoncady@techsolve.com\nFrom: y.kuroda@coralmail.com\nDate: May 12, 3:21 P.M.\nSubject: Re: Paperwork\n\nHello Mr. Cady,\n\nThank you for your e-mail. I am excited about starting work. And thanks, too, for sending a copy of the checklist I received in the orientation session. I don't drive, so I don't have a driver's license, but I can provide a copy of the page from my passport. I am about to gather the necessary information for the fourth item on the list. I will bring everything to the office on Monday.\n\nI'll have to think about whether I want to join the company softball team. How much of a time commitment is it? I played softball in college. I wasn't very good, but I did enjoy playing.\n\nThe company picnic sounds like fun. I love Briarwood Park and look forward to the opportunity to get to know my coworkers better. If employees bring dishes for the picnic, I'd be happy to make something. Or is the food being provided by a caterer?\n\nThanks again for your support.\n\nYumiko Kuroda",
+            "vi": "Đến: simoncady@techsolve.com\nTừ: y.kuroda@coralmail.com\nNgày: May 12, 3:21 P.M.\nChủ đề: Re: Giấy tờ hồ sơ\n\nXin chào ông Cady,\n\nCảm ơn ông vì email này. Tôi rất hào hứng khi được bắt đầu công việc. Và cũng cảm ơn ông đã gửi bản sao danh sách kiểm tra mà tôi đã nhận được trong buổi định hướng. Tôi không lái xe, vì vậy tôi không có bằng lái xe, nhưng tôi có thể cung cấp một bản sao trang từ hộ chiếu của mình. Tôi chuẩn bị thu thập thông tin cần thiết cho mục thứ tư trong danh sách. Tôi sẽ mang mọi thứ đến văn phòng vào Monday.\n\nTôi sẽ phải suy nghĩ về việc liệu mình có muốn tham gia đội bóng chày mềm của công ty hay không. Nó đòi hỏi cam kết về mặt thời gian như thế nào? Tôi đã từng chơi bóng chày mềm ở trường đại học. Tôi chơi không giỏi lắm, nhưng tôi thực sự thích chơi.\n\nBuổi dã ngoại của công ty nghe có vẻ rất vui. Tôi yêu thích Briarwood Park và rất mong có cơ hội được hiểu rõ hơn các đồng nghiệp của mình. Nếu nhân viên mang các món ăn tự làm đến buổi dã ngoại, tôi rất vui lòng làm một món gì đó. Hay đồ ăn sẽ được cung cấp bởi một bên cung cấp dịch vụ ăn uống (caterer)?\n\nCảm ơn ông một lần nữa vì sự hỗ trợ của ông.\n\nYumiko Kuroda"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t10-p7-q196",
+          "number": 196,
+          "question": {
+            "en": "What is the main purpose of the first e-mail?",
+            "vi": "Mục đích chính của e-mail đầu tiên là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To offer Ms. Kuroda a job",
+              "vi": "Để đề nghị cô Kuroda nhận một công việc"
+            },
+            {
+              "key": "B",
+              "en": "To request some documents",
+              "vi": "Để yêu cầu một số tài liệu"
+            },
+            {
+              "key": "C",
+              "en": "To invite Ms. Kuroda to watch a ball game",
+              "vi": "Để mời cô Kuroda đến xem một trận đấu bóng"
+            },
+            {
+              "key": "D",
+              "en": "To schedule an appointment",
+              "vi": "Để lên lịch một cuộc hẹn"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t10-p7-q197",
+          "number": 197,
+          "question": {
+            "en": "Where most likely was Ms. Kuroda on the morning of May 12?",
+            "vi": "Cô Kuroda rất có thể đã ở đâu vào sáng ngày May 12?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "At a training for new hires",
+              "vi": "Tại một buổi đào tạo cho nhân viên mới"
+            },
+            {
+              "key": "B",
+              "en": "At a job interview",
+              "vi": "Tại một buổi phỏng vấn xin việc"
+            },
+            {
+              "key": "C",
+              "en": "At a security office",
+              "vi": "Tại một văn phòng an ninh"
+            },
+            {
+              "key": "D",
+              "en": "At a college reunion",
+              "vi": "Tại một buổi họp mặt trường đại học"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t10-p7-q198",
+          "number": 198,
+          "question": {
+            "en": "Why might Ms. Kuroda need to submit a release form?",
+            "vi": "Tại sao cô Kuroda có thể cần phải nộp một biểu mẫu miễn trừ trách nhiệm?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "If she borrows some money",
+              "vi": "Nếu cô mượn một số tiền"
+            },
+            {
+              "key": "B",
+              "en": "If she plays on a sports team",
+              "vi": "Nếu cô chơi trong một đội thể thao"
+            },
+            {
+              "key": "C",
+              "en": "If she attends a social event",
+              "vi": "Nếu cô tham dự một sự kiện xã hội"
+            },
+            {
+              "key": "D",
+              "en": "If she gets a promotion",
+              "vi": "Nếu cô được thăng chức"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t10-p7-q199",
+          "number": 199,
+          "question": {
+            "en": "What does Ms. Kuroda indicate about a company picnic?",
+            "vi": "Cô Kuroda chỉ ra điều gì về chuyến dã ngoại của công ty?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She does not know where it will take place.",
+              "vi": "Cô không biết nó sẽ diễn ra ở đâu."
+            },
+            {
+              "key": "B",
+              "en": "She does not know whether she can go to it.",
+              "vi": "Cô không biết liệu mình có thể tham dự được hay không."
+            },
+            {
+              "key": "C",
+              "en": "She is eager to meet her coworkers there.",
+              "vi": "Cô rất mong được gặp gỡ các đồng nghiệp của mình ở đó."
+            },
+            {
+              "key": "D",
+              "en": "She would be happy to organize the catering for it.",
+              "vi": "Cô rất sẵn lòng tổ chức dịch vụ ăn uống cho sự kiện này."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t10-p7-q200",
+          "number": 200,
+          "question": {
+            "en": "What will Ms. Kuroda most likely do next?",
+            "vi": "Cô Kuroda rất có thể sẽ làm gì tiếp theo?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Eat lunch with her coworkers",
+              "vi": "Ăn trưa cùng các đồng nghiệp của cô"
+            },
+            {
+              "key": "B",
+              "en": "Look for details of her bank account",
+              "vi": "Tìm kiếm thông tin chi tiết về tài khoản ngân hàng của cô"
+            },
+            {
+              "key": "C",
+              "en": "E-mail a list to Mr. Cady",
+              "vi": "Gửi một danh sách qua email cho ông Cady"
+            },
+            {
+              "key": "D",
+              "en": "Ask Mr. Cady about applying for a passport Stop! This is the end of the test. If you finish before time is called, you may go back to Parts 5, 6, and 7 and check your work.",
+              "vi": "Hỏi ông Cady về việc nộp đơn xin cấp hộ chiếu"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    }
+  ]
+}

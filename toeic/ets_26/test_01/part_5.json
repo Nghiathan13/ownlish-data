@@ -1,0 +1,934 @@
+{
+  "items": [
+    {
+      "id": "ets26-t01-p5-q101",
+      "number": 101,
+      "question": {
+        "en": "The lecture will take place at 6:00 P.M., ______ which attendees may ask questions.",
+        "vi": "Bài giảng sẽ diễn ra lúc 6:00 chiều, ______ những người tham dự có thể đặt câu hỏi."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "across",
+          "vi": "across (prep): băng qua, khắp"
+        },
+        {
+          "key": "B",
+          "en": "after",
+          "vi": "after (prep/conj): sau khi"
+        },
+        {
+          "key": "C",
+          "en": "inside",
+          "vi": "inside (prep/adv): bên trong"
+        },
+        {
+          "key": "D",
+          "en": "among",
+          "vi": "among (prep): ở giữa (nhiều người/vật)"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets26-t01-p5-q102",
+      "number": 102,
+      "question": {
+        "en": "The ______ antique shop in Pepper Valley will close down next month.",
+        "vi": "Cửa hàng đồ cổ ______ ở Pepper Valley sẽ đóng cửa vào tháng tới."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "last",
+          "vi": "last (adj/v): cuối cùng, kéo dài"
+        },
+        {
+          "key": "B",
+          "en": "lasts",
+          "vi": "lasts (v-s): kéo dài"
+        },
+        {
+          "key": "C",
+          "en": "lasted",
+          "vi": "lasted (v-ed): đã kéo dài"
+        },
+        {
+          "key": "D",
+          "en": "lasting",
+          "vi": "lasting (adj/v-ing): lâu dài, bền, kéo dài"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets26-t01-p5-q103",
+      "number": 103,
+      "question": {
+        "en": "Merryville residents will receive an online status ______ about the ongoing bridge construction project.",
+        "vi": "Cư dân Merryville sẽ nhận được một bản ______ trạng thái trực tuyến về dự án xây dựng cầu đang diễn ra."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "update",
+          "vi": "update (n/v): cập nhật"
+        },
+        {
+          "key": "B",
+          "en": "change",
+          "vi": "change (n/v): thay đổi"
+        },
+        {
+          "key": "C",
+          "en": "payment",
+          "vi": "payment (n): thanh toán"
+        },
+        {
+          "key": "D",
+          "en": "request",
+          "vi": "request (n/v): yêu cầu"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets26-t01-p5-q104",
+      "number": 104,
+      "question": {
+        "en": "As a result of ______ many years leading media organizations, Ms. Ayo was selected for the Dowel Journalism Prize.",
+        "vi": "Nhờ ______ nhiều năm lãnh đạo các tổ chức truyền thông, bà Ayo đã được chọn cho Giải thưởng Báo chí Dowel."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "she",
+          "vi": "she (pron): cô ấy, bà ấy"
+        },
+        {
+          "key": "B",
+          "en": "her",
+          "vi": "her (pron/adj): của cô ấy/bà ấy"
+        },
+        {
+          "key": "C",
+          "en": "hers",
+          "vi": "hers (pron): của cô ấy/bà ấy (dùng độc lập)"
+        },
+        {
+          "key": "D",
+          "en": "herself",
+          "vi": "herself (pron): chính cô ấy/bà ấy"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets26-t01-p5-q105",
+      "number": 105,
+      "question": {
+        "en": "To stop the ______ of computer viruses, do not open suspicious e-mails.",
+        "vi": "Để ngăn chặn sự ______ của vi-rút máy tính, không mở các e-mail đáng ngờ."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "break",
+          "vi": "break (n/v): sự phá vỡ, làm vỡ"
+        },
+        {
+          "key": "B",
+          "en": "spread",
+          "vi": "spread (n/v): sự lây lan, lây lan"
+        },
+        {
+          "key": "C",
+          "en": "balance",
+          "vi": "balance (n/v): sự cân bằng, cân bằng"
+        },
+        {
+          "key": "D",
+          "en": "surface",
+          "vi": "surface (n/v): bề mặt, nổi lên"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets26-t01-p5-q106",
+      "number": 106,
+      "question": {
+        "en": "The hiring manager ______ considered each applicant’s résumé and qualifications.",
+        "vi": "Người quản lý tuyển dụng đã ______ xem xét từng hồ sơ xin việc và trình độ chuyên môn của ứng viên."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "caring",
+          "vi": "caring (adj/v-ing): quan tâm"
+        },
+        {
+          "key": "B",
+          "en": "careful",
+          "vi": "careful (adj): cẩn thận"
+        },
+        {
+          "key": "C",
+          "en": "carefully",
+          "vi": "carefully (adv): một cách cẩn thận"
+        },
+        {
+          "key": "D",
+          "en": "carefulness",
+          "vi": "carefulness (n): sự cẩn thận"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets26-t01-p5-q107",
+      "number": 107,
+      "question": {
+        "en": "In October, Mr. Sakamoto will leave for New Zealand ______ will oversee the opening of the new Auckland branch.",
+        "vi": "Vào tháng Mười, ông Sakamoto sẽ rời đi New Zealand ______ sẽ giám sát việc khai trương chi nhánh mới ở Auckland."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "because",
+          "vi": "because (conj): bởi vì"
+        },
+        {
+          "key": "B",
+          "en": "in addition",
+          "vi": "in addition (prep phrase): thêm vào đó"
+        },
+        {
+          "key": "C",
+          "en": "and",
+          "vi": "and (conj): và"
+        },
+        {
+          "key": "D",
+          "en": "prior to",
+          "vi": "prior to (prep phrase): trước khi"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets26-t01-p5-q108",
+      "number": 108,
+      "question": {
+        "en": "Tarateer Pharmaceuticals is varying its product ______ to include over-the-counter medications.",
+        "vi": "Tarateer Pharmaceuticals đang thay đổi ______ sản phẩm của mình để bao gồm các loại thuốc bán không cần kê đơn."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "to line",
+          "vi": "to line (v-inf): để xếp hàng/lót"
+        },
+        {
+          "key": "B",
+          "en": "lining",
+          "vi": "lining (n/v-ing): lớp lót, việc xếp hàng"
+        },
+        {
+          "key": "C",
+          "en": "lined",
+          "vi": "lined (v-ed/adj): đã xếp hàng, có lót"
+        },
+        {
+          "key": "D",
+          "en": "line",
+          "vi": "line (n/v): dòng sản phẩm, xếp hàng"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets26-t01-p5-q109",
+      "number": 109,
+      "question": {
+        "en": "Dynart, Inc., continuously ______ new ways to reduce its use of plastics.",
+        "vi": "Dynart, Inc., liên tục ______ những cách mới để giảm việc sử dụng nhựa."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "seeks",
+          "vi": "seeks (v-s): tìm kiếm"
+        },
+        {
+          "key": "B",
+          "en": "seeker",
+          "vi": "seeker (n): người tìm kiếm"
+        },
+        {
+          "key": "C",
+          "en": "to seek",
+          "vi": "to seek (v-inf): để tìm kiếm"
+        },
+        {
+          "key": "D",
+          "en": "seeking",
+          "vi": "seeking (v-ing): đang tìm kiếm"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets26-t01-p5-q110",
+      "number": 110,
+      "question": {
+        "en": "The cash registers at Pirkle Books automatically ______ the remaining inventory of books available.",
+        "vi": "Máy tính tiền tại Pirkle Books tự động ______ lượng hàng tồn kho còn lại của sách có sẵn."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "calculate",
+          "vi": "calculate (v): tính toán"
+        },
+        {
+          "key": "B",
+          "en": "calculator",
+          "vi": "calculator (n): máy tính"
+        },
+        {
+          "key": "C",
+          "en": "calculating",
+          "vi": "calculating (adj/v-ing): tính toán"
+        },
+        {
+          "key": "D",
+          "en": "calculation",
+          "vi": "calculation (n): sự tính toán, phép tính"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets26-t01-p5-q111",
+      "number": 111,
+      "question": {
+        "en": "The product team is designing mapping software that can ______ locate underground minerals.",
+        "vi": "Nhóm sản phẩm đang thiết kế phần mềm bản đồ có thể ______ xác định vị trí khoáng sản dưới lòng đất."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "infinitely",
+          "vi": "infinitely (adv): vô hạn"
+        },
+        {
+          "key": "B",
+          "en": "sincerely",
+          "vi": "sincerely (adv): chân thành"
+        },
+        {
+          "key": "C",
+          "en": "precisely",
+          "vi": "precisely (adv): chính xác"
+        },
+        {
+          "key": "D",
+          "en": "greatly",
+          "vi": "greatly (adv): rất nhiều, to lớn"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets26-t01-p5-q112",
+      "number": 112,
+      "question": {
+        "en": "According to CEO Mayu Yamada, it would not be ______ responsible to expand the warehouse at this time.",
+        "vi": "Theo CEO Mayu Yamada, sẽ không ______ có trách nhiệm khi mở rộng nhà kho vào lúc này."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "finance",
+          "vi": "finance (n/v): tài chính"
+        },
+        {
+          "key": "B",
+          "en": "financials",
+          "vi": "financials (n): các vấn đề tài chính"
+        },
+        {
+          "key": "C",
+          "en": "financially",
+          "vi": "financially (adv): về mặt tài chính"
+        },
+        {
+          "key": "D",
+          "en": "financing",
+          "vi": "financing (n/v-ing): việc tài trợ"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets26-t01-p5-q113",
+      "number": 113,
+      "question": {
+        "en": "Analysts cannot say with any ______ what the regional demand for electric trucks will be.",
+        "vi": "Các nhà phân tích không thể nói với bất kỳ ______ nào nhu cầu của khu vực đối với xe tải điện sẽ là bao nhiêu."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "certainty",
+          "vi": "certainty (n): sự chắc chắn"
+        },
+        {
+          "key": "B",
+          "en": "justice",
+          "vi": "justice (n): công lý"
+        },
+        {
+          "key": "C",
+          "en": "excellence",
+          "vi": "excellence (n): sự xuất sắc"
+        },
+        {
+          "key": "D",
+          "en": "denial",
+          "vi": "denial (n): sự từ chối, phủ nhận"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets26-t01-p5-q114",
+      "number": 114,
+      "question": {
+        "en": "As part of its marketing campaign, Elegance Dishware is ______ soliciting feedback from customers.",
+        "vi": "Là một phần của chiến dịch tiếp thị, Elegance Dishware đang ______ thu thập phản hồi từ khách hàng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "lightly",
+          "vi": "lightly (adv): nhẹ nhàng"
+        },
+        {
+          "key": "B",
+          "en": "loyally",
+          "vi": "loyally (adv): trung thành"
+        },
+        {
+          "key": "C",
+          "en": "actively",
+          "vi": "actively (adv): tích cực, chủ động"
+        },
+        {
+          "key": "D",
+          "en": "cleanly",
+          "vi": "cleanly (adv): sạch sẽ"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets26-t01-p5-q115",
+      "number": 115,
+      "question": {
+        "en": "Rain gardens are intended to ______ water to prevent flooding of local roads.",
+        "vi": "Vườn mưa được thiết kế để ______ nước nhằm ngăn lũ lụt trên các con đường địa phương."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "engage",
+          "vi": "engage (v): thu hút, tham gia"
+        },
+        {
+          "key": "B",
+          "en": "undergo",
+          "vi": "undergo (v): trải qua"
+        },
+        {
+          "key": "C",
+          "en": "absorb",
+          "vi": "absorb (v): hấp thụ"
+        },
+        {
+          "key": "D",
+          "en": "overwhelm",
+          "vi": "overwhelm (v): choáng ngợp, tràn ngập"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets26-t01-p5-q116",
+      "number": 116,
+      "question": {
+        "en": "Theta Industries’ training program aims to increase the ______ of its manufacturing systems.",
+        "vi": "Chương trình đào tạo của Theta Industries nhằm tăng ______ của hệ thống sản xuất của mình."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "producer",
+          "vi": "producer (n): nhà sản xuất"
+        },
+        {
+          "key": "B",
+          "en": "produced",
+          "vi": "produced (v-ed/adj): đã được sản xuất"
+        },
+        {
+          "key": "C",
+          "en": "productive",
+          "vi": "productive (adj): năng suất, hiệu quả"
+        },
+        {
+          "key": "D",
+          "en": "productivity",
+          "vi": "productivity (n): năng suất"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets26-t01-p5-q117",
+      "number": 117,
+      "question": {
+        "en": "The board of directors has voted to award Mr. Mitrakos a bonus for his role ______ obtaining the international contract.",
+        "vi": "Hội đồng quản trị đã bỏ phiếu thưởng cho ông Mitrakos vì vai trò của ông ______ đạt được hợp đồng quốc tế."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "in",
+          "vi": "in (prep): trong, về"
+        },
+        {
+          "key": "B",
+          "en": "at",
+          "vi": "at (prep): tại"
+        },
+        {
+          "key": "C",
+          "en": "except",
+          "vi": "except (prep/conj): ngoại trừ"
+        },
+        {
+          "key": "D",
+          "en": "apart",
+          "vi": "apart (adv/prep): riêng rẽ, cách xa"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets26-t01-p5-q118",
+      "number": 118,
+      "question": {
+        "en": "The finance director gave his approval ______ the project can move forward.",
+        "vi": "Giám đốc tài chính đã cho phép ______ dự án có thể tiến hành."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "along",
+          "vi": "along (adv/prep): dọc theo"
+        },
+        {
+          "key": "B",
+          "en": "furthermore",
+          "vi": "furthermore (adv): hơn nữa"
+        },
+        {
+          "key": "C",
+          "en": "cautiously",
+          "vi": "cautiously (adv): một cách thận trọng"
+        },
+        {
+          "key": "D",
+          "en": "so that",
+          "vi": "so that (conj): để mà"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets26-t01-p5-q119",
+      "number": 119,
+      "question": {
+        "en": "The newspaper article describes ways job seekers can ______ for having little workplace experience.",
+        "vi": "Bài báo trên tạp chí mô tả những cách người tìm việc có thể ______ cho việc có ít kinh nghiệm làm việc."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "reply",
+          "vi": "reply (v): trả lời"
+        },
+        {
+          "key": "B",
+          "en": "capture",
+          "vi": "capture (v): nắm bắt, chụp lại"
+        },
+        {
+          "key": "C",
+          "en": "compensate",
+          "vi": "compensate (v): bù đắp, đền bù"
+        },
+        {
+          "key": "D",
+          "en": "accumulate",
+          "vi": "accumulate (v): tích lũy"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets26-t01-p5-q120",
+      "number": 120,
+      "question": {
+        "en": "Mr. Ellis and Ms. Barnes were both highly qualified, but ______ got the job.",
+        "vi": "Cả ông Ellis và bà Barnes đều có trình độ cao, nhưng ______ ai trong số họ đã nhận được công việc."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "myself",
+          "vi": "myself (pron): chính tôi"
+        },
+        {
+          "key": "B",
+          "en": "neither",
+          "vi": "neither (pron/det): không ai, không cái nào"
+        },
+        {
+          "key": "C",
+          "en": "anybody",
+          "vi": "anybody (pron): bất cứ ai"
+        },
+        {
+          "key": "D",
+          "en": "whoever",
+          "vi": "whoever (pron): bất cứ ai (mà)"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets26-t01-p5-q121",
+      "number": 121,
+      "question": {
+        "en": "Ennis Photography purchased all new lighting equipment ______ the high cost.",
+        "vi": "Ennis Photography đã mua tất cả thiết bị chiếu sáng mới ______ chi phí cao."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "even though",
+          "vi": "even though (conj): mặc dù"
+        },
+        {
+          "key": "B",
+          "en": "however",
+          "vi": "however (adv): tuy nhiên"
+        },
+        {
+          "key": "C",
+          "en": "until",
+          "vi": "until (prep/conj): cho đến khi"
+        },
+        {
+          "key": "D",
+          "en": "despite",
+          "vi": "despite (prep): mặc dù"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets26-t01-p5-q122",
+      "number": 122,
+      "question": {
+        "en": "Marburton residents who wish to ______ a home should contact the award-winning team at Kwan Real Estate.",
+        "vi": "Cư dân Marburton muốn ______ một ngôi nhà nên liên hệ với đội ngũ đoạt giải thưởng tại Kwan Real Estate."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "seller",
+          "vi": "seller (n): người bán"
+        },
+        {
+          "key": "B",
+          "en": "sold",
+          "vi": "sold (v-ed/v3): đã bán"
+        },
+        {
+          "key": "C",
+          "en": "sell",
+          "vi": "sell (v): bán"
+        },
+        {
+          "key": "D",
+          "en": "selling",
+          "vi": "selling (v-ing): đang bán, việc bán"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets26-t01-p5-q123",
+      "number": 123,
+      "question": {
+        "en": "Maswa Bistro began a ______ agreement with local farmers to purchase a set amount of produce each week.",
+        "vi": "Maswa Bistro đã bắt đầu một thỏa thuận ______ với nông dân địa phương để mua một lượng nông sản nhất định mỗi tuần."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "disruptive",
+          "vi": "disruptive (adj): gây gián đoạn, đột phá"
+        },
+        {
+          "key": "B",
+          "en": "cooperative",
+          "vi": "cooperative (adj/n): hợp tác"
+        },
+        {
+          "key": "C",
+          "en": "grateful",
+          "vi": "grateful (adj): biết ơn"
+        },
+        {
+          "key": "D",
+          "en": "concerned",
+          "vi": "concerned (adj): lo lắng, quan tâm"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets26-t01-p5-q124",
+      "number": 124,
+      "question": {
+        "en": "The City of Doyle’s new downtown parking ______ have been met with opposition by residents and visitors.",
+        "vi": "Các ______ đỗ xe mới ở trung tâm thành phố Doyle đã vấp phải sự phản đối của người dân và du khách."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "restricts",
+          "vi": "restricts (v-s): hạn chế"
+        },
+        {
+          "key": "B",
+          "en": "restricted",
+          "vi": "restricted (v-ed/adj): bị hạn chế"
+        },
+        {
+          "key": "C",
+          "en": "restrictions",
+          "vi": "restrictions (n): các hạn chế, quy định"
+        },
+        {
+          "key": "D",
+          "en": "restricting",
+          "vi": "restricting (v-ing): đang hạn chế"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets26-t01-p5-q125",
+      "number": 125,
+      "question": {
+        "en": "The plumbing position requires extensive training, even for those who studied ______ in technical school.",
+        "vi": "Vị trí thợ sửa ống nước đòi hỏi đào tạo chuyên sâu, ngay cả đối với những người đã học ______ ở trường kỹ thuật."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "diligently",
+          "vi": "diligently (adv): chăm chỉ, miệt mài"
+        },
+        {
+          "key": "B",
+          "en": "scientifically",
+          "vi": "scientifically (adv): một cách khoa học"
+        },
+        {
+          "key": "C",
+          "en": "objectively",
+          "vi": "objectively (adv): khách quan"
+        },
+        {
+          "key": "D",
+          "en": "decidedly",
+          "vi": "decidedly (adv): dứt khoát, rõ ràng"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets26-t01-p5-q126",
+      "number": 126,
+      "question": {
+        "en": "With its fixed price ______, Omega Cellular guarantees no phone bill increases for three years.",
+        "vi": "Với sự ______ giá cố định của mình, Omega Cellular đảm bảo không có hóa đơn điện thoại nào tăng trong ba năm."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "assurance",
+          "vi": "assurance (n): sự đảm bảo"
+        },
+        {
+          "key": "B",
+          "en": "assuredly",
+          "vi": "assuredly (adv): một cách chắc chắn"
+        },
+        {
+          "key": "C",
+          "en": "assuring",
+          "vi": "assuring (adj/v-ing): đảm bảo, trấn an"
+        },
+        {
+          "key": "D",
+          "en": "assures",
+          "vi": "assures (v-s): đảm bảo"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets26-t01-p5-q127",
+      "number": 127,
+      "question": {
+        "en": "As chief analytics officer, Mr. Ko has worked at Lochston Ltd. with great ______ for more than twenty years.",
+        "vi": "Là giám đốc phân tích chính, ông Ko đã làm việc tại Lochston Ltd. với sự ______ to lớn trong hơn hai mươi năm."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "deduction",
+          "vi": "deduction (n): sự khấu trừ, suy luận"
+        },
+        {
+          "key": "B",
+          "en": "duplication",
+          "vi": "duplication (n): sự sao chép"
+        },
+        {
+          "key": "C",
+          "en": "declaration",
+          "vi": "declaration (n): sự tuyên bố, khai báo"
+        },
+        {
+          "key": "D",
+          "en": "dedication",
+          "vi": "dedication (n): sự cống hiến, tận tâm"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets26-t01-p5-q128",
+      "number": 128,
+      "question": {
+        "en": "Milltown Hospital’s cafeteria serves lunch seven days a week ______ only on weekdays.",
+        "vi": "Căn tin của Bệnh viện Milltown phục vụ bữa trưa bảy ngày một tuần ______ chỉ vào các ngày trong tuần."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "up to",
+          "vi": "up to (prep phrase): lên đến"
+        },
+        {
+          "key": "B",
+          "en": "as though",
+          "vi": "as though (conj): như thể là"
+        },
+        {
+          "key": "C",
+          "en": "each time",
+          "vi": "each time (conj phrase): mỗi khi"
+        },
+        {
+          "key": "D",
+          "en": "rather than",
+          "vi": "rather than (conj phrase): thay vì"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets26-t01-p5-q129",
+      "number": 129,
+      "question": {
+        "en": "The store’s entire inventory of lumber comes from a nearby ______ supplier.",
+        "vi": "Toàn bộ hàng tồn kho gỗ của cửa hàng đến từ một nhà cung cấp ______ gần đó."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "financial",
+          "vi": "financial (adj): tài chính"
+        },
+        {
+          "key": "B",
+          "en": "promotional",
+          "vi": "promotional (adj): quảng cáo, khuyến mãi"
+        },
+        {
+          "key": "C",
+          "en": "chemical",
+          "vi": "chemical (adj/n): hóa học, hóa chất"
+        },
+        {
+          "key": "D",
+          "en": "commercial",
+          "vi": "commercial (adj): thương mại"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets26-t01-p5-q130",
+      "number": 130,
+      "question": {
+        "en": "For a $95 ______ fee, our mechanics will determine what repairs are needed.",
+        "vi": "Với một khoản phí ______ là $95, thợ máy của chúng tôi sẽ xác định những sửa chữa cần thiết."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "diagnosed",
+          "vi": "diagnosed (v-ed/adj): đã được chẩn đoán"
+        },
+        {
+          "key": "B",
+          "en": "diagnostic",
+          "vi": "diagnostic (adj): chẩn đoán"
+        },
+        {
+          "key": "C",
+          "en": "diagnosable",
+          "vi": "diagnosable (adj): có thể chẩn đoán được"
+        },
+        {
+          "key": "D",
+          "en": "diagnose",
+          "vi": "diagnose (v): chẩn đoán"
+        }
+      ],
+      "answer": "B"
+    }
+  ]
+}

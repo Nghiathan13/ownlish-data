@@ -1,0 +1,1412 @@
+{
+  "groups": [
+    {
+      "id": "ets26-t06-p4-g071-073",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/071-073.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "Good morning, and ",
+            "questionIds": []
+          },
+          {
+            "text": "welcome to the Third Annual Robotics Trade Show.",
+            "questionIds": [
+              "ets26-t06-p4-q071"
+            ]
+          },
+          {
+            "text": " Please note that in order to accommodate the large number of guests who signed up for the afternoon panel discussion, ",
+            "questionIds": []
+          },
+          {
+            "text": "that event has been moved to Exhibit Hall B.",
+            "questionIds": [
+              "ets26-t06-p4-q072"
+            ]
+          },
+          {
+            "text": " That’s on the lower level, to the left of the elevators. And ",
+            "questionIds": []
+          },
+          {
+            "text": "will the person who left a backpack at the information desk please return to the desk to claim your item?",
+            "questionIds": [
+              "ets26-t06-p4-q073"
+            ]
+          },
+          {
+            "text": " It’s a silver Rugged Hiker model with a blue strap.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Chào buổi sáng và chào mừng quý vị đến với Triển lãm Thương mại Robot thường niên lần thứ ba. Xin lưu ý rằng để đáp ứng số lượng lớn khách đã đăng ký tham gia buổi thảo luận chuyên đề vào buổi chiều, sự kiện đó đã được chuyển sang Phòng trưng bày B. Phòng này nằm ở tầng dưới, bên trái thang máy. Và xin người đã để quên một chiếc ba lô tại quầy thông tin quay lại quầy để nhận lại đồ của mình. Đó là một chiếc ba lô hiệu Rugged Hiker màu bạc với dây đeo màu xanh.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets26-t06-p4-q071",
+          "number": 71,
+          "question": {
+            "en": "Where most likely is the announcement being made?",
+            "vi": "Thông báo khả năng được phát ở đâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "At an art gallery",
+              "vi": "Phòng trưng bày nghệ thuật"
+            },
+            {
+              "key": "B",
+              "en": "At a trade show",
+              "vi": "Hội chợ thương mại"
+            },
+            {
+              "key": "C",
+              "en": "At a shopping mall",
+              "vi": "Trung tâm mua sắm"
+            },
+            {
+              "key": "D",
+              "en": "At a sporting event",
+              "vi": "Sự kiện thể thao"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t06-p4-q072",
+          "number": 72,
+          "question": {
+            "en": "What does the speaker say has changed?",
+            "vi": "Người nói cho biết điều gì đã thay đổi?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Opening hours",
+              "vi": "Giờ mở cửa"
+            },
+            {
+              "key": "B",
+              "en": "A location",
+              "vi": "Địa điểm"
+            },
+            {
+              "key": "C",
+              "en": "An entry fee",
+              "vi": "Phí vào cửa"
+            },
+            {
+              "key": "D",
+              "en": "A policy",
+              "vi": "Chính sách"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t06-p4-q073",
+          "number": 73,
+          "question": {
+            "en": "What does the speaker say is available at the information desk?",
+            "vi": "Người nói cho biết bàn thông tin có gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A discount coupon",
+              "vi": "Phiếu giảm giá"
+            },
+            {
+              "key": "B",
+              "en": "A parking pass",
+              "vi": "Thẻ đỗ xe"
+            },
+            {
+              "key": "C",
+              "en": "A lost item",
+              "vi": "Đồ thất lạc"
+            },
+            {
+              "key": "D",
+              "en": "A map",
+              "vi": "Bản đồ"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t06-p4-g074-076",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/074-076.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "Welcome to this course about computer programming.",
+            "questionIds": [
+              "ets26-t06-p4-q074"
+            ]
+          },
+          {
+            "text": " I’m Jin-Ah Jeong. Unfortunately, the regular instructor, Mr. Ramirez, is sick today, so I’ll be filling in. ",
+            "questionIds": []
+          },
+          {
+            "text": "Although I’ve never taught this course before,",
+            "questionIds": [
+              "ets26-t06-p4-q075"
+            ]
+          },
+          {
+            "text": " I’ve been a computer programmer for seven years. Now, to begin, let’s go over some terms that are often used in the field of computer programming. ",
+            "questionIds": []
+          },
+          {
+            "text": "I’ll write them on the board—if you know any of their meanings, please raise your hand and I’ll call on you.",
+            "questionIds": [
+              "ets26-t06-p4-q076"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Chào mừng các bạn đến với khóa học về lập trình máy tính. Tôi là Jin-Ah Jeong. Rất tiếc, giảng viên chính là ông Ramirez hôm nay bị ốm nên tôi sẽ dạy thay. Mặc dù tôi chưa từng dạy khóa học này trước đây, nhưng tôi đã làm lập trình viên máy tính được bảy năm. Bây giờ, để bắt đầu, chúng ta sẽ xem qua một số thuật ngữ thường được sử dụng trong lĩnh vực lập trình máy tính. Tôi sẽ viết chúng lên bảng — nếu bạn biết nghĩa của thuật ngữ nào, hãy giơ tay và tôi sẽ gọi bạn.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets26-t06-p4-q074",
+          "number": 74,
+          "question": {
+            "en": "Who most likely are the listeners?",
+            "vi": "Người nghe có khả năng là ai?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Students",
+              "vi": "Sinh viên"
+            },
+            {
+              "key": "B",
+              "en": "Professional athletes",
+              "vi": "Vận động viên chuyên nghiệp"
+            },
+            {
+              "key": "C",
+              "en": "Business investors",
+              "vi": "Nhà đầu tư"
+            },
+            {
+              "key": "D",
+              "en": "News reporters",
+              "vi": "Phóng viên"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t06-p4-q075",
+          "number": 75,
+          "question": {
+            "en": "Why does the speaker say, “I’ve been a computer programmer for seven years”?",
+            "vi": "Người nói nói: “Tôi là lập trình viên 7 năm rồi” để làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To indicate that she is well qualified for a role",
+              "vi": "Chứng minh bản thân đủ năng lực"
+            },
+            {
+              "key": "B",
+              "en": "To express appreciation for her employer",
+              "vi": "Thể hiện sự trân trọng công ty"
+            },
+            {
+              "key": "C",
+              "en": "To correct some inaccurate information",
+              "vi": "Sửa thông tin chưa chính xác"
+            },
+            {
+              "key": "D",
+              "en": "To give a reason for a change in profession",
+              "vi": "Giải thích lý do đổi nghề"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t06-p4-q076",
+          "number": 76,
+          "question": {
+            "en": "According to the speaker, why should the listeners raise their hands?",
+            "vi": "Theo người nói, tại sao người nghe nên giơ tay?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To make a suggestion",
+              "vi": "Đưa ra gợi ý"
+            },
+            {
+              "key": "B",
+              "en": "To request a booklet",
+              "vi": "Xin tài liệu"
+            },
+            {
+              "key": "C",
+              "en": "To provide a definition",
+              "vi": "Đưa định nghĩa"
+            },
+            {
+              "key": "D",
+              "en": "To ask a question",
+              "vi": "Đặt câu hỏi"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t06-p4-g077-079",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/077-079.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "Hi, Min-Jee. ",
+            "questionIds": []
+          },
+          {
+            "text": "This is Anil Gupta from Jeremy’s Family Restaurants calling about the application you sent in.",
+            "questionIds": [
+              "ets26-t06-p4-q077"
+            ]
+          },
+          {
+            "text": " I was very impressed with your résumé and your successful completion of the managerial training program when you worked at Harry’s Bistros. ",
+            "questionIds": []
+          },
+          {
+            "text": "I understand the program included training in using bookkeeping software. That would be useful in our company.",
+            "questionIds": [
+              "ets26-t06-p4-q078"
+            ]
+          },
+          {
+            "text": " Also, your supervisor at Harry’s spoke very highly of your performance as a manager. So, I hope you haven’t accepted any offers yet! ",
+            "questionIds": []
+          },
+          {
+            "text": "Please call me at your earliest convenience at 555-0187.",
+            "questionIds": [
+              "ets26-t06-p4-q079"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Chào Min-Jee. Tôi là Anil Gupta từ chuỗi nhà hàng gia đình Jeremy’s, gọi điện liên quan đến đơn xin việc bạn đã gửi. Tôi rất ấn tượng với sơ yếu lý lịch của bạn và việc bạn hoàn thành xuất sắc chương trình đào tạo quản lý khi làm việc tại Harry’s Bistros. Tôi được biết chương trình đó bao gồm đào tạo sử dụng phần mềm kế toán, điều này sẽ rất hữu ích cho công ty chúng tôi. Ngoài ra, người giám sát của bạn tại Harry’s cũng đánh giá rất cao năng lực làm việc của bạn với tư cách là quản lý. Vì vậy, tôi hy vọng bạn vẫn chưa nhận lời mời làm việc nào! Vui lòng gọi lại cho tôi sớm nhất có thể theo số 555-0187.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets26-t06-p4-q077",
+          "number": 77,
+          "question": {
+            "en": "What industry does the speaker work in?",
+            "vi": "Người nói làm trong ngành nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Technology",
+              "vi": "Công nghệ"
+            },
+            {
+              "key": "B",
+              "en": "Travel",
+              "vi": "Du lịch"
+            },
+            {
+              "key": "C",
+              "en": "Agriculture",
+              "vi": "Nông nghiệp"
+            },
+            {
+              "key": "D",
+              "en": "Food service",
+              "vi": "Dịch vụ ăn uống"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t06-p4-q078",
+          "number": 78,
+          "question": {
+            "en": "According to the speaker, what would be useful?",
+            "vi": "Theo người nói, điều gì sẽ hữu ích?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Knowledge of specialized software",
+              "vi": "Biết phần mềm chuyên dụng"
+            },
+            {
+              "key": "B",
+              "en": "An understanding of consumer trends",
+              "vi": "Hiểu xu hướng tiêu dùng"
+            },
+            {
+              "key": "C",
+              "en": "Customer-service training",
+              "vi": "Đào tạo dịch vụ khách hàng"
+            },
+            {
+              "key": "D",
+              "en": "Team-building skills",
+              "vi": "Kỹ năng làm việc nhóm"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t06-p4-q079",
+          "number": 79,
+          "question": {
+            "en": "What does the speaker imply when he says, “I hope you haven’t accepted any offers yet”?",
+            "vi": "Người nói ám chỉ điều gì khi nói: “Hy vọng bạn chưa nhận lời chỗ nào”?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He thinks the listener deserves a promotion.",
+              "vi": "Nghĩ người nghe xứng đáng thăng chức"
+            },
+            {
+              "key": "B",
+              "en": "He would like to hire the listener.",
+              "vi": "Muốn tuyển người nghe"
+            },
+            {
+              "key": "C",
+              "en": "A company would not be good to work for.",
+              "vi": "Công ty kia không tốt"
+            },
+            {
+              "key": "D",
+              "en": "A salary offer is too low.",
+              "vi": "Mức lương họ đưa ra quá thấp"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t06-p4-g080-082",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/080-082.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "Welcome to another segment of Belmack City Business News. Belmack City has one of the biggest seaports in the country. ",
+            "questionIds": []
+          },
+          {
+            "text": "The port receives and distributes thousands of containers full of cargo each day.",
+            "questionIds": [
+              "ets26-t06-p4-q080"
+            ]
+          },
+          {
+            "text": " Goods from the ships are usually distributed throughout the region by train or by truck. However, sometimes the goods need to wait for days before they are transported, ",
+            "questionIds": []
+          },
+          {
+            "text": "which can cause problems due to lack of affordable storage space.",
+            "questionIds": [
+              "ets26-t06-p4-q081"
+            ]
+          },
+          {
+            "text": " Unfortunately, lease costs for storage space in the area are too high for many shipping companies to afford. After the break, we’ll hear from ",
+            "questionIds": []
+          },
+          {
+            "text": "Pablo Alvarez, owner of Alva Shipping",
+            "questionIds": [
+              "ets26-t06-p4-q082"
+            ]
+          },
+          {
+            "text": ", about this issue. So stay tuned!",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Chào mừng quý vị đến với một chuyên mục khác của Bản tin Kinh doanh Thành phố Belmack. Thành phố Belmack có một trong những cảng lớn nhất cả nước. Mỗi ngày, cảng tiếp nhận và phân phối hàng nghìn container chứa hàng hóa. Hàng từ các con tàu\nthường được vận chuyển khắp khu vực bằng tàu hỏa hoặc xe tải. Tuy nhiên, đôi khi hàng hóa phải chờ nhiều ngày trước khi được vận chuyển, điều này có thể gây ra vấn đề do thiếu không gian lưu trữ với chi phí hợp lý. Đáng tiếc là chi phí thuê kho bãi trong khu vực quá cao đối với nhiều công ty vận tải. Sau giờ giải lao, chúng ta sẽ nghe ý kiến của ông Pablo Alvarez, chủ công ty Alva Shipping, về vấn đề này. Hãy tiếp tục theo dõi nhé!",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets26-t06-p4-q080",
+          "number": 80,
+          "question": {
+            "en": "What is the news segment about?",
+            "vi": "Bản tin nói về điều gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "The restoration of historic ships",
+              "vi": "Khôi phục tàu cổ"
+            },
+            {
+              "key": "B",
+              "en": "The distribution of goods",
+              "vi": "Phân phối hàng hóa"
+            },
+            {
+              "key": "C",
+              "en": "A shortage of city housing",
+              "vi": "Thiếu nhà ở thành phố"
+            },
+            {
+              "key": "D",
+              "en": "The construction of a new port",
+              "vi": "Xây cảng mới"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t06-p4-q081",
+          "number": 81,
+          "question": {
+            "en": "What problem does the speaker mention?",
+            "vi": "Người nói đề cập vấn đề gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Storage space is not affordable.",
+              "vi": "Chi phí kho bãi cao"
+            },
+            {
+              "key": "B",
+              "en": "Trained workers are difficult to find.",
+              "vi": "Khó tìm nhân công tay nghề"
+            },
+            {
+              "key": "C",
+              "en": "There is a shortage of supplies.",
+              "vi": "Thiếu nguồn cung"
+            },
+            {
+              "key": "D",
+              "en": "Poor road conditions are causing delays.",
+              "vi": "Đường xá kém gây chậm trễ"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t06-p4-q082",
+          "number": 82,
+          "question": {
+            "en": "Who is Pablo Alvarez?",
+            "vi": "Pablo Alvarez là ai?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A real estate agent",
+              "vi": "Môi giới nhà đất"
+            },
+            {
+              "key": "B",
+              "en": "A city official",
+              "vi": "Quan chức thành phố"
+            },
+            {
+              "key": "C",
+              "en": "A business owner",
+              "vi": "Chủ doanh nghiệp"
+            },
+            {
+              "key": "D",
+              "en": "An accountant",
+              "vi": "Kế toán"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t06-p4-g083-085",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/083-085.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "Welcome. I’m delighted to be leading another outdoor workshop here in the botanical gardens. ",
+            "questionIds": []
+          },
+          {
+            "text": "The paintings that participants produced last time were extraordinary",
+            "questionIds": [
+              "ets26-t06-p4-q083"
+            ]
+          },
+          {
+            "text": "—there’s nothing like being surrounded by flowers to inspire creativity. Now, ",
+            "questionIds": []
+          },
+          {
+            "text": "remember that your participation fee does include a light lunch.",
+            "questionIds": [
+              "ets26-t06-p4-q084"
+            ]
+          },
+          {
+            "text": " I see you’ve all found spots to set up your easels and you all have your own canvas and paints. That’s perfect, since we don’t provide painting supplies. Before we get started, ",
+            "questionIds": []
+          },
+          {
+            "text": "let’s take a moment to have everyone tell us their names and why they signed up.",
+            "questionIds": [
+              "ets26-t06-p4-q085"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Chào mừng mọi người. Tôi rất vui được dẫn dắt một buổi hội thảo ngoài trời nữa tại khu vườn thực vật này. Những bức tranh mà các học viên thực hiện trong lần trước thật sự rất xuất sắc — không gì tuyệt vời hơn việc được bao quanh bởi hoa lá để khơi nguồn sáng tạo. Bây giờ, xin nhắc lại rằng phí tham gia của các bạn đã bao gồm một bữa ăn trưa nhẹ. Tôi thấy mọi người đã tìm được chỗ để dựng giá vẽ và ai cũng có sẵn toan và màu vẽ của riêng mình. Điều đó rất tốt vì chúng tôi không cung cấp dụng cụ vẽ. Trước khi bắt đầu, hãy dành một chút thời gian để mỗi người giới thiệu tên mình và lý\ndo đăng ký tham gia.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets26-t06-p4-q083",
+          "number": 83,
+          "question": {
+            "en": "What is the focus of the workshop?",
+            "vi": "Nội dung chính của buổi workshop là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Flower arranging",
+              "vi": "Cắm hoa"
+            },
+            {
+              "key": "B",
+              "en": "Photography",
+              "vi": "Nhiếp ảnh"
+            },
+            {
+              "key": "C",
+              "en": "Painting",
+              "vi": "Vẽ tranh"
+            },
+            {
+              "key": "D",
+              "en": "Creative writing",
+              "vi": "Viết sáng tạo"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t06-p4-q084",
+          "number": 84,
+          "question": {
+            "en": "What does the speaker say is included in a workshop fee?",
+            "vi": "Phí workshop bao gồm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A museum membership",
+              "vi": "Thẻ thành viên bảo tàng"
+            },
+            {
+              "key": "B",
+              "en": "A potted plant",
+              "vi": "Cây cảnh"
+            },
+            {
+              "key": "C",
+              "en": "Some supplies",
+              "vi": "Dụng cụ"
+            },
+            {
+              "key": "D",
+              "en": "A meal",
+              "vi": "Suất ăn"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t06-p4-q085",
+          "number": 85,
+          "question": {
+            "en": "What will most likely happen next?",
+            "vi": "Điều gì có khả năng xảy ra tiếp theo?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "The listeners will sign some forms.",
+              "vi": "Người nghe ký giấy tờ"
+            },
+            {
+              "key": "B",
+              "en": "The listeners will introduce themselves.",
+              "vi": "Người nghe giới thiệu bản thân"
+            },
+            {
+              "key": "C",
+              "en": "The speaker will give a demonstration.",
+              "vi": "Người nói làm demo"
+            },
+            {
+              "key": "D",
+              "en": "The speaker will lead a tour.",
+              "vi": "Người nói dẫn đi tham quan"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t06-p4-g086-088",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/086-088.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "Currently, ",
+            "questionIds": []
+          },
+          {
+            "text": "you’re all working on our design project",
+            "questionIds": [
+              "ets26-t06-p4-q086"
+            ]
+          },
+          {
+            "text": " for Takahashi Systems. They like the suggestions you’ve made so far, such as how to update their logo to make it more modern. That’s welcome news because they have high standards. ",
+            "questionIds": []
+          },
+          {
+            "text": "They mentioned they’ll be in the area this Friday and expressed interest in visiting our office, so I’ve invited them.",
+            "questionIds": [
+              "ets26-t06-p4-q087"
+            ]
+          },
+          {
+            "text": " But ",
+            "questionIds": []
+          },
+          {
+            "text": "as I was walking by the workstation area, I noticed a lot of clutter.",
+            "questionIds": [
+              "ets26-t06-p4-q088"
+            ]
+          },
+          {
+            "text": " Please remember that making a good impression is important.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Hiện tại, tất cả các bạn đang làm việc trong dự án thiết kế của chúng ta cho công ty Takanashi Systems. Họ rất thích những đề xuất mà các bạn đã đưa ra cho đến nay, chẳng hạn như cách cập nhật logo của họ để trông hiện đại hơn. Đây là một tin vui vì họ có tiêu chuẩn rất cao. Họ cho biết sẽ có mặt trong khu vực này vào thứ Sáu tuần này và bày tỏ mong muốn được đến thăm văn phòng của chúng ta, nên tôi đã mời họ. Tuy nhiên, khi đi ngang qua khu vực làm việc, tôi nhận thấy có khá nhiều đồ đạc bừa bộn. Xin hãy nhớ rằng việc tạo ấn tượng tốt là rất quan trọng.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets26-t06-p4-q086",
+          "number": 86,
+          "question": {
+            "en": "What service does the company provide?",
+            "vi": "Công ty cung cấp dịch vụ gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Legal",
+              "vi": "Pháp lý"
+            },
+            {
+              "key": "B",
+              "en": "Architectural",
+              "vi": "Kiến trúc"
+            },
+            {
+              "key": "C",
+              "en": "Graphic design",
+              "vi": "Thiết kế đồ họa"
+            },
+            {
+              "key": "D",
+              "en": "Artificial intelligence",
+              "vi": "Trí tuệ nhân tạo"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t06-p4-q087",
+          "number": 87,
+          "question": {
+            "en": "What does the speaker say about Friday?",
+            "vi": "Người nói nói gì về thứ Sáu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A client will visit.",
+              "vi": "Có khách đến thăm"
+            },
+            {
+              "key": "B",
+              "en": "Interviews will be conducted.",
+              "vi": "Tổ chức phỏng vấn"
+            },
+            {
+              "key": "C",
+              "en": "An office will close early.",
+              "vi": "Văn phòng đóng sớm"
+            },
+            {
+              "key": "D",
+              "en": "Bonuses will be announced.",
+              "vi": "Công bố thưởng"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t06-p4-q088",
+          "number": 88,
+          "question": {
+            "en": "What does the speaker imply when she says, “making a good impression is important”?",
+            "vi": "Người nói ám chỉ gì khi nói: “tạo ấn tượng tốt rất quan trọng”?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She will be providing her business card.",
+              "vi": "Cô sẽ đưa danh thiếp"
+            },
+            {
+              "key": "B",
+              "en": "She does not want employees to be late.",
+              "vi": "Không muốn nhân viên đi trễ"
+            },
+            {
+              "key": "C",
+              "en": "She expects workstations to be clean.",
+              "vi": "Mong không gian làm việc sạch sẽ"
+            },
+            {
+              "key": "D",
+              "en": "She is unsatisfied with some potential job candidates.",
+              "vi": "Chưa hài lòng một số ứng viên"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t06-p4-g089-091",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/089-091.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "Good morning, everyone. ",
+            "questionIds": []
+          },
+          {
+            "text": "I appreciate you all getting here early before your assembly-line shift starts.",
+            "questionIds": [
+              "ets26-t06-p4-q089"
+            ]
+          },
+          {
+            "text": " I have a major announcement to make. Remember our new injection mold machine was acting up yesterday? ",
+            "questionIds": []
+          },
+          {
+            "text": "A technician came at the end of the day",
+            "questionIds": [
+              "ets26-t06-p4-q090"
+            ]
+          },
+          {
+            "text": ", and it turns out the hydraulic safety switch is turning itself off randomly. A part needs to be replaced, but that won’t happen until later this week. In the meantime, ",
+            "questionIds": []
+          },
+          {
+            "text": "please use our older machine only, which, as you know, is not as fast as the new one. I’ll need you to start working as soon as possible.",
+            "questionIds": [
+              "ets26-t06-p4-q091"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Chào buổi sáng, mọi người. Tôi rất cảm kích vì tất cả đã đến sớm trước khi ca làm việc trên dây chuyền lắp ráp bắt đầu. Tôi có một thông báo quan trọng. Mọi người còn nhớ chiếc máy ép khuôn mới của chúng ta hôm qua bị trục trặc không? Một kỹ thuật viên đã đến vào cuối ngày và phát hiện rằng công tắc an toàn thủy lực tự động tắt một cách ngẫu nhiên. Một bộ phận cần được thay thế, nhưng việc đó sẽ chưa thể thực hiện cho đến cuối tuần này. Trong thời gian chờ đợi, xin vui lòng chỉ sử dụng máy cũ của chúng ta, máy này như các bạn đã biết là không nhanh bằng máy mới. Tôi cần mọi người bắt đầu làm việc càng sớm càng tốt.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets26-t06-p4-q089",
+          "number": 89,
+          "question": {
+            "en": "Where do the listeners most likely work?",
+            "vi": "Người nghe có khả năng làm việc ở đâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "At a hospital",
+              "vi": "Bệnh viện"
+            },
+            {
+              "key": "B",
+              "en": "At a factory",
+              "vi": "Nhà máy"
+            },
+            {
+              "key": "C",
+              "en": "At a bank",
+              "vi": "Ngân hàng"
+            },
+            {
+              "key": "D",
+              "en": "At an auto repair shop",
+              "vi": "Tiệm sửa xe"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t06-p4-q090",
+          "number": 90,
+          "question": {
+            "en": "Who visited the business yesterday?",
+            "vi": "Ai đã đến cơ sở kinh doanh hôm qua?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A journalist",
+              "vi": "Nhà báo"
+            },
+            {
+              "key": "B",
+              "en": "A safety inspector",
+              "vi": "Thanh tra an toàn"
+            },
+            {
+              "key": "C",
+              "en": "A politician",
+              "vi": "Chính trị gia"
+            },
+            {
+              "key": "D",
+              "en": "A repair person",
+              "vi": "Nhân viên sửa chữa"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t06-p4-q091",
+          "number": 91,
+          "question": {
+            "en": "Why are the listeners asked to start working right away?",
+            "vi": "Tại sao người nghe được yêu cầu làm việc ngay?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A large order was placed.",
+              "vi": "Đơn hàng lớn"
+            },
+            {
+              "key": "B",
+              "en": "Several employees are on vacation.",
+              "vi": "Nhiều nhân viên nghỉ phép"
+            },
+            {
+              "key": "C",
+              "en": "A task will take longer than usual.",
+              "vi": "Công việc sẽ tốn nhiều thời gian"
+            },
+            {
+              "key": "D",
+              "en": "An inspection will be conducted in the afternoon.",
+              "vi": "Buổi kiểm tra diễn ra chiều nay"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t06-p4-g092-094",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/092-094.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "Hi, Mr. Rossi. I work at Cullom Studios, and I’m a production assistant for a new film that’ll be set in seventeenth-century France. ",
+            "questionIds": []
+          },
+          {
+            "text": "I’m calling because we’d like to hire you as a consultant for our film.",
+            "questionIds": [
+              "ets26-t06-p4-q092"
+            ]
+          },
+          {
+            "text": " ",
+            "questionIds": []
+          },
+          {
+            "text": "I recently came across the book you wrote on the history of French fashion and found it fascinating.",
+            "questionIds": [
+              "ets26-t06-p4-q093"
+            ]
+          },
+          {
+            "text": " Since you’re an expert on French clothing and lifestyle trends of that time, your knowledge would be valuable as we develop costume and set designs. We’d be thrilled to work with you, and we’re offering a generous compensation package. ",
+            "questionIds": []
+          },
+          {
+            "text": "I can send you the details",
+            "questionIds": [
+              "ets26-t06-p4-q094"
+            ]
+          },
+          {
+            "text": "—I’ll use the e-mail address that you have on your Web site.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Xin chào ông Rossi. Tôi làm việc tại Cullom Studios và hiện là trợ lý sản xuất cho một bộ phim mới lấy bối cảnh nước Pháp thế kỷ XVII. Tôi gọi điện vì chúng tôi muốn mời ông làm cố vấn cho bộ phim này. Gần đây tôi tình cờ đọc được cuốn sách ông viết về lịch sử thời trang Pháp và thấy nó vô cùng hấp dẫn. Vì ông là chuyên gia về trang phục và xu hướng lối sống của Pháp trong giai đoạn đó, kiến thức của ông sẽ rất có giá trị khi chúng tôi phát triển thiết kế trang phục và bối cảnh phim. Chúng tôi sẽ rất vinh dự được hợp tác cùng ông và đang đề nghị một gói thù lao hậu hĩnh. Tôi có thể gửi cho ông các thông tin chi tiết qua địa chỉ email trên trang web của ông.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets26-t06-p4-q092",
+          "number": 92,
+          "question": {
+            "en": "Why is the speaker calling?",
+            "vi": "Người nói gọi để làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To ask the listener to donate to a charity",
+              "vi": "Kêu gọi quyên góp"
+            },
+            {
+              "key": "B",
+              "en": "To offer the listener a job",
+              "vi": "Mời nhận việc"
+            },
+            {
+              "key": "C",
+              "en": "To explain a publishing delay",
+              "vi": "Giải thích việc xuất bản chậm"
+            },
+            {
+              "key": "D",
+              "en": "To request an interview for an article",
+              "vi": "Xin phỏng vấn cho một bài báo"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t06-p4-q093",
+          "number": 93,
+          "question": {
+            "en": "How did the speaker first learn about the listener?",
+            "vi": "Người nói biết về người nghe lần đầu bằng cách nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She read one of his books.",
+              "vi": "Đọc sách của anh ấy"
+            },
+            {
+              "key": "B",
+              "en": "She attended a workshop he led.",
+              "vi": "Tham dự workshop anh ấy dẫn"
+            },
+            {
+              "key": "C",
+              "en": "She saw his comment on a social media post.",
+              "vi": "Thấy bình luận trên mạng"
+            },
+            {
+              "key": "D",
+              "en": "She watched a documentary about his work.",
+              "vi": "Xem phim tài liệu về anh ấy"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t06-p4-q094",
+          "number": 94,
+          "question": {
+            "en": "What will the speaker most likely do next?",
+            "vi": "Người nói sẽ làm gì tiếp theo?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Print and sign a contract",
+              "vi": "In và ký hợp đồng"
+            },
+            {
+              "key": "B",
+              "en": "Send some information",
+              "vi": "Gửi thêm thông tin"
+            },
+            {
+              "key": "C",
+              "en": "Reserve a meeting room",
+              "vi": "Đặt phòng họp"
+            },
+            {
+              "key": "D",
+              "en": "Contact a talent agent",
+              "vi": "Liên hệ quản lý tài năng"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t06-p4-g095-097",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/095-097.mp3",
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/image/095-097.avif",
+      "transcript": {
+        "en": [
+          {
+            "text": "Are you looking for a convenient way to get around the city? ",
+            "questionIds": []
+          },
+          {
+            "text": "The city of Lakepoint offers on-demand transportation in several of our neighborhoods.",
+            "questionIds": [
+              "ets26-t06-p4-q095"
+            ]
+          },
+          {
+            "text": " ",
+            "questionIds": []
+          },
+          {
+            "text": "Just download the Lakepoint City application onto your mobile phone.",
+            "questionIds": [
+              "ets26-t06-p4-q096"
+            ]
+          },
+          {
+            "text": " Once you make an appointment on the app, a shuttle will arrive within fifteen minutes. This easy-to-use service will take you to any destination within the service area, like your doctor’s office or the library! And ",
+            "questionIds": []
+          },
+          {
+            "text": "we’ve recently expanded service to Westbrook, so residents can take the shuttle to the soccer stadium.",
+            "questionIds": [
+              "ets26-t06-p4-q097"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Bạn đang tìm kiếm một cách thuận tiện để di chuyển trong thành phố sao? Thành phố Lakepoint cung cấp dịch vụ vận chuyển theo yêu cầu tại một số khu dân cư. Chỉ cần tải ứng dụng Lakepoint City về điện thoại di động của bạn. Khi bạn đặt lịch hẹn trên ứng dụng, xe trung chuyển sẽ đến trong vòng mười lăm phút. Dịch vụ dễ sử dụng này sẽ đưa bạn đến bất kỳ điểm đến nào trong khu vực phục vụ, như phòng khám bác sĩ hay thư viện. Ngoài ra, chúng tôi недавно đã mở rộng dịch vụ đến khu Westbrook, vì vậy cư dân có thể đi xe trung chuyển đến sân vận động bóng đá.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets26-t06-p4-q095",
+          "number": 95,
+          "question": {
+            "en": "What type of service is being advertised?",
+            "vi": "Loại dịch vụ nào đang được quảng cáo?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Recycling",
+              "vi": "Tái chế"
+            },
+            {
+              "key": "B",
+              "en": "Transportation",
+              "vi": "Vận chuyển"
+            },
+            {
+              "key": "C",
+              "en": "Grocery delivery",
+              "vi": "Giao hàng tạp hóa"
+            },
+            {
+              "key": "D",
+              "en": "Exercise classes",
+              "vi": "Lớp thể dục"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t06-p4-q096",
+          "number": 96,
+          "question": {
+            "en": "According to the speaker, how can the listeners use a new service?",
+            "vi": "Theo người nói, người nghe dùng dịch vụ mới bằng cách nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "By entering payment information",
+              "vi": "Nhập thông tin thanh toán"
+            },
+            {
+              "key": "B",
+              "en": "By placing a phone call",
+              "vi": "Gọi điện"
+            },
+            {
+              "key": "C",
+              "en": "By visiting a community center",
+              "vi": "Đến trung tâm cộng đồng"
+            },
+            {
+              "key": "D",
+              "en": "By using a mobile application",
+              "vi": "Dùng ứng dụng"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t06-p4-q097",
+          "number": 97,
+          "question": {
+            "en": "Which area was recently added?",
+            "vi": "Nhìn vào sơ đồ. Khu vực nào mới thêm vào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Area 1",
+              "vi": "Khu 1"
+            },
+            {
+              "key": "B",
+              "en": "Area 2",
+              "vi": "Khu 2"
+            },
+            {
+              "key": "C",
+              "en": "Area 3",
+              "vi": "Khu 3"
+            },
+            {
+              "key": "D",
+              "en": "Area 4",
+              "vi": "Khu 4"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t06-p4-g098-100",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/098-100.mp3",
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/image/098-100.avif",
+      "transcript": {
+        "en": [
+          {
+            "text": "And ",
+            "questionIds": []
+          },
+          {
+            "text": "our last news item today is the Greenchester Archaeological Festival taking place this weekend.",
+            "questionIds": [
+              "ets26-t06-p4-q098"
+            ]
+          },
+          {
+            "text": " Greenchester is home to some rich prehistoric findings. If you’ve ever wondered what goes into excavating a site, here’s your chance to find out. There’ll be a special workshop where you can get hands-on experience practicing excavation skills. ",
+            "questionIds": []
+          },
+          {
+            "text": "The workshop will be held on the grounds in front of the historical society building.",
+            "questionIds": [
+              "ets26-t06-p4-q099"
+            ]
+          },
+          {
+            "text": " As for getting here, ",
+            "questionIds": []
+          },
+          {
+            "text": "I recommend that you simply walk over",
+            "questionIds": [
+              "ets26-t06-p4-q100"
+            ]
+          },
+          {
+            "text": "—many streets will be blocked off for the festival, and it will take longer to drive.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Và bản tin cuối cùng của ngày hôm nay là Lễ hội Khảo cổ học Greenchester sẽ diễn ra vào cuối tuần này. Greenchester là nơi có nhiều phát hiện khảo cổ tiền sử quan trọng. Nếu bạn từng thắc mắc việc khai quật một địa điểm khảo cổ diễn ra như thế nào, thì đây chính là cơ hội để tìm hiểu. Sẽ có một buổi hội thảo đặc biệt, nơi bạn có thể trực tiếp thực hành các kỹ năng khai quật. Buổi hội thảo sẽ được tổ chức tại khuôn viên phía trước tòa nhà hội lịch sử. Về việc di chuyển đến đây, tôi khuyên bạn nên đi bộ — nhiều tuyến đường sẽ bị chặn để phục vụ lễ hội và việc lái xe sẽ mất nhiều thời gian hơn.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets26-t06-p4-q098",
+          "number": 98,
+          "question": {
+            "en": "What event is the speaker mainly discussing?",
+            "vi": "Sự kiện người nói đang nói đến là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "An archaeology festival",
+              "vi": "Lễ hội khảo cổ"
+            },
+            {
+              "key": "B",
+              "en": "A museum opening",
+              "vi": "Lễ khai trương bảo tàng"
+            },
+            {
+              "key": "C",
+              "en": "A gardening fair",
+              "vi": "Hội chợ làm vườn"
+            },
+            {
+              "key": "D",
+              "en": "An outdoor concert",
+              "vi": "Buổi hòa nhạc ngoài trời"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t06-p4-q099",
+          "number": 99,
+          "question": {
+            "en": "Where will a workshop take place?",
+            "vi": "Workshop sẽ tổ chức ở đâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "In the Rose Garden",
+              "vi": "Vườn Hoa Hồng"
+            },
+            {
+              "key": "B",
+              "en": "In Maple Courtyard",
+              "vi": "Sân Maple"
+            },
+            {
+              "key": "C",
+              "en": "In Tanry Park",
+              "vi": "Công viên Tanry"
+            },
+            {
+              "key": "D",
+              "en": "In Riverside Nature Preserve",
+              "vi": "Khu bảo tồn thiên nhiên Riverside"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t06-p4-q100",
+          "number": 100,
+          "question": {
+            "en": "What does the speaker recommend?",
+            "vi": "Người nói khuyên điều gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Arriving early",
+              "vi": "Đến sớm"
+            },
+            {
+              "key": "B",
+              "en": "Walking",
+              "vi": "Đi bộ"
+            },
+            {
+              "key": "C",
+              "en": "Volunteering",
+              "vi": "Tình nguyện"
+            },
+            {
+              "key": "D",
+              "en": "Bringing a jacket",
+              "vi": "Mang áo khoác"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    }
+  ]
+}

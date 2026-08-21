@@ -1,0 +1,178 @@
+{
+  "items": [
+    {
+      "id": "ets19-t03-p1-q001",
+      "number": 1,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_03/image/001.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_03/audio/001.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "He's looking in a file drawer.",
+          "vi": "Anh ấy đang nhìn vào ngăn kéo hồ sơ."
+        },
+        {
+          "key": "B",
+          "en": "He's printing some documents.",
+          "vi": "Anh ấy đang in một số tài liệu."
+        },
+        {
+          "key": "C",
+          "en": "He's stacking some folders.",
+          "vi": "Anh ấy đang xếp chồng một số thư mục."
+        },
+        {
+          "key": "D",
+          "en": "He's putting on his glasses.",
+          "vi": "Anh ấy đang đeo kính."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets19-t03-p1-q002",
+      "number": 2,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_03/image/002.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_03/audio/002.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "Some people are sitting in a car.",
+          "vi": "Một số người đang ngồi trong xe ô tô."
+        },
+        {
+          "key": "B",
+          "en": "Some people are facing each other.",
+          "vi": "Một số người đang đối diện nhau."
+        },
+        {
+          "key": "C",
+          "en": "A woman is opening her handbag.",
+          "vi": "Một người phụ nữ đang mở túi xách."
+        },
+        {
+          "key": "D",
+          "en": "A man is removing his jacket.",
+          "vi": "Một người đàn ông đang cởi áo khoác."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets19-t03-p1-q003",
+      "number": 3,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_03/image/003.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_03/audio/003.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "Clothing is hanging on racks.",
+          "vi": "Quần áo đang treo trên giá."
+        },
+        {
+          "key": "B",
+          "en": "Lights have been turned off in the store.",
+          "vi": "Đèn trong cửa hàng đã được tắt."
+        },
+        {
+          "key": "C",
+          "en": "A woman is folding a coat.",
+          "vi": "Một người phụ nữ đang gấp áo khoác."
+        },
+        {
+          "key": "D",
+          "en": "A woman is opening a garment bag.",
+          "vi": "Một người phụ nữ đang mở túi đựng quần áo."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets19-t03-p1-q004",
+      "number": 4,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_03/image/004.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_03/audio/004.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "Some armchairs are occupied.",
+          "vi": "Một số ghế bành đang có người ngồi."
+        },
+        {
+          "key": "B",
+          "en": "Books and magazines have been arranged on shelves.",
+          "vi": "Sách và tạp chí đã được sắp xếp trên kệ."
+        },
+        {
+          "key": "C",
+          "en": "A gate has been placed at the bottom of a stairway.",
+          "vi": "Một cổng chắn đã được đặt ở chân cầu thang."
+        },
+        {
+          "key": "D",
+          "en": "A painting has been left on the floor.",
+          "vi": "Một bức tranh đã bị để trên sàn."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets19-t03-p1-q005",
+      "number": 5,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_03/image/005.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_03/audio/005.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "A flag is being raised on a pole.",
+          "vi": "Một lá cờ đang được kéo lên cột."
+        },
+        {
+          "key": "B",
+          "en": "A ship is approaching a pier.",
+          "vi": "Một con tàu đang tiến vào bến cảng."
+        },
+        {
+          "key": "C",
+          "en": "Some people are walking toward a boat.",
+          "vi": "Một số người đang đi về phía một chiếc thuyền."
+        },
+        {
+          "key": "D",
+          "en": "Some workers are sweeping a dock.",
+          "vi": "Một số công nhân đang quét bến tàu."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets19-t03-p1-q006",
+      "number": 6,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_03/image/006.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_03/audio/006.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "A man is putting up a metal barrier.",
+          "vi": "Một người đàn ông đang dựng hàng rào kim loại."
+        },
+        {
+          "key": "B",
+          "en": "Some people are boarding a bus.",
+          "vi": "Một số người đang lên xe buýt."
+        },
+        {
+          "key": "C",
+          "en": "A cart is being loaded with bricks.",
+          "vi": "Một chiếc xe đẩy đang được chất gạch."
+        },
+        {
+          "key": "D",
+          "en": "A wheelbarrow is being pushed at a work site.",
+          "vi": "Một chiếc xe cút kít đang được đẩy ở công trường."
+        }
+      ],
+      "answer": "D"
+    }
+  ]
+}

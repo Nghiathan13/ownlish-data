@@ -1,0 +1,1395 @@
+{
+  "groups": [
+    {
+      "id": "ets20-t01-p4-g071-073",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_01/audio/071-073.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "OK, let's get the monthly staff meeting started. ",
+            "questionIds": []
+          },
+          {
+            "text": "First off, this Saturday is the annual holiday parade.",
+            "questionIds": [
+              "ets20-t01-p4-q071"
+            ]
+          },
+          {
+            "text": " And as many of you know, the parade goes right down our street. ",
+            "questionIds": []
+          },
+          {
+            "text": "It's always one of our busiest days... lots of people will stop by for lunch, and the line can get quite long.",
+            "questionIds": [
+              "ets20-t01-p4-q072"
+            ]
+          },
+          {
+            "text": " So we'll need a few extra cooks and servers, and everyone who works that day'll get overtime pay. Let me know soon if you're able to work on Saturday. ",
+            "questionIds": []
+          },
+          {
+            "text": "Oh... and I strongly recommend taking the bus or train if you can.",
+            "questionIds": [
+              "ets20-t01-p4-q073"
+            ]
+          },
+          {
+            "text": " Remember that it'll be very difficult to park on Saturday during the event.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "OK, chúng ta hãy bắt đầu cuộc họp nhân viên hàng tháng. Trước hết, thứ Bảy này là cuộc diễu hành mừng lễ hội hàng năm. Và như nhiều người trong số các bạn đã biết, cuộc diễu hành sẽ đi ngay xuống con phố của chúng ta. Đây luôn là một trong những ngày bận rộn nhất của chúng ta... rất nhiều người sẽ ghé qua ăn trưa, và hàng người có thể khá dài. Vì vậy, chúng ta sẽ cần thêm một vài đầu bếp và nhân viên phục vụ, và tất cả những ai làm việc ngày hôm đó sẽ được trả lương làm thêm giờ. Hãy cho tôi biết sớm nếu bạn có thể làm việc vào thứ Bảy. Ồ... và tôi đặc biệt khuyên bạn nên đi xe buýt hoặc xe lửa nếu có thể. Hãy nhớ rằng rất khó để đỗ xe vào thứ Bảy trong suốt sự kiện.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets20-t01-p4-q071",
+          "number": 71,
+          "question": {
+            "en": "According to the speaker, what will take place on Saturday?",
+            "vi": "Theo người nói, thứ Bảy sẽ có sự kiện gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A retirement party",
+              "vi": "Tiệc nghỉ hưu"
+            },
+            {
+              "key": "B",
+              "en": "A holiday parade",
+              "vi": "Lễ diễu hành ngày lễ"
+            },
+            {
+              "key": "C",
+              "en": "A business workshop",
+              "vi": "Hội thảo kinh doanh"
+            },
+            {
+              "key": "D",
+              "en": "A company picnic",
+              "vi": "Dã ngoại công ty"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets20-t01-p4-q072",
+          "number": 72,
+          "question": {
+            "en": "Where do the listeners work?",
+            "vi": "Người nghe làm việc ở đâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "At a bank",
+              "vi": "Tại ngân hàng"
+            },
+            {
+              "key": "B",
+              "en": "At an amusement park",
+              "vi": "Tại công viên giải trí"
+            },
+            {
+              "key": "C",
+              "en": "At a restaurant",
+              "vi": "Tại nhà hàng"
+            },
+            {
+              "key": "D",
+              "en": "At a police station",
+              "vi": "Tại đồn cảnh sát"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets20-t01-p4-q073",
+          "number": 73,
+          "question": {
+            "en": "What does the speaker suggest that the listeners do?",
+            "vi": "Người nói gợi ý người nghe làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Wear warm clothing",
+              "vi": "Mặc quần áo ấm"
+            },
+            {
+              "key": "B",
+              "en": "Use public transportation",
+              "vi": "Sử dụng phương tiện công cộng"
+            },
+            {
+              "key": "C",
+              "en": "Pack a lunch",
+              "vi": "Mang cơm trưa"
+            },
+            {
+              "key": "D",
+              "en": "Bring identification",
+              "vi": "Mang giấy tờ tùy thân"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets20-t01-p4-g074-076",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_01/audio/074-076.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "Hi, Jamie. I really like the suggestion you gave at yesterday's staff meeting for promoting our electronics store. ",
+            "questionIds": []
+          },
+          {
+            "text": "I think holding a photography contest is a great idea, especially since we mainly sell cameras and camera equipment.",
+            "questionIds": [
+              "ets20-t01-p4-q074",
+              "ets20-t01-p4-q075"
+            ]
+          },
+          {
+            "text": " There are several things we'd have to do to prepare for it, though, like decide on a submission deadline and outline the basic rules for the contest. We could even consider offering a prize for the first-place winner. Let's meet sometime this week to get started. ",
+            "questionIds": []
+          },
+          {
+            "text": "I'll take a look at our schedules this morning and book a time for us to get together.",
+            "questionIds": [
+              "ets20-t01-p4-q076"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Chào Jamie. Tôi thực sự thích đề xuất bạn đưa ra tại cuộc họp nhân viên hôm qua để quảng bá cửa hàng điện tử của chúng ta. Tôi nghĩ tổ chức một cuộc thi nhiếp ảnh là một ý tưởng tuyệt vời, đặc biệt là vì chúng ta chủ yếu bán máy ảnh và thiết bị máy ảnh. Tuy nhiên, có một số việc chúng ta cần làm để chuẩn bị cho nó, chẳng hạn như quyết định thời hạn nộp bài và phác thảo các quy tắc cơ bản cho cuộc thi. Chúng ta thậm chí có thể xem xét việc trao giải thưởng cho người chiến thắng giải nhất. Hãy gặp nhau vào một thời điểm nào đó trong tuần này để bắt đầu. Tôi sẽ xem lịch trình của chúng ta sáng nay và đặt một khoảng thời gian để chúng ta gặp nhau.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets20-t01-p4-q074",
+          "number": 74,
+          "question": {
+            "en": "Where does the speaker most likely work?",
+            "vi": "Người nói có khả năng làm việc ở đâu nhất?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "At an advertising agency",
+              "vi": "Tại đại lý quảng cáo"
+            },
+            {
+              "key": "B",
+              "en": "At a technology firm",
+              "vi": "Tại công ty công nghệ"
+            },
+            {
+              "key": "C",
+              "en": "At an art museum",
+              "vi": "Tại bảo tàng nghệ thuật"
+            },
+            {
+              "key": "D",
+              "en": "At an electronics store",
+              "vi": "Tại cửa hàng điện tử"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets20-t01-p4-q075",
+          "number": 75,
+          "question": {
+            "en": "What is the talk mainly about?",
+            "vi": "Bài nói chủ yếu về gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Updating a logo",
+              "vi": "Cập nhật logo"
+            },
+            {
+              "key": "B",
+              "en": "Changing a display",
+              "vi": "Thay đổi trưng bày"
+            },
+            {
+              "key": "C",
+              "en": "Organizing a contest",
+              "vi": "Tổ chức cuộc thi"
+            },
+            {
+              "key": "D",
+              "en": "Offering a seminar",
+              "vi": "Tổ chức hội thảo"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets20-t01-p4-q076",
+          "number": 76,
+          "question": {
+            "en": "What does the speaker say he will do this morning?",
+            "vi": "Người nói nói anh ấy sẽ làm gì sáng nay?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Set up a meeting",
+              "vi": "Sắp xếp cuộc họp"
+            },
+            {
+              "key": "B",
+              "en": "Submit a supply order",
+              "vi": "Gửi đơn đặt vật tư"
+            },
+            {
+              "key": "C",
+              "en": "Update a Web site",
+              "vi": "Cập nhật trang web"
+            },
+            {
+              "key": "D",
+              "en": "Print some posters",
+              "vi": "In poster"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets20-t01-p4-g077-079",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_01/audio/077-079.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "OK everyone, before you head out to the factory floor this morning to start your shifts, I have a brief announcement. ",
+            "questionIds": []
+          },
+          {
+            "text": "As most of you know, the new conveyor belt is now installed and up and running.",
+            "questionIds": [
+              "ets20-t01-p4-q077"
+            ]
+          },
+          {
+            "text": " ",
+            "questionIds": []
+          },
+          {
+            "text": "This new conveyor belt is very similar to the older model, except it's twice as fast as the old one.",
+            "questionIds": [
+              "ets20-t01-p4-q078"
+            ]
+          },
+          {
+            "text": " This means that our factory can now move double the number of units per hour. Clearly, this is a big improvement in production speed. However, it could also be a challenge for us to watch out for production errors. ",
+            "questionIds": []
+          },
+          {
+            "text": "So, you're all required to watch a short training video this morning before starting work.",
+            "questionIds": [
+              "ets20-t01-p4-q079"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "W-Br: OK mọi người, trước khi các bạn ra xưởng sáng nay để bắt đầu ca làm việc, tôi có một thông báo ngắn gọn. Như hầu hết các bạn đã biết, băng tải mới đã được lắp đặt và đang hoạt động. Băng tải mới này rất giống với mẫu cũ, ngoại trừ nó nhanh gấp đôi băng tải cũ. Điều này có nghĩa là nhà máy của chúng ta giờ đây có thể di chuyển số lượng đơn vị sản phẩm gấp đôi mỗi giờ. Rõ ràng, đây là một cải tiến lớn về tốc độ sản xuất. Tuy nhiên, nó cũng có thể là một thách thức đối với chúng ta trong việc đề phòng lỗi sản xuất. Vì vậy, tất cả các bạn được yêu cầu xem một đoạn video đào tạo ngắn sáng nay trước khi bắt đầu làm việc.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets20-t01-p4-q077",
+          "number": 77,
+          "question": {
+            "en": "What is the speaker mainly discussing?",
+            "vi": "Người nói chủ yếu thảo luận về gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A computer program",
+              "vi": "Chương trình máy tính"
+            },
+            {
+              "key": "B",
+              "en": "A conveyor belt",
+              "vi": "Băng chuyền"
+            },
+            {
+              "key": "C",
+              "en": "A storage space",
+              "vi": "Kho chứa"
+            },
+            {
+              "key": "D",
+              "en": "A cooling fan",
+              "vi": "Quạt làm mát"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets20-t01-p4-q078",
+          "number": 78,
+          "question": {
+            "en": "What key difference does the speaker point out?",
+            "vi": "Người nói chỉ ra sự khác biệt chính nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Some machinery will run faster.",
+              "vi": "Máy móc sẽ chạy nhanh hơn."
+            },
+            {
+              "key": "B",
+              "en": "Some alarms are more sensitive.",
+              "vi": "Một số chuông báo nhạy hơn."
+            },
+            {
+              "key": "C",
+              "en": "A password has been changed.",
+              "vi": "Mật khẩu đã được thay đổi."
+            },
+            {
+              "key": "D",
+              "en": "A time sheet is online.",
+              "vi": "Bảng chấm công trực tuyến."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets20-t01-p4-q079",
+          "number": 79,
+          "question": {
+            "en": "What does the speaker say the listeners must do?",
+            "vi": "Người nói nói người nghe phải làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Speak with a supervisor",
+              "vi": "Nói chuyện với giám sát"
+            },
+            {
+              "key": "B",
+              "en": "Sign a document",
+              "vi": "Ký tài liệu"
+            },
+            {
+              "key": "C",
+              "en": "Watch a video",
+              "vi": "Xem video"
+            },
+            {
+              "key": "D",
+              "en": "Work extra hours",
+              "vi": "Làm thêm giờ"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets20-t01-p4-g080-082",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_01/audio/080-082.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "Hello, Kwang-Ho. Listen, I hate to bother you after you've left the office for the day, but ",
+            "questionIds": []
+          },
+          {
+            "text": "I just took a look at the materials for the health insurance orientation we're doing for our new employees on Wednesday morning.",
+            "questionIds": [
+              "ets20-t01-p4-q080"
+            ]
+          },
+          {
+            "text": " Andre was supposed to finish preparing the new employee benefits packets, but he's been out sick, so they're not done. ",
+            "questionIds": []
+          },
+          {
+            "text": "I know you're going to be busy, but I don't have any appointments tomorrow.",
+            "questionIds": [
+              "ets20-t01-p4-q081"
+            ]
+          },
+          {
+            "text": " ",
+            "questionIds": []
+          },
+          {
+            "text": "I do have a couple of questions about some of the materials, though, so give me a call back, thanks.",
+            "questionIds": [
+              "ets20-t01-p4-q082"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "W-Am: Chào Kwang-Ho. Nghe này, tôi không muốn làm phiền anh sau khi anh đã rời văn phòng trong ngày, nhưng tôi vừa xem qua tài liệu cho buổi định hướng bảo hiểm sức khỏe mà chúng ta sẽ làm cho nhân viên mới vào sáng thứ Tư.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets20-t01-p4-q080",
+          "number": 80,
+          "question": {
+            "en": "According to the speaker, what will happen on Wednesday?",
+            "vi": "Theo người nói, thứ Tư sẽ có sự kiện gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A career fair",
+              "vi": "Hội chợ việc làm"
+            },
+            {
+              "key": "B",
+              "en": "A promotional sale",
+              "vi": "Đợt giảm giá khuyến mãi"
+            },
+            {
+              "key": "C",
+              "en": "A work site inspection",
+              "vi": "Kiểm tra công trường"
+            },
+            {
+              "key": "D",
+              "en": "An employee orientation",
+              "vi": "Buổi định hướng nhân viên"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets20-t01-p4-q081",
+          "number": 81,
+          "question": {
+            "en": "What does the speaker imply when she says, I don't have any appointments tomorrow?",
+            "vi": "Người nói ngụ ý gì khi nói \"Ngày mai tôi không có cuộc hẹn nào\"?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She has not been successful with a client.",
+              "vi": "Cô ấy không thành công với khách hàng."
+            },
+            {
+              "key": "B",
+              "en": "She thinks a schedule is wrong.",
+              "vi": "Cô ấy nghĩ lịch trình bị sai."
+            },
+            {
+              "key": "C",
+              "en": "She has time to take over a task.",
+              "vi": "Cô ấy có thời gian đảm nhận công việc."
+            },
+            {
+              "key": "D",
+              "en": "She needs to leave work early.",
+              "vi": "Cô ấy cần rời đi sớm."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets20-t01-p4-q082",
+          "number": 82,
+          "question": {
+            "en": "What does the speaker ask the listener to do?",
+            "vi": "Người nói yêu cầu người nghe làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Call her back",
+              "vi": "Gọi lại cho cô ấy"
+            },
+            {
+              "key": "B",
+              "en": "Check a calendar",
+              "vi": "Kiểm tra lịch"
+            },
+            {
+              "key": "C",
+              "en": "Reserve a booth",
+              "vi": "Đặt gian hàng"
+            },
+            {
+              "key": "D",
+              "en": "Cancel an event",
+              "vi": "Hủy sự kiện"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets20-t01-p4-g083-085",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_01/audio/083-085.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "Do you work in the technology industry? Want to stay updated on the latest industry trends? Subscribe to our online magazine, Tech Now. ",
+            "questionIds": []
+          },
+          {
+            "text": "This month's issue is devoted to women who are leaders in the technology field.",
+            "questionIds": [
+              "ets20-t01-p4-q083"
+            ]
+          },
+          {
+            "text": " ",
+            "questionIds": []
+          },
+          {
+            "text": "We're pleased to present an exclusive interview with Erika Cliffton, the founder and CEO of Cliffton Technology Solutions.",
+            "questionIds": [
+              "ets20-t01-p4-q084"
+            ]
+          },
+          {
+            "text": " Erika gives advice for women starting their own businesses and shares her personal success story. ",
+            "questionIds": []
+          },
+          {
+            "text": "If you subscribe to Tech Now today, you'll receive a free padded carrying case for your laptop.",
+            "questionIds": [
+              "ets20-t01-p4-q085"
+            ]
+          },
+          {
+            "text": " But hurry—the promotion expires in a week!",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Bạn có làm việc trong ngành công nghệ không? Bạn muốn cập nhật các xu hướng mới nhất trong ngành? Hãy đăng ký tạp chí trực tuyến Tech Now của chúng tôi. Ấn bản tháng này dành riêng cho những người phụ nữ là lãnh đạo trong lĩnh vực công nghệ. Chúng tôi hân hạnh giới thiệu cuộc phỏng vấn độc quyền với Erika Cliffton, người sáng lập và Giám đốc điều hành của Cliffton Technology Solutions. Erika đưa ra lời khuyên cho những người phụ nữ bắt đầu kinh doanh và chia sẻ câu chuyện thành công cá nhân của cô ấy. Nếu bạn đăng ký Tech Now ngay hôm nay, bạn sẽ nhận được một chiếc túi đựng máy tính xách tay có đệm miễn phí. Nhưng hãy nhanh tay—chương trình khuyến mãi sẽ hết hạn trong một tuần!",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets20-t01-p4-q083",
+          "number": 83,
+          "question": {
+            "en": "According to the speaker, what is special about this month's issue of Tech Now?",
+            "vi": "Theo người nói, số tháng này của Tech Now có gì đặc biệt?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is free for university students.",
+              "vi": "Miễn phí cho sinh viên đại học."
+            },
+            {
+              "key": "B",
+              "en": "It is about women in technology.",
+              "vi": "Về phụ nữ trong công nghệ."
+            },
+            {
+              "key": "C",
+              "en": "It is the magazine's first issue.",
+              "vi": "Là số đầu tiên của tạp chí."
+            },
+            {
+              "key": "D",
+              "en": "It has a reader survey.",
+              "vi": "Có khảo sát độc giả."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets20-t01-p4-q084",
+          "number": 84,
+          "question": {
+            "en": "Who is Erika Cliffton?",
+            "vi": "Erika Cliffton là ai?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A company's founder",
+              "vi": "Nhà sáng lập công ty"
+            },
+            {
+              "key": "B",
+              "en": "A journalist",
+              "vi": "Nhà báo"
+            },
+            {
+              "key": "C",
+              "en": "An athlete",
+              "vi": "Vận động viên"
+            },
+            {
+              "key": "D",
+              "en": "A financial consultant",
+              "vi": "Tư vấn tài chính"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets20-t01-p4-q085",
+          "number": 85,
+          "question": {
+            "en": "What does the magazine offer this week with a subscription?",
+            "vi": "Tạp chí tặng gì khi đăng ký tuần này?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A laptop case",
+              "vi": "Túi laptop"
+            },
+            {
+              "key": "B",
+              "en": "An umbrella",
+              "vi": "Ô"
+            },
+            {
+              "key": "C",
+              "en": "Access to job listings",
+              "vi": "Truy cập danh sách việc làm"
+            },
+            {
+              "key": "D",
+              "en": "A discount coupon for a store",
+              "vi": "Phiếu giảm giá cửa hàng"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets20-t01-p4-g086-088",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_01/audio/086-088.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "This is Health on the Go, a weekly broadcast that gives you advice about your eating habits.",
+            "questionIds": [
+              "ets20-t01-p4-q086"
+            ]
+          },
+          {
+            "text": " Today we're talking about salt. Who's heard that salt is not good for you? ",
+            "questionIds": []
+          },
+          {
+            "text": "Well... this negative view of salt is surprising because it's simply not true.",
+            "questionIds": [
+              "ets20-t01-p4-q087"
+            ]
+          },
+          {
+            "text": " You actually do need some salt in your diet to remain healthy. But remember—salt occurs naturally in most foods, so you don't need to add extra salt to your diet. In fact, even fruits and vegetables contain salt. I know you're all interested in trying more recipes that use fruits and vegetables. ",
+            "questionIds": []
+          },
+          {
+            "text": "We'll be talking about that on next week's broadcast.",
+            "questionIds": [
+              "ets20-t01-p4-q088"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "W-Am: Đây là Health on the Go, một chương trình phát sóng hàng tuần cung cấp cho bạn lời khuyên về thói quen ăn uống. Hôm nay chúng ta sẽ nói về muối. Ai đã từng nghe nói rằng muối không tốt cho bạn? Chà... cái nhìn tiêu cực về muối này thật đáng ngạc nhiên vì nó đơn giản là không đúng. Bạn thực sự cần một chút muối trong chế độ ăn uống của mình để duy trì sức khỏe. Nhưng hãy nhớ rằng—muối có sẵn tự nhiên trong hầu hết các loại thực phẩm, vì vậy bạn không cần thêm muối vào chế độ ăn của mình. Thực tế, ngay cả trái cây và rau củ cũng chứa muối. Tôi biết tất cả các bạn đều quan tâm đến việc thử thêm các công thức nấu ăn sử dụng trái cây và rau củ. Chúng ta sẽ nói về điều đó trong chương trình phát sóng tuần tới.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets20-t01-p4-q086",
+          "number": 86,
+          "question": {
+            "en": "What is the broadcast mainly about?",
+            "vi": "Chương trình phát sóng chủ yếu về gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Diet advice",
+              "vi": "Tư vấn chế độ ăn"
+            },
+            {
+              "key": "B",
+              "en": "Exercise tips",
+              "vi": "Mẹo tập thể dục"
+            },
+            {
+              "key": "C",
+              "en": "Improving sleep",
+              "vi": "Cải thiện giấc ngủ"
+            },
+            {
+              "key": "D",
+              "en": "Reducing stress",
+              "vi": "Giảm căng thẳng"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets20-t01-p4-q087",
+          "number": 87,
+          "question": {
+            "en": "Why does the speaker say she is surprised?",
+            "vi": "Tại sao người nói nói cô ấy ngạc nhiên?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A task can be very time-consuming.",
+              "vi": "Công việc có thể rất tốn thời gian."
+            },
+            {
+              "key": "B",
+              "en": "A popular view is incorrect.",
+              "vi": "Quan điểm phổ biến không chính xác."
+            },
+            {
+              "key": "C",
+              "en": "A local business is closing.",
+              "vi": "Doanh nghiệp địa phương sắp đóng cửa."
+            },
+            {
+              "key": "D",
+              "en": "A speaker is arriving late.",
+              "vi": "Diễn giả đến muộn."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets20-t01-p4-q088",
+          "number": 88,
+          "question": {
+            "en": "Why does the speaker say, We'll be talking about that on next week's broadcast?",
+            "vi": "Tại sao người nói nói \"Chúng ta sẽ nói về điều đó trong chương trình tuần sau\"?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To change a schedule",
+              "vi": "Để thay đổi lịch trình"
+            },
+            {
+              "key": "B",
+              "en": "To make a complaint",
+              "vi": "Để khiếu nại"
+            },
+            {
+              "key": "C",
+              "en": "To refuse a request",
+              "vi": "Để từ chối yêu cầu"
+            },
+            {
+              "key": "D",
+              "en": "To publicize a future episode",
+              "vi": "Để quảng bá tập trong tương lai"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets20-t01-p4-g089-091",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_01/audio/089-091.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "Welcome to the evening news. I'm your host, Charlene Dawson. We've got a lot of interesting stories to cover on tonight's program. ",
+            "questionIds": []
+          },
+          {
+            "text": "And... at the top of our list is an exciting announcement from Francisco City—where a solar-powered airport will be built! One of the very first solar-powered airports in the world!",
+            "questionIds": [
+              "ets20-t01-p4-q089"
+            ]
+          },
+          {
+            "text": " ",
+            "questionIds": []
+          },
+          {
+            "text": "If you're looking for a job, Nassar Builders, the construction firm that is building the airport, will be holding an employment fair next month.",
+            "questionIds": [
+              "ets20-t01-p4-q090"
+            ]
+          },
+          {
+            "text": " At the fair, they'll interview and hire workers for the project. ",
+            "questionIds": []
+          },
+          {
+            "text": "For more details about Nassar Builders, check the city's Web site.",
+            "questionIds": [
+              "ets20-t01-p4-q091"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "W-Br: Chào mừng quý vị đến với bản tin buổi tối. Tôi là người dẫn chương trình của quý vị, Charlene Dawson. Chúng tôi có rất nhiều câu chuyện thú vị để đề cập trong chương trình tối nay. Và... đứng đầu danh sách của chúng tôi là một thông báo thú vị từ thành phố Francisco—nơi một sân bay chạy bằng năng lượng mặt trời sẽ được xây dựng! Một trong những sân bay chạy bằng năng lượng mặt trời đầu tiên trên thế giới! Nếu quý vị đang tìm việc, Nassar Builders, công ty xây dựng đang xây sân bay, sẽ tổ chức hội chợ việc làm vào tháng tới. Tại hội chợ, họ sẽ phỏng vấn và tuyển dụng công nhân cho dự án. Để biết thêm chi tiết về Nassar Builders, hãy truy cập trang web của thành phố.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets20-t01-p4-q089",
+          "number": 89,
+          "question": {
+            "en": "According to the speaker, what is unique about the airport?",
+            "vi": "Theo người nói, điều gì đặc biệt về sân bay?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It will be powered by solar energy.",
+              "vi": "Sẽ chạy bằng năng lượng mặt trời."
+            },
+            {
+              "key": "B",
+              "en": "It will be made from recycled materials.",
+              "vi": "Sẽ được làm từ vật liệu tái chế."
+            },
+            {
+              "key": "C",
+              "en": "It will be built by a famous architect.",
+              "vi": "Sẽ được xây bởi kiến trúc sư nổi tiếng."
+            },
+            {
+              "key": "D",
+              "en": "It will be the largest in the country.",
+              "vi": "Sẽ là sân bay lớn nhất cả nước."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets20-t01-p4-q090",
+          "number": 90,
+          "question": {
+            "en": "What does the speaker say will happen next month?",
+            "vi": "Người nói nói tháng sau sẽ có gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A board meeting",
+              "vi": "Họp hội đồng"
+            },
+            {
+              "key": "B",
+              "en": "A training session",
+              "vi": "Buổi đào tạo"
+            },
+            {
+              "key": "C",
+              "en": "A job fair",
+              "vi": "Hội chợ việc làm"
+            },
+            {
+              "key": "D",
+              "en": "A grand opening",
+              "vi": "Khai trương"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets20-t01-p4-q091",
+          "number": 91,
+          "question": {
+            "en": "According to the speaker, how can the listeners get information about the construction firm?",
+            "vi": "Theo người nói, người nghe có thể lấy thông tin về công ty xây dựng bằng cách nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "By dialing a toll-free number",
+              "vi": "Gọi số miễn phí"
+            },
+            {
+              "key": "B",
+              "en": "By visiting a Web site",
+              "vi": "Truy cập trang web"
+            },
+            {
+              "key": "C",
+              "en": "By watching a documentary",
+              "vi": "Xem phim tài liệu"
+            },
+            {
+              "key": "D",
+              "en": "By picking up a brochure",
+              "vi": "Lấy tờ rơi"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets20-t01-p4-g092-094",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_01/audio/092-094.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "Hi, everyone. My name is Raul Bautista and this is History with Raul, the weekly podcast where we investigate little-known historical facts that have had a huge impact on today's world. ",
+            "questionIds": []
+          },
+          {
+            "text": "Today we'll be discussing a topic from art history. We'll hear about the mysterious disappearance of some paintings from a museum in seventeenth-century Europe.",
+            "questionIds": [
+              "ets20-t01-p4-q092"
+            ]
+          },
+          {
+            "text": " ",
+            "questionIds": []
+          },
+          {
+            "text": "Professor Ignacio Ortega from Westland University will explain what happened.",
+            "questionIds": [
+              "ets20-t01-p4-q093"
+            ]
+          },
+          {
+            "text": " ",
+            "questionIds": []
+          },
+          {
+            "text": "But before we speak to Professor Ortega—please remember, this program is only made possible by the financial support of our members. Visit historywithraul.org today.",
+            "questionIds": [
+              "ets20-t01-p4-q094"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Chào mọi người. Tên tôi là Raul Bautista và đây là Lịch sử cùng Raul, podcast hàng tuần nơi chúng ta tìm hiểu những sự thật lịch sử ít được biết đến nhưng đã có tác động to lớn đến thế giới ngày nay. Hôm nay chúng ta sẽ thảo luận về một chủ đề trong lịch sử nghệ thuật. Chúng ta sẽ nghe về sự biến mất bí ẩn của một số bức tranh từ một bảo tàng ở châu Âu thế kỷ XVII. Giáo sư Ignacio Ortega từ Đại học Westland sẽ giải thích những gì đã xảy ra. Nhưng trước khi chúng ta nói chuyện với Giáo sư Ortega—xin hãy nhớ, chương trình này chỉ có thể thực hiện được nhờ sự hỗ trợ tài chính của các thành viên chúng tôi. Hãy truy cập historywithraul.org ngay hôm nay.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets20-t01-p4-q092",
+          "number": 92,
+          "question": {
+            "en": "What is the topic of this week's podcast?",
+            "vi": "Chủ đề podcast tuần này là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Historical monuments",
+              "vi": "Các di tích lịch sử"
+            },
+            {
+              "key": "B",
+              "en": "Some missing paintings",
+              "vi": "Một số bức tranh bị mất"
+            },
+            {
+              "key": "C",
+              "en": "Classical literature",
+              "vi": "Văn học cổ điển"
+            },
+            {
+              "key": "D",
+              "en": "European composers",
+              "vi": "Các nhà soạn nhạc châu Âu"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets20-t01-p4-q093",
+          "number": 93,
+          "question": {
+            "en": "Who is the guest on this week's podcast?",
+            "vi": "Khách mời podcast tuần này là ai?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "An actor",
+              "vi": "Diễn viên"
+            },
+            {
+              "key": "B",
+              "en": "A travel agent",
+              "vi": "Đại lý du lịch"
+            },
+            {
+              "key": "C",
+              "en": "A politician",
+              "vi": "Chính trị gia"
+            },
+            {
+              "key": "D",
+              "en": "A professor",
+              "vi": "Giáo sư"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets20-t01-p4-q094",
+          "number": 94,
+          "question": {
+            "en": "Why does the speaker say, this program is only made possible by the financial support of our members?",
+            "vi": "Tại sao người nói nói \"chương trình này chỉ có thể thực hiện nhờ sự hỗ trợ tài chính của các thành viên\"?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To encourage the listeners to make a donation",
+              "vi": "Để khuyến khích người nghe quyên góp"
+            },
+            {
+              "key": "B",
+              "en": "To apologize for a limited number of episodes",
+              "vi": "Để xin lỗi vì số tập hạn chế"
+            },
+            {
+              "key": "C",
+              "en": "To prevent people from getting a bonus",
+              "vi": "Để ngăn người ta nhận thưởng"
+            },
+            {
+              "key": "D",
+              "en": "To express concern about a proposal",
+              "vi": "Để bày tỏ lo ngại về đề xuất"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets20-t01-p4-g095-097",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_01/audio/095-097.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "Welcome back, everyone. ",
+            "questionIds": []
+          },
+          {
+            "text": "At tonight's session, we'll pick up where we left off and go right into a discussion of the different types of interviews—in person, by phone, et cetera.",
+            "questionIds": [
+              "ets20-t01-p4-q095"
+            ]
+          },
+          {
+            "text": " ",
+            "questionIds": []
+          },
+          {
+            "text": "After a brief break, I'll split you into small groups so you can practice being in an actual interview situation.",
+            "questionIds": [
+              "ets20-t01-p4-q096"
+            ]
+          },
+          {
+            "text": " I'll walk around the room and listen to each group in order to give you individual feedback. ",
+            "questionIds": []
+          },
+          {
+            "text": "Now, before we start, please sign your name on the attendance sheet on my desk.",
+            "questionIds": [
+              "ets20-t01-p4-q097"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Chào mừng tất cả mọi người đã quay trở lại. Trong buổi tối nay, chúng ta sẽ tiếp tục từ chỗ đã dừng lại và đi thẳng vào thảo luận về các loại hình phỏng vấn khác nhau - trực tiếp, qua điện thoại, v.v. Sau một thời gian nghỉ giải lao ngắn, tôi sẽ chia các bạn thành các nhóm nhỏ để các bạn có thể thực hành trong một tình huống phỏng vấn thực tế. Tôi sẽ đi quanh phòng và lắng nghe từng nhóm để đưa ra phản hồi cá nhân cho các bạn. Bây giờ, trước khi chúng ta bắt đầu, xin vui lòng ký tên của bạn vào danh sách điểm danh trên bàn của tôi.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets20-t01-p4-q095",
+          "number": 95,
+          "question": {
+            "en": "Look at the graphic. On which date is the talk being given?",
+            "vi": "Nhìn vào hình ảnh. Bài nói được diễn ra vào ngày nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "June 3",
+              "vi": "Ngày 3 tháng 6"
+            },
+            {
+              "key": "B",
+              "en": "June 10",
+              "vi": "Ngày 10 tháng 6"
+            },
+            {
+              "key": "C",
+              "en": "June 17",
+              "vi": "Ngày 17 tháng 6"
+            },
+            {
+              "key": "D",
+              "en": "June 24",
+              "vi": "Ngày 24 tháng 6"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets20-t01-p4-q096",
+          "number": 96,
+          "question": {
+            "en": "What will the listeners do after the break?",
+            "vi": "Người nghe sẽ làm gì sau giờ nghỉ?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Answer survey questions",
+              "vi": "Trả lời câu hỏi khảo sát"
+            },
+            {
+              "key": "B",
+              "en": "Participate in group work",
+              "vi": "Tham gia hoạt động nhóm"
+            },
+            {
+              "key": "C",
+              "en": "Review some résumés",
+              "vi": "Xem lại lý lịch"
+            },
+            {
+              "key": "D",
+              "en": "Watch a video",
+              "vi": "Xem video"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets20-t01-p4-q097",
+          "number": 97,
+          "question": {
+            "en": "What does the speaker remind the listeners about?",
+            "vi": "Người nói nhắc người nghe về điều gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Some research questions",
+              "vi": "Câu hỏi nghiên cứu"
+            },
+            {
+              "key": "B",
+              "en": "Some schedule changes",
+              "vi": "Thay đổi lịch trình"
+            },
+            {
+              "key": "C",
+              "en": "A payment method",
+              "vi": "Phương thức thanh toán"
+            },
+            {
+              "key": "D",
+              "en": "A sign-in sheet",
+              "vi": "Bảng ký tên"
+            }
+          ],
+          "answer": "D"
+        }
+      ],
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_01/image/095-097.png"
+    },
+    {
+      "id": "ets20-t01-p4-g098-100",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_01/audio/098-100.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "Thanks for attending this planning meeting for the new neighborhood garden. ",
+            "questionIds": []
+          },
+          {
+            "text": "I'm Chao, and I'm coordinating this project.",
+            "questionIds": [
+              "ets20-t01-p4-q098"
+            ]
+          },
+          {
+            "text": " Here's the layout for the new garden. We'll mostly be planting vegetables, but we will have a herb garden, too, and we're going to plant that first. ",
+            "questionIds": []
+          },
+          {
+            "text": "The herbs are going to go in the plot between the picnic area and the toolshed.",
+            "questionIds": [
+              "ets20-t01-p4-q099"
+            ]
+          },
+          {
+            "text": " Also, I need volunteers to help me on Saturday. ",
+            "questionIds": []
+          },
+          {
+            "text": "I'd like to put up a fence around the perimeter of the garden.",
+            "questionIds": [
+              "ets20-t01-p4-q100"
+            ]
+          },
+          {
+            "text": " The wood for the fence will be delivered that morning.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Cảm ơn các bạn đã tham dự cuộc họp lập kế hoạch cho khu vườn cộng đồng mới. Tôi là Chao, và tôi đang điều phối dự án này. Đây là thiết kế cho khu vườn mới. Chúng ta chủ yếu sẽ trồng rau, nhưng chúng ta cũng sẽ có một vườn thảo mộc, và chúng ta sẽ trồng cái đó trước. Thảo mộc sẽ được trồng ở lô đất giữa khu vực dã ngoại và nhà kho dụng cụ. Ngoài ra, tôi cần tình nguyện viên giúp tôi vào thứ Bảy. Tôi muốn dựng một hàng rào quanh chu vi khu vườn. Gỗ làm hàng rào sẽ được giao vào sáng hôm đó.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets20-t01-p4-q098",
+          "number": 98,
+          "question": {
+            "en": "Who is the speaker?",
+            "vi": "Người nói là ai?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A security guard",
+              "vi": "Bảo vệ"
+            },
+            {
+              "key": "B",
+              "en": "A project coordinator",
+              "vi": "Người điều phối dự án"
+            },
+            {
+              "key": "C",
+              "en": "A course instructor",
+              "vi": "Giảng viên"
+            },
+            {
+              "key": "D",
+              "en": "A news journalist",
+              "vi": "Nhà báo"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets20-t01-p4-q099",
+          "number": 99,
+          "question": {
+            "en": "Look at the graphic. Where will herbs be planted?",
+            "vi": "Nhìn vào hình ảnh. Thảo mộc sẽ được trồng ở đâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Plot 1",
+              "vi": "Lô 1"
+            },
+            {
+              "key": "B",
+              "en": "Plot 2",
+              "vi": "Lô 2"
+            },
+            {
+              "key": "C",
+              "en": "Plot 3",
+              "vi": "Lô 3"
+            },
+            {
+              "key": "D",
+              "en": "Plot 4",
+              "vi": "Lô 4"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets20-t01-p4-q100",
+          "number": 100,
+          "question": {
+            "en": "What does the speaker plan to do on Saturday?",
+            "vi": "Người nói dự định làm gì vào thứ Bảy?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Lead a tour",
+              "vi": "Dẫn tour"
+            },
+            {
+              "key": "B",
+              "en": "Attend a picnic",
+              "vi": "Tham dự picnic"
+            },
+            {
+              "key": "C",
+              "en": "Take some photographs",
+              "vi": "Chụp ảnh"
+            },
+            {
+              "key": "D",
+              "en": "Install a fence",
+              "vi": "Lắp đặt hàng rào"
+            }
+          ],
+          "answer": "D"
+        }
+      ],
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_01/image/098-100.png"
+    }
+  ]
+}

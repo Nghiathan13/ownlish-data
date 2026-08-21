@@ -1,0 +1,1403 @@
+{
+  "groups": [
+    {
+      "id": "ets21-t01-p4-g071-073",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_01/audio/071-073.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "Are you a coffee drinker? Are you tired of your old coffee maker? ",
+            "questionIds": []
+          },
+          {
+            "text": "Well, Peterson Industries is running a focus group next month, and we're currently looking for volunteers to try out our newest coffee and espresso maker.",
+            "questionIds": [
+              "ets21-t01-p4-q071",
+              "ets21-t01-p4-q072"
+            ]
+          },
+          {
+            "text": " You'll have a chance to provide feedback and tell us what you think of the coffee maker's features. ",
+            "questionIds": []
+          },
+          {
+            "text": "And as a bonus for your participation, you'll receive a coupon for 50 percent off the coffee maker once it hits the shelves.",
+            "questionIds": [
+              "ets21-t01-p4-q073"
+            ]
+          },
+          {
+            "text": " To sign up, visit our Web site.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Bạn có phải là người uống cà phê không? Bạn có chán chiếc máy pha cà phê cũ kỹ của mình chưa? Vâng, Peterson Industries sẽ tổ chức một nhóm phản hồi vào tháng tới, và chúng tôi hiện đang tìm kiếm những tình nguyện viên để dùng thử máy pha cà phê và espresso mới nhất của chúng tôi. Bạn sẽ có cơ hội cung cấp phản hồi và cho chúng tôi biết suy nghĩ của bạn về các tính năng của máy pha cà phê. Và như một phần thưởng cho việc tham gia của bạn, bạn sẽ nhận được một phiếu giảm giá 50% cho máy pha cà phê ngay khi nó được bày bán. Để đăng ký, hãy truy cập trang web của chúng tôi.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets21-t01-p4-q071",
+          "number": 71,
+          "question": {
+            "en": "What type of product is being discussed?",
+            "vi": "Loại sản phẩm nào đang được thảo luận?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A coffee maker",
+              "vi": "Máy pha cà phê"
+            },
+            {
+              "key": "B",
+              "en": "A microwave oven",
+              "vi": "Lò vi sóng"
+            },
+            {
+              "key": "C",
+              "en": "A portable heater",
+              "vi": "Máy sưởi di động"
+            },
+            {
+              "key": "D",
+              "en": "A water filter",
+              "vi": "Máy lọc nước"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets21-t01-p4-q072",
+          "number": 72,
+          "question": {
+            "en": "What is the purpose of the advertisement?",
+            "vi": "Mục đích của quảng cáo là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To reveal a product release date",
+              "vi": "Công bố ngày ra mắt sản phẩm"
+            },
+            {
+              "key": "B",
+              "en": "To announce a talent show",
+              "vi": "Thông báo chương trình tài năng"
+            },
+            {
+              "key": "C",
+              "en": "To find volunteers for a focus group",
+              "vi": "Tìm tình nguyện viên cho nhóm tập trung"
+            },
+            {
+              "key": "D",
+              "en": "To explain details of a warranty",
+              "vi": "Giải thích chi tiết về bảo hành"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets21-t01-p4-q073",
+          "number": 73,
+          "question": {
+            "en": "What bonus is mentioned?",
+            "vi": "Phần thưởng nào được đề cập?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A raffle ticket",
+              "vi": "Vé xổ số"
+            },
+            {
+              "key": "B",
+              "en": "A coupon",
+              "vi": "Phiếu giảm giá"
+            },
+            {
+              "key": "C",
+              "en": "Travel reimbursement",
+              "vi": "Hoàn trả chi phí đi lại"
+            },
+            {
+              "key": "D",
+              "en": "Free shipping",
+              "vi": "Miễn phí vận chuyển"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets21-t01-p4-g074-076",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_01/audio/074-076.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "Hello, it's Lena. ",
+            "questionIds": []
+          },
+          {
+            "text": "My flight's been delayed because of bad weather, and I'm stuck at the airport here in Vancouver.",
+            "questionIds": [
+              "ets21-t01-p4-q074"
+            ]
+          },
+          {
+            "text": " Anyway, I don't think I'll make it back to work tomorrow. ",
+            "questionIds": []
+          },
+          {
+            "text": "The clients from Spain are coming in at two o'clock and I won't be able to meet with them.",
+            "questionIds": [
+              "ets21-t01-p4-q075"
+            ]
+          },
+          {
+            "text": " ",
+            "questionIds": []
+          },
+          {
+            "text": "Fortunately for us, Paul lived in Spain for ten years.",
+            "questionIds": [
+              "ets21-t01-p4-q076"
+            ]
+          },
+          {
+            "text": " Could you stop by his office, explain the situation, and give him the client agenda?",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Xin chào, là Lena đây. Chuyến bay của tôi bị hoãn vì thời tiết xấu, và tôi đang bị mắc kẹt ở sân bay Vancouver. Dù sao thì, tôi không nghĩ mình sẽ trở lại làm việc vào ngày mai được. Các khách hàng từ Tây Ban Nha sẽ đến lúc hai giờ và tôi sẽ không gặp họ được. May mắn thay cho chúng ta, Paul đã sống ở Tây Ban Nha mười năm rồi. Bạn có thể ghé qua văn phòng của anh ấy, giải thích tình hình và đưa cho anh ấy chương trình nghị sự của khách hàng không?",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets21-t01-p4-q074",
+          "number": 74,
+          "question": {
+            "en": "Where is the speaker?",
+            "vi": "Người nói ở đâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "At a hotel",
+              "vi": "Khách sạn"
+            },
+            {
+              "key": "B",
+              "en": "At a travel agency",
+              "vi": "Đại lý du lịch"
+            },
+            {
+              "key": "C",
+              "en": "On a train",
+              "vi": "Trên tàu"
+            },
+            {
+              "key": "D",
+              "en": "In an airport",
+              "vi": "Sân bay"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets21-t01-p4-q075",
+          "number": 75,
+          "question": {
+            "en": "What will happen at the company tomorrow?",
+            "vi": "Ngày mai ở công ty sẽ có gì xảy ra?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "New furniture will arrive.",
+              "vi": "Nội thất mới sẽ đến"
+            },
+            {
+              "key": "B",
+              "en": "Some clients will visit.",
+              "vi": "Khách hàng sẽ đến thăm"
+            },
+            {
+              "key": "C",
+              "en": "A new employee will be introduced.",
+              "vi": "Nhân viên mới sẽ được giới thiệu"
+            },
+            {
+              "key": "D",
+              "en": "Some computer software will be updated.",
+              "vi": "Phần mềm sẽ được cập nhật"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets21-t01-p4-q076",
+          "number": 76,
+          "question": {
+            "en": "Why does the speaker say, \"Paul lived in Spain for ten years\"?",
+            "vi": "Tại sao người nói nói \"Paul đã sống ở Tây Ban Nha 10 năm\"?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To recommend a colleague for a task",
+              "vi": "Để giới thiệu đồng nghiệp cho một nhiệm vụ"
+            },
+            {
+              "key": "B",
+              "en": "To suggest a travel destination",
+              "vi": "Để gợi ý điểm đến du lịch"
+            },
+            {
+              "key": "C",
+              "en": "To express surprise about an anniversary date",
+              "vi": "Để bày tỏ ngạc nhiên về ngày kỷ niệm"
+            },
+            {
+              "key": "D",
+              "en": "To correct a data-entry error",
+              "vi": "Để sửa lỗi nhập liệu"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets21-t01-p4-g077-079",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_01/audio/077-079.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "To begin today's staff meeting, I'm happy to announce that our plans to create an outdoor work area have been finalized.",
+            "questionIds": [
+              "ets21-t01-p4-q077"
+            ]
+          },
+          {
+            "text": " When the project is completed, there'll be individual workstations and tables for small group meetings. ",
+            "questionIds": []
+          },
+          {
+            "text": "If you want to see what the space will look like, there's an architectural layout posted on our company's home page.",
+            "questionIds": [
+              "ets21-t01-p4-q078"
+            ]
+          },
+          {
+            "text": " Be sure to let us know if you have any questions or concerns. ",
+            "questionIds": []
+          },
+          {
+            "text": "Some of you have already expressed concern about accessing the Internet outside.",
+            "questionIds": [
+              "ets21-t01-p4-q079"
+            ]
+          },
+          {
+            "text": " I can assure you... wireless Internet connectivity will be available.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Để bắt đầu cuộc họp nhân viên hôm nay, tôi vui mừng thông báo rằng kế hoạch tạo khu vực làm việc ngoài trời của chúng ta đã được hoàn tất. Khi dự án hoàn thành, sẽ có các trạm làm việc cá nhân và bàn cho các cuộc họp nhóm nhỏ. Nếu bạn muốn xem không gian sẽ trông như thế nào, có một bố cục kiến trúc được đăng trên trang chủ của công ty chúng tôi. Hãy chắc chắn cho chúng tôi biết nếu bạn có bất kỳ câu hỏi hoặc lo ngại nào. Một số bạn đã bày tỏ lo ngại về việc truy cập Internet bên ngoài. Tôi có thể đảm bảo với bạn... kết nối Internet không dây sẽ có sẵn.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets21-t01-p4-q077",
+          "number": 77,
+          "question": {
+            "en": "What is the announcement about?",
+            "vi": "Thông báo về điều gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A new sales team",
+              "vi": "Đội bán hàng mới"
+            },
+            {
+              "key": "B",
+              "en": "An outdoor work space",
+              "vi": "Không gian làm việc ngoài trời"
+            },
+            {
+              "key": "C",
+              "en": "A branch office",
+              "vi": "Văn phòng chi nhánh"
+            },
+            {
+              "key": "D",
+              "en": "A marketing campaign",
+              "vi": "Chiến dịch marketing"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets21-t01-p4-q078",
+          "number": 78,
+          "question": {
+            "en": "What can the listeners find on the company Web site?",
+            "vi": "Người nghe có thể tìm gì trên trang web công ty?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A newspaper article",
+              "vi": "Bài báo"
+            },
+            {
+              "key": "B",
+              "en": "A video demonstration",
+              "vi": "Video hướng dẫn"
+            },
+            {
+              "key": "C",
+              "en": "An architectural plan",
+              "vi": "Bản thiết kế kiến trúc"
+            },
+            {
+              "key": "D",
+              "en": "A revised policy",
+              "vi": "Chính sách sửa đổi"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets21-t01-p4-q079",
+          "number": 79,
+          "question": {
+            "en": "According to the speaker, what have some people expressed concern about?",
+            "vi": "Theo người nói, một số người đã bày tỏ lo ngại về gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A work schedule",
+              "vi": "Lịch làm việc"
+            },
+            {
+              "key": "B",
+              "en": "A completion date",
+              "vi": "Ngày hoàn thành"
+            },
+            {
+              "key": "C",
+              "en": "Internet connectivity",
+              "vi": "Kết nối Internet"
+            },
+            {
+              "key": "D",
+              "en": "Parking availability",
+              "vi": "Chỗ đỗ xe"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets21-t01-p4-g080-082",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_01/audio/080-082.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "It's almost the end of our tour of China's most magnificent cities.",
+            "questionIds": [
+              "ets21-t01-p4-q080"
+            ]
+          },
+          {
+            "text": " I hope you're enjoying every moment with us at Hao Nan Tour Company. Now then, let's talk about tomorrow. We'll be joining a boat trip down the Li River. ",
+            "questionIds": []
+          },
+          {
+            "text": "Not surprisingly, tickets are sold out!",
+            "questionIds": [
+              "ets21-t01-p4-q081"
+            ]
+          },
+          {
+            "text": " Luckily, this is included in our tour package. ",
+            "questionIds": []
+          },
+          {
+            "text": "Finally, don't forget to bring your tour ID card with you everywhere we go, so that you can get the discounts and perks that we've arranged for you with local businesses.",
+            "questionIds": [
+              "ets21-t01-p4-q082"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Chuyến tham quan những thành phố tráng lệ nhất Trung Quốc của chúng ta gần kết thúc rồi. Tôi hy vọng quý vị đang tận hưởng từng khoảnh khắc đáng nhớ cùng với Công ty Du lịch Hao Nan chúng tôi. Bây giờ, chúng ta hãy nói về ngày mai nhé. Chúng ta sẽ tham gia một chuyến đi thuyền dọc sông Li. Không có gì ngạc nhiên khi vé đã bán hết rồi! May mắn thay, điều này đã được bao gồm trong gói tour của chúng ta. Cuối cùng, đừng quên mang theo thẻ ID tour của quý vị mọi lúc mọi nơi, để quý vị có thể nhận được các ưu đãi và quyền lợi mà chúng tôi đã sắp xếp cho quý vị với các doanh nghiệp địa phương.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets21-t01-p4-q080",
+          "number": 80,
+          "question": {
+            "en": "Where are the listeners?",
+            "vi": "Người nghe đang ở đâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "At a trade show",
+              "vi": "Hội chợ thương mại"
+            },
+            {
+              "key": "B",
+              "en": "At a fund-raising banquet",
+              "vi": "Tiệc gây quỹ"
+            },
+            {
+              "key": "C",
+              "en": "On a company retreat",
+              "vi": "Chuyến nghỉ dưỡng công ty"
+            },
+            {
+              "key": "D",
+              "en": "On a city tour",
+              "vi": "Chuyến tham quan thành phố"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets21-t01-p4-q081",
+          "number": 81,
+          "question": {
+            "en": "What does the speaker imply when she says, \"tickets are sold out\"?",
+            "vi": "Người nói ngụ ý gì khi nói \"vé đã bán hết\"?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "An event has been rescheduled.",
+              "vi": "Sự kiện đã được dời lịch"
+            },
+            {
+              "key": "B",
+              "en": "An activity is popular.",
+              "vi": "Hoạt động rất phổ biến"
+            },
+            {
+              "key": "C",
+              "en": "A ticket office is closed.",
+              "vi": "Phòng vé đã đóng"
+            },
+            {
+              "key": "D",
+              "en": "A refund will be issued.",
+              "vi": "Sẽ được hoàn tiền"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets21-t01-p4-q082",
+          "number": 82,
+          "question": {
+            "en": "What does the speaker remind the listeners to bring?",
+            "vi": "Người nói nhắc người nghe mang theo gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "An umbrella",
+              "vi": "Ô"
+            },
+            {
+              "key": "B",
+              "en": "A pair of comfortable shoes",
+              "vi": "Giày thoải mái"
+            },
+            {
+              "key": "C",
+              "en": "An identification card",
+              "vi": "Thẻ nhận dạng"
+            },
+            {
+              "key": "D",
+              "en": "A receipt for payment",
+              "vi": "Biên lai thanh toán"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets21-t01-p4-g083-085",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_01/audio/083-085.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "Don't have time to shop for groceries? Well, you're in luck. ",
+            "questionIds": []
+          },
+          {
+            "text": "Your Food Cart is a new online service that delivers groceries from your local supermarket.",
+            "questionIds": [
+              "ets21-t01-p4-q083"
+            ]
+          },
+          {
+            "text": " In less than five minutes, you'll be able to place an order to have groceries brought right to your door. ",
+            "questionIds": []
+          },
+          {
+            "text": "To get started, create an account at www.yourfoodcart.com.",
+            "questionIds": [
+              "ets21-t01-p4-q084"
+            ]
+          },
+          {
+            "text": " Then you can select the groceries you'd like and a delivery time. Our team will shop for you and bring the groceries to your home. ",
+            "questionIds": []
+          },
+          {
+            "text": "And that's not all: if you place your first order before the end of this month, you'll receive a complimentary bag of locally grown apples.",
+            "questionIds": [
+              "ets21-t01-p4-q085"
+            ]
+          },
+          {
+            "text": " Don't wait; try Your Food Cart today!",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Nam-Trung Quốc: Không có thời gian đi mua hàng tạp hóa? Chà, bạn thật may mắn. Your Food Cart là một dịch vụ trực tuyến mới chuyên giao hàng tạp hóa từ siêu thị địa phương của bạn. Chưa đầy năm phút, bạn sẽ có thể đặt hàng và được giao hàng tạp hóa tận nơi. Để bắt đầu, hãy tạo một tài khoản tại www.yourfoodcart.com. Sau đó bạn có thể chọn các mặt hàng tạp hóa bạn muốn và thời gian giao hàng. Đội ngũ của chúng tôi sẽ mua sắm cho bạn và mang hàng tạp hóa đến nhà bạn. Và đó không phải là tất cả: nếu bạn đặt hàng đầu tiên trước cuối tháng này, bạn sẽ nhận được một túi táo trồng tại địa phương miễn phí. Đừng chờ đợi; hãy dùng thử Your Food Cart ngay hôm nay!",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets21-t01-p4-q083",
+          "number": 83,
+          "question": {
+            "en": "What kind of service is being advertised?",
+            "vi": "Loại dịch vụ nào đang được quảng cáo?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Office cleaning",
+              "vi": "Vệ sinh văn phòng"
+            },
+            {
+              "key": "B",
+              "en": "Tailoring",
+              "vi": "May đo"
+            },
+            {
+              "key": "C",
+              "en": "Grocery delivery",
+              "vi": "Giao thực phẩm"
+            },
+            {
+              "key": "D",
+              "en": "Landscaping",
+              "vi": "Cảnh quan"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets21-t01-p4-q084",
+          "number": 84,
+          "question": {
+            "en": "How can the listeners start using a service?",
+            "vi": "Người nghe có thể bắt đầu sử dụng dịch vụ bằng cách nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "By visiting a local shop",
+              "vi": "Đến cửa hàng địa phương"
+            },
+            {
+              "key": "B",
+              "en": "By scheduling a consultation",
+              "vi": "Đặt lịch tư vấn"
+            },
+            {
+              "key": "C",
+              "en": "By calling a telephone number",
+              "vi": "Gọi điện thoại"
+            },
+            {
+              "key": "D",
+              "en": "By creating an account online",
+              "vi": "Tạo tài khoản trực tuyến"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets21-t01-p4-q085",
+          "number": 85,
+          "question": {
+            "en": "What special promotion is available?",
+            "vi": "Chương trình khuyến mãi đặc biệt nào có sẵn?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A free gift",
+              "vi": "Quà tặng miễn phí"
+            },
+            {
+              "key": "B",
+              "en": "A money-back guarantee",
+              "vi": "Đảm bảo hoàn tiền"
+            },
+            {
+              "key": "C",
+              "en": "A membership upgrade",
+              "vi": "Nâng cấp thành viên"
+            },
+            {
+              "key": "D",
+              "en": "A personalized price quote",
+              "vi": "Báo giá cá nhân"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets21-t01-p4-g086-088",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_01/audio/086-088.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "I'd like to welcome Mei Wang, the new staff writer for the arts and culture section of our magazine.",
+            "questionIds": [
+              "ets21-t01-p4-q086"
+            ]
+          },
+          {
+            "text": " For the past five years, Ms. Wang was the lead reporter for the local newspaper in her hometown. Even though she wrote for a small newspaper, I think you might recognize her name. ",
+            "questionIds": []
+          },
+          {
+            "text": "In January, she won a prestigious national award for her news story about community theaters in small towns.",
+            "questionIds": [
+              "ets21-t01-p4-q087"
+            ]
+          },
+          {
+            "text": " I'm sure you all are eager to get to know Ms. Wang better. ",
+            "questionIds": []
+          },
+          {
+            "text": "So, we'll be holding a luncheon for her today, and everyone is invited.",
+            "questionIds": [
+              "ets21-t01-p4-q088"
+            ]
+          },
+          {
+            "text": " Please stop by the conference room at noon for soup and sandwiches.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Tôi muốn chào mừng Mei Wang, cây bút mới cho chuyên mục nghệ thuật và văn hóa của tạp chí chúng ta. Trong năm năm qua, cô Wang là phóng viên chính cho tờ báo địa phương ở quê nhà cô ấy. Mặc dù cô ấy viết cho một tờ báo nhỏ, nhưng tôi nghĩ các bạn có thể nhận ra tên của cô ấy. Vào tháng Giêng, cô ấy đã giành được một giải thưởng quốc gia danh giá cho bài báo của mình về các nhà hát cộng đồng ở các thị trấn nhỏ. Tôi chắc rằng tất cả các bạn đều háo hức muốn tìm hiểu cô Wang rõ hơn. Vì vậy, chúng ta sẽ tổ chức một bữa trưa thân mật cho cô ấy hôm nay, và mọi người đều được mời. Xin hãy ghé qua phòng họp vào buổi trưa để dùng súp và bánh mì kẹp.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets21-t01-p4-q086",
+          "number": 86,
+          "question": {
+            "en": "What is the purpose of the talk?",
+            "vi": "Mục đích của bài nói là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To thank project volunteers",
+              "vi": "Cảm ơn tình nguyện viên dự án"
+            },
+            {
+              "key": "B",
+              "en": "To explain an event schedule",
+              "vi": "Giải thích lịch sự kiện"
+            },
+            {
+              "key": "C",
+              "en": "To introduce a new employee",
+              "vi": "Giới thiệu nhân viên mới"
+            },
+            {
+              "key": "D",
+              "en": "To welcome a guest speaker",
+              "vi": "Chào mừng diễn giả khách"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets21-t01-p4-q087",
+          "number": 87,
+          "question": {
+            "en": "According to the speaker, why might the listeners be familiar with Ms. Wang?",
+            "vi": "Theo người nói, tại sao người nghe có thể biết cô Wang?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She starred in a television show.",
+              "vi": "Cô ấy đóng phim truyền hình"
+            },
+            {
+              "key": "B",
+              "en": "She won a journalism award.",
+              "vi": "Cô ấy đoạt giải báo chí"
+            },
+            {
+              "key": "C",
+              "en": "She used to be an intern at the company.",
+              "vi": "Cô ấy từng thực tập tại công ty"
+            },
+            {
+              "key": "D",
+              "en": "She has relatives who work for the company.",
+              "vi": "Cô ấy có họ hàng làm ở công ty"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets21-t01-p4-q088",
+          "number": 88,
+          "question": {
+            "en": "What event are the listeners encouraged to attend?",
+            "vi": "Người nghe được khuyến khích tham dự sự kiện gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A board meeting",
+              "vi": "Cuộc họp hội đồng"
+            },
+            {
+              "key": "B",
+              "en": "A theater performance",
+              "vi": "Buổi biểu diễn kịch"
+            },
+            {
+              "key": "C",
+              "en": "A training session",
+              "vi": "Buổi đào tạo"
+            },
+            {
+              "key": "D",
+              "en": "A staff luncheon",
+              "vi": "Bữa trưa nhân viên"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets21-t01-p4-g089-091",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_01/audio/089-091.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "And in local news, here's a reminder from the Grantson Community Center about their fund-raising event this Saturday evening. ",
+            "questionIds": []
+          },
+          {
+            "text": "The center is holding a comedy festival featuring some of the area's most well-known comedians.",
+            "questionIds": [
+              "ets21-t01-p4-q089"
+            ]
+          },
+          {
+            "text": " ",
+            "questionIds": []
+          },
+          {
+            "text": "Proceeds from the event will help support the center's project to improve its building.",
+            "questionIds": [
+              "ets21-t01-p4-q090"
+            ]
+          },
+          {
+            "text": " They want to raise funds to paint colorful murals on the outside walls. So come on down and enjoy the show. ",
+            "questionIds": []
+          },
+          {
+            "text": "The center's also looking for a few volunteers to help set up the sound equipment for the show.",
+            "questionIds": [
+              "ets21-t01-p4-q091"
+            ]
+          },
+          {
+            "text": " If you're able to help with that, please give them a call.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Và tin tức địa phương, đây là một lời nhắc nhở từ Trung tâm Cộng đồng Grantson về sự kiện gây quỹ của họ vào tối thứ Bảy tuần này. Trung tâm đang tổ chức một lễ hội hài kịch với sự góp mặt của một số diễn viên hài nổi tiếng nhất khu vực. Doanh thu từ sự kiện sẽ giúp hỗ trợ dự án cải thiện tòa nhà của trung tâm. Họ muốn gây quỹ để vẽ những bức tranh tường đầy màu sắc lên các bức tường bên ngoài. Vì vậy, hãy đến và thưởng thức chương trình. Trung tâm cũng đang tìm kiếm một vài tình nguyện viên để giúp thiết lập thiết bị âm thanh cho chương trình. Nếu bạn có thể giúp đỡ việc đó, vui lòng gọi cho họ.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets21-t01-p4-q089",
+          "number": 89,
+          "question": {
+            "en": "Who will be featured at Saturday's event?",
+            "vi": "Ai sẽ tham gia sự kiện thứ Bảy?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Sculptors",
+              "vi": "Nhà điêu khắc"
+            },
+            {
+              "key": "B",
+              "en": "Musicians",
+              "vi": "Nhạc sĩ"
+            },
+            {
+              "key": "C",
+              "en": "Authors",
+              "vi": "Tác giả"
+            },
+            {
+              "key": "D",
+              "en": "Comedians",
+              "vi": "Diễn viên hài"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets21-t01-p4-q090",
+          "number": 90,
+          "question": {
+            "en": "What is money being raised for?",
+            "vi": "Tiền được gây quỹ cho mục đích gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "An after-school program",
+              "vi": "Chương trình sau giờ học"
+            },
+            {
+              "key": "B",
+              "en": "A sports tournament",
+              "vi": "Giải đấu thể thao"
+            },
+            {
+              "key": "C",
+              "en": "A building improvement project",
+              "vi": "Dự án cải thiện tòa nhà"
+            },
+            {
+              "key": "D",
+              "en": "A health clinic",
+              "vi": "Phòng khám sức khỏe"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets21-t01-p4-q091",
+          "number": 91,
+          "question": {
+            "en": "Why are volunteers needed?",
+            "vi": "Tại sao cần tình nguyện viên?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To set up equipment",
+              "vi": "Để lắp đặt thiết bị"
+            },
+            {
+              "key": "B",
+              "en": "To sell tickets",
+              "vi": "Để bán vé"
+            },
+            {
+              "key": "C",
+              "en": "To donate food",
+              "vi": "Để quyên góp thực phẩm"
+            },
+            {
+              "key": "D",
+              "en": "To direct traffic",
+              "vi": "Để điều phối giao thông"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets21-t01-p4-g092-094",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_01/audio/092-094.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "Hi, Omar. This is Anusha from Berringer Media Productions.",
+            "questionIds": [
+              "ets21-t01-p4-q092"
+            ]
+          },
+          {
+            "text": " I'm editing the video you wanted made. ",
+            "questionIds": []
+          },
+          {
+            "text": "And, after reviewing the film, I, uh, I think we should change some of the colors so that the contrast is more noticeable.",
+            "questionIds": [
+              "ets21-t01-p4-q093"
+            ]
+          },
+          {
+            "text": " I went ahead and created a version with the new colors. Now, I know you were hoping to view a draft by this afternoon. ",
+            "questionIds": []
+          },
+          {
+            "text": "But, unfortunately, I'm having some trouble uploading the file.",
+            "questionIds": [
+              "ets21-t01-p4-q094"
+            ]
+          },
+          {
+            "text": " So, I'll call you tomorrow and give you an update.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Chào, Omar. Tôi là Anusha từ Berringer Media Productions. Tôi đang chỉnh sửa video anh muốn làm. Và sau khi xem lại phim, tôi, ừm, tôi nghĩ chúng ta nên thay đổi một số màu sắc để độ tương phản rõ ràng hơn. Tôi đã tạo một phiên bản với các màu mới. Giờ thì, tôi biết anh hy vọng xem bản nháp vào chiều nay. Nhưng không may, tôi đang gặp chút rắc rối khi tải tệp lên. Vậy, tôi sẽ gọi cho anh vào ngày mai và thông báo cập nhật.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets21-t01-p4-q092",
+          "number": 92,
+          "question": {
+            "en": "Which field does the speaker most likely work in?",
+            "vi": "Người nói có khả năng làm trong lĩnh vực nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Film production",
+              "vi": "Sản xuất phim"
+            },
+            {
+              "key": "B",
+              "en": "Interior design",
+              "vi": "Thiết kế nội thất"
+            },
+            {
+              "key": "C",
+              "en": "Computer programming",
+              "vi": "Lập trình máy tính"
+            },
+            {
+              "key": "D",
+              "en": "Broadcast journalism",
+              "vi": "Báo chí truyền hình"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets21-t01-p4-q093",
+          "number": 93,
+          "question": {
+            "en": "What improvement did the speaker make?",
+            "vi": "Người nói đã cải thiện điều gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She hired more staff.",
+              "vi": "Thuê thêm nhân viên"
+            },
+            {
+              "key": "B",
+              "en": "She used different software.",
+              "vi": "Dùng phần mềm khác"
+            },
+            {
+              "key": "C",
+              "en": "She changed some colors.",
+              "vi": "Thay đổi một số màu sắc"
+            },
+            {
+              "key": "D",
+              "en": "She talked to a specialist.",
+              "vi": "Tham khảo chuyên gia"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets21-t01-p4-q094",
+          "number": 94,
+          "question": {
+            "en": "Why does the speaker say, \"I'm having some trouble uploading the file\"?",
+            "vi": "Tại sao người nói nói \"tôi gặp khó khăn trong việc tải tệp lên\"?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To request some new equipment",
+              "vi": "Để yêu cầu thiết bị mới"
+            },
+            {
+              "key": "B",
+              "en": "To complain about a policy",
+              "vi": "Để phàn nàn về chính sách"
+            },
+            {
+              "key": "C",
+              "en": "To ask for help",
+              "vi": "Để nhờ giúp đỡ"
+            },
+            {
+              "key": "D",
+              "en": "To explain a delay",
+              "vi": "Để giải thích sự chậm trễ"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets21-t01-p4-g095-097",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_01/audio/095-097.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "Good job, everyone. Today's end-of-season sale was a huge success, and you all did a good job assisting customers. ",
+            "questionIds": []
+          },
+          {
+            "text": "We're almost completely sold-out of winter accessories. There are only a few gloves and scarves left, and coats are selling well.",
+            "questionIds": [
+              "ets21-t01-p4-q095"
+            ]
+          },
+          {
+            "text": " ",
+            "questionIds": []
+          },
+          {
+            "text": "This is great because we're expecting the first shipment of spring clothes next Tuesday.",
+            "questionIds": [
+              "ets21-t01-p4-q096"
+            ]
+          },
+          {
+            "text": " We really need to clear out as much space on our shelves as possible. ",
+            "questionIds": []
+          },
+          {
+            "text": "There's been one change to tomorrow's schedule—Patrick will be out, so I'll be filling in for him myself.",
+            "questionIds": [
+              "ets21-t01-p4-q097"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Mọi người làm tốt lắm. Đợt giảm giá cuối mùa hôm nay đã thành công rực rỡ, và tất cả mọi người đã làm rất tốt trong việc hỗ trợ khách hàng. Chúng ta gần như đã bán hết hoàn toàn phụ kiện mùa đông rồi. Chỉ còn lại vài đôi găng tay và khăn quàng cổ, và áo khoác thì đang bán rất chạy. Điều này rất tuyệt vì chúng ta đang mong đợi chuyến hàng quần áo mùa xuân đầu tiên vào thứ Ba tới. Chúng ta thực sự cần dọn dẹp càng nhiều không gian trên kệ càng tốt. Có một thay đổi trong lịch trình ngày mai—Patrick sẽ vắng mặt, vì vậy tôi sẽ thay thế anh ấy.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets21-t01-p4-q095",
+          "number": 95,
+          "question": {
+            "en": "Where does the speaker most likely work?",
+            "vi": "Người nói có khả năng làm việc ở đâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "At a bookshop",
+              "vi": "Hiệu sách"
+            },
+            {
+              "key": "B",
+              "en": "At an electronics store",
+              "vi": "Cửa hàng điện tử"
+            },
+            {
+              "key": "C",
+              "en": "At a home-improvement store",
+              "vi": "Cửa hàng vật liệu xây dựng"
+            },
+            {
+              "key": "D",
+              "en": "At a clothing store",
+              "vi": "Cửa hàng quần áo"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets21-t01-p4-q096",
+          "number": 96,
+          "question": {
+            "en": "What will happen next Tuesday?",
+            "vi": "Thứ Ba tới sẽ có gì xảy ra?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "New inventory will arrive.",
+              "vi": "Hàng mới sẽ đến"
+            },
+            {
+              "key": "B",
+              "en": "The store will close for a holiday.",
+              "vi": "Cửa hàng đóng cửa nghỉ lễ"
+            },
+            {
+              "key": "C",
+              "en": "New employees will begin working.",
+              "vi": "Nhân viên mới bắt đầu làm"
+            },
+            {
+              "key": "D",
+              "en": "A district manager will visit.",
+              "vi": "Quản lý khu vực sẽ đến"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets21-t01-p4-q097",
+          "number": 97,
+          "question": {
+            "en": "Look at the graphic. What job will the speaker do tomorrow?",
+            "vi": "Nhìn hình. Ngày mai người nói sẽ làm công việc gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Greeter",
+              "vi": "Nhân viên chào đón"
+            },
+            {
+              "key": "B",
+              "en": "Sales representative",
+              "vi": "Nhân viên bán hàng"
+            },
+            {
+              "key": "C",
+              "en": "Cashier",
+              "vi": "Thu ngân"
+            },
+            {
+              "key": "D",
+              "en": "Stock clerk",
+              "vi": "Nhân viên kho"
+            }
+          ],
+          "answer": "C"
+        }
+      ],
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_01/image/095-097.png"
+    },
+    {
+      "id": "ets21-t01-p4-g098-100",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_01/audio/098-100.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "Hi, Salma. This is Alberto. ",
+            "questionIds": []
+          },
+          {
+            "text": "I'm still out of town training staff at our store in Manila.",
+            "questionIds": [
+              "ets21-t01-p4-q098"
+            ]
+          },
+          {
+            "text": " I'll be here training them until the end of this week. I just remembered that I was supposed to place the order for printer cartridges for our offices, but I forgot to do that. Would you be able to order them? ",
+            "questionIds": []
+          },
+          {
+            "text": "You can find the item number for the printer cartridges on the list on my desk.",
+            "questionIds": [
+              "ets21-t01-p4-q099"
+            ]
+          },
+          {
+            "text": " Oh, one more thing... Can you let me know when you're available next week? ",
+            "questionIds": []
+          },
+          {
+            "text": "We need to start interviewing for a new receptionist when I get back to the office.",
+            "questionIds": [
+              "ets21-t01-p4-q100"
+            ]
+          },
+          {
+            "text": " Thanks!",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Chào Salma. Đây là Alberto. Tôi vẫn đang ở ngoài thị trấn để đào tạo nhân viên tại cửa hàng của chúng ta ở Manila. Tôi sẽ ở đây đào tạo họ cho đến cuối tuần này. Tôi vừa nhớ ra rằng tôi phải đặt hàng hộp mực máy in cho văn phòng của chúng ta, nhưng tôi đã quên làm điều đó. Bạn có thể đặt hàng giúp tôi được không? Bạn có thể tìm số mặt hàng cho hộp mực máy in trong danh sách trên bàn làm việc của tôi. Ồ, còn một điều nữa... Bạn có thể cho tôi biết khi nào bạn rảnh vào tuần tới không? Chúng ta cần bắt đầu phỏng vấn cho vị trí lễ tân mới khi tôi trở lại văn phòng. Cảm ơn!",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets21-t01-p4-q098",
+          "number": 98,
+          "question": {
+            "en": "Why is the speaker traveling?",
+            "vi": "Tại sao người nói đang đi công tác?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He is taking a vacation.",
+              "vi": "Đi nghỉ"
+            },
+            {
+              "key": "B",
+              "en": "He is making a delivery.",
+              "vi": "Giao hàng"
+            },
+            {
+              "key": "C",
+              "en": "He is inspecting properties.",
+              "vi": "Kiểm tra bất động sản"
+            },
+            {
+              "key": "D",
+              "en": "He is conducting training.",
+              "vi": "Đào tạo nhân viên"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets21-t01-p4-q099",
+          "number": 99,
+          "question": {
+            "en": "Look at the graphic. Which item number should the listener order?",
+            "vi": "Nhìn hình. Người nghe nên đặt mã sản phẩm nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "NT-105",
+              "vi": "NT-105"
+            },
+            {
+              "key": "B",
+              "en": "FF-200",
+              "vi": "FF-200"
+            },
+            {
+              "key": "C",
+              "en": "A-888",
+              "vi": "A-888"
+            },
+            {
+              "key": "D",
+              "en": "C-250",
+              "vi": "C-250"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets21-t01-p4-q100",
+          "number": 100,
+          "question": {
+            "en": "What does the speaker say will happen next week?",
+            "vi": "Người nói nói tuần sau sẽ có gì xảy ra?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Some prices will be discounted.",
+              "vi": "Một số mặt hàng giảm giá"
+            },
+            {
+              "key": "B",
+              "en": "Some job applicants will be interviewed.",
+              "vi": "Một số ứng viên sẽ được phỏng vấn"
+            },
+            {
+              "key": "C",
+              "en": "A new product will be released.",
+              "vi": "Sản phẩm mới ra mắt"
+            },
+            {
+              "key": "D",
+              "en": "An office will move to a new location.",
+              "vi": "Văn phòng chuyển địa điểm"
+            }
+          ],
+          "answer": "B"
+        }
+      ],
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_01/image/098-100.png"
+    }
+  ]
+}

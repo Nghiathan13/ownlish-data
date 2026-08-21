@@ -1,0 +1,934 @@
+{
+  "items": [
+    {
+      "id": "ets22-t10-p5-q101",
+      "number": 101,
+      "question": {
+        "en": "A ______ salesperson assisted Ms. Han with choosing a new computer.",
+        "vi": "Một nhân viên bán hàng hữu ích đã hỗ trợ bà Han chọn một chiếc máy tính mới."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "help",
+          "vi": "help (n): sự giúp đỡ"
+        },
+        {
+          "key": "B",
+          "en": "helpfully",
+          "vi": "helpfully (adv): một cách hữu ích"
+        },
+        {
+          "key": "C",
+          "en": "helpful",
+          "vi": "helpful (adj): hữu ích"
+        },
+        {
+          "key": "D",
+          "en": "helped",
+          "vi": "helped (v): đã giúp"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets22-t10-p5-q102",
+      "number": 102,
+      "question": {
+        "en": "Author Daniel Aiduk ______ gives talks at national writing conferences.",
+        "vi": "Tác giả Daniel Aiduk thường xuyên phát biểu tại các hội nghị viết lách toàn quốc."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "gradually",
+          "vi": "gradually (adv): dần dần"
+        },
+        {
+          "key": "B",
+          "en": "longer",
+          "vi": "longer (adv): lâu hơn"
+        },
+        {
+          "key": "C",
+          "en": "together",
+          "vi": "together (adv): cùng nhau"
+        },
+        {
+          "key": "D",
+          "en": "regularly",
+          "vi": "regularly (adv): thường xuyên"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets22-t10-p5-q103",
+      "number": 103,
+      "question": {
+        "en": "Mr. Kohl has a great deal of ______ performing cost analysis tasks.",
+        "vi": "Ông Kohl có rất nhiều kinh nghiệm thực hiện các nhiệm vụ phân tích chi phí."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "experience",
+          "vi": "experience (n): kinh nghiệm"
+        },
+        {
+          "key": "B",
+          "en": "experienced",
+          "vi": "experienced (adj): có kinh nghiệm"
+        },
+        {
+          "key": "C",
+          "en": "experiencing",
+          "vi": "experiencing (v-ing): đang trải nghiệm"
+        },
+        {
+          "key": "D",
+          "en": "experiencer",
+          "vi": "experiencer (n): người trải nghiệm"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets22-t10-p5-q104",
+      "number": 104,
+      "question": {
+        "en": "To make an ______, clients can click on \"Schedule\" at the top right corner of the home page.",
+        "vi": "Để đặt lịch hẹn, khách hàng có thể nhấp vào \"Lịch\" ở góc trên bên phải của trang chủ."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "example",
+          "vi": "example (n): ví dụ"
+        },
+        {
+          "key": "B",
+          "en": "option",
+          "vi": "option (n): lựa chọn"
+        },
+        {
+          "key": "C",
+          "en": "individual",
+          "vi": "individual (n): cá nhân"
+        },
+        {
+          "key": "D",
+          "en": "appointment",
+          "vi": "appointment (n): cuộc hẹn"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets22-t10-p5-q105",
+      "number": 105,
+      "question": {
+        "en": "The used coffee grounds should be disposed of at the end of ______ business day.",
+        "vi": "Cặn cà phê đã sử dụng nên được xử lý vào cuối mỗi ngày làm việc."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "now",
+          "vi": "now (adv): bây giờ"
+        },
+        {
+          "key": "B",
+          "en": "each",
+          "vi": "each (adj): mỗi"
+        },
+        {
+          "key": "C",
+          "en": "whose",
+          "vi": "whose (pron): của ai"
+        },
+        {
+          "key": "D",
+          "en": "and",
+          "vi": "and (conj): và"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets22-t10-p5-q106",
+      "number": 106,
+      "question": {
+        "en": "Our company's efforts to hire new workers have intensified ______ so many employees have recently retired.",
+        "vi": "Nỗ lực tuyển dụng nhân viên mới của công ty chúng tôi đã tăng cường bởi vì rất nhiều nhân viên đã nghỉ hưu gần đây."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "because",
+          "vi": "because (conj): bởi vì"
+        },
+        {
+          "key": "B",
+          "en": "although",
+          "vi": "although (conj): mặc dù"
+        },
+        {
+          "key": "C",
+          "en": "instead",
+          "vi": "instead (adv): thay vào đó"
+        },
+        {
+          "key": "D",
+          "en": "unless",
+          "vi": "unless (conj): trừ khi"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets22-t10-p5-q107",
+      "number": 107,
+      "question": {
+        "en": "The occurrence of heavy rains during the month of May is fairly ______.",
+        "vi": "Việc xảy ra mưa lớn trong tháng Năm là khá dễ dự đoán."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "predict",
+          "vi": "predict (v): dự đoán"
+        },
+        {
+          "key": "B",
+          "en": "predicts",
+          "vi": "predicts (v): dự đoán (số ít)"
+        },
+        {
+          "key": "C",
+          "en": "predicting",
+          "vi": "predicting (v-ing): đang dự đoán"
+        },
+        {
+          "key": "D",
+          "en": "predictable",
+          "vi": "predictable (adj): có thể dự đoán được"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets22-t10-p5-q108",
+      "number": 108,
+      "question": {
+        "en": "Remind customers to return their rental car ______ a full tank of fuel.",
+        "vi": "Nhắc khách hàng trả xe thuê với bình xăng đầy."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "with",
+          "vi": "with (prep): với"
+        },
+        {
+          "key": "B",
+          "en": "from",
+          "vi": "from (prep): từ"
+        },
+        {
+          "key": "C",
+          "en": "except",
+          "vi": "except (prep): ngoại trừ"
+        },
+        {
+          "key": "D",
+          "en": "toward",
+          "vi": "toward (prep): về phía"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets22-t10-p5-q109",
+      "number": 109,
+      "question": {
+        "en": "______ the winter season, Serina Builders will once again offer roof installations and repairs.",
+        "vi": "Sau mùa đông, Serina Builders sẽ lại cung cấp dịch vụ lắp đặt và sửa chữa mái nhà."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Such as",
+          "vi": "Such as (prep): chẳng hạn như"
+        },
+        {
+          "key": "B",
+          "en": "Moreover",
+          "vi": "Moreover (adv): hơn nữa"
+        },
+        {
+          "key": "C",
+          "en": "After",
+          "vi": "After (prep): sau"
+        },
+        {
+          "key": "D",
+          "en": "Whereas",
+          "vi": "Whereas (conj): trong khi"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets22-t10-p5-q110",
+      "number": 110,
+      "question": {
+        "en": "The lights in the cinema ______ before a movie begins.",
+        "vi": "Đèn trong rạp chiếu phim mờ đi trước khi phim bắt đầu."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "dim",
+          "vi": "dim (v): mờ đi"
+        },
+        {
+          "key": "B",
+          "en": "dimming",
+          "vi": "dimming (v-ing): đang mờ đi"
+        },
+        {
+          "key": "C",
+          "en": "dimmer",
+          "vi": "dimmer (adj): mờ hơn"
+        },
+        {
+          "key": "D",
+          "en": "dims",
+          "vi": "dims (v): mờ đi (số ít)"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets22-t10-p5-q111",
+      "number": 111,
+      "question": {
+        "en": "When scheduling a meeting, please be ______ of colleagues in other time zones.",
+        "vi": "Khi xếp lịch họp, vui lòng lưu tâm đến các đồng nghiệp ở các múi giờ khác."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "significant",
+          "vi": "significant (adj): quan trọng"
+        },
+        {
+          "key": "B",
+          "en": "mindful",
+          "vi": "mindful (adj): lưu tâm, chú ý"
+        },
+        {
+          "key": "C",
+          "en": "exclusive",
+          "vi": "exclusive (adj): độc quyền"
+        },
+        {
+          "key": "D",
+          "en": "serious",
+          "vi": "serious (adj): nghiêm túc"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets22-t10-p5-q112",
+      "number": 112,
+      "question": {
+        "en": "Greentrim's product sales rose ______ following the introduction of its new shipping policy.",
+        "vi": "Doanh số sản phẩm của Greentrim tăng mạnh sau khi áp dụng chính sách vận chuyển mới."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "sharp",
+          "vi": "sharp (adj): sắc, mạnh"
+        },
+        {
+          "key": "B",
+          "en": "sharper",
+          "vi": "sharper (adj): sắc hơn"
+        },
+        {
+          "key": "C",
+          "en": "sharply",
+          "vi": "sharply (adv): một cách mạnh mẽ"
+        },
+        {
+          "key": "D",
+          "en": "sharpest",
+          "vi": "sharpest (adj): sắc nhất"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets22-t10-p5-q113",
+      "number": 113,
+      "question": {
+        "en": "Please ______ Hearnshaw for all your home appliance needs.",
+        "vi": "Vui lòng cân nhắc Hearnshaw cho mọi nhu cầu thiết bị gia dụng của bạn."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "assemble",
+          "vi": "assemble (v): lắp ráp"
+        },
+        {
+          "key": "B",
+          "en": "balance",
+          "vi": "balance (v): cân bằng"
+        },
+        {
+          "key": "C",
+          "en": "share",
+          "vi": "share (v): chia sẻ"
+        },
+        {
+          "key": "D",
+          "en": "consider",
+          "vi": "consider (v): cân nhắc, xem xét"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets22-t10-p5-q114",
+      "number": 114,
+      "question": {
+        "en": "Monday will be the best day for ______ to clean the carpet in the lobby.",
+        "vi": "Thứ Hai sẽ là ngày tốt nhất để chúng tôi giặt thảm ở sảnh."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "we",
+          "vi": "we (pron): chúng tôi (chủ ngữ)"
+        },
+        {
+          "key": "B",
+          "en": "us",
+          "vi": "us (pron): chúng tôi (tân ngữ)"
+        },
+        {
+          "key": "C",
+          "en": "ours",
+          "vi": "ours (pron): của chúng tôi"
+        },
+        {
+          "key": "D",
+          "en": "ourselves",
+          "vi": "ourselves (pron): tự chúng tôi"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets22-t10-p5-q115",
+      "number": 115,
+      "question": {
+        "en": "Hikers, ______ to explore the newly opened trails, have been visiting Millar Nature Reserve in record numbers.",
+        "vi": "Những người đi bộ đường dài, háo hức khám phá các con đường mòn mới mở, đã đến thăm Khu bảo tồn Thiên nhiên Millar với số lượng kỷ lục."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "tender",
+          "vi": "tender (adj): mềm mại, dịu dàng"
+        },
+        {
+          "key": "B",
+          "en": "bright",
+          "vi": "bright (adj): sáng, thông minh"
+        },
+        {
+          "key": "C",
+          "en": "vast",
+          "vi": "vast (adj): rộng lớn"
+        },
+        {
+          "key": "D",
+          "en": "eager",
+          "vi": "eager (adj): háo hức"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets22-t10-p5-q116",
+      "number": 116,
+      "question": {
+        "en": "KOHW ______ Jenae Johnson will be promoted to news anchor when Dana Wagner retires.",
+        "vi": "Phóng viên KOHW Jenae Johnson sẽ được thăng chức lên người dẫn chương trình tin tức khi Dana Wagner nghỉ hưu."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "reporter",
+          "vi": "reporter (n): phóng viên"
+        },
+        {
+          "key": "B",
+          "en": "reporting",
+          "vi": "reporting (v-ing): đang báo cáo"
+        },
+        {
+          "key": "C",
+          "en": "to report",
+          "vi": "to report (to-v): để báo cáo"
+        },
+        {
+          "key": "D",
+          "en": "will report",
+          "vi": "will report (v): sẽ báo cáo"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets22-t10-p5-q117",
+      "number": 117,
+      "question": {
+        "en": "Residents ______ raised concerns about the project's impact on traffic congestion.",
+        "vi": "Cư dân chủ yếu nêu lên các mối quan ngại về tác động của dự án đến tình trạng ùn tắc giao thông."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "extremely",
+          "vi": "extremely (adv): cực kỳ"
+        },
+        {
+          "key": "B",
+          "en": "unlikely",
+          "vi": "unlikely (adj): không chắc"
+        },
+        {
+          "key": "C",
+          "en": "densely",
+          "vi": "densely (adv): dày đặc"
+        },
+        {
+          "key": "D",
+          "en": "primarily",
+          "vi": "primarily (adv): chủ yếu"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets22-t10-p5-q118",
+      "number": 118,
+      "question": {
+        "en": "______ your Fromo grocery order is placed before 10:00 A.M., it will be delivered the same day.",
+        "vi": "Miễn là đơn hàng tạp hóa Fromo của bạn được đặt trước 10:00 sáng, nó sẽ được giao trong cùng ngày."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "That",
+          "vi": "That (conj): rằng"
+        },
+        {
+          "key": "B",
+          "en": "Such",
+          "vi": "Such (adj): như vậy"
+        },
+        {
+          "key": "C",
+          "en": "As long as",
+          "vi": "As long as (conj): miễn là"
+        },
+        {
+          "key": "D",
+          "en": "In spite of",
+          "vi": "In spite of (prep): mặc dù"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets22-t10-p5-q119",
+      "number": 119,
+      "question": {
+        "en": "The finance department will be ______ a lunch-and-learn session on Wednesday.",
+        "vi": "Bộ phận tài chính sẽ tổ chức một buổi ăn trưa kết hợp học tập vào thứ Tư."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "contacting",
+          "vi": "contacting (v-ing): liên hệ"
+        },
+        {
+          "key": "B",
+          "en": "collecting",
+          "vi": "collecting (v-ing): thu thập"
+        },
+        {
+          "key": "C",
+          "en": "meeting",
+          "vi": "meeting (v-ing): gặp mặt"
+        },
+        {
+          "key": "D",
+          "en": "holding",
+          "vi": "holding (v-ing): tổ chức"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets22-t10-p5-q120",
+      "number": 120,
+      "question": {
+        "en": "______ clothing must be worn by all personnel entering the construction zone.",
+        "vi": "Quần áo bảo hộ phải được mặc bởi tất cả nhân viên khi vào khu vực xây dựng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Protective",
+          "vi": "Protective (adj): bảo hộ"
+        },
+        {
+          "key": "B",
+          "en": "Protecting",
+          "vi": "Protecting (v-ing): đang bảo vệ"
+        },
+        {
+          "key": "C",
+          "en": "Protect",
+          "vi": "Protect (v): bảo vệ"
+        },
+        {
+          "key": "D",
+          "en": "Protects",
+          "vi": "Protects (v): bảo vệ (số ít)"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets22-t10-p5-q121",
+      "number": 121,
+      "question": {
+        "en": "At the Star Elite membership level, most flight changes can be made ______ incurring a rebooking fee.",
+        "vi": "Ở cấp thành viên Star Elite, hầu hết các thay đổi chuyến bay có thể được thực hiện mà không phải chịu phí đặt lại."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "along",
+          "vi": "along (prep): dọc theo"
+        },
+        {
+          "key": "B",
+          "en": "without",
+          "vi": "without (prep): mà không"
+        },
+        {
+          "key": "C",
+          "en": "until",
+          "vi": "until (prep): cho đến khi"
+        },
+        {
+          "key": "D",
+          "en": "inside",
+          "vi": "inside (prep): bên trong"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets22-t10-p5-q122",
+      "number": 122,
+      "question": {
+        "en": "Any letter ______ sensitive information should be sent using a courier service.",
+        "vi": "Bất kỳ bức thư nào chứa thông tin nhạy cảm đều nên được gửi bằng dịch vụ chuyển phát."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "contains",
+          "vi": "contains (v): chứa (chia hiện tại)"
+        },
+        {
+          "key": "B",
+          "en": "containing",
+          "vi": "containing (v-ing): chứa (phân từ)"
+        },
+        {
+          "key": "C",
+          "en": "will contain",
+          "vi": "will contain (v): sẽ chứa"
+        },
+        {
+          "key": "D",
+          "en": "has contained",
+          "vi": "has contained (v): đã chứa"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets22-t10-p5-q123",
+      "number": 123,
+      "question": {
+        "en": "Abelos Café sources its vegetables and fruit from local farms ______ possible.",
+        "vi": "Quán Abelos Café lấy rau và trái cây từ các nông trại địa phương bất cứ khi nào có thể."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "anyhow",
+          "vi": "anyhow (adv): dù sao"
+        },
+        {
+          "key": "B",
+          "en": "whenever",
+          "vi": "whenever (adv): bất cứ khi nào"
+        },
+        {
+          "key": "C",
+          "en": "once",
+          "vi": "once (adv): một lần"
+        },
+        {
+          "key": "D",
+          "en": "very",
+          "vi": "very (adv): rất"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets22-t10-p5-q124",
+      "number": 124,
+      "question": {
+        "en": "Demand for the Waterlace running shoes was so high that the store owner set a ______ of two pairs per customer.",
+        "vi": "Nhu cầu mua giày chạy bộ Waterlace quá cao nên chủ cửa hàng đã đặt giới hạn hai đôi cho mỗi khách hàng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "limit",
+          "vi": "limit (n): giới hạn"
+        },
+        {
+          "key": "B",
+          "en": "price",
+          "vi": "price (n): giá"
+        },
+        {
+          "key": "C",
+          "en": "supply",
+          "vi": "supply (n): nguồn cung"
+        },
+        {
+          "key": "D",
+          "en": "procedure",
+          "vi": "procedure (n): quy trình"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets22-t10-p5-q125",
+      "number": 125,
+      "question": {
+        "en": "The new security camera adjusts ______ in such a way that it can record quality video at night.",
+        "vi": "Camera an ninh mới tự điều chỉnh sao cho có thể quay video chất lượng vào ban đêm."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "himself",
+          "vi": "himself (pron): chính anh ấy"
+        },
+        {
+          "key": "B",
+          "en": "oneself",
+          "vi": "oneself (pron): chính mình"
+        },
+        {
+          "key": "C",
+          "en": "itself",
+          "vi": "itself (pron): chính nó"
+        },
+        {
+          "key": "D",
+          "en": "herself",
+          "vi": "herself (pron): chính cô ấy"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets22-t10-p5-q126",
+      "number": 126,
+      "question": {
+        "en": "Contact Ms. Meyer if you would like a hard copy of the budget analysis ______ during the president's presentation.",
+        "vi": "Liên hệ bà Meyer nếu bạn muốn một bản in của bài phân tích ngân sách được đề cập trong bài thuyết trình của chủ tịch."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "occurred",
+          "vi": "occurred (v): xảy ra"
+        },
+        {
+          "key": "B",
+          "en": "mentioned",
+          "vi": "mentioned (v): được đề cập"
+        },
+        {
+          "key": "C",
+          "en": "learned",
+          "vi": "learned (v): được học"
+        },
+        {
+          "key": "D",
+          "en": "served",
+          "vi": "served (v): được phục vụ"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets22-t10-p5-q127",
+      "number": 127,
+      "question": {
+        "en": "Saul's Pizzeria changed its menu options after receiving ______ negative customer feedback.",
+        "vi": "Tiệm pizza Saul đã thay đổi các lựa chọn thực đơn sau khi nhận được phản hồi tiêu cực ngày càng nhiều từ khách hàng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "increase",
+          "vi": "increase (v/n): tăng"
+        },
+        {
+          "key": "B",
+          "en": "increases",
+          "vi": "increases (v): tăng (số ít)"
+        },
+        {
+          "key": "C",
+          "en": "to increase",
+          "vi": "to increase (to-v): để tăng"
+        },
+        {
+          "key": "D",
+          "en": "increasingly",
+          "vi": "increasingly (adv): ngày càng"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets22-t10-p5-q128",
+      "number": 128,
+      "question": {
+        "en": "Topticolor produces devices intended for use by ______ photographers.",
+        "vi": "Topticolor sản xuất các thiết bị dành cho nhiếp ảnh gia nghiệp dư sử dụng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "visible",
+          "vi": "visible (adj): có thể nhìn thấy"
+        },
+        {
+          "key": "B",
+          "en": "eventual",
+          "vi": "eventual (adj): cuối cùng"
+        },
+        {
+          "key": "C",
+          "en": "amateur",
+          "vi": "amateur (adj): nghiệp dư"
+        },
+        {
+          "key": "D",
+          "en": "necessary",
+          "vi": "necessary (adj): cần thiết"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets22-t10-p5-q129",
+      "number": 129,
+      "question": {
+        "en": "The study of consumer behavior will be repeated in order to ensure the ______ of the results.",
+        "vi": "Nghiên cứu về hành vi người tiêu dùng sẽ được lặp lại nhằm đảm bảo độ tin cậy của kết quả."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "rely",
+          "vi": "rely (v): dựa vào"
+        },
+        {
+          "key": "B",
+          "en": "relies",
+          "vi": "relies (v): dựa vào (số ít)"
+        },
+        {
+          "key": "C",
+          "en": "reliable",
+          "vi": "reliable (adj): đáng tin cậy"
+        },
+        {
+          "key": "D",
+          "en": "reliability",
+          "vi": "reliability (n): độ tin cậy"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets22-t10-p5-q130",
+      "number": 130,
+      "question": {
+        "en": "Check e-mail ______ throughout the day to make sure important client communications are not overlooked.",
+        "vi": "Hãy kiểm tra email định kỳ trong ngày để đảm bảo các liên lạc quan trọng từ khách hàng không bị bỏ sót."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "artificially",
+          "vi": "artificially (adv): một cách nhân tạo"
+        },
+        {
+          "key": "B",
+          "en": "periodically",
+          "vi": "periodically (adv): định kỳ"
+        },
+        {
+          "key": "C",
+          "en": "reluctantly",
+          "vi": "reluctantly (adv): miễn cưỡng"
+        },
+        {
+          "key": "D",
+          "en": "simultaneously",
+          "vi": "simultaneously (adv): đồng thời"
+        }
+      ],
+      "answer": "B"
+    }
+  ]
+}

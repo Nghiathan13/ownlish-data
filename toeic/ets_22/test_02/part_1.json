@@ -1,0 +1,178 @@
+{
+  "items": [
+    {
+      "id": "ets22-t02-p1-q001",
+      "number": 1,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_02/image/001.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_02/audio/001.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "He's folding some clothes.",
+          "vi": "Anh ấy đang gấp quần áo."
+        },
+        {
+          "key": "B",
+          "en": "He's looking into a laundry cart.",
+          "vi": "Anh ấy đang nhìn vào xe đẩy giặt ủi."
+        },
+        {
+          "key": "C",
+          "en": "He's removing some clothes from hangers.",
+          "vi": "Anh ấy đang lấy quần áo ra khỏi móc treo."
+        },
+        {
+          "key": "D",
+          "en": "He's standing in front of a washing machine.",
+          "vi": "Anh ấy đang đứng trước máy giặt."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets22-t02-p1-q002",
+      "number": 2,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_02/image/002.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_02/audio/002.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "The man is leaning against a doorway.",
+          "vi": "Người đàn ông đang tựa vào ô cửa."
+        },
+        {
+          "key": "B",
+          "en": "The man is opening up a package.",
+          "vi": "Người đàn ông đang mở một gói hàng."
+        },
+        {
+          "key": "C",
+          "en": "One of the women is plugging in a printer.",
+          "vi": "Một trong những người phụ nữ đang cắm máy in."
+        },
+        {
+          "key": "D",
+          "en": "One of the women is wearing glasses.",
+          "vi": "Một trong những người phụ nữ đang đeo kính."
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets22-t02-p1-q003",
+      "number": 3,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_02/image/003.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_02/audio/003.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "She is attaching price tags to some merchandise.",
+          "vi": "Cô ấy đang gắn thẻ giá vào một số hàng hóa."
+        },
+        {
+          "key": "B",
+          "en": "She is piling up some boxes.",
+          "vi": "Cô ấy đang chất đống hộp."
+        },
+        {
+          "key": "C",
+          "en": "She is holding up some fruit.",
+          "vi": "Cô ấy đang cầm trái cây lên."
+        },
+        {
+          "key": "D",
+          "en": "She is throwing away a plastic bag.",
+          "vi": "Cô ấy đang vứt túi nhựa."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets22-t02-p1-q004",
+      "number": 4,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_02/image/004.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_02/audio/004.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "A jacket has been placed on the ground.",
+          "vi": "Một chiếc áo khoác đã được đặt trên mặt đất."
+        },
+        {
+          "key": "B",
+          "en": "A man is watering some flowers.",
+          "vi": "Một người đàn ông đang tưới hoa."
+        },
+        {
+          "key": "C",
+          "en": "A garden has been planted outside of a building.",
+          "vi": "Một khu vườn đã được trồng bên ngoài tòa nhà."
+        },
+        {
+          "key": "D",
+          "en": "A man is putting some tools in a toolbox.",
+          "vi": "Một người đàn ông đang bỏ dụng cụ vào hộp đồ nghề."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets22-t02-p1-q005",
+      "number": 5,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_02/image/005.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_02/audio/005.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "Some chairs are stacked in the corner.",
+          "vi": "Một số ghế được xếp chồng ở góc."
+        },
+        {
+          "key": "B",
+          "en": "Some light fixtures are mounted on the walls.",
+          "vi": "Một số đèn chiếu sáng được gắn trên tường."
+        },
+        {
+          "key": "C",
+          "en": "Some tables are covered with tablecloths.",
+          "vi": "Một số bàn được phủ khăn trải bàn."
+        },
+        {
+          "key": "D",
+          "en": "Some furniture is on display in a window.",
+          "vi": "Một số đồ nội thất được trưng bày trong cửa sổ."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets22-t02-p1-q006",
+      "number": 6,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_02/image/006.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_02/audio/006.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "One of the employees is walking with an empty tray.",
+          "vi": "Một nhân viên đang đi với một khay trống."
+        },
+        {
+          "key": "B",
+          "en": "One of the employees is taping signs to a board.",
+          "vi": "Một nhân viên đang dán biển hiệu lên bảng bằng băng dính."
+        },
+        {
+          "key": "C",
+          "en": "One of the employees is carrying a pair of scissors.",
+          "vi": "Một nhân viên đang mang một chiếc kéo."
+        },
+        {
+          "key": "D",
+          "en": "One of the employees is hanging an apron on a hook.",
+          "vi": "Một nhân viên đang treo tạp dề lên móc."
+        }
+      ],
+      "answer": "A"
+    }
+  ]
+}

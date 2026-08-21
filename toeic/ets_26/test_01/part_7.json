@@ -1,0 +1,1944 @@
+{
+  "groups": [
+    {
+      "id": "ets26-t01-p7-g147-148",
+      "documents": [
+        {
+          "kind": "notice",
+          "content": {
+            "en": "Dear High View Apartments Resident,\n\nRiverside Paving Company is coming to High View Apartments on May 3 and 4 to resurface the parking area. All vehicles must be removed by 8 A.M. on May 3 for the work to commence. Residents may use the parking area again starting on May 5 at 8 A.M. We realize that trying to find another place to park is inconvenient, but it is necessary for the job to be completed in the two days scheduled. Note that all parking spaces will be widened, and some spaces could be moved during the work. You will receive an e-mail if your parking space is moved more than 20 meters from your previous one.\n\nThank you for your cooperation,\nJudith Alvarez, Property Manager",
+            "vi": "Kính gửi Cư dân của High View Apartments,\n\nCông ty Paving Riverside sẽ đến High View Apartments vào ngày 3 và 4 tháng 5 để trải lại bề mặt khu vực đỗ xe. Tất cả các phương tiện phải được di chuyển trước 8 giờ sáng ngày 3 tháng 5 để công việc bắt đầu. Cư dân có thể sử dụng lại khu vực đỗ xe bắt đầu từ ngày 5 tháng 5 lúc 8 giờ sáng. Chúng tôi nhận thấy rằng việc cố gắng tìm nơi khác để đỗ xe thật bất tiện, nhưng điều đó là cần thiết để công việc hoàn thành trong hai ngày theo lịch trình. Lưu ý rằng tất cả các chỗ đỗ xe sẽ được mở rộng và một số chỗ có thể được di chuyển trong quá trình làm việc. Bạn sẽ nhận được một e-mail nếu chỗ đỗ xe của bạn được di chuyển hơn 20 mét so với chỗ cũ của bạn.\n\nCảm ơn sự hợp tác của bạn,\nJudith Alvarez, Quản lý Tòa nhà"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t01-p7-q147",
+          "number": 147,
+          "question": {
+            "en": "What is the purpose of the notice?",
+            "vi": "Mục đích của thông báo là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To invite residents to a meeting on May 3",
+              "vi": "Để mời cư dân đến một cuộc họp vào ngày 3 tháng 5"
+            },
+            {
+              "key": "B",
+              "en": "To request feedback about parking facilities",
+              "vi": "Để yêu cầu phản hồi về cơ sở vật chất đỗ xe"
+            },
+            {
+              "key": "C",
+              "en": "To inform residents of an upcoming project",
+              "vi": "Để thông báo cho cư dân về một dự án sắp tới"
+            },
+            {
+              "key": "D",
+              "en": "To announce an increase in parking fees",
+              "vi": "Để thông báo về việc tăng phí đỗ xe"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t01-p7-q148",
+          "number": 148,
+          "question": {
+            "en": "What is suggested about High View Apartments?",
+            "vi": "Điều gì được gợi ý về High View Apartments?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It charges residents a monthly maintenance fee.",
+              "vi": "Nó tính cho cư dân một khoản phí bảo trì hàng tháng."
+            },
+            {
+              "key": "B",
+              "en": "It recently hired a new property manager.",
+              "vi": "Nó vừa thuê một quản lý tòa nhà mới."
+            },
+            {
+              "key": "C",
+              "en": "It has the parking area repaved every year.",
+              "vi": "Nó có khu vực đỗ xe được trải lại hàng năm."
+            },
+            {
+              "key": "D",
+              "en": "It assigns tenants specific parking spots.",
+              "vi": "Nó chỉ định các vị trí đỗ xe cụ thể cho người thuê nhà."
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t01-p7-g149-150",
+      "documents": [
+        {
+          "kind": "text_message_chain",
+          "content": {
+            "en": "Carol Barger (10:45 A.M.)\nHello, Ms. Seang.\n\nLeakhena Seang (10:55 A.M.)\nGood morning!\n\nCarol Barger (11:15 A.M.)\nWe have fifteen participants enrolled in your mosaic workshop tomorrow. That is five more than last summer. Your workshops get more popular every year! Do you have enough materials on hand for that many participants?\n\nLeakhena Seang (11:23 A.M.)\nI have plenty to go around. We'll be creating mosaic designs using bits of sea glass I collected on my vacation last summer. They are pieces of brown, green, and blue bottles that have washed up on the beach. The sand has smoothed all the sharp edges, so they're perfectly safe for everyone to use.\n\nCarol Barger (11:30 A.M.)\nSounds good. See you tomorrow at breakfast.",
+            "vi": "Carol Barger (10:45 SA)\nXin chào, cô Seang.\n\nLeakhena Seang (10:55 SA)\nChào buổi sáng!\n\nCarol Barger (11:15 SA)\nChúng tôi có mười lăm người tham gia đăng ký vào hội thảo ghép mảnh của cô vào ngày mai. Nhiều hơn năm người so với mùa hè năm ngoái. Các hội thảo của cô trở nên phổ biến hơn mỗi năm! Cô có đủ vật liệu sẵn có cho nhiều người tham gia như vậy không?\n\nLeakhena Seang (11:23 SA)\nTôi có rất nhiều để chia sẻ. Chúng ta sẽ tạo ra các thiết kế ghép mảnh bằng cách sử dụng những mảnh thủy tinh biển mà tôi đã nhặt được trong kỳ nghỉ hè năm ngoái. Chúng là những mảnh vỡ từ chai lọ màu nâu, xanh lá cây và xanh dương đã trôi dạt vào bãi biển. Cát đã làm mờ tất cả các cạnh sắc, vì vậy chúng hoàn toàn an toàn cho mọi người sử dụng.\n\nCarol Barger (11:30 SA)\nNghe tốt đấy. Gặp lại cô vào bữa sáng ngày mai."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t01-p7-q149",
+          "number": 149,
+          "question": {
+            "en": "What most likely is Ms. Seang's job?",
+            "vi": "Công việc của cô Seang rất có thể là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Glassmaker",
+              "vi": "Thợ làm thủy tinh"
+            },
+            {
+              "key": "B",
+              "en": "Art instructor",
+              "vi": "Người hướng dẫn nghệ thuật"
+            },
+            {
+              "key": "C",
+              "en": "Beach lifeguard",
+              "vi": "Nhân viên cứu hộ bãi biển"
+            },
+            {
+              "key": "D",
+              "en": "Program administrator",
+              "vi": "Quản trị viên chương trình"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t01-p7-q150",
+          "number": 150,
+          "question": {
+            "en": "At 11:23 A.M., what does Ms. Seang imply when she writes, \"I have plenty to go around\"?",
+            "vi": "Vào lúc 11:23 SA, cô Seang muốn nói gì khi viết \"Tôi có rất nhiều để chia sẻ\"?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She intends to create an extra-large mosaic.",
+              "vi": "Cô ấy định tạo ra một bức ghép mảnh cực lớn."
+            },
+            {
+              "key": "B",
+              "en": "She has been collecting sea glass for many years.",
+              "vi": "Cô ấy đã nhặt thủy tinh biển trong nhiều năm."
+            },
+            {
+              "key": "C",
+              "en": "She can share her sea glass with all the workshop participants.",
+              "vi": "Cô ấy có thể chia sẻ thủy tinh biển của mình với tất cả những người tham gia hội thảo."
+            },
+            {
+              "key": "D",
+              "en": "She does not think she will use much of her sea glass.",
+              "vi": "Cô ấy không nghĩ rằng mình sẽ sử dụng nhiều thủy tinh biển của mình."
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t01-p7-g151-152",
+      "documents": [
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Sales Team\nFrom: Laura Correa\nDate: 5 October\nSubject: Updates\n\nDear Team,\n\nAs announced in the Brighter Sails September newsletter, our performance has been consistently strong this year. This is an accomplishment we can all be proud of. Please take a moment to congratulate each other. We will continue to dream up new and exciting plans for the future!\n\nIn other news, Jasen Norton will transfer to our Kingston headquarters next month. We are sad to lose Mr. Norton, but we gratefully acknowledge his excellent work and wish him continued success in his new role.\n\nThere will be a farewell luncheon for Mr. Norton on 28 October at 1:00 P.M. in the second-floor conference room. Bring your good cheer and perhaps a story to share. The company will supply lunch, a cake, and decorations. Let me know by 12 October whether you will be able to attend.\n\nSincerely,\n\nLaura Correa, Sales Manager\nBrighter Sails Ltd.",
+            "vi": "Đến: Đội ngũ Bán hàng\nTừ: Laura Correa\nNgày: 5 tháng 10\nChủ đề: Cập nhật\n\nKính gửi Đội ngũ,\n\nNhư đã thông báo trong bản tin tháng 9 của Brighter Sails, hiệu suất của chúng ta luôn mạnh mẽ trong năm nay. Đây là một thành tựu mà tất cả chúng ta có thể tự hào. Vui lòng dành chút thời gian để chúc mừng lẫn nhau. Chúng ta sẽ tiếp tục nghĩ ra những kế hoạch mới thú vị cho tương lai!\n\nTin khác, Jasen Norton sẽ chuyển đến trụ sở chính Kingston của chúng tôi vào tháng tới. Chúng tôi rất tiếc phải mất ông Norton, nhưng chúng tôi ghi nhận một cách biết ơn những đóng góp xuất sắc của ông và chúc ông tiếp tục thành công trong vai trò mới.\n\nSẽ có một bữa trưa chia tay dành cho ông Norton vào ngày 28 tháng 10 lúc 1:00 chiều tại phòng họp tầng hai. Hãy mang theo tinh thần vui vẻ và có thể là một câu chuyện để chia sẻ. Công ty sẽ cung cấp bữa trưa, bánh kem và đồ trang trí. Hãy cho tôi biết trước ngày 12 tháng 10 liệu bạn có thể tham dự hay không.\n\nTrân trọng,\n\nLaura Correa, Quản lý Bán hàng\nBrighter Sails Ltd."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t01-p7-q151",
+          "number": 151,
+          "question": {
+            "en": "What is mentioned about Mr. Norton?",
+            "vi": "Điều gì được đề cập về ông Norton?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He will be attending a sales conference.",
+              "vi": "Ông ấy sẽ tham dự một hội nghị bán hàng."
+            },
+            {
+              "key": "B",
+              "en": "He sent Ms. Correa an office supply request.",
+              "vi": "Ông ấy đã gửi cho bà Correa một yêu cầu về văn phòng phẩm."
+            },
+            {
+              "key": "C",
+              "en": "He wrote an article in the September newsletter.",
+              "vi": "Ông ấy đã viết một bài báo trong bản tin tháng 9."
+            },
+            {
+              "key": "D",
+              "en": "He will be moving to another company location.",
+              "vi": "Ông ấy sẽ chuyển đến một địa điểm công ty khác."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t01-p7-q152",
+          "number": 152,
+          "question": {
+            "en": "What does Ms. Correa ask members of the sales team to do?",
+            "vi": "Bà Correa yêu cầu các thành viên trong đội ngũ bán hàng làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Send her stories for a newsletter",
+              "vi": "Gửi cho bà ấy những câu chuyện cho một bản tin"
+            },
+            {
+              "key": "B",
+              "en": "Give her names of potential new hires",
+              "vi": "Cung cấp cho bà ấy tên của những người có thể được tuyển dụng mới"
+            },
+            {
+              "key": "C",
+              "en": "Inform her of plans to attend an event",
+              "vi": "Thông báo cho bà ấy về kế hoạch tham dự một sự kiện"
+            },
+            {
+              "key": "D",
+              "en": "Help her decorate the office",
+              "vi": "Giúp bà ấy trang trí văn phòng"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t01-p7-g153-154",
+      "documents": [
+        {
+          "kind": "article",
+          "content": {
+            "en": "Refurbished Theater Gives Town a Boost\n\nBEACHVILLE (February 24)—Beachville residents and tourists have a good reason to celebrate. The 40-year-old Crown Coastal Theater is scheduled to reopen in June. Many were saddened when the former theater owners decided to close the venue over a year ago, citing the cost of needed renovations. Fortunately, the theater has new owners who have spent the last year updating the interior and the projection system.\n\nChristine Lafferty said that she and her childhood friend Morgan Flanagan spent plenty of time at the theater while growing up. “Going to the movies is the thing to do on a rainy day in a seaside town. We were sorry to see it close.” The friends, who also own the popular Blue Bay Bistro, decided to buy the theater and make the necessary repairs to keep it a thriving business. For more information about the theater and its upcoming events, visit www.crowncoastaltheater.com.",
+            "vi": "Nhà hát được tân trang mang lại lợi ích cho Thị trấn\n\nBEACHVILLE (Ngày 24 tháng 2)—Cư dân Beachville và khách du lịch có một lý do chính đáng để ăn mừng. Nhà hát Crown Coastal 40 năm tuổi dự kiến sẽ mở cửa trở lại vào tháng Sáu. Nhiều người đã buồn khi các chủ sở hữu trước đây quyết định đóng cửa địa điểm này hơn một năm trước, với lý do chi phí cải tạo cần thiết. May mắn thay, nhà hát có chủ sở hữu mới, những người đã dành năm qua để cập nhật nội thất và hệ thống chiếu phim.\n\nChristine Lafferty nói rằng cô và người bạn thời thơ ấu Morgan Flanagan đã dành rất nhiều thời gian tại nhà hát khi lớn lên. \"Đi xem phim là điều nên làm vào một ngày mưa ở thị trấn ven biển. Chúng tôi đã rất tiếc khi thấy nó đóng cửa.\" Những người bạn, những người cũng sở hữu nhà hàng Blue Bay Bistro nổi tiếng, đã quyết định mua lại nhà hát và thực hiện các sửa chữa cần thiết để duy trì nó như một cơ sở kinh doanh phát đạt. Để biết thêm thông tin về nhà hát và các sự kiện sắp tới, hãy truy cập www.crowncoastaltheater.com."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t01-p7-q153",
+          "number": 153,
+          "question": {
+            "en": "What is the purpose of the article?",
+            "vi": "Mục đích của bài báo là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To report on beach conditions",
+              "vi": "Để báo cáo về tình trạng bãi biển"
+            },
+            {
+              "key": "B",
+              "en": "To announce a business reopening",
+              "vi": "Để thông báo về việc mở cửa lại một cơ sở kinh doanh"
+            },
+            {
+              "key": "C",
+              "en": "To promote a movie premiere",
+              "vi": "Để quảng bá một buổi ra mắt phim"
+            },
+            {
+              "key": "D",
+              "en": "To advertise a new restaurant",
+              "vi": "Để quảng cáo một nhà hàng mới"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t01-p7-q154",
+          "number": 154,
+          "question": {
+            "en": "Who is Ms. Flanagan?",
+            "vi": "Cô Flanagan là ai?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A town council member",
+              "vi": "Một thành viên hội đồng thị trấn"
+            },
+            {
+              "key": "B",
+              "en": "An event coordinator",
+              "vi": "Một điều phối viên sự kiện"
+            },
+            {
+              "key": "C",
+              "en": "Ms. Lafferty’s business partner",
+              "vi": "Đối tác kinh doanh của cô Lafferty"
+            },
+            {
+              "key": "D",
+              "en": "The writer of the article",
+              "vi": "Người viết bài báo"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t01-p7-g155-157",
+      "documents": [
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Randi Longfellow <rlongfellow@sapphiremail.com.au>\nFrom: Deon Welman <deonwelman@skyviewscopes.com.au>\nDate: 27 March\nSubject: Makatasi model METX-33948\n\nDear Ms. Longfellow,\n\nThank you for ordering the Makatasi ETX-Triple Refracting Telescope, model METX-33948. Unfortunately, the item you requested is on back order. — [1] —. If you would prefer not to wait, we have a similar telescope made by another manufacturer, Belter Telescopes. Like the Makatasi model you ordered, the Belter BTR-1483 has a 120 mm aperture and a retractable lens hood. — [2] —. In addition, all Belter telescopes include a padded carrying case. The Belter BTR-1483 costs $200 less than the Makatasi METX-33948.\n\nIf you wish to revise your order, simply reply to this e-mail within 48 hours or go to our Web site to chat with a representative at http://www.skyviewscopes.com.au. We will then change your order, refund $200 to your credit card, and ship your new telescope overnight at no extra charge. — [3] —. Otherwise, we will notify you when the Makatasi model METX-33948 is back in stock and provide delivery information at that point. — [4] —.\n\nBest regards,\n\nDeon Welman\nSales Representative, Skyview Scopes",
+            "vi": "Đến: Randi Longfellow <rlongfellow@sapphiremail.com.au>\nTừ: Deon Welman <deonwelman@skyviewscopes.com.au>\nNgày: 27 tháng 3\nChủ đề: Mẫu kính thiên văn Makatasi METX-33948\n\nThưa cô Longfellow,\n\nCảm ơn cô đã đặt mua Kính thiên văn Makatasi ETX-Triple Refracting, model METX-33948. Thật không may, mặt hàng cô yêu cầu đang trong tình trạng đặt hàng trước (chưa có hàng). — [1] —. Nếu cô không muốn chờ đợi, chúng tôi có một kính thiên văn tương tự được sản xuất bởi một nhà sản xuất khác, Belter Telescopes. Giống như model Makatasi cô đã đặt, Belter BTR-1483 có khẩu độ 120 mm và mui ống kính có thể thu vào. — [2] —. Ngoài ra, tất cả các kính thiên văn Belter đều bao gồm một túi đựng có đệm. Belter BTR-1483 có giá thấp hơn 200 đô la so với Makatasi METX-33948.\n\nNếu cô muốn sửa đổi đơn đặt hàng của mình, chỉ cần trả lời e-mail này trong vòng 48 giờ hoặc truy cập trang Web của chúng tôi để trò chuyện với một đại diện tại http://www.skyviewscopes.com.au. Sau đó, chúng tôi sẽ thay đổi đơn hàng, hoàn lại 200 đô la vào thẻ tín dụng của cô và gửi kính thiên văn mới của cô qua đường hàng không miễn phí thêm. — [3] —. Nếu không, chúng tôi sẽ thông báo cho cô khi kính thiên văn Makatasi model METX-33948 có hàng trở lại và cung cấp thông tin giao hàng vào thời điểm đó. — [4] —.\n\nTrân trọng,\n\nDeon Welman\nĐại diện Bán hàng, Skyview Scopes"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t01-p7-q155",
+          "number": 155,
+          "question": {
+            "en": "What is the purpose of the e-mail?",
+            "vi": "Mục đích của e-mail là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To request payment",
+              "vi": "Để yêu cầu thanh toán"
+            },
+            {
+              "key": "B",
+              "en": "To provide operating instructions",
+              "vi": "Để cung cấp hướng dẫn vận hành"
+            },
+            {
+              "key": "C",
+              "en": "To advertise a new product",
+              "vi": "Để quảng cáo một sản phẩm mới"
+            },
+            {
+              "key": "D",
+              "en": "To offer a substitute item",
+              "vi": "Để đề xuất một mặt hàng thay thế"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t01-p7-q156",
+          "number": 156,
+          "question": {
+            "en": "What is mentioned about the Belter BTR-1483 telescope?",
+            "vi": "Điều gì được đề cập về kính thiên văn Belter BTR-1483?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It can only be ordered online.",
+              "vi": "Nó chỉ có thể được đặt hàng trực tuyến."
+            },
+            {
+              "key": "B",
+              "en": "It will ship directly from the manufacturer.",
+              "vi": "Nó sẽ được gửi trực tiếp từ nhà sản xuất."
+            },
+            {
+              "key": "C",
+              "en": "It includes a protective case.",
+              "vi": "Nó bao gồm một hộp đựng bảo vệ."
+            },
+            {
+              "key": "D",
+              "en": "It is the most expensive telescope of its type.",
+              "vi": "Nó là kính thiên văn đắt nhất trong loại của nó."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t01-p7-q157",
+          "number": 157,
+          "question": {
+            "en": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? “You can see a full list of specifications on our Web site.”",
+            "vi": "Ở vị trí nào được đánh dấu [1], [2], [3] và [4] thì câu sau đây thuộc về tốt nhất? \"Bạn có thể xem danh sách đầy đủ các thông số kỹ thuật trên trang Web của chúng tôi.\""
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "[1]",
+              "vi": "[1]"
+            },
+            {
+              "key": "B",
+              "en": "[2]",
+              "vi": "[2]"
+            },
+            {
+              "key": "C",
+              "en": "[3]",
+              "vi": "[3]"
+            },
+            {
+              "key": "D",
+              "en": "[4]",
+              "vi": "[4]"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t01-p7-g158-160",
+      "documents": [
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Sun-Hi Myo <shmyo@sunmail.co.nz>\nFrom: Jan Delpit <jdelpit@hamerkoptech.co.nz>\nDate: 8 March\nSubject: RE: Inquiry about job opening\n\nHello,\n\nThank you for your e-mail. I am currently on holiday and will return to the office on 15 March. I will respond to your message as soon as possible after I return.\n\nIf you require general assistance during my absence or have questions about the open position in our sales department, please contact my assistant Sita Viswan at 04 555 0193 or sviswan@hamerkoptech.co.nz. For questions about specific Hamerkoptech software products, contact the customer service department at customerservice@hamerkoptech.co.nz.\n\nAdditionally, I am happy to announce that our new graphic design software program will be released on 2 April. You can read more about the program at Hamerkoptech’s newly redesigned Web site, www.hamerkoptech.co.nz. There, you may also sign up to receive our weekly newsletter by following the instructions on the home page.\n\nSincerely,\n\nJan Delpit",
+            "vi": "Đến: Sun-Hi Myo <shmyo@sunmail.co.nz>\nTừ: Jan Delpit <jdelpit@hamerkoptech.co.nz>\nNgày: 8 tháng 3\nChủ đề: RE: Thắc mắc về vị trí việc làm\n\nXin chào,\n\nCảm ơn bạn đã gửi e-mail. Tôi hiện đang trong kỳ nghỉ và sẽ trở lại văn phòng vào ngày 15 tháng 3. Tôi sẽ trả lời tin nhắn của bạn sớm nhất có thể sau khi tôi trở về.\n\nNếu bạn cần hỗ trợ chung trong thời gian tôi vắng mặt hoặc có thắc mắc về vị trí đang tuyển dụng tại bộ phận bán hàng của chúng tôi, vui lòng liên hệ với trợ lý của tôi là Sita Viswan theo số 04 555 0193 hoặc sviswan@hamerkoptech.co.nz. Đối với các câu hỏi về các sản phẩm phần mềm cụ thể của Hamerkoptech, hãy liên hệ với bộ phận dịch vụ khách hàng theo địa chỉ customerservice@hamerkoptech.co.nz.\n\nNgoài ra, tôi vui mừng thông báo rằng chương trình phần mềm thiết kế đồ họa mới của chúng tôi sẽ được phát hành vào ngày 2 tháng 4. Bạn có thể đọc thêm về chương trình tại trang Web được thiết kế lại mới của Hamerkoptech, www.hamerkoptech.co.nz. Tại đó, bạn cũng có thể đăng ký nhận bản tin hàng tuần của chúng tôi bằng cách làm theo hướng dẫn trên trang chủ.\n\nTrân trọng,\n\nJan Delpit"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t01-p7-q158",
+          "number": 158,
+          "question": {
+            "en": "What is one purpose of the e-mail?",
+            "vi": "Một mục đích của e-mail là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To explain how to use a software program",
+              "vi": "Để giải thích cách sử dụng một chương trình phần mềm"
+            },
+            {
+              "key": "B",
+              "en": "To request Ms. Myo’s assistance with a project",
+              "vi": "Để yêu cầu sự hỗ trợ của cô Myo cho một dự án"
+            },
+            {
+              "key": "C",
+              "en": "To introduce a new staff member",
+              "vi": "Để giới thiệu một nhân viên mới"
+            },
+            {
+              "key": "D",
+              "en": "To indicate that Mr. Delpit is out of the office",
+              "vi": "Để cho biết rằng ông Delpit đang đi vắng"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t01-p7-q159",
+          "number": 159,
+          "question": {
+            "en": "What will happen on April 2?",
+            "vi": "Điều gì sẽ xảy ra vào ngày 2 tháng 4?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A job opening will be filled.",
+              "vi": "Một vị trí việc làm sẽ được lấp đầy."
+            },
+            {
+              "key": "B",
+              "en": "A product will be launched.",
+              "vi": "Một sản phẩm sẽ được ra mắt."
+            },
+            {
+              "key": "C",
+              "en": "A client meeting will take place.",
+              "vi": "Một cuộc họp khách hàng sẽ diễn ra."
+            },
+            {
+              "key": "D",
+              "en": "A Web site redesign will begin.",
+              "vi": "Một bản thiết kế lại trang Web sẽ bắt đầu."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t01-p7-q160",
+          "number": 160,
+          "question": {
+            "en": "How can people subscribe to a newsletter?",
+            "vi": "Làm thế nào mọi người có thể đăng ký nhận bản tin?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "By calling Ms. Viswan",
+              "vi": "Bằng cách gọi cho cô Viswan"
+            },
+            {
+              "key": "B",
+              "en": "By replying to Mr. Delpit’s e-mail",
+              "vi": "Bằng cách trả lời e-mail của ông Delpit"
+            },
+            {
+              "key": "C",
+              "en": "By visiting Hamerkoptech’s Web site",
+              "vi": "Bằng cách truy cập trang Web của Hamerkoptech"
+            },
+            {
+              "key": "D",
+              "en": "By contacting the customer service department",
+              "vi": "Bằng cách liên hệ với bộ phận dịch vụ khách hàng"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t01-p7-g161-163",
+      "documents": [
+        {
+          "kind": "article",
+          "content": {
+            "en": "Vimalo Brands Enters a New Era\n\nBy Yvette Maurer\n\nVANCOUVER (2 August)—Vimalo Brands, the large consumer goods company that markets popular nutritional-support and personal-care products, including Powerburst breakfast drinks and Honeysoft soaps and lotions, will soon offer something new for its customers: frozen foods. “Our new Nutridinna line is not just about convenience,” CEO Danitza Martens said during a press conference earlier today. “Frozen foods are not a new concept, but our method of flash-freezing fresh produce and meats ensures that our products retain their texture and flavour as well as their healthy vitamins and minerals. Now our customers can enjoy the convenience of frozen food without sacrificing quality.”\n\nVimalo Brands has partnered with Vancouver-area farms to obtain produce and meat for the Nutridinna line. “By keeping our operations local, we avoid shipping delays and can flash-freeze freshly harvested vegetables at their peak of ripeness,” Martens said. “Our customers benefit further, since our products can be kept in the freezer for up to six months.” Nutridinna foods will be available in supermarkets beginning in November. Frozen fish and other seafood will be added early next year.",
+            "vi": "Vimalo Brands Bước vào Kỷ nguyên Mới\n\nBởi Yvette Maurer\n\nVANCOUVER (Ngày 2 tháng 8)—Vimalo Brands, công ty hàng tiêu dùng lớn tiếp thị các sản phẩm hỗ trợ dinh dưỡng và chăm sóc cá nhân nổi tiếng, bao gồm đồ uống bữa sáng Powerburst và xà phòng cũng như kem dưỡng da Honeysoft, sẽ sớm cung cấp một sản phẩm mới cho khách hàng của mình: thực phẩm đông lạnh. \"Dòng sản phẩm Nutridinna mới của chúng tôi không chỉ đơn thuần là về sự tiện lợi,\" CEO Danitza Martens cho biết trong một cuộc họp báo đầu ngày hôm nay. \"Thực phẩm đông lạnh không phải là một khái niệm mới, nhưng phương pháp cấp đông nhanh các sản phẩm tươi sống và thịt của chúng tôi đảm bảo rằng sản phẩm của chúng tôi giữ được kết cấu và hương vị cũng như các vitamin và khoáng chất lành mạnh. Giờ đây, khách hàng của chúng tôi có thể tận hưởng sự tiện lợi của thực phẩm đông lạnh mà không phải hy sinh chất lượng.\"\n\nVimalo Brands đã hợp tác với các trang trại trong khu vực Vancouver để có được nông sản và thịt cho dòng Nutridinna. \"Bằng cách duy trì hoạt động tại địa phương, chúng tôi tránh được sự chậm trễ trong vận chuyển và có thể cấp đông nhanh các loại rau quả mới thu hoạch ở thời điểm chín muồi nhất,\" Martens nói. \"Khách hàng của chúng tôi còn được lợi hơn nữa, vì sản phẩm của chúng tôi có thể được bảo quản trong tủ đông đến sáu tháng.\" Thực phẩm Nutridinna sẽ có sẵn tại các siêu thị bắt đầu từ tháng Mười Một. Cá đông lạnh và các loại hải sản khác sẽ được bổ sung vào đầu năm sau."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t01-p7-q161",
+          "number": 161,
+          "question": {
+            "en": "What is one purpose of the article?",
+            "vi": "Một mục đích của bài báo là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To discuss a cooking technique",
+              "vi": "Để thảo luận về một kỹ thuật nấu ăn"
+            },
+            {
+              "key": "B",
+              "en": "To report on a corporate merger",
+              "vi": "Để báo cáo về một vụ sáp nhập doanh nghiệp"
+            },
+            {
+              "key": "C",
+              "en": "To announce a new product line",
+              "vi": "Để thông báo về một dòng sản phẩm mới"
+            },
+            {
+              "key": "D",
+              "en": "To introduce a recently hired executive",
+              "vi": "Để giới thiệu một giám đốc điều hành mới được thuê"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t01-p7-q162",
+          "number": 162,
+          "question": {
+            "en": "The word “just” in paragraph 1, line 8, is closest in meaning to",
+            "vi": "Từ \"just\" trong đoạn 1, dòng 8, có nghĩa gần nhất với"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "recently",
+              "vi": "recently (adv): gần đây"
+            },
+            {
+              "key": "B",
+              "en": "exactly",
+              "vi": "exactly (adv): chính xác"
+            },
+            {
+              "key": "C",
+              "en": "slightly",
+              "vi": "slightly (adv): nhẹ, hơi"
+            },
+            {
+              "key": "D",
+              "en": "only",
+              "vi": "only (adv): chỉ"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t01-p7-q163",
+          "number": 163,
+          "question": {
+            "en": "What does Ms. Martens suggest about flash-frozen food?",
+            "vi": "Bà Martens gợi ý điều gì về thực phẩm cấp đông nhanh?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is less expensive than fresh food.",
+              "vi": "Nó rẻ hơn thực phẩm tươi sống."
+            },
+            {
+              "key": "B",
+              "en": "It is as nutritious as fresh food.",
+              "vi": "Nó bổ dưỡng như thực phẩm tươi sống."
+            },
+            {
+              "key": "C",
+              "en": "It is as easy to ship as fresh food.",
+              "vi": "Nó dễ vận chuyển như thực phẩm tươi sống."
+            },
+            {
+              "key": "D",
+              "en": "It is less flavorful than fresh food.",
+              "vi": "Nó ít hương vị hơn thực phẩm tươi sống."
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t01-p7-g164-167",
+      "documents": [
+        {
+          "kind": "advertisement",
+          "content": {
+            "en": "Are you ready to work hard as part of a team of like-minded individuals? Are you willing to put your education, your experience, and your imagination to great use? If so, then we have the job for you. Karning Creative Designs is expanding, and with our success comes your opportunity.\n\nKarning Creative Designs began ten years ago as a two-person operation set up in the home of our current CEO and founder Shirin Navani. Now located in a beautiful loft in downtown Hollinson, our firm currently employs 25 full-time staff members. At Karning, we design paper-based brochures, catalogs, ads, and posters for our clients. We are currently seeking qualified designers and artists who will shine in a fast-paced, collaborative environment.\n\nThe ideal candidate\n• Holds a degree in design, advertising, or graphic art—although several years of direct experience may substitute for a degree\n• Demonstrates a strong ability to work closely with colleagues\n• Maintains a critical eye for detail and precision\n• Consistently meets deadlines and can flourish under pressure\n\nGraphic design or related experience is a plus but not strictly necessary.\n\nIf you are ready to join our team, we want to meet you! Contact Salvador Tomassin at 608-555-0144 for further details. All applications must be received by March 31.",
+            "vi": "Bạn đã sẵn sàng làm việc chăm chỉ như một phần của nhóm những cá nhân có cùng chí hướng? Bạn có sẵn lòng sử dụng kiến thức, kinh nghiệm và trí tưởng tượng của mình một cách hiệu quả không? Nếu vậy, chúng tôi có một công việc dành cho bạn. Karning Creative Designs đang mở rộng, và cùng với thành công của chúng tôi là cơ hội của bạn.\n\nKarning Creative Designs bắt đầu mười năm trước như một hoạt động kinh doanh gồm hai người được thành lập tại nhà của CEO và người sáng lập hiện tại của chúng tôi, Shirin Navani. Hiện tọa lạc tại một căn gác xép xinh đẹp ở trung tâm thành phố Hollinson, công ty của chúng tôi hiện có 25 nhân viên toàn thời gian. Tại Karning, chúng tôi thiết kế các tập gấp, danh mục sản phẩm, quảng cáo và áp phích dựa trên giấy cho khách hàng của mình. Chúng tôi hiện đang tìm kiếm các nhà thiết kế và nghệ sĩ có trình độ, những người sẽ tỏa sáng trong một môi trường năng động, hợp tác.\n\nỨng viên lý tưởng\n• Có bằng cấp về thiết kế, quảng cáo hoặc nghệ thuật đồ họa—mặc dù vài năm kinh nghiệm trực tiếp có thể thay thế cho bằng cấp\n• Thể hiện khả năng làm việc chặt chẽ với đồng nghiệp\n• Duy trì con mắt tinh tường về chi tiết và độ chính xác\n• Liên tục đáp ứng thời hạn và có thể phát triển dưới áp lực\n\nKinh nghiệm thiết kế đồ họa hoặc liên quan là một điểm cộng nhưng không thực sự cần thiết.\n\nNếu bạn đã sẵn sàng tham gia đội ngũ của chúng tôi, chúng tôi muốn gặp bạn! Hãy liên hệ với Salvador Tomassin theo số 608-555-0144 để biết thêm chi tiết. Tất cả các đơn ứng tuyển phải được nhận trước ngày 31 tháng 3."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t01-p7-q164",
+          "number": 164,
+          "question": {
+            "en": "According to the advertisement, who most likely is Ms. Navani?",
+            "vi": "Theo quảng cáo, bà Navani rất có thể là ai?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A Karning Creative Designs client",
+              "vi": "Một khách hàng của Karning Creative Designs"
+            },
+            {
+              "key": "B",
+              "en": "A business owner",
+              "vi": "Một chủ doanh nghiệp"
+            },
+            {
+              "key": "C",
+              "en": "A photographer",
+              "vi": "Một nhiếp ảnh gia"
+            },
+            {
+              "key": "D",
+              "en": "A real estate agent",
+              "vi": "Một đại lý bất động sản"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t01-p7-q165",
+          "number": 165,
+          "question": {
+            "en": "What is indicated about Karning Creative Designs?",
+            "vi": "Điều gì được chỉ ra về Karning Creative Designs?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Its primary focus is Web design.",
+              "vi": "Trọng tâm chính của nó là thiết kế Web."
+            },
+            {
+              "key": "B",
+              "en": "It initially employed two people.",
+              "vi": "Ban đầu nó đã tuyển dụng hai người."
+            },
+            {
+              "key": "C",
+              "en": "It was founded by Mr. Tomassin.",
+              "vi": "Nó được thành lập bởi ông Tomassin."
+            },
+            {
+              "key": "D",
+              "en": "Its staff are permitted to work from home.",
+              "vi": "Nhân viên của nó được phép làm việc tại nhà."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t01-p7-q166",
+          "number": 166,
+          "question": {
+            "en": "What is required of job applicants?",
+            "vi": "Điều gì được yêu cầu ở ứng viên xin việc?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Skill in working with others",
+              "vi": "Kỹ năng làm việc với người khác"
+            },
+            {
+              "key": "B",
+              "en": "Previous design experience",
+              "vi": "Kinh nghiệm thiết kế trước đây"
+            },
+            {
+              "key": "C",
+              "en": "A willingness to work on weekends",
+              "vi": "Sẵn sàng làm việc vào cuối tuần"
+            },
+            {
+              "key": "D",
+              "en": "An ability to use certain software applications",
+              "vi": "Khả năng sử dụng một số ứng dụng phần mềm nhất định"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t01-p7-q167",
+          "number": 167,
+          "question": {
+            "en": "What will happen on March 31?",
+            "vi": "Điều gì sẽ xảy ra vào ngày 31 tháng 3?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A project will begin.",
+              "vi": "Một dự án sẽ bắt đầu."
+            },
+            {
+              "key": "B",
+              "en": "A deadline will occur.",
+              "vi": "Một thời hạn sẽ diễn ra."
+            },
+            {
+              "key": "C",
+              "en": "A graphic designer will relocate.",
+              "vi": "Một nhà thiết kế đồ họa sẽ chuyển chỗ ở."
+            },
+            {
+              "key": "D",
+              "en": "An application form will be made available.",
+              "vi": "Một mẫu đơn ứng tuyển sẽ được cung cấp."
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t01-p7-g168-171",
+      "documents": [
+        {
+          "kind": "article",
+          "content": {
+            "en": "NEW HAVEN (June 1)—Marco’s Italian Restaurant on Frontage Road will be reopening in late June. It closed three months ago after a water leak caused extensive damage to the kitchen. A significant amount of work needed to be done in the kitchen and dining areas. — [1] —. The restaurant will accommodate larger parties when it reopens.\n\nDuring the past three months, many of the restaurant’s employees were able to work at Marco’s Italian Market, which is located on the opposite side of the street. — [2] —. “The leak happened right before the market’s busy season started,” said Tom Marco, who owns both businesses. “We needed to add staff there temporarily, and I was happy to keep my restaurant crew employed.” Most of those employees have now returned to work in the restaurant. — [3] —.\n\nMr. Marco has planned a grand reopening for June 25. Guests will enjoy live music and a new tasting menu. — [4] —. Reservations are required for the day of the celebration and can be made by calling 203-555-0124. “We are excited to be able to prepare our traditional dishes and welcome the community back again,” stated Mr. Marco.",
+            "vi": "NEW HAVEN (Ngày 1 tháng 6)—Nhà hàng Ý Marco trên đường Frontage Road sẽ mở cửa trở lại vào cuối tháng Sáu. Nhà hàng đã đóng cửa ba tháng trước sau khi một vết rò rỉ nước gây ra thiệt hại lớn cho nhà bếp. Một lượng lớn công việc cần được thực hiện trong khu vực nhà bếp và phòng ăn. — [1] —. Nhà hàng sẽ chứa được các nhóm lớn hơn khi mở cửa trở lại.\n\nTrong ba tháng qua, nhiều nhân viên của nhà hàng đã có thể làm việc tại Chợ Ý Marco, nằm ở phía đối diện của con phố. — [2] —. \"Vụ rò rỉ xảy ra ngay trước khi mùa cao điểm của chợ bắt đầu,\" Tom Marco, người sở hữu cả hai cơ sở kinh doanh cho biết. \"Chúng tôi cần thêm nhân viên ở đó tạm thời, và tôi rất vui vì có thể giữ cho đội ngũ nhà hàng của mình có việc làm.\" Hầu hết những nhân viên đó hiện đã quay trở lại làm việc tại nhà hàng. — [3] —.\n\nÔng Marco đã lên kế hoạch cho một sự kiện mở cửa trở lại hoành tráng vào ngày 25 tháng Sáu. Thực khách sẽ được thưởng thức nhạc sống và một thực đơn nếm thử mới. — [4] —. Cần phải đặt chỗ trước cho ngày lễ kỷ niệm và có thể đặt bằng cách gọi số 203-555-0124. \"Chúng tôi rất vui mừng được có thể chế biến các món ăn truyền thống của mình và chào đón cộng đồng trở lại,\" ông Marco tuyên bố."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t01-p7-q168",
+          "number": 168,
+          "question": {
+            "en": "What does the article mention about Marco’s Italian Restaurant?",
+            "vi": "Bài báo đề cập đến điều gì về Nhà hàng Ý Marco?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is the oldest restaurant in New Haven.",
+              "vi": "Đây là nhà hàng lâu đời nhất ở New Haven."
+            },
+            {
+              "key": "B",
+              "en": "It is looking for a chef who can cook traditional dishes.",
+              "vi": "Nó đang tìm kiếm một đầu bếp có thể nấu các món ăn truyền thống."
+            },
+            {
+              "key": "C",
+              "en": "It needed major renovations.",
+              "vi": "Nó cần được cải tạo lớn."
+            },
+            {
+              "key": "D",
+              "en": "It opened in a new location.",
+              "vi": "Nó đã mở tại một địa điểm mới."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t01-p7-q169",
+          "number": 169,
+          "question": {
+            "en": "What is indicated about Marco’s Italian Market?",
+            "vi": "Điều gì được chỉ ra về Chợ Ý Marco?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It supplies ingredients to Marco’s Italian Restaurant.",
+              "vi": "Nó cung cấp nguyên liệu cho Nhà hàng Ý Marco."
+            },
+            {
+              "key": "B",
+              "en": "It occasionally hires temporary workers.",
+              "vi": "Thỉnh thoảng nó thuê công nhân tạm thời."
+            },
+            {
+              "key": "C",
+              "en": "It is scheduled to close in three months.",
+              "vi": "Nó dự kiến sẽ đóng cửa sau ba tháng nữa."
+            },
+            {
+              "key": "D",
+              "en": "It is located next door to Marco’s Italian Restaurant.",
+              "vi": "Nó nằm ngay cạnh Nhà hàng Ý Marco."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t01-p7-q170",
+          "number": 170,
+          "question": {
+            "en": "What will happen during the event on June 25?",
+            "vi": "Điều gì sẽ xảy ra trong sự kiện vào ngày 25 tháng Sáu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "The restaurant will reduce its menu prices.",
+              "vi": "Nhà hàng sẽ giảm giá thực đơn."
+            },
+            {
+              "key": "B",
+              "en": "The restaurant will offer special menu items.",
+              "vi": "Nhà hàng sẽ cung cấp các món đặc biệt trong thực đơn."
+            },
+            {
+              "key": "C",
+              "en": "Mr. Marco will celebrate his retirement.",
+              "vi": "Ông Marco sẽ kỷ niệm ngày nghỉ hưu của mình."
+            },
+            {
+              "key": "D",
+              "en": "The New Haven business community will honor Mr. Marco.",
+              "vi": "Cộng đồng doanh nghiệp New Haven sẽ vinh danh ông Marco."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t01-p7-q171",
+          "number": 171,
+          "question": {
+            "en": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? “During repairs, some additional dining space was added.”",
+            "vi": "Ở vị trí nào được đánh dấu [1], [2], [3] và [4] thì câu sau đây thuộc về tốt nhất? \"Trong quá trình sửa chữa, một số không gian ăn uống bổ sung đã được thêm vào.\""
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "[1]",
+              "vi": "[1]"
+            },
+            {
+              "key": "B",
+              "en": "[2]",
+              "vi": "[2]"
+            },
+            {
+              "key": "C",
+              "en": "[3]",
+              "vi": "[3]"
+            },
+            {
+              "key": "D",
+              "en": "[4]",
+              "vi": "[4]"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t01-p7-g172-175",
+      "documents": [
+        {
+          "kind": "online_chat_discussion",
+          "content": {
+            "en": "Marlys Barry (10:17 A.M.)\nThis is Ms. Barry from the data analysis department. I have included my colleague, Ms. Choi. We’re contacting you about your data request for the e-mail addresses of all account holders, sorted by age.\n\nAlexander Kubelski (10:17 A.M.)\nYes, how soon can you complete the request?\n\nMarlys Barry (10:18 A.M.)\nI have a question for you first. Do you really need the e-mail addresses of all account holders? That would be a huge file. Or do you need the e-mail addresses of account holders only within a certain age-group?\n\nAlexander Kubelski (10:19 A.M.)\nI see what you mean. I want to e-mail account holders aged 55 to 65 to invite them to meet with a retirement planning expert. Do I have to submit a new project request form?\n\nBora Choi (10:21 A.M.)\nThat’s not necessary, Mr. Kubelski. We can update your current request form for you. You do not want to lose your place in the queue.\n\nAlexander Kubelski (10:21 A.M.)\nGreat, thank you! Is it possible for you to get me that list right away?\n\nMarlys Barry (10:22 A.M.)\nThere are several projects ahead of yours.\n\nAlexander Kubelski (10:23 A.M.)\nI was hoping to send out the e-mail invitations tomorrow.\n\nMarlys Barry (10:24 A.M.)\nWe will get to it as soon as we can.",
+            "vi": "Marlys Barry (10:17 SA)\nĐây là cô Barry từ bộ phận phân tích dữ liệu. Tôi đã bao gồm đồng nghiệp của tôi, cô Choi. Chúng tôi liên hệ với anh về yêu cầu dữ liệu của anh cho địa chỉ e-mail của tất cả chủ tài khoản, được sắp xếp theo độ tuổi.\n\nAlexander Kubelski (10:17 SA)\nVâng, bao lâu nữa thì các bạn có thể hoàn thành yêu cầu?\n\nMarlys Barry (10:18 SA)\nTôi có một câu hỏi cho anh trước. Anh có thực sự cần địa chỉ e-mail của tất cả chủ tài khoản không? Điều đó sẽ là một tệp rất lớn. Hay anh cần địa chỉ e-mail của chủ tài khoản chỉ trong một nhóm tuổi nhất định?\n\nAlexander Kubelski (10:19 SA)\nTôi hiểu ý cô rồi. Tôi muốn gửi e-mail cho các chủ tài khoản từ 55 đến 65 tuổi để mời họ gặp một chuyên gia tư vấn nghỉ hưu. Tôi có phải gửi một mẫu đơn yêu cầu dự án mới không?\n\nBora Choi (10:21 SA)\nĐiều đó không cần thiết, anh Kubelski. Chúng tôi có thể cập nhật mẫu đơn yêu cầu hiện tại của anh cho anh. Anh không muốn mất vị trí trong hàng đợi của mình.\n\nAlexander Kubelski (10:21 SA)\nTuyệt, cảm ơn bạn! Liệu có thể cho tôi lấy danh sách đó ngay được không?\n\nMarlys Barry (10:22 SA)\nCó một số dự án trước dự án của anh.\n\nAlexander Kubelski (10:23 SA)\nTôi đã hy vọng có thể gửi e-mail mời ra vào ngày mai.\n\nMarlys Barry (10:24 SA)\nChúng tôi sẽ làm việc đó sớm nhất có thể."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t01-p7-q172",
+          "number": 172,
+          "question": {
+            "en": "Why did Ms. Barry begin an online chat with Mr. Kubelski?",
+            "vi": "Tại sao cô Barry bắt đầu trò chuyện trực tuyến với anh Kubelski?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To refer him to a different department",
+              "vi": "Để giới thiệu anh ta đến một bộ phận khác"
+            },
+            {
+              "key": "B",
+              "en": "To decline an invitation",
+              "vi": "Để từ chối một lời mời"
+            },
+            {
+              "key": "C",
+              "en": "To issue an apology",
+              "vi": "Để đưa ra lời xin lỗi"
+            },
+            {
+              "key": "D",
+              "en": "To ask for clarification about a request",
+              "vi": "Để yêu cầu làm rõ về một yêu cầu"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t01-p7-q173",
+          "number": 173,
+          "question": {
+            "en": "Who will receive an e-mail from Mr. Kubelski?",
+            "vi": "Ai sẽ nhận được e-mail từ anh Kubelski?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Account holders in one age-group",
+              "vi": "Chủ tài khoản trong một nhóm tuổi"
+            },
+            {
+              "key": "B",
+              "en": "Data analysis team members",
+              "vi": "Các thành viên của nhóm phân tích dữ liệu"
+            },
+            {
+              "key": "C",
+              "en": "Financial planners",
+              "vi": "Các nhà lập kế hoạch tài chính"
+            },
+            {
+              "key": "D",
+              "en": "All Mr. Kubelski’s clients",
+              "vi": "Tất cả các khách hàng của anh Kubelski"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t01-p7-q174",
+          "number": 174,
+          "question": {
+            "en": "What does Ms. Choi offer to do?",
+            "vi": "Cô Choi đề nghị làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Write an e-mail",
+              "vi": "Viết một e-mail"
+            },
+            {
+              "key": "B",
+              "en": "Make a change to a form",
+              "vi": "Thực hiện thay đổi trên một mẫu đơn"
+            },
+            {
+              "key": "C",
+              "en": "Open an account",
+              "vi": "Mở một tài khoản"
+            },
+            {
+              "key": "D",
+              "en": "Revise a policy",
+              "vi": "Sửa đổi một chính sách"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t01-p7-q175",
+          "number": 175,
+          "question": {
+            "en": "At 10:22 A.M., what does Ms. Barry most likely mean when she writes, “There are several projects ahead of yours”?",
+            "vi": "Vào lúc 10:22 SA, cô Barry rất có thể muốn nói gì khi viết \"Có một số dự án trước dự án của anh\"?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Ms. Barry will move Mr. Kubelski’s request to the end of the queue.",
+              "vi": "Cô Barry sẽ chuyển yêu cầu của anh Kubelski xuống cuối hàng đợi."
+            },
+            {
+              "key": "B",
+              "en": "Ms. Barry will not be able to send out the invitations for Mr. Kubelski.",
+              "vi": "Cô Barry sẽ không thể gửi thư mời cho anh Kubelski."
+            },
+            {
+              "key": "C",
+              "en": "Mr. Kubelski’s request will not be the first job Ms. Barry completes.",
+              "vi": "Yêu cầu của anh Kubelski sẽ không phải là công việc đầu tiên cô Barry hoàn thành."
+            },
+            {
+              "key": "D",
+              "en": "Mr. Kubelski will need to assist with other projects first.",
+              "vi": "Anh Kubelski sẽ cần hỗ trợ các dự án khác trước."
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t01-p7-g176-180",
+      "documents": [
+        {
+          "kind": "article",
+          "content": {
+            "en": "Tips for designing a Web site for a food-truck business\n\nOwners of food trucks move from place to place, within and between cities, as they carry out their business, so they often rely on word of mouth or social media to attract customers. As a result, they may not build a Web site of their own. But in fact, by the very nature of their business, it is crucial that food truck owners have a fixed place for the public to learn about them, order from them, contact them, etc. Furthermore, market research shows that a Web site can help build a loyal customer base. So, here are some tips for developing a great Web site for your food truck.\n\nThe Home page should have bold graphics with your food truck’s name. The text must prominently display key information, such as your truck’s locations and operating hours. Online forms with fields to fill out, such as reservation requests for special events or services, give new visitors too much visual information. They are better incorporated as links or pop-up windows.\n\nThe Food Menu page needs attractive, high-definition images along with vivid and precise text that describes each menu item in detail. Remember that your photos should be big enough to look appealing on larger computer monitors.\n\nThe About Us page should include some text explaining your food truck’s theme and concept, and some biographical data detailing your background in the food industry.\n\nThe News page can include text informing visitors about seasonal food items and upcoming promotions or special events such as food festivals.",
+            "vi": "Các mẹo để thiết kế một trang Web cho một doanh nghiệp xe bán đồ ăn lưu động\n\nChủ xe bán đồ ăn lưu động di chuyển từ nơi này sang nơi khác, trong và giữa các thành phố, khi họ thực hiện công việc kinh doanh của mình, vì vậy họ thường dựa vào truyền miệng hoặc phương tiện truyền thông xã hội để thu hút khách hàng. Kết quả là, họ có thể không xây dựng một trang Web riêng. Nhưng thực tế, do bản chất công việc của họ, điều quan trọng là chủ xe bán đồ ăn lưu động phải có một nơi cố định để công chúng tìm hiểu về họ, đặt hàng, liên hệ với họ, v.v. Hơn nữa, nghiên cứu thị trường cho thấy rằng một trang Web có thể giúp xây dựng một cơ sở khách hàng trung thành. Vì vậy, đây là một số mẹo để phát triển một trang Web tuyệt vời cho xe bán đồ ăn lưu động của bạn.\n\nTrang Chủ nên có đồ họa đậm với tên xe bán đồ ăn lưu động của bạn. Văn bản phải hiển thị nổi bật các thông tin chính, chẳng hạn như các địa điểm và giờ hoạt động của xe của bạn. Các biểu mẫu trực tuyến với các trường cần điền, chẳng hạn như yêu cầu đặt chỗ cho các sự kiện đặc biệt hoặc dịch vụ, cung cấp quá nhiều thông tin trực quan cho khách mới. Tốt hơn là chúng nên được kết hợp dưới dạng liên kết hoặc cửa sổ bật lên.\n\nTrang Thực đơn Món ăn cần có hình ảnh hấp dẫn, độ phân giải cao cùng với văn bản sinh động và chính xác mô tả chi tiết từng món trong thực đơn. Hãy nhớ rằng ảnh của bạn phải đủ lớn để trông hấp dẫn trên màn hình máy tính lớn hơn.\n\nTrang Giới thiệu về Chúng tôi nên bao gồm một số văn bản giải thích chủ đề và ý tưởng của xe bán đồ ăn lưu động của bạn, cùng với một số dữ liệu tiểu sử chi tiết về nền tảng của bạn trong ngành thực phẩm.\n\nTrang Tin tức có thể bao gồm văn bản thông báo cho khách truy cập về các mặt hàng thực phẩm theo mùa, các chương trình khuyến mãi sắp tới hoặc các sự kiện đặc biệt như lễ hội ẩm thực."
+          }
+        },
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Doug Abruzzo <dabruzzo@dzacreative.com>\nFrom: Ed Vale <evale@saffronmail.com>\nDate: March 29\nSubject: Feedback\n\nDear Mr. Abruzzo,\n\nThank you again for creating the prototype Web site for my food-truck business. I just wanted to reiterate that it has gotten positive feedback from customers who have tested it. I am so glad we followed the advice in that article you sent me about Web site design for food trucks!\n\nAs we discussed in our phone call yesterday, we will move forward with the prototype Web site and launch it as the official site on April 5. However, I still do not see the information I sent about our new promotion that will begin in mid-April, a free dessert with any sandwich purchase. Please be sure to add this important information before we launch the site.\n\nRegards,\n\nEd",
+            "vi": "Đến: Doug Abruzzo <dabruzzo@dzacreative.com>\nTừ: Ed Vale <evale@saffronmail.com>\nNgày: 29 tháng 3\nChủ đề: Phản hồi\n\nKính gửi ông Abruzzo,\n\nCảm ơn ông một lần nữa vì đã tạo trang Web nguyên mẫu cho doanh nghiệp xe bán đồ ăn lưu động của tôi. Tôi chỉ muốn nhắc lại rằng nó đã nhận được phản hồi tích cực từ những khách hàng đã thử nghiệm nó. Tôi rất vui vì chúng tôi đã làm theo lời khuyên trong bài báo mà ông đã gửi cho tôi về thiết kế trang Web cho xe bán đồ ăn lưu động!\n\nNhư chúng ta đã thảo luận trong cuộc gọi điện thoại ngày hôm qua, chúng tôi sẽ tiến hành với trang Web nguyên mẫu và ra mắt nó như trang Web chính thức vào ngày 5 tháng 4. Tuy nhiên, tôi vẫn chưa thấy thông tin tôi đã gửi về chương trình khuyến mãi mới của chúng tôi sẽ bắt đầu vào giữa tháng Tư, một món tráng miệng miễn phí khi mua bất kỳ loại bánh sandwich nào. Vui lòng đảm bảo thêm thông tin quan trọng này trước khi chúng tôi ra mắt trang Web.\n\nTrân trọng,\n\nEd"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t01-p7-q176",
+          "number": 176,
+          "question": {
+            "en": "According to the article, what is one way that food truck owners traditionally attract customers?",
+            "vi": "Theo bài báo, một cách mà chủ xe bán đồ ăn lưu động thường thu hút khách hàng là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "By word of mouth",
+              "vi": "Bằng truyền miệng"
+            },
+            {
+              "key": "B",
+              "en": "From highway billboards",
+              "vi": "Từ các bảng quảng cáo trên đường cao tốc"
+            },
+            {
+              "key": "C",
+              "en": "Through newspaper advertisements",
+              "vi": "Thông qua các quảng cáo trên báo"
+            },
+            {
+              "key": "D",
+              "en": "From signs at food festivals",
+              "vi": "Từ các biển báo tại lễ hội ẩm thực"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t01-p7-q177",
+          "number": 177,
+          "question": {
+            "en": "According to the article, what information does not need to appear on the Home page?",
+            "vi": "Theo bài báo, thông tin nào không cần xuất hiện trên Trang Chủ?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Truck locations",
+              "vi": "Địa điểm đỗ xe"
+            },
+            {
+              "key": "B",
+              "en": "Hours of operation",
+              "vi": "Giờ hoạt động"
+            },
+            {
+              "key": "C",
+              "en": "Company name",
+              "vi": "Tên công ty"
+            },
+            {
+              "key": "D",
+              "en": "Seasonal food items",
+              "vi": "Các mặt hàng thực phẩm theo mùa"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t01-p7-q178",
+          "number": 178,
+          "question": {
+            "en": "In what field does Mr. Abruzzo most likely work?",
+            "vi": "Ông Abruzzo rất có thể làm việc trong lĩnh vực nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Market research",
+              "vi": "Nghiên cứu thị trường"
+            },
+            {
+              "key": "B",
+              "en": "Catering",
+              "vi": "Phục vụ tiệc"
+            },
+            {
+              "key": "C",
+              "en": "Web design",
+              "vi": "Thiết kế Web"
+            },
+            {
+              "key": "D",
+              "en": "Package delivery",
+              "vi": "Giao hàng bưu kiện"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t01-p7-q179",
+          "number": 179,
+          "question": {
+            "en": "In which section of the Web site will information most likely be added?",
+            "vi": "Thông tin rất có thể sẽ được thêm vào phần nào của trang Web?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "The Home page",
+              "vi": "Trang Chủ"
+            },
+            {
+              "key": "B",
+              "en": "The Food Menu page",
+              "vi": "Trang Thực đơn Món ăn"
+            },
+            {
+              "key": "C",
+              "en": "The About Us page",
+              "vi": "Trang Giới thiệu về Chúng tôi"
+            },
+            {
+              "key": "D",
+              "en": "The News page",
+              "vi": "Trang Tin tức"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t01-p7-q180",
+          "number": 180,
+          "question": {
+            "en": "According to the e-mail, when will the Web site launch?",
+            "vi": "Theo e-mail, khi nào trang Web sẽ ra mắt?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "On March 28",
+              "vi": "Vào ngày 28 tháng 3"
+            },
+            {
+              "key": "B",
+              "en": "On March 29",
+              "vi": "Vào ngày 29 tháng 3"
+            },
+            {
+              "key": "C",
+              "en": "On April 5",
+              "vi": "Vào ngày 5 tháng 4"
+            },
+            {
+              "key": "D",
+              "en": "On April 15",
+              "vi": "Vào ngày 15 tháng 4"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t01-p7-g181-185",
+      "documents": [
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Manny Green <mgreen@rhba.com>\nFrom: John LaRose <jlarose@rilamore.edu>\nDate: May 18\nSubject: Drilling notice\n\nDear Mr. Green:\n\nAs a courtesy, I am writing to you at the Red Hills Business Association, asking you to help me get the word out to your membership. It was announced in last month’s Daily Gazette that Rilamore University is moving forward with its Net Zero Initiative. Within three years, we expect to have geothermal wells installed and operational for the heating and cooling of our entire campus. Limiting the institution’s reliance on fossil fuels has long been a goal, and the new system is a significant step toward achieving that goal.\n\nOver the next month, we will conduct test drilling in several campus locations. If all goes according to schedule, the crew will be drilling adjacent to the Red Hills Business District and Oak Street Apartments starting Wednesday, June 5. We want to tell business owners and residents near the campus to expect a higher-than-usual noise level during the two weeks we estimate it will take to complete the work. The work hours for the drilling crew are 10 A.M. to 3 P.M. each day, Monday through Friday.\n\nWe apologize in advance for the inconvenience this may cause to our neighbors. Any questions or concerns should be directed to me at 813-555-0123.\n\nJohn LaRose\nCommunity Liaison, Rilamore University Office of Communications",
+            "vi": "Đến: Manny Green <mgreen@rhba.com>\nTừ: John LaRose <jlarose@rilamore.edu>\nNgày: 18 tháng 5\nChủ đề: Thông báo về khoan\n\nKính gửi ông Green:\n\nVới tư cách là một sự lịch sự, tôi viết thư này cho ông tại Hiệp hội Doanh nghiệp Red Hills, yêu cầu ông giúp tôi truyền đạt thông tin đến các thành viên của hiệp hội. Đã được thông báo trên tờ Daily Gazette tháng trước rằng Đại học Rilamore đang tiến hành Sáng kiến Không phát thải ròng của mình. Trong vòng ba năm, chúng tôi hy vọng sẽ có các giếng địa nhiệt được lắp đặt và vận hành để sưởi ấm và làm mát toàn bộ khuôn viên trường của chúng tôi. Hạn chế sự phụ thuộc của tổ chức vào nhiên liệu hóa thạch từ lâu đã là một mục tiêu, và hệ thống mới là một bước quan trọng để đạt được mục tiêu đó.\n\nTrong tháng tới, chúng tôi sẽ tiến hành khoan thử nghiệm tại một số địa điểm trong khuôn viên trường. Nếu mọi việc diễn ra theo đúng tiến độ, đội khoan sẽ khoan gần Khu Thương mại Red Hills và Khu căn hộ Oak Street bắt đầu từ Thứ Tư, ngày 5 tháng Sáu. Chúng tôi muốn nói với chủ doanh nghiệp và cư dân gần khuôn viên trường rằng hãy mong đợi mức độ tiếng ồn cao hơn bình thường trong hai tuần mà chúng tôi ước tính sẽ hoàn thành công việc. Giờ làm việc của đội khoan là từ 10 giờ sáng đến 3 giờ chiều mỗi ngày, từ Thứ Hai đến Thứ Sáu.\n\nChúng tôi xin lỗi trước vì bất kỳ sự bất tiện nào có thể gây ra cho hàng xóm của chúng tôi. Mọi câu hỏi hoặc thắc mắc xin vui lòng liên hệ trực tiếp với tôi theo số 813-555-0123.\n\nJohn LaRose\nĐầu mối Liên lạc Cộng đồng, Văn phòng Truyền thông Đại học Rilamore"
+          }
+        },
+        {
+          "kind": "press_release",
+          "content": {
+            "en": "FOR IMMEDIATE RELEASE\n\nContact: Manny Green, mgreen@rhba.com\n\nRED HILLS (May 25)—The Red Hills Business Association is shifting the dates of its much-anticipated Lunch Hour Concert Series. Normally presented each Thursday in June, the four free concerts will instead take place each Thursday in July. The lineup of artists remains unchanged—the Jaystone Jazz Trio will open the series on July 4, followed on successive Thursdays by Joss and the Jaybirds, Ray Starform, and the Barklay Bass Quintet.\n\nAs usual, all three blocks of Oak Street will be closed to traffic, restaurants will serve lunch at outdoor tables, and local arts-and-crafts vendors will display their work on the lawn of the Cultural Center. It is a beautiful celebration in the heart of a popular Red Hills neighborhood. We hope to see you there!",
+            "vi": "ĐƯỢC PHÁT HÀNH NGAY\n\nLiên hệ: Manny Green, mgreen@rhba.com\n\nRED HILLS (Ngày 25 tháng 5)—Hiệp hội Doanh nghiệp Red Hills đang chuyển đổi ngày tổ chức Chuỗi Hòa nhạc Giờ Ăn trưa được mong đợi từ lâu. Thường được trình diễn vào mỗi thứ Năm trong tháng Sáu, bốn buổi hòa nhạc miễn phí sẽ thay vào đó diễn ra vào mỗi thứ Năm trong tháng Bảy. Đội hình nghệ sĩ không thay đổi—Jaystone Jazz Trio sẽ mở màn chuỗi hòa nhạc vào ngày 4 tháng Bảy, tiếp theo vào các thứ Năm liên tiếp là Joss and the Jaybirds, Ray Starform, và Barklay Bass Quintet.\n\nNhư thường lệ, cả ba dãy phố trên đường Oak sẽ bị đóng cửa cho xe cộ qua lại, các nhà hàng sẽ phục vụ bữa trưa tại bàn ngoài trời, và các nghệ nhân đồ thủ công mỹ nghệ địa phương sẽ trưng bày tác phẩm của họ trên bãi cỏ của Trung tâm Văn hóa. Đó là một lễ kỷ niệm đẹp đẽ tại trung tâm của một khu dân cư Red Hills nổi tiếng. Chúng tôi hy vọng sẽ thấy bạn ở đó!"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t01-p7-q181",
+          "number": 181,
+          "question": {
+            "en": "What is indicated about the Net Zero Initiative?",
+            "vi": "Điều gì được chỉ ra về Sáng kiến Không phát thải ròng?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is being funded by the Red Hills Business Association.",
+              "vi": "Nó đang được tài trợ bởi Hiệp hội Doanh nghiệp Red Hills."
+            },
+            {
+              "key": "B",
+              "en": "It was inspired by similar initiatives in other cities.",
+              "vi": "Nó được lấy cảm hứng từ các sáng kiến tương tự ở các thành phố khác."
+            },
+            {
+              "key": "C",
+              "en": "It will use geothermal energy to power a city.",
+              "vi": "Nó sẽ sử dụng năng lượng địa nhiệt để cung cấp điện cho một thành phố."
+            },
+            {
+              "key": "D",
+              "en": "It will change the way an institution heats its buildings.",
+              "vi": "Nó sẽ thay đổi cách một tổ chức sưởi ấm các tòa nhà của mình."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t01-p7-q182",
+          "number": 182,
+          "question": {
+            "en": "In the e-mail, the word “conduct” in paragraph 2, line 1, is closest in meaning to",
+            "vi": "Trong e-mail, từ \"conduct\" trong đoạn 2, dòng 1, có nghĩa gần nhất với"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "behave",
+              "vi": "behave (v): cư xử"
+            },
+            {
+              "key": "B",
+              "en": "accompany",
+              "vi": "accompany (v): đi cùng"
+            },
+            {
+              "key": "C",
+              "en": "transmit",
+              "vi": "transmit (v): truyền tải"
+            },
+            {
+              "key": "D",
+              "en": "carry out",
+              "vi": "carry out (v): tiến hành, thực hiện"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t01-p7-q183",
+          "number": 183,
+          "question": {
+            "en": "What can be concluded about the Red Hills Business District?",
+            "vi": "Có thể kết luận điều gì về Khu Thương mại Red Hills?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is located near a university campus.",
+              "vi": "Nó nằm gần khuôn viên trường đại học."
+            },
+            {
+              "key": "B",
+              "en": "It hosts an arts festival every July.",
+              "vi": "Nó tổ chức một lễ hội nghệ thuật vào mỗi tháng Bảy."
+            },
+            {
+              "key": "C",
+              "en": "It includes the Oak Street Apartments.",
+              "vi": "Nó bao gồm Khu căn hộ Oak Street."
+            },
+            {
+              "key": "D",
+              "en": "It is home to the offices of the Daily Gazette.",
+              "vi": "Nó là nơi đặt văn phòng của tờ Daily Gazette."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t01-p7-q184",
+          "number": 184,
+          "question": {
+            "en": "Why most likely did the Red Hills Business Association change the dates of its concert series?",
+            "vi": "Tại sao rất có thể Hiệp hội Doanh nghiệp Red Hills đã thay đổi ngày tổ chức chuỗi hòa nhạc của mình?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To take advantage of a new power source",
+              "vi": "Để tận dụng một nguồn năng lượng mới"
+            },
+            {
+              "key": "B",
+              "en": "To accommodate students’ schedules",
+              "vi": "Để phù hợp với lịch trình của sinh viên"
+            },
+            {
+              "key": "C",
+              "en": "To avoid noise from nearby construction",
+              "vi": "Để tránh tiếng ồn từ công trình xây dựng gần đó"
+            },
+            {
+              "key": "D",
+              "en": "To prevent a conflict with a similar event",
+              "vi": "Để ngăn chặn xung đột với một sự kiện tương tự"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t01-p7-q185",
+          "number": 185,
+          "question": {
+            "en": "What is mentioned in the press release about the Cultural Center?",
+            "vi": "Điều gì được đề cập trong thông cáo báo chí về Trung tâm Văn hóa?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It will provide lunch for musicians.",
+              "vi": "Nó sẽ cung cấp bữa trưa cho các nhạc công."
+            },
+            {
+              "key": "B",
+              "en": "It will have artwork for sale on its property.",
+              "vi": "Nó sẽ trưng bày các tác phẩm nghệ thuật để bán trên khu đất của mình."
+            },
+            {
+              "key": "C",
+              "en": "It will offer arts-and-crafts workshops.",
+              "vi": "Nó sẽ tổ chức các hội thảo về thủ công mỹ nghệ."
+            },
+            {
+              "key": "D",
+              "en": "It will provide the stage for performers.",
+              "vi": "Nó sẽ cung cấp sân khấu cho người biểu diễn."
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t01-p7-g186-190",
+      "documents": [
+        {
+          "kind": "advertisement",
+          "content": {
+            "en": "Lawal Home Service: Serving Southern California for over 40 years\n\nLawal Home Service provides roofing and solar solutions for Southern California residents in Inglewood and the surrounding areas. In addition to roof replacement, we offer a wide array of services, from attic insulation and gutter restoration to fixing leaks and installing solar panels.\n\nLawal Home Service prides itself on transparent communication and attention to detail. Our project supervisors are always on-site to answer client questions, provide updates, and ensure a safe and clean worksite. To request a free roofing diagnosis, visit www.lawalhomeservice.com or call our booking agent at 310-555-0108.",
+            "vi": "Dịch vụ Nhà Lawal: Phục vụ Nam California hơn 40 năm\n\nDịch vụ Nhà Lawal cung cấp các giải pháp về lợp mái và năng lượng mặt trời cho cư dân Nam California tại Inglewood và các khu vực lân cận. Ngoài việc thay thế mái nhà, chúng tôi còn cung cấp rất nhiều dịch vụ, từ cách nhiệt gác mái và phục hồi máng xối đến sửa chữa rò rỉ và lắp đặt các tấm pin mặt trời.\n\nDịch vụ Nhà Lawal tự hào về sự giao tiếp minh bạch và chú ý đến chi tiết. Các giám sát dự án của chúng tôi luôn có mặt tại công trường để giải đáp câu hỏi của khách hàng, cung cấp thông tin cập nhật và đảm bảo một công trường an toàn và sạch sẽ. Để yêu cầu chẩn đoán mái nhà miễn phí, hãy truy cập www.lawalhomeservice.com hoặc gọi cho nhân viên đặt lịch của chúng tôi theo số 310-555-0108."
+          }
+        },
+        {
+          "kind": "form",
+          "content": {
+            "en": "Lawal Home Service Contact Form\n\nTrust the experts at Lawal Home Service to diagnose your roofing needs promptly and professionally. Please take a few minutes to complete the form with as much detail as possible. Remember, all roofs installed by Lawal have a 25-year warranty.\n\nName: Drew Gerson\nDate: December 12\nE-mail: dgerson95@onymail.com\nPhone: 310-555-0192\nAddress:\n820 North Acacia Street\nInglewood, CA 90301\n\nHow may we help you?\nDuring last week’s windstorm, several roof shingles were torn loose and need replacing. I am considering replacing the entire roof as it is over 30 years old, and water has begun to drip through the section over the patio. I would appreciate talking to someone who could tell me my options and provide an estimate.",
+            "vi": "Mẫu đơn Liên hệ của Dịch vụ Nhà Lawal\n\nHãy tin tưởng các chuyên gia tại Dịch vụ Nhà Lawal để chẩn đoán nhu cầu về mái nhà của bạn một cách nhanh chóng và chuyên nghiệp. Vui lòng dành vài phút để điền vào mẫu đơn với càng nhiều chi tiết càng tốt. Hãy nhớ rằng, tất cả các mái nhà do Lawal lắp đặt đều có bảo hành 25 năm.\n\nTên: Drew Gerson\nNgày: 12 tháng 12\nE-mail: dgerson95@onymail.com\nĐiện thoại: 310-555-0192\nĐịa chỉ:\n820 North Acacia Street\nInglewood, CA 90301\n\nChúng tôi có thể giúp gì cho bạn?\nTrong trận bão gió tuần trước, một số tấm lợp đã bị bung ra và cần được thay thế. Tôi đang cân nhắc việc thay toàn bộ mái nhà vì nó đã hơn 30 năm tuổi và nước đã bắt đầu nhỏ qua phần trên sân hiên. Tôi rất mong được nói chuyện với ai đó có thể cho tôi biết các lựa chọn của tôi và cung cấp báo giá."
+          }
+        },
+        {
+          "kind": "review",
+          "content": {
+            "en": "Neighborhood Reviews: Lawal Home Service\n\n★★★★★\n\n“I was very pleased with the thoroughness of their work.”\n\nI left a description of my problem with Lawal Home Service, and one of the company’s estimators came to inspect my roof the very next day. After I decided to replace the roof, the Lawal Home Service crew was able to get to work the following week. Diana Perez was on-site for the whole job as promised and answered all my questions. Work was started on December 19, and it was finished on December 20. Once the roofing was finished, the crew did a great job cleaning up. They used two magnetic devices resembling lawnmowers and swept over my entire lawn to find any dropped roofing nails. I had never seen anything like that! I was very pleased with the thoroughness of their work.\n\n— Drew Gerson, Inglewood, CA",
+            "vi": "Đánh giá Vùng lân cận: Dịch vụ Nhà Lawal\n\n★★★★★\n\n\"Tôi rất hài lòng với sự tỉ mỉ trong công việc của họ.\"\n\nTôi đã để lại mô tả về vấn đề của mình cho Dịch vụ Nhà Lawal, và một trong những người định giá của công ty đã đến kiểm tra mái nhà của tôi vào ngay ngày hôm sau. Sau khi tôi quyết định thay thế mái nhà, đội ngũ của Dịch vụ Nhà Lawal đã có thể bắt đầu làm việc vào tuần sau đó. Diana Perez đã có mặt tại công trường cho toàn bộ công việc như đã hứa và trả lời tất cả các câu hỏi của tôi. Công việc bắt đầu vào ngày 19 tháng 12 và hoàn thành vào ngày 20 tháng 12. Sau khi hoàn thành việc lợp mái, đội ngũ đã dọn dẹp rất sạch sẽ. Họ đã sử dụng hai thiết bị từ tính trông giống như máy cắt cỏ và quét khắp bãi cỏ của tôi để tìm bất kỳ chiếc đinh lợp nào bị rơi. Tôi chưa bao giờ thấy bất cứ thứ gì như vậy! Tôi rất hài lòng với sự tỉ mỉ trong công việc của họ.\n\n— Drew Gerson, Inglewood, CA"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t01-p7-q186",
+          "number": 186,
+          "question": {
+            "en": "According to the advertisement, what is one type of work performed by Lawal Home Service?",
+            "vi": "Theo quảng cáo, một loại công việc nào được thực hiện bởi Dịch vụ Nhà Lawal?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Planting trees",
+              "vi": "Trồng cây"
+            },
+            {
+              "key": "B",
+              "en": "Repairing gutters",
+              "vi": "Sửa chữa máng xối"
+            },
+            {
+              "key": "C",
+              "en": "Building home additions",
+              "vi": "Xây dựng thêm phòng cho ngôi nhà"
+            },
+            {
+              "key": "D",
+              "en": "Replacing heating systems",
+              "vi": "Thay thế hệ thống sưởi"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t01-p7-q187",
+          "number": 187,
+          "question": {
+            "en": "What does Mr. Gerson indicate on the form about his roof?",
+            "vi": "Ông Gerson chỉ ra điều gì trên mẫu đơn về mái nhà của mình?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It has developed a leak.",
+              "vi": "Nó đã bị rò rỉ."
+            },
+            {
+              "key": "B",
+              "en": "It was recently replaced.",
+              "vi": "Nó đã được thay thế gần đây."
+            },
+            {
+              "key": "C",
+              "en": "It was not expensive to install.",
+              "vi": "Nó không tốn kém để lắp đặt."
+            },
+            {
+              "key": "D",
+              "en": "It is under warranty for 30 years.",
+              "vi": "Nó được bảo hành 30 năm."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t01-p7-q188",
+          "number": 188,
+          "question": {
+            "en": "When did Lawal Home Service inspect Mr. Gerson’s roof?",
+            "vi": "Khi nào Dịch vụ Nhà Lawal đã kiểm tra mái nhà của ông Gerson?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "On December 12",
+              "vi": "Vào ngày 12 tháng 12"
+            },
+            {
+              "key": "B",
+              "en": "On December 13",
+              "vi": "Vào ngày 13 tháng 12"
+            },
+            {
+              "key": "C",
+              "en": "On December 19",
+              "vi": "Vào ngày 19 tháng 12"
+            },
+            {
+              "key": "D",
+              "en": "On December 20",
+              "vi": "Vào ngày 20 tháng 12"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t01-p7-q189",
+          "number": 189,
+          "question": {
+            "en": "Who most likely is Ms. Perez?",
+            "vi": "Cô Perez rất có thể là ai?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A project supervisor",
+              "vi": "Một giám sát dự án"
+            },
+            {
+              "key": "B",
+              "en": "A roofing estimator",
+              "vi": "Một người định giá mái nhà"
+            },
+            {
+              "key": "C",
+              "en": "An interior decorator",
+              "vi": "Một nhà trang trí nội thất"
+            },
+            {
+              "key": "D",
+              "en": "A booking agent",
+              "vi": "Một nhân viên đặt lịch"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t01-p7-q190",
+          "number": 190,
+          "question": {
+            "en": "According to the review, what surprised Mr. Gerson about the crew from Lawal Home Service?",
+            "vi": "Theo bài đánh giá, điều gì đã làm ông Gerson ngạc nhiên về đội ngũ của Dịch vụ Nhà Lawal?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "The price they charged",
+              "vi": "Giá cả họ đưa ra"
+            },
+            {
+              "key": "B",
+              "en": "The warranty they offered",
+              "vi": "Sự bảo hành họ cung cấp"
+            },
+            {
+              "key": "C",
+              "en": "The quality of their materials",
+              "vi": "Chất lượng vật liệu của họ"
+            },
+            {
+              "key": "D",
+              "en": "The tools they used for a job",
+              "vi": "Các công cụ họ đã sử dụng cho một công việc"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t01-p7-g191-195",
+      "documents": [
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Omar Balaji <obalaji@darbourycompany.com>\nFrom: Juanita Pereira <jpereira@bunbunbooks.com>\nDate: May 10\nSubject: Notebook inquiry\n\nDear Mr. Balaji,\n\nWe are expanding our office supply section at Bun Bun Books and would like to offer a selection of blank notebooks with lined pages. We would like your help creating the following cover designs.\n\nCover Design Name | Central Image | Background Color\nGreat Thoughts | Lightbulb, lightning bolt, and star icons | Blue\nWorld Suitcase | Suitcase with country name travel stickers | Black\nLavender Bouquet | Large bunch of lavender on tall, pale green stems | Yellow\nSail Away | Sun setting in the sky above a sailboat on a lake | White\n\nWe need to have notebooks in stock in time for our annual sale starting August 1. After approving the sample covers, when would we need to place our order?\n\nThank you,\nJuanita Pereira",
+            "vi": "Đến: Omar Balaji <obalaji@darbourycompany.com>\nTừ: Juanita Pereira <jpereira@bunbunbooks.com>\nNgày: 10 tháng 5\nChủ đề: Yêu cầu báo giá về sổ tay\n\nKính gửi ông Balaji,\n\nChúng tôi đang mở rộng khu vực văn phòng phẩm tại Bun Bun Books và muốn cung cấp một loại sổ tay trắng có trang kẻ ngang. Chúng tôi muốn nhờ ông giúp tạo ra các thiết kế bìa sau đây.\n\nTên Thiết kế Bìa | Hình ảnh Trung tâm | Màu Nền\nSuy nghĩ Lớn lao | Biểu tượng bóng đèn, tia chớp và ngôi sao | Xanh lam\nHành lý Thế giới | Vali với các nhãn dán tên quốc gia | Đen\nBó Hoa oải hương | Một bó hoa oải hương lớn trên thân cây cao xanh nhạt | Vàng\nCăng buồm | Mặt trời lặn trên bầu trời phía trên một chiếc thuyền buồm trên hồ | Trắng\n\nChúng tôi cần có sổ tay trong kho kịp cho đợt giảm giá thường niên của chúng tôi bắt đầu từ ngày 1 tháng 8. Sau khi phê duyệt các bìa mẫu, khi nào chúng tôi cần đặt đơn hàng?\n\nCảm ơn,\nJuanita Pereira"
+          }
+        },
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Juanita Pereira <jpereira@bunbunbooks.com>\nFrom: Omar Balaji <obalaji@darbourycompany.com>\nDate: May 25\nSubject: Re: Notebook inquiry\n\nHello, Ms. Pereira,\n\nI have shipped some sample notebook covers for your inspection. Unfortunately, I was not able to include one of the designs for your approval because it needed a late-stage change to the background color. The sticker art did not show up well against the original black background. We are testing a light-beige color, and I will send the updated sample cover to you after it has been approved internally.\n\nI should have the last sample to you by the end of this week. As long as you send your approval of all covers by June 11, we will be able to ship your entire order of bound notebooks before July 20. You will have everything before your sale that begins on August 1. Please contact me if you have any questions.\n\nBest regards,\n\nOmar Balaji, Darboury Company",
+            "vi": "Đến: Juanita Pereira <jpereira@bunbunbooks.com>\nTừ: Omar Balaji <obalaji@darbourycompany.com>\nNgày: 25 tháng 5\nChủ đề: Re: Yêu cầu báo giá về sổ tay\n\nXin chào, cô Pereira,\n\nTôi đã gửi một số bìa sổ tay mẫu để cô kiểm tra. Thật không may, tôi đã không thể bao gồm một trong các thiết kế để cô phê duyệt vì nó cần một sự thay đổi vào phút cuối đối với màu nền. Hình ảnh nhãn dán không hiển thị rõ trên nền đen nguyên bản. Chúng tôi đang thử nghiệm màu be nhạt và tôi sẽ gửi bìa mẫu đã cập nhật cho cô sau khi nó được phê duyệt nội bộ.\n\nTôi sẽ có mẫu cuối cùng gửi cho cô vào cuối tuần này. Miễn là cô gửi phê duyệt cho tất cả các bìa trước ngày 11 tháng 6, chúng tôi sẽ có thể gửi toàn bộ đơn đặt hàng sổ tay đã đóng gáy của cô trước ngày 20 tháng 7. Cô sẽ có mọi thứ trước đợt giảm giá bắt đầu từ ngày 1 tháng 8. Vui lòng liên hệ với tôi nếu cô có bất kỳ câu hỏi nào.\n\nTrân trọng,\n\nOmar Balaji, Công ty Darboury"
+          }
+        },
+        {
+          "kind": "form",
+          "content": {
+            "en": "Darboury Company\nOrder Form\n\nCustomer: Bun Bun Books\nShip by: July 15\nShipping method: Standard\nRequested delivery date: July 20\n\nItem code | Product Description | Cover Design | Amount\nN3-GT | Standard-size spiral notebook | Great Thoughts | 200\nN3-WS | Standard-size spiral notebook | World Suitcase | 200\nH3-LB | Small hardbound journal notebook | Lavender Bouquet | 150\nH3-SA | Small hardbound journal notebook | Sail Away | 150\nD1 | Large metal display rack (holds standard-size spiral notebooks) | — | 1",
+            "vi": "Công ty Darboury\nMẫu đơn Đặt hàng\n\nKhách hàng: Bun Bun Books\nGửi hàng trước ngày: 15 tháng 7\nPhương thức gửi: Tiêu chuẩn\nNgày giao hàng theo yêu cầu: 20 tháng 7\n\nMã hàng | Mô tả Sản phẩm | Thiết kế Bìa | Số lượng\nN3-GT | Sổ tay xoắn cỡ tiêu chuẩn | Suy nghĩ Lớn lao | 200\nN3-WS | Sổ tay xoắn cỡ tiêu chuẩn | Hành lý Thế giới | 200\nH3-LB | Sổ tay gáy cứng nhỏ | Bó Hoa oải hương | 150\nH3-SA | Sổ tay gáy cứng nhỏ | Căng buồm | 150\nD1 | Giá trưng bày bằng kim loại lớn (dùng cho sổ tay xoắn cỡ tiêu chuẩn) | — | 1"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t01-p7-q191",
+          "number": 191,
+          "question": {
+            "en": "What is one service that Darboury Company most likely provides?",
+            "vi": "Một dịch vụ mà Công ty Darboury rất có thể cung cấp là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Travel booking",
+              "vi": "Đặt vé du lịch"
+            },
+            {
+              "key": "B",
+              "en": "Textbook publishing",
+              "vi": "Xuất bản sách giáo khoa"
+            },
+            {
+              "key": "C",
+              "en": "Flower delivery",
+              "vi": "Giao hoa"
+            },
+            {
+              "key": "D",
+              "en": "Graphic design",
+              "vi": "Thiết kế đồ họa"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t01-p7-q192",
+          "number": 192,
+          "question": {
+            "en": "What sample was delayed?",
+            "vi": "Mẫu nào đã bị trì hoãn?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Great Thoughts",
+              "vi": "Suy nghĩ Lớn lao"
+            },
+            {
+              "key": "B",
+              "en": "World Suitcase",
+              "vi": "Hành lý Thế giới"
+            },
+            {
+              "key": "C",
+              "en": "Lavender Bouquet",
+              "vi": "Bó Hoa oải hương"
+            },
+            {
+              "key": "D",
+              "en": "Sail Away",
+              "vi": "Căng buồm"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t01-p7-q193",
+          "number": 193,
+          "question": {
+            "en": "When is the deadline for Ms. Pereira to approve samples?",
+            "vi": "Khi nào là thời hạn để cô Pereira phê duyệt các mẫu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "May 25",
+              "vi": "25 tháng 5"
+            },
+            {
+              "key": "B",
+              "en": "June 11",
+              "vi": "11 tháng 6"
+            },
+            {
+              "key": "C",
+              "en": "July 20",
+              "vi": "20 tháng 7"
+            },
+            {
+              "key": "D",
+              "en": "August 1",
+              "vi": "1 tháng 8"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t01-p7-q194",
+          "number": 194,
+          "question": {
+            "en": "What does the form indicate about the Bun Bun Books order?",
+            "vi": "Mẫu đơn cho biết điều gì về đơn đặt hàng của Bun Bun Books?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It will include a display stand.",
+              "vi": "Nó sẽ bao gồm một giá trưng bày."
+            },
+            {
+              "key": "B",
+              "en": "It will ship overnight.",
+              "vi": "Nó sẽ được gửi qua đêm."
+            },
+            {
+              "key": "C",
+              "en": "It will be paid upon delivery.",
+              "vi": "Nó sẽ được thanh toán khi giao hàng."
+            },
+            {
+              "key": "D",
+              "en": "It will arrive late.",
+              "vi": "Nó sẽ đến muộn."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t01-p7-q195",
+          "number": 195,
+          "question": {
+            "en": "What is the background color on the cover of item N3-GT?",
+            "vi": "Màu nền trên bìa của mặt hàng N3-GT là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Blue",
+              "vi": "Xanh lam"
+            },
+            {
+              "key": "B",
+              "en": "Black",
+              "vi": "Đen"
+            },
+            {
+              "key": "C",
+              "en": "Yellow",
+              "vi": "Vàng"
+            },
+            {
+              "key": "D",
+              "en": "White",
+              "vi": "Trắng"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets26-t01-p7-g196-200",
+      "documents": [
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Managers\nFrom: Charlotte Black\nDate: August 16\nSubject: Employee of the month\n\nDear Managers,\n\nIt is time to vote for the Wilson Autos Employee of the Month for September. Here are the nominees.\n\nErica Boyd has been with us for only a few months but has already shown great promise and is eager to learn new things.\n\nLauren Almahdi is very proactive. If something needs to be done, she will point it out to a manager and volunteer to take care of it herself.\n\nNick Salehi found a glitch in our computer system and stopped us from incorrectly ordering unnecessary inventory (thus saving us money).\n\nMax Rhodes has been especially helpful with training new hires. He is calm and patient and explains our procedures well.\n\nPlease respond to this e-mail by Friday with your vote. The winner must receive at least three votes. The winner will be posted at our front desk and on our Web site next Monday.\n\nThanks,\n\nCharlotte Black\nGeneral Manager, Wilson Autos",
+            "vi": "Đến: Các Quản lý\nTừ: Charlotte Black\nNgày: 16 tháng 8\nChủ đề: Nhân viên của tháng\n\nKính gửi các Quản lý,\n\nĐã đến lúc bỏ phiếu cho Nhân viên của tháng của Wilson Autos cho tháng Chín. Dưới đây là các ứng cử viên.\n\nErica Boyd mới chỉ làm việc với chúng tôi được vài tháng nhưng đã thể hiện nhiều triển vọng và rất ham học hỏi những điều mới.\n\nLauren Almahdi rất chủ động. Nếu có việc gì cần làm, cô ấy sẽ chỉ ra điều đó cho quản lý và tình nguyện tự mình xử lý.\n\nNick Salehi đã tìm ra một trục trặc trong hệ thống máy tính của chúng tôi và đã ngăn chúng tôi đặt hàng những vật tư không cần thiết một cách không chính xác (do đó tiết kiệm tiền cho chúng tôi).\n\nMax Rhodes đã đặc biệt hữu ích trong việc đào tạo nhân viên mới. Anh ấy điềm tĩnh, kiên nhẫn và giải thích các quy trình của chúng tôi rất rõ ràng.\n\nVui lòng trả lời e-mail này trước thứ Sáu với phiếu bầu của bạn. Người thắng cuộc phải nhận được ít nhất ba phiếu bầu. Người thắng cuộc sẽ được đăng ở quầy lễ tân và trên trang Web của chúng tôi vào thứ Hai tới.\n\nTrân trọng,\n\nCharlotte Black\nTổng Giám đốc, Wilson Autos"
+          }
+        },
+        {
+          "kind": "review",
+          "content": {
+            "en": "https://www.westchesterreviews.com\n\nWilson Autos (Westchester)\n\n★★★★★\n\nMy wife and I just bought a new Excelera truck at the Wilson Autos Westchester location with the help of Erica Boyd. Even though she was new, she was very knowledgeable about all the trucks on the lot that we wanted to test drive. The few questions she was unable to answer were quickly addressed by her mentor, Max. We were very pleased with the customer service and even more delighted when the general manager agreed to sell us the Excelera for the same price that a competing dealership was advertising. I highly recommend Wilson Autos if you are in the market for a new vehicle!\n\n\n—Henry Riggs, August 22",
+            "vi": "https://www.westchesterreviews.com\n\nWilson Autos (Westchester)\n\n★★★★★\n\nVợ chồng tôi vừa mua một chiếc xe tải Excelera mới tại địa điểm Wilson Autos Westchester với sự giúp đỡ của Erica Boyd. Mặc dù là người mới, cô ấy rất am hiểu về tất cả các loại xe tải trên bãi mà chúng tôi muốn lái thử. Một vài câu hỏi mà cô ấy không thể trả lời đã nhanh chóng được người hướng dẫn của cô ấy là Max giải đáp. Chúng tôi rất hài lòng với dịch vụ khách hàng và còn vui mừng hơn nữa khi tổng giám đốc đồng ý bán cho chúng tôi chiếc Excelera với cùng mức giá mà một đại lý cạnh tranh đang quảng cáo. Tôi thực sự giới thiệu Wilson Autos nếu bạn đang có nhu cầu mua một chiếc xe mới!\n\n\n—Henry Riggs, 22 tháng 8"
+          }
+        },
+        {
+          "kind": "notice",
+          "content": {
+            "en": "The employee of the month for September is ERICA BOYD!\n\nIn her three months at Wilson Autos, Erica has picked up new skills quickly and is always trying to learn more. She has become very knowledgeable about our inventory and is able to share her knowledge with customers to complete sales. She has also been instrumental in encouraging satisfied customers to post comments on our social media pages. We received more great reviews in the past month than we did in the four previous months combined!\n\nErica has received a $50 gift card to Alonzo’s Restaurant as a thank-you for her excellent work. Congratulations, Erica!",
+            "vi": "Nhân viên của tháng cho tháng Chín là ERICA BOYD!\n\nTrong ba tháng làm việc tại Wilson Autos, Erica đã tiếp thu các kỹ năng mới một cách nhanh chóng và luôn cố gắng học hỏi thêm. Cô ấy đã trở nên rất am hiểu về hàng tồn kho của chúng tôi và có thể chia sẻ kiến thức của mình với khách hàng để hoàn thành các giao dịch bán hàng. Cô ấy cũng là người có công trong việc khuyến khích các khách hàng hài lòng đăng nhận xét trên các trang mạng xã hội của chúng tôi. Chúng tôi đã nhận được nhiều đánh giá tuyệt vời hơn trong tháng qua so với bốn tháng trước đó cộng lại!\n\nErica đã nhận được một thẻ quà tặng trị giá 50 đô la cho Nhà hàng Alonzo để cảm ơn vì công việc xuất sắc của cô. Xin chúc mừng, Erica!"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets26-t01-p7-q196",
+          "number": 196,
+          "question": {
+            "en": "What is the purpose of the e-mail?",
+            "vi": "Mục đích của e-mail là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To share a list of job candidates",
+              "vi": "Để chia sẻ một danh sách các ứng viên việc làm"
+            },
+            {
+              "key": "B",
+              "en": "To ask for opinions from managers",
+              "vi": "Để hỏi ý kiến từ các quản lý"
+            },
+            {
+              "key": "C",
+              "en": "To summarize a managers’ meeting",
+              "vi": "Để tóm tắt một cuộc họp của các quản lý"
+            },
+            {
+              "key": "D",
+              "en": "To nominate a manager for an award",
+              "vi": "Để đề cử một quản lý cho một giải thưởng"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets26-t01-p7-q197",
+          "number": 197,
+          "question": {
+            "en": "According to the e-mail, who identified a technical problem?",
+            "vi": "Theo e-mail, ai đã xác định được một vấn đề kỹ thuật?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Mr. Salehi",
+              "vi": "Ông Salehi"
+            },
+            {
+              "key": "B",
+              "en": "Ms. Almahdi",
+              "vi": "Cô Almahdi"
+            },
+            {
+              "key": "C",
+              "en": "Mr. Rhodes",
+              "vi": "Ông Rhodes"
+            },
+            {
+              "key": "D",
+              "en": "Ms. Black",
+              "vi": "Bà Black"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets26-t01-p7-q198",
+          "number": 198,
+          "question": {
+            "en": "What can be concluded about Mr. Riggs?",
+            "vi": "Có thể kết luận điều gì về ông Riggs?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "His previous vehicle was an Excelera truck.",
+              "vi": "Chiếc xe trước đây của ông là một chiếc xe tải Excelera."
+            },
+            {
+              "key": "B",
+              "en": "He is a neighbor of Ms. Boyd’s.",
+              "vi": "Ông ấy là hàng xóm của cô Boyd."
+            },
+            {
+              "key": "C",
+              "en": "He has purchased a vehicle from Wilson Autos in the past.",
+              "vi": "Ông ấy đã mua một chiếc xe từ Wilson Autos trong quá khứ."
+            },
+            {
+              "key": "D",
+              "en": "He negotiated with Ms. Black for a lower price.",
+              "vi": "Ông ấy đã thương lượng với bà Black để có giá thấp hơn."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets26-t01-p7-q199",
+          "number": 199,
+          "question": {
+            "en": "What is indicated in the notice about Ms. Boyd?",
+            "vi": "Điều gì được chỉ ra trong thông báo về cô Boyd?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She eats regularly at Alonzo’s Restaurant.",
+              "vi": "Cô ấy thường xuyên ăn tại Nhà hàng Alonzo."
+            },
+            {
+              "key": "B",
+              "en": "She manages social media sites for Wilson Autos.",
+              "vi": "Cô ấy quản lý các trang mạng xã hội cho Wilson Autos."
+            },
+            {
+              "key": "C",
+              "en": "She is responsible for an increase in customer feedback.",
+              "vi": "Cô ấy có vai trò trong việc gia tăng phản hồi của khách hàng."
+            },
+            {
+              "key": "D",
+              "en": "She recently completed a sales training course.",
+              "vi": "Cô ấy vừa hoàn thành một khóa đào tạo bán hàng."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets26-t01-p7-q200",
+          "number": 200,
+          "question": {
+            "en": "What is most likely true about Ms. Boyd?",
+            "vi": "Điều gì rất có thể đúng về cô Boyd?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She received votes from at least three managers.",
+              "vi": "Cô ấy đã nhận được phiếu bầu từ ít nhất ba quản lý."
+            },
+            {
+              "key": "B",
+              "en": "She was the top salesperson in August.",
+              "vi": "Cô ấy là nhân viên bán hàng hàng đầu trong tháng Tám."
+            },
+            {
+              "key": "C",
+              "en": "She has years of experience in the auto industry.",
+              "vi": "Cô ấy có nhiều năm kinh nghiệm trong ngành công nghiệp ô tô."
+            },
+            {
+              "key": "D",
+              "en": "She was hired by Wilson Autos in April.",
+              "vi": "Cô ấy đã được Wilson Autos thuê vào tháng Tư."
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}

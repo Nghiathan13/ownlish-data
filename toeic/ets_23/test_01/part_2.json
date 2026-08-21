@@ -1,0 +1,679 @@
+{
+  "items": [
+    {
+      "id": "ets23-t01-p2-q007",
+      "number": 7,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/007.mp3",
+      "question": {
+        "en": "What type of food does that store sell?",
+        "vi": "Cửa hàng đó bán loại thực phẩm nào?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "What a delicious recipe.",
+          "vi": "Thật là một công thức nấu ăn ngon."
+        },
+        {
+          "key": "B",
+          "en": "They have all kinds of cheese.",
+          "vi": "Họ có tất cả các loại phô mai."
+        },
+        {
+          "key": "C",
+          "en": "With a new jacket.",
+          "vi": "Với một chiếc áo khoác mới."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets23-t01-p2-q008",
+      "number": 8,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/008.mp3",
+      "question": {
+        "en": "When should we leave for the airport?",
+        "vi": "Khi nào chúng ta nên khởi hành đi sân bay?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "This afternoon at two o’clock.",
+          "vi": "Chiều nay lúc hai giờ."
+        },
+        {
+          "key": "B",
+          "en": "I prefer an aisle seat.",
+          "vi": "Tôi thích ghế sát lối đi hơn."
+        },
+        {
+          "key": "C",
+          "en": "Mr. Choi traveled there last year.",
+          "vi": "Ông Choi đã du lịch đến đó năm ngoái."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets23-t01-p2-q009",
+      "number": 9,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/009.mp3",
+      "question": {
+        "en": "Where’s the hiring event being held?",
+        "vi": "Sự kiện tuyển dụng đang được tổ chức ở đâu?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "She sent it to a colleague.",
+          "vi": "Cô ấy đã gửi nó cho một đồng nghiệp."
+        },
+        {
+          "key": "B",
+          "en": "In the main conference room.",
+          "vi": "Trong phòng hội nghị chính."
+        },
+        {
+          "key": "C",
+          "en": "If they open on time.",
+          "vi": "Nếu họ mở cửa đúng giờ."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets23-t01-p2-q010",
+      "number": 10,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/010.mp3",
+      "question": {
+        "en": "Why is the budget being updated?",
+        "vi": "Tại sao ngân sách đang được cập nhật?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "When we rented the building.",
+          "vi": "Khi chúng tôi thuê tòa nhà."
+        },
+        {
+          "key": "B",
+          "en": "With the new designs.",
+          "vi": "Với những thiết kế mới."
+        },
+        {
+          "key": "C",
+          "en": "Because new sales figures came in.",
+          "vi": "Vì số liệu bán hàng mới vừa có."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets23-t01-p2-q011",
+      "number": 11,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/011.mp3",
+      "question": {
+        "en": "Can you cover my shift at work tomorrow?",
+        "vi": "Bạn có thể làm thay ca cho tôi vào ngày mai không?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "No, I'm taking the day off.",
+          "vi": "Không, tôi sẽ nghỉ phép ngày đó."
+        },
+        {
+          "key": "B",
+          "en": "Before he updated the Web site.",
+          "vi": "Trước khi anh ấy cập nhật trang web."
+        },
+        {
+          "key": "C",
+          "en": "It’s on the agenda for Tuesday.",
+          "vi": "Nó có trong chương trình nghị sự cho thứ Ba."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets23-t01-p2-q012",
+      "number": 12,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/012.mp3",
+      "question": {
+        "en": "Who ordered these vegetables?",
+        "vi": "Ai đã đặt những loại rau củ này?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "All of it.",
+          "vi": "Tất cả chỗ đó."
+        },
+        {
+          "key": "B",
+          "en": "I believe Luis did.",
+          "vi": "Tôi tin là Luis đã đặt."
+        },
+        {
+          "key": "C",
+          "en": "It was excellent, thanks.",
+          "vi": "Nó rất tuyệt, cảm ơn."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets23-t01-p2-q013",
+      "number": 13,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/013.mp3",
+      "question": {
+        "en": "How often should I mail the notices?",
+        "vi": "Tôi nên gửi thông báo qua thư bao lâu một lần?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Once a month.",
+          "vi": "Mỗi tháng một lần."
+        },
+        {
+          "key": "B",
+          "en": "After three o’clock.",
+          "vi": "Sau ba giờ."
+        },
+        {
+          "key": "C",
+          "en": "About half of them.",
+          "vi": "Khoảng một nửa trong số chúng."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets23-t01-p2-q014",
+      "number": 14,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/014.mp3",
+      "question": {
+        "en": "Which folder are the documents in? We agreed on the deadline. Sure, I’ll take a look. Let me show you.",
+        "vi": "Các tài liệu nằm trong thư mục nào?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "We agreed on the deadline.",
+          "vi": "Chúng tôi đã đồng ý về thời hạn."
+        },
+        {
+          "key": "B",
+          "en": "Sure, I’ll take a look.",
+          "vi": "Chắc chắn rồi, tôi sẽ xem qua."
+        },
+        {
+          "key": "C",
+          "en": "Let me show you.",
+          "vi": "Để tôi chỉ cho bạn."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets23-t01-p2-q015",
+      "number": 15,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/015.mp3",
+      "question": {
+        "en": "Did you end up going to a movie or to the concert last night? I saw the new action film. It just ended. Just a couple of my friends.",
+        "vi": "Cuối cùng tối qua bạn đã đi xem phim hay đi nghe nhạc?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "I saw the new action film.",
+          "vi": "Tôi đã xem bộ phim hành động mới."
+        },
+        {
+          "key": "B",
+          "en": "It just ended.",
+          "vi": "Nó vừa kết thúc."
+        },
+        {
+          "key": "C",
+          "en": "Just a couple of my friends.",
+          "vi": "Chỉ một vài người bạn của tôi."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets23-t01-p2-q016",
+      "number": 16,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/016.mp3",
+      "question": {
+        "en": "We’ll take the company bus to the conference center. I’m sure it’s not. Maybe we did. That’s a good plan.",
+        "vi": "Chúng ta sẽ đi xe buýt công ty đến trung tâm hội nghị."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "I’m sure it’s not.",
+          "vi": "Tôi chắc là không phải."
+        },
+        {
+          "key": "B",
+          "en": "Maybe we did.",
+          "vi": "Có lẽ chúng ta đã làm vậy."
+        },
+        {
+          "key": "C",
+          "en": "That’s a good plan.",
+          "vi": "Đó là một kế hoạch hay."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets23-t01-p2-q017",
+      "number": 17,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/017.mp3",
+      "question": {
+        "en": "What should we put in the introduction to the report? After the summary. The research highlights. I met him yesterday.",
+        "vi": "Chúng ta nên đưa gì vào phần giới thiệu của báo cáo?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "After the summary.",
+          "vi": "Sau bản tóm tắt."
+        },
+        {
+          "key": "B",
+          "en": "The research highlights.",
+          "vi": "Những điểm nổi bật của nghiên cứu."
+        },
+        {
+          "key": "C",
+          "en": "I met him yesterday.",
+          "vi": "Tôi đã gặp anh ấy hôm qua."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets23-t01-p2-q018",
+      "number": 18,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/018.mp3",
+      "question": {
+        "en": "We should have a new logo designed. They’re about five miles from here. I know a good graphic artist. An order for some new calendars.",
+        "vi": "Chúng ta nên thiết kế một logo mới."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "They’re about five miles from here.",
+          "vi": "Chúng cách đây khoảng năm dặm."
+        },
+        {
+          "key": "B",
+          "en": "I know a good graphic artist.",
+          "vi": "Tôi biết một nghệ sĩ đồ họa giỏi."
+        },
+        {
+          "key": "C",
+          "en": "An order for some new calendars.",
+          "vi": "Một đơn đặt hàng cho một số lịch mới."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets23-t01-p2-q019",
+      "number": 19,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/019.mp3",
+      "question": {
+        "en": "Did you select a site for the new headquarters? Is that so? No one can attend the training. Yes, in the center of town.",
+        "vi": "Bạn đã chọn được địa điểm cho trụ sở mới chưa?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Is that so?",
+          "vi": "Vậy hả?"
+        },
+        {
+          "key": "B",
+          "en": "No one can attend the training.",
+          "vi": "Không ai có thể tham gia buổi đào tạo."
+        },
+        {
+          "key": "C",
+          "en": "Yes, in the center of town.",
+          "vi": "Rồi, ở trung tâm thị trấn."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets23-t01-p2-q020",
+      "number": 20,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/020.mp3",
+      "question": {
+        "en": "Who’s going to cancel the meeting? Martin is the most senior team member. Josie’s chair is broken. The client signed the contract.",
+        "vi": "Ai sẽ là người hủy cuộc họp?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Martin is the most senior team member.",
+          "vi": "Martin là thành viên kỳ cựu nhất của nhóm."
+        },
+        {
+          "key": "B",
+          "en": "Josie’s chair is broken.",
+          "vi": "Ghế của Josie bị hỏng."
+        },
+        {
+          "key": "C",
+          "en": "The client signed the contract.",
+          "vi": "Khách hàng đã ký hợp đồng."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets23-t01-p2-q021",
+      "number": 21,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/021.mp3",
+      "question": {
+        "en": "How was your business trip? They found some just in time. I like that idea. It was very productive.",
+        "vi": "Chuyến công tác của bạn thế nào?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "They found some just in time.",
+          "vi": "Họ đã tìm thấy vài cái vừa kịp lúc."
+        },
+        {
+          "key": "B",
+          "en": "I like that idea.",
+          "vi": "Tôi thích ý tưởng đó."
+        },
+        {
+          "key": "C",
+          "en": "It was very productive.",
+          "vi": "Nó rất hiệu quả/năng suất."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets23-t01-p2-q022",
+      "number": 22,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/022.mp3",
+      "question": {
+        "en": "Why did Chae-Won hire an assistant? She will submit an estimate in September. Anyway, they thought I was late. Haven’t you noticed how busy she is?",
+        "vi": "Tại sao Chae-Won lại thuê trợ lý?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "She will submit an estimate in September.",
+          "vi": "Cô ấy sẽ nộp một bản báo giá vào tháng 9."
+        },
+        {
+          "key": "B",
+          "en": "Anyway, they thought I was late.",
+          "vi": "Dù sao thì, họ đã nghĩ là tôi đến muộn."
+        },
+        {
+          "key": "C",
+          "en": "Haven’t you noticed how busy she is?",
+          "vi": "Bạn không thấy cô ấy bận rộn thế nào sao?"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets23-t01-p2-q023",
+      "number": 23,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/023.mp3",
+      "question": {
+        "en": "Would you mind showing me the new office space? I think that’s correct. Sure, it won’t take long. Everyone available participated.",
+        "vi": "Bạn có phiền dẫn tôi đi xem không gian văn phòng mới không?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "I think that’s correct.",
+          "vi": "Tôi nghĩ điều đó đúng."
+        },
+        {
+          "key": "B",
+          "en": "Sure, it won’t take long.",
+          "vi": "Chắc chắn rồi, sẽ không mất nhiều thời gian đâu."
+        },
+        {
+          "key": "C",
+          "en": "Everyone available participated.",
+          "vi": "Tất cả những người có mặt đều đã tham gia."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets23-t01-p2-q024",
+      "number": 24,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/024.mp3",
+      "question": {
+        "en": "We're trying to decide where to order from for lunch. I loved those sandwiches from Gino’s last week. My brother’s friend was there. I remember that song very well.",
+        "vi": "Chúng tôi đang cố gắng quyết định xem nên đặt đồ ăn trưa ở đâu."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "I loved those sandwiches from Gino’s last week.",
+          "vi": "Tôi rất thích mấy cái bánh mì kẹp từ tiệm Gino tuần trước."
+        },
+        {
+          "key": "B",
+          "en": "My brother’s friend was there.",
+          "vi": "Bạn của anh trai tôi đã ở đó."
+        },
+        {
+          "key": "C",
+          "en": "I remember that song very well.",
+          "vi": "Tôi nhớ bài hát đó rất rõ."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets23-t01-p2-q025",
+      "number": 25,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/025.mp3",
+      "question": {
+        "en": "When do you plan to finish the advertising campaign? Next to Irina's office. By Monday morning at the latest. Because it didn’t make sense to me.",
+        "vi": "Khi nào bạn dự định kết thúc chiến dịch quảng cáo?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Next to Irina's office.",
+          "vi": "Cạnh văn phòng của Irina."
+        },
+        {
+          "key": "B",
+          "en": "By Monday morning at the latest.",
+          "vi": "Muộn nhất là vào sáng thứ Hai."
+        },
+        {
+          "key": "C",
+          "en": "Because it didn’t make sense to me.",
+          "vi": "Vì nó không có ý nghĩa gì với tôi cả."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets23-t01-p2-q026",
+      "number": 26,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/026.mp3",
+      "question": {
+        "en": "Where will the guest speaker be joining us from? Nobody shared the details with me. He wasn’t gone too long. First thing in the morning, I believe.",
+        "vi": "Diễn giả khách mời sẽ tham gia với chúng ta từ đâu?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Nobody shared the details with me.",
+          "vi": "Không ai chia sẻ chi tiết với tôi cả."
+        },
+        {
+          "key": "B",
+          "en": "He wasn’t gone too long.",
+          "vi": "Anh ấy đã không đi quá lâu."
+        },
+        {
+          "key": "C",
+          "en": "First thing in the morning, I believe.",
+          "vi": "Tôi tin là việc đầu tiên vào buổi sáng."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets23-t01-p2-q027",
+      "number": 27,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/027.mp3",
+      "question": {
+        "en": "Wouldn’t you prefer that Mi-Sun lead the training? No, I filed it three months ago. I just gave them to the director. I don’t think she works here anymore.",
+        "vi": "Bạn không thích Mi-Sun dẫn dắt buổi đào tạo hơn sao?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "No, I filed it three months ago.",
+          "vi": "Không, tôi đã nộp hồ sơ đó 3 tháng trước."
+        },
+        {
+          "key": "B",
+          "en": "I just gave them to the director.",
+          "vi": "Tôi vừa đưa chúng cho giám đốc."
+        },
+        {
+          "key": "C",
+          "en": "I don’t think she works here anymore.",
+          "vi": "Tôi không nghĩ cô ấy còn làm việc ở đây nữa."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets23-t01-p2-q028",
+      "number": 28,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/028.mp3",
+      "question": {
+        "en": "We should get some feedback on this book cover design. Ahmed has a visual arts degree. They probably skipped a week. It was really hard to hear.",
+        "vi": "Chúng ta nên lấy ý kiến phản hồi về thiết kế bìa sách này."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Ahmed has a visual arts degree.",
+          "vi": "Ahmed có bằng về nghệ thuật thị giác."
+        },
+        {
+          "key": "B",
+          "en": "They probably skipped a week.",
+          "vi": "Họ có lẽ đã bỏ qua một tuần."
+        },
+        {
+          "key": "C",
+          "en": "It was really hard to hear.",
+          "vi": "Thật sự rất khó nghe."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets23-t01-p2-q029",
+      "number": 29,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/029.mp3",
+      "question": {
+        "en": "Would you be able to delay the meeting? How much storage does it have? Most people seemed to enjoy it. Tatyana needs to leave for the airport in an hour.",
+        "vi": "Bạn có thể trì hoãn cuộc họp được không?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "How much storage does it have?",
+          "vi": "Nó có dung lượng lưu trữ bao nhiêu?"
+        },
+        {
+          "key": "B",
+          "en": "Most people seemed to enjoy it.",
+          "vi": "Hầu hết mọi người dường như thích nó."
+        },
+        {
+          "key": "C",
+          "en": "Tatyana needs to leave for the airport in an hour.",
+          "vi": "Tatyana cần khởi hành đi sân bay trong một giờ nữa."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets23-t01-p2-q030",
+      "number": 30,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/030.mp3",
+      "question": {
+        "en": "Will you rent a car or take the train while you’re visiting? They found some near the coast. I don’t like driving in the city. Mostly some old desks.",
+        "vi": "Bạn sẽ thuê xe hơi hay đi tàu hỏa khi đi tham quan?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "They found some near the coast.",
+          "vi": "Họ đã tìm thấy vài cái gần bờ biển."
+        },
+        {
+          "key": "B",
+          "en": "I don’t like driving in the city.",
+          "vi": "Tôi không thích lái xe trong thành phố."
+        },
+        {
+          "key": "C",
+          "en": "Mostly some old desks.",
+          "vi": "Chủ yếu là vài cái bàn cũ."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets23-t01-p2-q031",
+      "number": 31,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/031.mp3",
+      "question": {
+        "en": "Seven thirty at night is rather late for a meeting, isn’t it? If people agree on it, I will. I promise I’ll keep it short. I am not sure who he meant.",
+        "vi": "7 giờ 30 tối là khá muộn cho một cuộc họp, phải không?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "If people agree on it, I will.",
+          "vi": "Nếu mọi người đồng ý, tôi sẽ làm."
+        },
+        {
+          "key": "B",
+          "en": "I promise I’ll keep it short.",
+          "vi": "Tôi hứa là tôi sẽ làm nó ngắn gọn thôi."
+        },
+        {
+          "key": "C",
+          "en": "I am not sure who he meant.",
+          "vi": "Tôi không chắc anh ấy muốn nói đến ai."
+        }
+      ],
+      "answer": "B"
+    }
+  ]
+}

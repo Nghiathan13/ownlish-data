@@ -1,0 +1,1842 @@
+{
+  "groups": [
+    {
+      "id": "ets20-t09-p3-g032-034",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_09/audio/032-034.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "M: ",
+            "questionIds": []
+          },
+          {
+            "text": "Hello, I have a reservation for tonight, but I can't remember my confirmation number.",
+            "questionIds": [
+              "ets20-t09-p3-q032"
+            ]
+          },
+          {
+            "text": "\n\nW: No problem. What's your name?\n\nM: It's Martin Harris.\n\nW: OK, here it is. ",
+            "questionIds": []
+          },
+          {
+            "text": "You'll be staying with us for three nights.",
+            "questionIds": [
+              "ets20-t09-p3-q033"
+            ]
+          },
+          {
+            "text": " OK, here's your room key. Is there anything else I can help you with?\n\nM: Yes, where are the vending machines? I'm a bit hungry.\n\nW: There's a snack machine down this hall to the right.\n\nM: Great. ",
+            "questionIds": []
+          },
+          {
+            "text": "I can stop there on the way to my room.",
+            "questionIds": [
+              "ets20-t09-p3-q034"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Nam: Xin chào, tôi đã đặt phòng tối nay, nhưng tôi không thể nhớ số xác nhận của mình.\n\nNữ: Không sao. Tên của anh là gì?\n\nNam: Martin Harris.\n\nNữ: OK, đây rồi. Anh sẽ ở lại với chúng tôi ba đêm. OK, đây là chìa khóa phòng của anh. Tôi có thể giúp gì khác cho anh không?\n\nNam: Có, máy bán hàng tự động ở đâu? Tôi hơi đói.\n\nNữ: Có một máy bán đồ ăn nhẹ ở cuối hành lang này, bên phải.\n\nNam: Tuyệt vời. Tôi có thể ghé qua đó trên đường đến phòng của mình.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets20-t09-p3-q032",
+          "number": 32,
+          "question": {
+            "en": "What is the man unable to remember?",
+            "vi": "Người đàn ông không nhớ được điều gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A room number",
+              "vi": "Số phòng"
+            },
+            {
+              "key": "B",
+              "en": "A colleague's name",
+              "vi": "Tên đồng nghiệp"
+            },
+            {
+              "key": "C",
+              "en": "A phone number",
+              "vi": "Số điện thoại"
+            },
+            {
+              "key": "D",
+              "en": "A confirmation number",
+              "vi": "Số xác nhận"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets20-t09-p3-q033",
+          "number": 33,
+          "question": {
+            "en": "How long will the man stay at the hotel?",
+            "vi": "Người đàn ông sẽ ở khách sạn bao lâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "One night",
+              "vi": "Một đêm"
+            },
+            {
+              "key": "B",
+              "en": "Three nights",
+              "vi": "Ba đêm"
+            },
+            {
+              "key": "C",
+              "en": "Five nights",
+              "vi": "Năm đêm"
+            },
+            {
+              "key": "D",
+              "en": "Seven nights",
+              "vi": "Bảy đêm"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets20-t09-p3-q034",
+          "number": 34,
+          "question": {
+            "en": "What will the man do next?",
+            "vi": "Người đàn ông sẽ làm gì tiếp theo?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Make a phone call",
+              "vi": "Gọi điện thoại"
+            },
+            {
+              "key": "B",
+              "en": "Go to a restaurant",
+              "vi": "Đi đến nhà hàng"
+            },
+            {
+              "key": "C",
+              "en": "Get a snack",
+              "vi": "Lấy đồ ăn nhẹ"
+            },
+            {
+              "key": "D",
+              "en": "Unpack his luggage",
+              "vi": "Mở hành lý"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets20-t09-p3-g035-037",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_09/audio/035-037.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "M: ",
+            "questionIds": []
+          },
+          {
+            "text": "Hamilton Properties. This is the manager's office.",
+            "questionIds": [
+              "ets20-t09-p3-q035"
+            ]
+          },
+          {
+            "text": " How can I help you?\n\nW: Hi. I live in apartment four-C. ",
+            "questionIds": []
+          },
+          {
+            "text": "I need someone to come check my air-conditioning unit.",
+            "questionIds": [
+              "ets20-t09-p3-q036"
+            ]
+          },
+          {
+            "text": "\n\nM: OK. What seems to be the problem?\n\nW: Well, it was working yesterday, but today it won't turn on. It's starting to get hot inside the apartment.\n\nM: I'll send a technician out. ",
+            "questionIds": []
+          },
+          {
+            "text": "What's your phone number so he can call to let you know when he'll be there?",
+            "questionIds": [
+              "ets20-t09-p3-q037"
+            ]
+          },
+          {
+            "text": "\n\nW: It's 555-0124.\n\nM: All right. Someone will call you shortly.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Nam: Hamilton Properties. Đây là văn phòng quản lý. Tôi có thể giúp gì cho bạn?\n\nNữ: Chào. Tôi sống ở căn hộ 4C. Tôi cần ai đó đến kiểm tra thiết bị điều hòa của tôi.\n\nNam: Được rồi. Có vẻ có vấn đề gì vậy?\n\nNữ: Chà, nó vẫn hoạt động ngày hôm qua, nhưng hôm nay nó không bật được. Trong căn hộ bắt đầu nóng lên rồi.\n\nNam: Tôi sẽ cử một kỹ thuật viên đến. Số điện thoại của bạn là gì để anh ấy có thể gọi cho bạn biết khi nào anh ấy sẽ đến đó?\n\nNữ: Là 555-0124.\n\nNam: Được thôi. Ai đó sẽ gọi cho bạn ngay.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets20-t09-p3-q035",
+          "number": 35,
+          "question": {
+            "en": "Where does the man most likely work?",
+            "vi": "Người đàn ông có thể làm việc ở đâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "At an appliance store",
+              "vi": "Cửa hàng thiết bị gia dụng"
+            },
+            {
+              "key": "B",
+              "en": "At a hotel",
+              "vi": "Khách sạn"
+            },
+            {
+              "key": "C",
+              "en": "At a power company",
+              "vi": "Công ty điện lực"
+            },
+            {
+              "key": "D",
+              "en": "At a property management company",
+              "vi": "Công ty quản lý bất động sản"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets20-t09-p3-q036",
+          "number": 36,
+          "question": {
+            "en": "What problem does the woman report?",
+            "vi": "Người phụ nữ báo cáo vấn đề gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A window is broken.",
+              "vi": "Một cửa sổ bị vỡ."
+            },
+            {
+              "key": "B",
+              "en": "A door will not lock.",
+              "vi": "Một cửa không khóa được."
+            },
+            {
+              "key": "C",
+              "en": "An appliance is not working.",
+              "vi": "Một thiết bị không hoạt động."
+            },
+            {
+              "key": "D",
+              "en": "A faucet is leaking.",
+              "vi": "Một vòi nước bị rò rỉ."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets20-t09-p3-q037",
+          "number": 37,
+          "question": {
+            "en": "What does the man ask the woman for?",
+            "vi": "Người đàn ông yêu cầu người phụ nữ cung cấp gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "An address",
+              "vi": "Một địa chỉ"
+            },
+            {
+              "key": "B",
+              "en": "An e-mail",
+              "vi": "Một email"
+            },
+            {
+              "key": "C",
+              "en": "A phone number",
+              "vi": "Một số điện thoại"
+            },
+            {
+              "key": "D",
+              "en": "A receipt",
+              "vi": "Một biên lai"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets20-t09-p3-g038-040",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_09/audio/038-040.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "W: Hi, Jermaine. We've been producing a lot of sports beverages here at the factory lately, and our supply of bottles will only last another month or so. ",
+            "questionIds": []
+          },
+          {
+            "text": "Can you place an order for another shipment of bottles?",
+            "questionIds": [
+              "ets20-t09-p3-q038"
+            ]
+          },
+          {
+            "text": "\n\nM: Sure, but should I use the same supplier as last time?\n\nW: ",
+            "questionIds": []
+          },
+          {
+            "text": "That depends on whether they can give us a lower price on future orders.",
+            "questionIds": [
+              "ets20-t09-p3-q039"
+            ]
+          },
+          {
+            "text": " Could you negotiate the price with them?\n\nM: Hmm... good idea. ",
+            "questionIds": []
+          },
+          {
+            "text": "I'll call the supplier and see what they say.",
+            "questionIds": [
+              "ets20-t09-p3-q040"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Nữ: Chào Jermaine. Gần đây chúng ta đã sản xuất rất nhiều đồ uống thể thao ở đây tại nhà máy, và nguồn cung chai của chúng ta chỉ còn đủ dùng trong khoảng một tháng nữa thôi. Bạn có thể đặt hàng một lô chai mới được không?\n\nNam: Chắc chắn rồi, nhưng tôi có nên dùng cùng nhà cung cấp lần trước không?\n\nNữ: Điều đó tùy thuộc vào việc họ có thể cho chúng ta một mức giá thấp hơn cho các đơn hàng trong tương lai hay không. Bạn có thể đàm phán giá với họ không?\n\nNam: Hmm... ý hay đấy. Tôi sẽ gọi cho nhà cung cấp và xem họ nói gì.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets20-t09-p3-q038",
+          "number": 38,
+          "question": {
+            "en": "What does the woman ask the man to do?",
+            "vi": "Người phụ nữ yêu cầu người đàn ông làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Order some supplies",
+              "vi": "Đặt hàng vật tư"
+            },
+            {
+              "key": "B",
+              "en": "Change a delivery date",
+              "vi": "Thay đổi ngày giao hàng"
+            },
+            {
+              "key": "C",
+              "en": "Contact a customer",
+              "vi": "Liên hệ khách hàng"
+            },
+            {
+              "key": "D",
+              "en": "Prepare a report",
+              "vi": "Chuẩn bị báo cáo"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets20-t09-p3-q039",
+          "number": 39,
+          "question": {
+            "en": "What does the woman want to find out about a supplier?",
+            "vi": "Người phụ nữ muốn tìm hiểu điều gì về nhà cung cấp?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "How large the inventory is",
+              "vi": "Hàng tồn kho lớn bao nhiêu"
+            },
+            {
+              "key": "B",
+              "en": "Where a warehouse is located",
+              "vi": "Kho hàng nằm ở đâu"
+            },
+            {
+              "key": "C",
+              "en": "Whether a discount is available",
+              "vi": "Có được giảm giá không"
+            },
+            {
+              "key": "D",
+              "en": "When a delivery will arrive",
+              "vi": "Khi nào hàng sẽ được giao"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets20-t09-p3-q040",
+          "number": 40,
+          "question": {
+            "en": "What will the man do next?",
+            "vi": "Người đàn ông sẽ làm gì tiếp theo?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Visit a factory",
+              "vi": "Đến thăm nhà máy"
+            },
+            {
+              "key": "B",
+              "en": "Review an invoice",
+              "vi": "Xem lại hóa đơn"
+            },
+            {
+              "key": "C",
+              "en": "Make a phone call",
+              "vi": "Gọi điện thoại"
+            },
+            {
+              "key": "D",
+              "en": "Update a schedule",
+              "vi": "Cập nhật lịch trình"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets20-t09-p3-g041-043",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_09/audio/041-043.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "W: Edwin, you've been a tour guide with our company for six months now. How's it going?\n\nM: Great. ",
+            "questionIds": []
+          },
+          {
+            "text": "I really love this job. It's given me a chance to learn about the history of the city.",
+            "questionIds": [
+              "ets20-t09-p3-q041"
+            ]
+          },
+          {
+            "text": " I have a lot more knowledge now about the places we visit.\n\nW: That's good. ",
+            "questionIds": []
+          },
+          {
+            "text": "And I've heard customers say your tours are very interesting.",
+            "questionIds": [
+              "ets20-t09-p3-q042"
+            ]
+          },
+          {
+            "text": " So, I was wondering if you'd like to increase your hours. Would you be interested in working a couple of extra shifts each week?\n\nM: Yes, I'd like that a lot. ",
+            "questionIds": []
+          },
+          {
+            "text": "I could work on weekends if you need me.",
+            "questionIds": [
+              "ets20-t09-p3-q043"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Nữ: Edwin, anh đã làm hướng dẫn viên du lịch cho công ty chúng ta được sáu tháng rồi. Mọi việc thế nào?\n\nNam: Tuyệt vời. Tôi thực sự yêu công việc này. Nó đã cho tôi cơ hội tìm hiểu về lịch sử thành phố. Bây giờ tôi có nhiều kiến thức hơn về những nơi chúng ta ghé thăm.\n\nNữ: Tốt quá. Và tôi nghe khách hàng nói các chuyến tham quan của anh rất thú vị. Vậy, tôi tự hỏi liệu anh có muốn tăng giờ làm của mình không. Anh có muốn làm thêm vài ca mỗi tuần không?\n\nNam: Vâng, tôi rất muốn. Tôi có thể làm việc vào cuối tuần nếu bạn cần.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets20-t09-p3-q041",
+          "number": 41,
+          "question": {
+            "en": "What does the man say he likes about his job?",
+            "vi": "Người đàn ông nói anh thích điều gì ở công việc?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "The salary",
+              "vi": "Lương"
+            },
+            {
+              "key": "B",
+              "en": "The location",
+              "vi": "Địa điểm"
+            },
+            {
+              "key": "C",
+              "en": "The schedule",
+              "vi": "Lịch trình"
+            },
+            {
+              "key": "D",
+              "en": "The learning opportunities",
+              "vi": "Cơ hội học hỏi"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets20-t09-p3-q042",
+          "number": 42,
+          "question": {
+            "en": "What have customers said about the man?",
+            "vi": "Khách hàng đã nói gì về người đàn ông?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He is always on time.",
+              "vi": "Anh ấy luôn đúng giờ."
+            },
+            {
+              "key": "B",
+              "en": "He is very knowledgeable.",
+              "vi": "Anh ấy rất hiểu biết."
+            },
+            {
+              "key": "C",
+              "en": "He gives interesting tours.",
+              "vi": "Anh ấy dẫn tour thú vị."
+            },
+            {
+              "key": "D",
+              "en": "He provides helpful recommendations.",
+              "vi": "Anh ấy đưa ra gợi ý hữu ích."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets20-t09-p3-q043",
+          "number": 43,
+          "question": {
+            "en": "What does the man offer to do?",
+            "vi": "Người đàn ông đề nghị làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Train a new employee",
+              "vi": "Đào tạo nhân viên mới"
+            },
+            {
+              "key": "B",
+              "en": "Work on weekends",
+              "vi": "Làm việc vào cuối tuần"
+            },
+            {
+              "key": "C",
+              "en": "Revise a tour schedule",
+              "vi": "Sửa lại lịch trình tour"
+            },
+            {
+              "key": "D",
+              "en": "Write a company review",
+              "vi": "Viết đánh giá công ty"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets20-t09-p3-g044-046",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_09/audio/044-046.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "W: Mr. Stern, I have an idea for our newspaper's upcoming edition. ",
+            "questionIds": []
+          },
+          {
+            "text": "A lot of farmers markets in this region open during the summer months, so I'd like to write a short piece about them.",
+            "questionIds": [
+              "ets20-t09-p3-q044"
+            ]
+          },
+          {
+            "text": "\n\nM: That would work well. Are you planning to interview the vendors who are selling produce? ",
+            "questionIds": []
+          },
+          {
+            "text": "We've received a lot of positive feedback from our readers when we print stories about local business owners.",
+            "questionIds": [
+              "ets20-t09-p3-q045"
+            ]
+          },
+          {
+            "text": "\n\nW: That's a good idea, but I'll need to find a photographer to accompany me this weekend.\n\nM: ",
+            "questionIds": []
+          },
+          {
+            "text": "I don't think Elena has any assignments.",
+            "questionIds": [
+              "ets20-t09-p3-q046"
+            ]
+          },
+          {
+            "text": "\n\nW: Great! I'll speak with her now.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Nữ: Ông Stern, tôi có một ý tưởng cho ấn bản sắp tới của tờ báo chúng ta. Nhiều chợ nông sản trong khu vực này mở cửa vào những tháng mùa hè, vì vậy tôi muốn viết một bài ngắn về chúng.\n\nNam: Điều đó sẽ hiệu quả đấy. Bạn có định phỏng vấn những người bán hàng đang bán nông sản không? Chúng tôi đã nhận được nhiều phản hồi tích cực từ độc giả khi chúng tôi đăng những câu chuyện về các chủ doanh nghiệp địa phương.\n\nNữ: Đó là một ý kiến hay, nhưng tôi sẽ cần tìm một nhiếp ảnh gia đi cùng tôi cuối tuần này.\n\nNam: Tôi không nghĩ Elena có bất kỳ nhiệm vụ nào.\n\nNữ: Tuyệt vời! Tôi sẽ nói chuyện với cô ấy ngay bây giờ.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets20-t09-p3-q044",
+          "number": 44,
+          "question": {
+            "en": "What does the woman want to write about?",
+            "vi": "Người phụ nữ muốn viết về điều gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A cooking class",
+              "vi": "Lớp học nấu ăn"
+            },
+            {
+              "key": "B",
+              "en": "A grand opening",
+              "vi": "Lễ khai trương"
+            },
+            {
+              "key": "C",
+              "en": "Some seasonal businesses",
+              "vi": "Một số doanh nghiệp theo mùa"
+            },
+            {
+              "key": "D",
+              "en": "Some new restaurants",
+              "vi": "Một số nhà hàng mới"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets20-t09-p3-q045",
+          "number": 45,
+          "question": {
+            "en": "What does the man say readers like?",
+            "vi": "Người đàn ông nói độc giả thích gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Stories about local business owners",
+              "vi": "Câu chuyện về chủ doanh nghiệp địa phương"
+            },
+            {
+              "key": "B",
+              "en": "Movie reviews",
+              "vi": "Đánh giá phim"
+            },
+            {
+              "key": "C",
+              "en": "Travel recommendations",
+              "vi": "Gợi ý du lịch"
+            },
+            {
+              "key": "D",
+              "en": "Recipes from famous chefs",
+              "vi": "Công thức nấu ăn từ đầu bếp nổi tiếng"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets20-t09-p3-q046",
+          "number": 46,
+          "question": {
+            "en": "Who most likely is Elena?",
+            "vi": "Elena nhiều khả năng là ai?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "An editor",
+              "vi": "Biên tập viên"
+            },
+            {
+              "key": "B",
+              "en": "A photographer",
+              "vi": "Nhiếp ảnh gia"
+            },
+            {
+              "key": "C",
+              "en": "A vendor",
+              "vi": "Người bán hàng"
+            },
+            {
+              "key": "D",
+              "en": "A chef",
+              "vi": "Đầu bếp"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets20-t09-p3-g047-049",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_09/audio/047-049.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "M: ",
+            "questionIds": []
+          },
+          {
+            "text": "Anita, congratulations on publishing your book about fund-raising for nonprofit organizations!",
+            "questionIds": [
+              "ets20-t09-p3-q047"
+            ]
+          },
+          {
+            "text": "\n\nW: Thanks! I couldn't have done it without the input from everyone here at the Society for Wildlife Preservation.\n\nM: ",
+            "questionIds": []
+          },
+          {
+            "text": "If it's possible, I'd really like you to give a talk on your book to the staff.",
+            "questionIds": [
+              "ets20-t09-p3-q048"
+            ]
+          },
+          {
+            "text": " I think it'd really motivate everyone to think creatively about how we can attract more donors to help our cause.\n\nW: ",
+            "questionIds": []
+          },
+          {
+            "text": "Sure, I can do that, but it'll have to wait until next month because I'm attending that convention on protecting the rain forest.",
+            "questionIds": [
+              "ets20-t09-p3-q049"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Nam: Anita, chúc mừng cô đã xuất bản cuốn sách về gây quỹ cho các tổ chức phi lợi nhuận!\n\nNữ: Cảm ơn! Tôi không thể làm được nếu không có sự đóng góp từ tất cả mọi người ở đây tại Hiệp hội Bảo tồn Động vật Hoang dã.\n\nNam: Nếu có thể, tôi thực sự muốn cô thuyết trình về cuốn sách của mình cho nhân viên. Tôi nghĩ điều đó thực sự sẽ thúc đẩy mọi người suy nghĩ sáng tạo về cách chúng ta có thể thu hút thêm nhiều nhà tài trợ để giúp đỡ sự nghiệp của chúng ta.\n\nNữ: Chắc chắn rồi, tôi có thể làm điều đó, nhưng sẽ phải đợi đến tháng tới vì tôi đang tham dự hội nghị về bảo vệ rừng nhiệt đới.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets20-t09-p3-q047",
+          "number": 47,
+          "question": {
+            "en": "What is the woman's book about?",
+            "vi": "Cuốn sách của người phụ nữ nói về điều gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Fund-raising",
+              "vi": "Gây quỹ"
+            },
+            {
+              "key": "B",
+              "en": "Rain forest conservation",
+              "vi": "Bảo tồn rừng mưa"
+            },
+            {
+              "key": "C",
+              "en": "Wildlife photography",
+              "vi": "Nhiếp ảnh động vật hoang dã"
+            },
+            {
+              "key": "D",
+              "en": "Organic farming",
+              "vi": "Nông nghiệp hữu cơ"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets20-t09-p3-q048",
+          "number": 48,
+          "question": {
+            "en": "What does the man want the woman to do?",
+            "vi": "Người đàn ông muốn người phụ nữ làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Write an article",
+              "vi": "Viết một bài báo"
+            },
+            {
+              "key": "B",
+              "en": "Contact some donors",
+              "vi": "Liên hệ một số nhà tài trợ"
+            },
+            {
+              "key": "C",
+              "en": "Organize a convention",
+              "vi": "Tổ chức một hội nghị"
+            },
+            {
+              "key": "D",
+              "en": "Give a talk to the staff",
+              "vi": "Nói chuyện với nhân viên"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets20-t09-p3-q049",
+          "number": 49,
+          "question": {
+            "en": "Why is the woman unavailable this month?",
+            "vi": "Tại sao người phụ nữ không rảnh tháng này?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She is writing another book.",
+              "vi": "Cô ấy đang viết một cuốn sách khác."
+            },
+            {
+              "key": "B",
+              "en": "She is attending a convention.",
+              "vi": "Cô ấy đang tham dự một hội nghị."
+            },
+            {
+              "key": "C",
+              "en": "She is on vacation.",
+              "vi": "Cô ấy đang đi nghỉ."
+            },
+            {
+              "key": "D",
+              "en": "She is training new employees.",
+              "vi": "Cô ấy đang đào tạo nhân viên mới."
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets20-t09-p3-g050-052",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_09/audio/050-052.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "M: Ms. Lombardo, let me introduce you to my coworker Tom. ",
+            "questionIds": []
+          },
+          {
+            "text": "He'll be helping me with the designs for your remodeling project.",
+            "questionIds": [
+              "ets20-t09-p3-q050"
+            ]
+          },
+          {
+            "text": " We're here today to see the space and listen to your ideas.\n\nW: Thank you both for coming. It's nice to meet you, Tom. Now, I'd like to talk about what's available for flooring first.\n\nM: Sure, there are some great laminate flooring options. ",
+            "questionIds": []
+          },
+          {
+            "text": "They're fairly inexpensive and very durable.",
+            "questionIds": [
+              "ets20-t09-p3-q051"
+            ]
+          },
+          {
+            "text": "\n\nM: Yes, that's right. ",
+            "questionIds": []
+          },
+          {
+            "text": "Tom, why don't you show her the flooring section of the catalog?",
+            "questionIds": [
+              "ets20-t09-p3-q052"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Nam: Cô Lombardo, để tôi giới thiệu cô với đồng nghiệp của tôi, Tom. Anh ấy sẽ giúp tôi thiết kế cho dự án cải tạo của cô. Chúng tôi ở đây hôm nay để xem không gian và lắng nghe ý tưởng của cô.\n\nNữ: Cảm ơn hai anh đã đến. Rất vui được gặp anh, Tom. Bây giờ, tôi muốn nói về những gì có sẵn cho sàn nhà trước tiên.\n\nNam: Chắc chắn rồi, có một số lựa chọn ván sàn công nghiệp rất tuyệt vời. Chúng khá rẻ và rất bền.\n\nNam: Vâng, đúng vậy. Tom, tại sao anh không cho cô ấy xem phần sàn nhà trong danh mục?",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets20-t09-p3-q050",
+          "number": 50,
+          "question": {
+            "en": "What is the woman's project about?",
+            "vi": "Dự án của người phụ nữ là về gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Building a new house",
+              "vi": "Xây nhà mới"
+            },
+            {
+              "key": "B",
+              "en": "Remodeling a space",
+              "vi": "Cải tạo không gian"
+            },
+            {
+              "key": "C",
+              "en": "Designing a garden",
+              "vi": "Thiết kế vườn"
+            },
+            {
+              "key": "D",
+              "en": "Opening a store",
+              "vi": "Mở cửa hàng"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets20-t09-p3-q051",
+          "number": 51,
+          "question": {
+            "en": "What does the man say about laminate flooring?",
+            "vi": "Người đàn ông nói gì về sàn gỗ công nghiệp?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is easy to install.",
+              "vi": "Nó dễ lắp đặt."
+            },
+            {
+              "key": "B",
+              "en": "It comes in many colors.",
+              "vi": "Nó có nhiều màu sắc."
+            },
+            {
+              "key": "C",
+              "en": "It is inexpensive and durable.",
+              "vi": "Nó rẻ và bền."
+            },
+            {
+              "key": "D",
+              "en": "It requires special maintenance.",
+              "vi": "Nó cần bảo trì đặc biệt."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets20-t09-p3-q052",
+          "number": 52,
+          "question": {
+            "en": "What does the man suggest Tom do?",
+            "vi": "Người đàn ông gợi ý Tom làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Show a catalog",
+              "vi": "Cho xem một danh mục sản phẩm"
+            },
+            {
+              "key": "B",
+              "en": "Take some measurements",
+              "vi": "Đo kích thước"
+            },
+            {
+              "key": "C",
+              "en": "Write up an estimate",
+              "vi": "Viết báo giá"
+            },
+            {
+              "key": "D",
+              "en": "Schedule a follow-up visit",
+              "vi": "Lên lịch hẹn lại"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets20-t09-p3-g053-055",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_09/audio/053-055.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "W: Amir, can you help me? ",
+            "questionIds": []
+          },
+          {
+            "text": "I'm trying to set up the conference room projector for a workshop I'm giving at two o'clock.",
+            "questionIds": [
+              "ets20-t09-p3-q053"
+            ]
+          },
+          {
+            "text": "\n\nM: Sure. What's the problem?\n\nW: ",
+            "questionIds": []
+          },
+          {
+            "text": "Well, I'm having trouble connecting the projector to my laptop. My laptop cable isn't compatible with the projector.",
+            "questionIds": [
+              "ets20-t09-p3-q054"
+            ]
+          },
+          {
+            "text": "\n\nM: Did the company just issue you a new laptop?\n\nW: Yes—last week.\n\nM: Our new work laptops require a different cable. ",
+            "questionIds": []
+          },
+          {
+            "text": "It should be in the box they gave you when they delivered your laptop. You should go look in your office.",
+            "questionIds": [
+              "ets20-t09-p3-q055"
+            ]
+          },
+          {
+            "text": "\n\nW: Thanks so much. I'll do that now.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Nữ: Amir, anh có thể giúp tôi không? Tôi đang cố gắng thiết lập máy chiếu phòng họp cho buổi hội thảo mà tôi sẽ thuyết trình lúc hai giờ.\n\nNam: Chắc chắn rồi. Vấn đề là gì?\n\nNữ: Chà, tôi đang gặp khó khăn khi kết nối máy chiếu với máy tính xách tay của mình. Cáp máy tính xách tay của tôi không tương thích với máy chiếu.\n\nNam: Có phải công ty vừa cấp cho bạn một chiếc máy tính xách tay mới không?\n\nNữ: Vâng – tuần trước.\n\nNam: Máy tính xách tay làm việc mới của chúng ta yêu cầu một loại cáp khác. Nó phải ở trong hộp mà họ đã đưa cho bạn khi giao máy tính xách tay của bạn. Bạn nên vào văn phòng của mình để tìm.\n\nNữ: Cảm ơn rất nhiều. Tôi sẽ làm ngay bây giờ.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets20-t09-p3-q053",
+          "number": 53,
+          "question": {
+            "en": "What event is the woman preparing for?",
+            "vi": "Người phụ nữ đang chuẩn bị cho sự kiện gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A job interview",
+              "vi": "Phỏng vấn xin việc"
+            },
+            {
+              "key": "B",
+              "en": "A client meeting",
+              "vi": "Cuộc họp khách hàng"
+            },
+            {
+              "key": "C",
+              "en": "A training session",
+              "vi": "Buổi đào tạo"
+            },
+            {
+              "key": "D",
+              "en": "A workshop",
+              "vi": "Hội thảo"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets20-t09-p3-q054",
+          "number": 54,
+          "question": {
+            "en": "What is the woman's problem?",
+            "vi": "Vấn đề của người phụ nữ là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A room is not available.",
+              "vi": "Một phòng không có sẵn."
+            },
+            {
+              "key": "B",
+              "en": "A cable is not compatible.",
+              "vi": "Một dây cáp không tương thích."
+            },
+            {
+              "key": "C",
+              "en": "A file cannot be opened.",
+              "vi": "Một tệp không mở được."
+            },
+            {
+              "key": "D",
+              "en": "A printer is out of ink.",
+              "vi": "Một máy in hết mực."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets20-t09-p3-q055",
+          "number": 55,
+          "question": {
+            "en": "Where does the man suggest the woman look?",
+            "vi": "Người đàn ông gợi ý người phụ nữ tìm ở đâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "In her office",
+              "vi": "Trong văn phòng của cô ấy"
+            },
+            {
+              "key": "B",
+              "en": "In the supply room",
+              "vi": "Trong phòng cung ứng"
+            },
+            {
+              "key": "C",
+              "en": "At the reception desk",
+              "vi": "Ở quầy lễ tân"
+            },
+            {
+              "key": "D",
+              "en": "At the IT department",
+              "vi": "Ở bộ phận IT"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets20-t09-p3-g056-058",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_09/audio/056-058.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "W: Satoshi, Luisa from the gardening center is here to look at our outdoor seating area.\n\nM: Hi, Luisa. ",
+            "questionIds": []
+          },
+          {
+            "text": "The patio's here on the north side of the café, so it doesn't get much direct sunlight.",
+            "questionIds": [
+              "ets20-t09-p3-q056"
+            ]
+          },
+          {
+            "text": " But I'd like to have as many plants as possible to create a comfortable space for our customers to enjoy their coffee.\n\nW: Well, there are quite a few species of potted plants that will thrive in that space with indirect sunlight. ",
+            "questionIds": []
+          },
+          {
+            "text": "You should come by the garden center tomorrow to see them.",
+            "questionIds": [
+              "ets20-t09-p3-q057"
+            ]
+          },
+          {
+            "text": "\n\nM: ",
+            "questionIds": []
+          },
+          {
+            "text": "Would you mind e-mailing me some photos instead?",
+            "questionIds": [
+              "ets20-t09-p3-q058"
+            ]
+          },
+          {
+            "text": " Some tables are being delivered tomorrow, so I'll need to stay here all day.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Nữ: Satoshi này, cô Luisa từ trung tâm làm vườn đã đến để xem khu vực chỗ ngồi ngoài trời của chúng ta.\n\nNam: Chào cô Luisa. Sân ở phía bắc của quán cà phê, nên không nhận được nhiều ánh nắng trực tiếp. Nhưng tôi muốn có càng nhiều cây càng tốt để tạo ra một không gian thoải mái cho khách hàng của chúng ta thưởng thức cà phê.\n\nNữ: Chà, có khá nhiều loài cây trồng trong chậu sẽ phát triển tốt trong không gian đó với ánh nắng gián tiếp. Cô nên ghé qua trung tâm làm vườn vào ngày mai để xem chúng.\n\nNam: Cô có phiền gửi email cho tôi một vài bức ảnh thay vì đó không? Một số bàn sẽ được giao vào ngày mai, nên tôi sẽ cần phải ở đây cả ngày.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets20-t09-p3-q056",
+          "number": 56,
+          "question": {
+            "en": "Where is the conversation taking place?",
+            "vi": "Cuộc hội thoại diễn ra ở đâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "At a park",
+              "vi": "Công viên"
+            },
+            {
+              "key": "B",
+              "en": "At a café",
+              "vi": "Quán cà phê"
+            },
+            {
+              "key": "C",
+              "en": "At a furniture store",
+              "vi": "Cửa hàng nội thất"
+            },
+            {
+              "key": "D",
+              "en": "At a supermarket",
+              "vi": "Siêu thị"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets20-t09-p3-q057",
+          "number": 57,
+          "question": {
+            "en": "What does Luisa suggest that the man do?",
+            "vi": "Luisa gợi ý người đàn ông làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Open a window",
+              "vi": "Mở cửa sổ"
+            },
+            {
+              "key": "B",
+              "en": "Use a coupon",
+              "vi": "Sử dụng phiếu giảm giá"
+            },
+            {
+              "key": "C",
+              "en": "Visit a plant shop",
+              "vi": "Ghé thăm cửa hàng cây cảnh"
+            },
+            {
+              "key": "D",
+              "en": "Extend business hours",
+              "vi": "Kéo dài giờ làm việc"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets20-t09-p3-q058",
+          "number": 58,
+          "question": {
+            "en": "What does the man ask Luisa for?",
+            "vi": "Người đàn ông yêu cầu Luisa điều gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A list of prices",
+              "vi": "Một danh sách giá"
+            },
+            {
+              "key": "B",
+              "en": "A deadline extension",
+              "vi": "Gia hạn thời hạn"
+            },
+            {
+              "key": "C",
+              "en": "Some coffee",
+              "vi": "Một ít cà phê"
+            },
+            {
+              "key": "D",
+              "en": "Some photographs",
+              "vi": "Một số bức ảnh"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets20-t09-p3-g059-061",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_09/audio/059-061.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "W: Do you know Bob, the new hire? Well, he submitted his first quarterly sales report yesterday. ",
+            "questionIds": []
+          },
+          {
+            "text": "I just finished analyzing it, and it looks like the electronic items, especially laptops, are underperforming in our Region 1 stores.",
+            "questionIds": [
+              "ets20-t09-p3-q059"
+            ]
+          },
+          {
+            "text": "\n\nM: That doesn't sound good.\n\nW: No, but the report concluded that the company should still focus on selling electronics, because the profit margin on these items is a lot higher.\n\nM: That makes sense. I think Bob should do a presentation for the sales department about his report.\n\nW: ",
+            "questionIds": []
+          },
+          {
+            "text": "He's never done that before.",
+            "questionIds": [
+              "ets20-t09-p3-q060"
+            ]
+          },
+          {
+            "text": " Uh... I could present the report.\n\nM: No, it's a good experience for a new employee. ",
+            "questionIds": []
+          },
+          {
+            "text": "I'll organize a meeting with the sales department next week.",
+            "questionIds": [
+              "ets20-t09-p3-q061"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Nữ: Bạn có biết Bob, nhân viên mới không? À, anh ấy đã nộp báo cáo doanh số hàng quý đầu tiên của mình vào ngày hôm qua. Tôi vừa phân tích xong, và có vẻ như các mặt hàng điện tử, đặc biệt là máy tính xách tay, đang hoạt động kém hiệu quả tại các cửa hàng Vùng 1 của chúng ta.\n\nNam: Nghe có vẻ không tốt chút nào.\n\nNữ: Không, nhưng báo cáo kết luận rằng công ty vẫn nên tập trung vào việc bán hàng điện tử, bởi vì biên lợi nhuận trên các mặt hàng này cao hơn nhiều.\n\nNam: Điều đó hợp lý. Tôi nghĩ Bob nên thuyết trình cho phòng kinh doanh về báo cáo của anh ấy.\n\nNữ: Anh ấy chưa bao giờ làm điều đó trước đây. Ờ... tôi có thể trình bày báo cáo.\n\nNam: Không, đó là một kinh nghiệm tốt cho một nhân viên mới. Tôi sẽ sắp xếp một cuộc họp với phòng kinh doanh vào tuần tới.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets20-t09-p3-q059",
+          "number": 59,
+          "question": {
+            "en": "What problem does the woman mention?",
+            "vi": "Người phụ nữ đề cập vấn đề gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A product is not selling well.",
+              "vi": "Một sản phẩm bán không chạy"
+            },
+            {
+              "key": "B",
+              "en": "A position is vacant.",
+              "vi": "Một vị trí đang trống"
+            },
+            {
+              "key": "C",
+              "en": "A proposal was not accepted.",
+              "vi": "Một đề xuất không được chấp nhận"
+            },
+            {
+              "key": "D",
+              "en": "A supervisor is busy.",
+              "vi": "Quản lý đang bận"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets20-t09-p3-q060",
+          "number": 60,
+          "question": {
+            "en": "Why does the woman say, \"He's never done that before\"?",
+            "vi": "Tại sao người phụ nữ nói \"Anh ấy chưa bao giờ làm vậy trước đây\"?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To express concern",
+              "vi": "Để bày tỏ lo ngại"
+            },
+            {
+              "key": "B",
+              "en": "To request more help",
+              "vi": "Để yêu cầu thêm sự giúp đỡ"
+            },
+            {
+              "key": "C",
+              "en": "To approve a decision",
+              "vi": "Để đồng ý với một quyết định"
+            },
+            {
+              "key": "D",
+              "en": "To offer some praise",
+              "vi": "Để khen ngợi"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets20-t09-p3-q061",
+          "number": 61,
+          "question": {
+            "en": "What does the man say he will do?",
+            "vi": "Người đàn ông nói anh ấy sẽ làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Write a report",
+              "vi": "Viết một báo cáo"
+            },
+            {
+              "key": "B",
+              "en": "Conduct an interview",
+              "vi": "Thực hiện một cuộc phỏng vấn"
+            },
+            {
+              "key": "C",
+              "en": "Schedule a meeting",
+              "vi": "Lên lịch một cuộc họp"
+            },
+            {
+              "key": "D",
+              "en": "Post an advertisement",
+              "vi": "Đăng một quảng cáo"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets20-t09-p3-g062-064",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_09/audio/062-064.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "M: Excuse me. I was here in your store yesterday, and I need to return this item.\n\nW: OK. Are there any problems with it?\n\nM: ",
+            "questionIds": []
+          },
+          {
+            "text": "Yes. When I got home, I went to put it away and realized that there's a large stain right here.",
+            "questionIds": [
+              "ets20-t09-p3-q062"
+            ]
+          },
+          {
+            "text": " See?\n\nW: I'm sorry about that. ",
+            "questionIds": []
+          },
+          {
+            "text": "OK. So, it looks like you spent 32 dollars on the item.",
+            "questionIds": [
+              "ets20-t09-p3-q063"
+            ]
+          },
+          {
+            "text": "\n\nM: Right, and I used my credit card for the purchase.\n\nW: ",
+            "questionIds": []
+          },
+          {
+            "text": "Well, I can certainly refund the amount to your credit card.",
+            "questionIds": [
+              "ets20-t09-p3-q064"
+            ]
+          },
+          {
+            "text": " Would you like me to do that?\n\nM: That sounds good.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Nam: Xin lỗi. Hôm qua tôi đã ở cửa hàng của bạn, và tôi cần trả lại món hàng này.\n\nNữ: OK. Có vấn đề gì với nó không?\n\nNam: Có. Khi tôi về nhà, tôi định cất nó đi và nhận ra rằng có một vết ố lớn ngay đây. Thấy chứ?\n\nNữ: Tôi xin lỗi về điều đó. OK. Vậy, có vẻ như bạn đã chi 32 đô la cho món hàng.\n\nNam: Đúng vậy, và tôi đã dùng thẻ tín dụng của mình để mua hàng.\n\nNữ: Vâng, tôi chắc chắn có thể hoàn lại số tiền vào thẻ tín dụng của bạn. Bạn có muốn tôi làm vậy không?\n\nNam: Nghe có vẻ tốt.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets20-t09-p3-q062",
+          "number": 62,
+          "question": {
+            "en": "Why does the man want to return an item?",
+            "vi": "Tại sao người đàn ông muốn trả lại hàng?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It has a stain.",
+              "vi": "Có vết bẩn"
+            },
+            {
+              "key": "B",
+              "en": "It has a tear.",
+              "vi": "Bị rách"
+            },
+            {
+              "key": "C",
+              "en": "It is the wrong color.",
+              "vi": "Sai màu"
+            },
+            {
+              "key": "D",
+              "en": "It is too large.",
+              "vi": "Quá lớn"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets20-t09-p3-q063",
+          "number": 63,
+          "question": {
+            "en": "Look at the graphic. Which item does the man want to return?",
+            "vi": "Nhìn vào hình. Người đàn ông muốn trả lại món nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "The jacket",
+              "vi": "Áo khoác"
+            },
+            {
+              "key": "B",
+              "en": "The sweater",
+              "vi": "Áo len"
+            },
+            {
+              "key": "C",
+              "en": "The scarf",
+              "vi": "Khăn quàng cổ"
+            },
+            {
+              "key": "D",
+              "en": "The T-shirt",
+              "vi": "Áo phông"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets20-t09-p3-q064",
+          "number": 64,
+          "question": {
+            "en": "What does the woman offer to do for the man?",
+            "vi": "Người phụ nữ đề nghị làm gì cho người đàn ông?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Issue a refund to his credit card",
+              "vi": "Hoàn tiền vào thẻ tín dụng"
+            },
+            {
+              "key": "B",
+              "en": "Set up an account for him",
+              "vi": "Tạo tài khoản cho anh ấy"
+            },
+            {
+              "key": "C",
+              "en": "Consult with a manager",
+              "vi": "Tham khảo ý kiến quản lý"
+            },
+            {
+              "key": "D",
+              "en": "Call another branch store",
+              "vi": "Gọi đến chi nhánh khác"
+            }
+          ],
+          "answer": "A"
+        }
+      ],
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_09/image/062-064.png"
+    },
+    {
+      "id": "ets20-t09-p3-g065-067",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_09/audio/065-067.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "M: Joe's Pizza House. What would you like to order?\n\nW: Hi, Joe. It's Vanessa. I'm on Mill Street by the bus stop right now. ",
+            "questionIds": []
+          },
+          {
+            "text": "I'm almost finished delivering the food orders.",
+            "questionIds": [
+              "ets20-t09-p3-q065"
+            ]
+          },
+          {
+            "text": " ",
+            "questionIds": []
+          },
+          {
+            "text": "But this last one doesn't have an address on it.",
+            "questionIds": [
+              "ets20-t09-p3-q066"
+            ]
+          },
+          {
+            "text": "\n\nM: Hmm... No address? Is there a name?\n\nW: Uh... it's Dan Smith.\n\nM: OK. Let me look that up... ",
+            "questionIds": []
+          },
+          {
+            "text": "The Smith order needs to be delivered to the Hazelton apartment building—apartment twelve.",
+            "questionIds": [
+              "ets20-t09-p3-q067"
+            ]
+          },
+          {
+            "text": "\n\nW: Oh yes, on Durham Road—directly across from the park. Thanks!",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Nam: Joe's Pizza House. Quý khách muốn đặt món gì ạ?\n\nNữ: Chào Joe. Vanessa đây. Tôi đang ở phố Mill gần trạm xe buýt. Tôi gần xong việc giao các đơn hàng ăn rồi. Nhưng đơn cuối cùng này không có địa chỉ.\n\nNam: Hmm... Không địa chỉ? Có tên không?\n\nNữ: Ừm... là Dan Smith.\n\nNam: OK. Để tôi tra xem... Đơn hàng của Smith cần được giao đến tòa nhà chung cư Hazelton—căn hộ số mười hai.\n\nNữ: Ồ đúng rồi, trên đường Durham—đối diện công viên. Cảm ơn!",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets20-t09-p3-q065",
+          "number": 65,
+          "question": {
+            "en": "Who most likely is the woman?",
+            "vi": "Người phụ nữ nhiều khả năng là ai?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A postal worker",
+              "vi": "Nhân viên bưu điện"
+            },
+            {
+              "key": "B",
+              "en": "A delivery driver",
+              "vi": "Nhân viên giao hàng"
+            },
+            {
+              "key": "C",
+              "en": "A repair technician",
+              "vi": "Thợ sửa chữa"
+            },
+            {
+              "key": "D",
+              "en": "A building supervisor",
+              "vi": "Quản lý tòa nhà"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets20-t09-p3-q066",
+          "number": 66,
+          "question": {
+            "en": "What problem does the woman mention?",
+            "vi": "Người phụ nữ đề cập đến vấn đề gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A package has been damaged.",
+              "vi": "Một bưu kiện bị hư hỏng."
+            },
+            {
+              "key": "B",
+              "en": "A vehicle is not working.",
+              "vi": "Một phương tiện không hoạt động."
+            },
+            {
+              "key": "C",
+              "en": "Some residents are not home.",
+              "vi": "Một số cư dân không có nhà."
+            },
+            {
+              "key": "D",
+              "en": "Some information is missing.",
+              "vi": "Một số thông tin bị thiếu."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets20-t09-p3-q067",
+          "number": 67,
+          "question": {
+            "en": "Look at the graphic. Where will the woman go next?",
+            "vi": "Nhìn vào hình. Người phụ nữ sẽ đến đâu tiếp theo?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To Building 1",
+              "vi": "Tòa nhà 1"
+            },
+            {
+              "key": "B",
+              "en": "To Building 2",
+              "vi": "Tòa nhà 2"
+            },
+            {
+              "key": "C",
+              "en": "To Building 3",
+              "vi": "Tòa nhà 3"
+            },
+            {
+              "key": "D",
+              "en": "To Building 4",
+              "vi": "Tòa nhà 4"
+            }
+          ],
+          "answer": "D"
+        }
+      ],
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_09/image/065-067.png"
+    },
+    {
+      "id": "ets20-t09-p3-g068-070",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_09/audio/068-070.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "W: Hi, Mario. I'm calling with some bad news. ",
+            "questionIds": []
+          },
+          {
+            "text": "My flight was supposed to leave for Madrid at eleven o'clock, but it's been delayed.",
+            "questionIds": [
+              "ets20-t09-p3-q068"
+            ]
+          },
+          {
+            "text": "\n\nM: Oh, no. I was expecting you to be here in time to meet with a potential client. ",
+            "questionIds": []
+          },
+          {
+            "text": "You're supposed to be presenting the new fabrics our company is making this year.",
+            "questionIds": [
+              "ets20-t09-p3-q069"
+            ]
+          },
+          {
+            "text": "\n\nW: Well, the delay's less than an hour, so I still might get there in time.\n\nM: ",
+            "questionIds": []
+          },
+          {
+            "text": "Maybe, but I'm going to reschedule for tomorrow morning.",
+            "questionIds": [
+              "ets20-t09-p3-q070"
+            ]
+          },
+          {
+            "text": " The potential client is a clothing designer, and we could bring in a lot of money if she agrees to buy our fabrics for use in her spring line.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Nữ: Chào Mario. Tôi có một tin không vui đây. Chuyến bay của tôi đáng lẽ phải khởi hành đi Madrid lúc mười một giờ, nhưng nó đã bị hoãn.\n\nNam: Ồ, không. Tôi đã mong bạn có mặt ở đây kịp thời để gặp một khách hàng tiềm năng. Bạn sẽ giới thiệu những loại vải mới mà công ty chúng ta đang sản xuất trong năm nay.\n\nNữ: À, chuyến bay chỉ bị hoãn chưa đầy một tiếng, nên tôi vẫn có thể đến kịp giờ.\n\nNam: Có thể, nhưng tôi sẽ dời lịch sang sáng mai. Khách hàng tiềm năng là một nhà thiết kế thời trang, và chúng ta có thể kiếm được rất nhiều tiền nếu cô ấy đồng ý mua vải của chúng ta để sử dụng cho bộ sưu tập mùa xuân của cô ấy.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ets20-t09-p3-q068",
+          "number": 68,
+          "question": {
+            "en": "Look at the graphic. What is the status of the woman's flight?",
+            "vi": "Nhìn vào hình. Tình trạng chuyến bay của người phụ nữ là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "40 minutes late",
+              "vi": "Trễ 40 phút"
+            },
+            {
+              "key": "B",
+              "en": "On time",
+              "vi": "Đúng giờ"
+            },
+            {
+              "key": "C",
+              "en": "55 minutes late",
+              "vi": "Trễ 55 phút"
+            },
+            {
+              "key": "D",
+              "en": "25 minutes late",
+              "vi": "Trễ 25 phút"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets20-t09-p3-q069",
+          "number": 69,
+          "question": {
+            "en": "What kind of company do the speakers work for?",
+            "vi": "Những người nói làm việc cho loại công ty nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A fabric manufacturer",
+              "vi": "Nhà sản xuất vải"
+            },
+            {
+              "key": "B",
+              "en": "A clothing store",
+              "vi": "Cửa hàng quần áo"
+            },
+            {
+              "key": "C",
+              "en": "A travel agency",
+              "vi": "Công ty du lịch"
+            },
+            {
+              "key": "D",
+              "en": "A newspaper publisher",
+              "vi": "Nhà xuất bản báo"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets20-t09-p3-q070",
+          "number": 70,
+          "question": {
+            "en": "What does the man say he is going to do?",
+            "vi": "Người đàn ông nói anh ấy sẽ làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Open another bank account",
+              "vi": "Mở thêm tài khoản ngân hàng"
+            },
+            {
+              "key": "B",
+              "en": "Extend business hours",
+              "vi": "Kéo dài giờ làm việc"
+            },
+            {
+              "key": "C",
+              "en": "Review a contract",
+              "vi": "Xem lại hợp đồng"
+            },
+            {
+              "key": "D",
+              "en": "Change a meeting time",
+              "vi": "Thay đổi giờ họp"
+            }
+          ],
+          "answer": "D"
+        }
+      ],
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_09/image/068-070.png"
+    }
+  ]
+}

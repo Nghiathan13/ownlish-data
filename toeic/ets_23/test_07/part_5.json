@@ -1,0 +1,934 @@
+{
+  "items": [
+    {
+      "id": "ets23-t07-p5-q101",
+      "number": 101,
+      "question": {
+        "en": "The Sandville Community Center received ______ of art supplies.",
+        "vi": "Trung tâm Cộng đồng Sandville đã nhận được các khoản quyên góp về họa cụ."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "donating",
+          "vi": "donating (V-ing): việc quyên góp"
+        },
+        {
+          "key": "B",
+          "en": "donated",
+          "vi": "donated (V-ed): đã quyên góp"
+        },
+        {
+          "key": "C",
+          "en": "donations",
+          "vi": "donations (N): các khoản quyên góp"
+        },
+        {
+          "key": "D",
+          "en": "donate",
+          "vi": "donate (V): quyên góp"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets23-t07-p5-q102",
+      "number": 102,
+      "question": {
+        "en": "The sales associates often ______ potential client accounts at the weekly meeting.",
+        "vi": "Các cộng tác viên bán hàng thường thảo luận về các tài khoản khách hàng tiềm năng tại cuộc họp hàng tuần."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "discusses",
+          "vi": "discusses (V-s): thảo luận"
+        },
+        {
+          "key": "B",
+          "en": "discuss",
+          "vi": "discuss (V): thảo luận"
+        },
+        {
+          "key": "C",
+          "en": "discussion",
+          "vi": "discussion (N): sự thảo luận"
+        },
+        {
+          "key": "D",
+          "en": "discussing",
+          "vi": "discussing (V-ing): việc thảo luận"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets23-t07-p5-q103",
+      "number": 103,
+      "question": {
+        "en": "Ravelia Hotels is building a hotel ______ Wingate Mall.",
+        "vi": "Ravelia Hotels đang xây dựng một khách sạn bên cạnh Wingate Mall."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "up to",
+          "vi": "up to (Prep): lên đến"
+        },
+        {
+          "key": "B",
+          "en": "since",
+          "vi": "since (Prep): kể từ khi"
+        },
+        {
+          "key": "C",
+          "en": "next to",
+          "vi": "next to (Prep): bên cạnh"
+        },
+        {
+          "key": "D",
+          "en": "throughout",
+          "vi": "throughout (Prep): khắp, suốt"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets23-t07-p5-q104",
+      "number": 104,
+      "question": {
+        "en": "Starting this Thursday, all Tenacore employees will be required to wear ______ official uniforms.",
+        "vi": "Bắt đầu từ thứ Năm này, tất cả nhân viên Tenacore sẽ được yêu cầu mặc đồng phục chính thức của họ."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "their",
+          "vi": "their (Adj sở hữu): của họ"
+        },
+        {
+          "key": "B",
+          "en": "themselves",
+          "vi": "themselves (Pronoun): chính họ"
+        },
+        {
+          "key": "C",
+          "en": "they",
+          "vi": "they (Pronoun): họ (chủ ngữ)"
+        },
+        {
+          "key": "D",
+          "en": "them",
+          "vi": "them (Pronoun): họ (tân ngữ)"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets23-t07-p5-q105",
+      "number": 105,
+      "question": {
+        "en": "Mr. Kwon ______ guided the proposal through the difficult approval process.",
+        "vi": "Ông Kwon đã hướng dẫn bản đề xuất vượt qua quá trình phê duyệt khó khăn một cách khéo léo."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "skillful",
+          "vi": "skillful (Adj): khéo léo"
+        },
+        {
+          "key": "B",
+          "en": "skilled",
+          "vi": "skilled (Adj): có kỹ năng"
+        },
+        {
+          "key": "C",
+          "en": "skill",
+          "vi": "skill (N): kỹ năng"
+        },
+        {
+          "key": "D",
+          "en": "skillfully",
+          "vi": "skillfully (Adv): một cách khéo léo"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets23-t07-p5-q106",
+      "number": 106,
+      "question": {
+        "en": "The Standbridge Company ______ its staff to work remotely one or two days each week.",
+        "vi": "Công ty Standbridge khuyến khích nhân viên của mình làm việc từ xa một hoặc hai ngày mỗi tuần."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "understands",
+          "vi": "understands (V): hiểu"
+        },
+        {
+          "key": "B",
+          "en": "participates",
+          "vi": "participates (V): tham gia"
+        },
+        {
+          "key": "C",
+          "en": "encourages",
+          "vi": "encourages (V): khuyến khích"
+        },
+        {
+          "key": "D",
+          "en": "remembers",
+          "vi": "remembers (V): nhớ"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets23-t07-p5-q107",
+      "number": 107,
+      "question": {
+        "en": "Please arrive ten minutes before your appointment to allow enough ______ to fill out some paperwork.",
+        "vi": "Vui lòng đến trước cuộc hẹn mười phút để có đủ thời gian điền một số giấy tờ."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "time",
+          "vi": "time (N): thời gian"
+        },
+        {
+          "key": "B",
+          "en": "staff",
+          "vi": "staff (N): nhân viên"
+        },
+        {
+          "key": "C",
+          "en": "seats",
+          "vi": "seats (N): chỗ ngồi"
+        },
+        {
+          "key": "D",
+          "en": "funds",
+          "vi": "funds (N): ngân quỹ"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets23-t07-p5-q108",
+      "number": 108,
+      "question": {
+        "en": "______ you have any questions about the updated contract, please contact Human Resources.",
+        "vi": "Nếu bạn có bất kỳ câu hỏi nào về hợp đồng đã cập nhật, vui lòng liên hệ với Bộ phận Nhân sự."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "If",
+          "vi": "If (Conj): nếu"
+        },
+        {
+          "key": "B",
+          "en": "Though",
+          "vi": "Though (Conj): mặc dù"
+        },
+        {
+          "key": "C",
+          "en": "Either",
+          "vi": "Either (Conj): hoặc"
+        },
+        {
+          "key": "D",
+          "en": "Beyond",
+          "vi": "Beyond (Prep): vượt quá"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets23-t07-p5-q109",
+      "number": 109,
+      "question": {
+        "en": "The printed ______ for the upcoming musical are kept in the theater director’s office.",
+        "vi": "Các bản quảng cáo in ấn cho vở nhạc kịch sắp tới được giữ trong văn phòng của đạo diễn nhà hát."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "advertisements",
+          "vi": "advertisements (N): các quảng cáo"
+        },
+        {
+          "key": "B",
+          "en": "advertises",
+          "vi": "advertises (V-s): quảng cáo"
+        },
+        {
+          "key": "C",
+          "en": "advertised",
+          "vi": "advertised (V-ed): đã quảng cáo"
+        },
+        {
+          "key": "D",
+          "en": "advertise",
+          "vi": "advertise (V): quảng cáo"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets23-t07-p5-q110",
+      "number": 110,
+      "question": {
+        "en": "Laboratory chemicals should be stored no ______ than eye level and never on top of a tall cabinet.",
+        "vi": "Hóa chất phòng thí nghiệm nên được lưu trữ không cao hơn tầm mắt và không bao giờ để trên nóc tủ cao."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "upper",
+          "vi": "upper (Adj): phía trên"
+        },
+        {
+          "key": "B",
+          "en": "further",
+          "vi": "further (Adj/Adv): xa hơn"
+        },
+        {
+          "key": "C",
+          "en": "longer",
+          "vi": "longer (Adj/Adv): lâu hơn/dài hơn"
+        },
+        {
+          "key": "D",
+          "en": "higher",
+          "vi": "higher (Adj/Adv): cao hơn"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets23-t07-p5-q111",
+      "number": 111,
+      "question": {
+        "en": "According to Reilly’ vehicle fleet manager, ______ company delivery vans will be serviced in August.",
+        "vi": "Theo quản lý đội xe của Reilly, tất cả các xe tải giao hàng của công ty sẽ được bảo dưỡng vào tháng Tám."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "much",
+          "vi": "much (Det): nhiều (danh từ không đếm được)"
+        },
+        {
+          "key": "B",
+          "en": "total",
+          "vi": "total (Adj): tổng cộng"
+        },
+        {
+          "key": "C",
+          "en": "all",
+          "vi": "all (Det): tất cả"
+        },
+        {
+          "key": "D",
+          "en": "highly",
+          "vi": "highly (Adv): rất, cực kỳ"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets23-t07-p5-q112",
+      "number": 112,
+      "question": {
+        "en": "Because airlines ______ revise baggage-check policies, passengers should check for updates before a flight.",
+        "vi": "Vì các hãng hàng không thỉnh thoảng sửa đổi chính sách kiểm tra hành lý, hành khách nên kiểm tra các cập nhật trước chuyến bay."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "occasion",
+          "vi": "occasion (N): dịp"
+        },
+        {
+          "key": "B",
+          "en": "occasional",
+          "vi": "occasional (Adj): thỉnh thoảng"
+        },
+        {
+          "key": "C",
+          "en": "occasions",
+          "vi": "occasions (N-số nhiều): các dịp"
+        },
+        {
+          "key": "D",
+          "en": "occasionally",
+          "vi": "occasionally (Adv): thỉnh thoảng"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets23-t07-p5-q113",
+      "number": 113,
+      "question": {
+        "en": "Contracts for the Queen’s Landing project should be placed in an ______ stack on the supervisor’s desk.",
+        "vi": "Các hợp đồng cho dự án Queen’s Landing nên được đặt trong một chồng ngăn nắp trên bàn của người giám sát."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "organize",
+          "vi": "organize (V): tổ chức"
+        },
+        {
+          "key": "B",
+          "en": "organizer",
+          "vi": "organizer (N): người tổ chức"
+        },
+        {
+          "key": "C",
+          "en": "organized",
+          "vi": "organized (Adj): ngăn nắp, có tổ chức"
+        },
+        {
+          "key": "D",
+          "en": "organizing",
+          "vi": "organizing (V-ing): việc tổ chức"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets23-t07-p5-q114",
+      "number": 114,
+      "question": {
+        "en": "Some board members ______ that Mr. Saito’s sales forecasts are too optimistic.",
+        "vi": "Một số thành viên hội đồng quản trị nghi ngờ rằng các dự báo doanh số của ông Saito quá lạc quan."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "need",
+          "vi": "need (V): cần"
+        },
+        {
+          "key": "B",
+          "en": "pause",
+          "vi": "pause (V): tạm dừng"
+        },
+        {
+          "key": "C",
+          "en": "refuse",
+          "vi": "refuse (V): từ chối"
+        },
+        {
+          "key": "D",
+          "en": "suspect",
+          "vi": "suspect (V): nghi ngờ"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets23-t07-p5-q115",
+      "number": 115,
+      "question": {
+        "en": "Ms. Koffler is confident ______ the new manager will improve the department’s productivity.",
+        "vi": "Bà Koffler tin tin tưởng rằng người quản lý mới sẽ cải thiện năng suất của bộ phận."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "in",
+          "vi": "in (Prep): trong"
+        },
+        {
+          "key": "B",
+          "en": "well",
+          "vi": "well (Adv): tốt"
+        },
+        {
+          "key": "C",
+          "en": "that",
+          "vi": "that (Conj): rằng"
+        },
+        {
+          "key": "D",
+          "en": "both",
+          "vi": "both (Det): cả hai"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets23-t07-p5-q116",
+      "number": 116,
+      "question": {
+        "en": "The wooden barn on the Eastwood property is so ______ deteriorated that it is unlikely to be salvaged.",
+        "vi": "Nhà kho bằng gỗ trên khu đất Eastwood đã bị hư hỏng nặng đến mức khó có khả năng cứu vãn được."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "formerly",
+          "vi": "formerly (Adv): trước đây"
+        },
+        {
+          "key": "B",
+          "en": "badly",
+          "vi": "badly (Adv): rất tệ, nặng nề"
+        },
+        {
+          "key": "C",
+          "en": "briefly",
+          "vi": "briefly (Adv): ngắn gọn"
+        },
+        {
+          "key": "D",
+          "en": "exactly",
+          "vi": "exactly (Adv): chính xác"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets23-t07-p5-q117",
+      "number": 117,
+      "question": {
+        "en": "Roseville Resort is offering discounted accommodations ______ its first month of operation.",
+        "vi": "Roseville Resort đang cung cấp giá phòng giảm giá trong suốt tháng hoạt động đầu tiên."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "during",
+          "vi": "during (Prep): trong suốt"
+        },
+        {
+          "key": "B",
+          "en": "among",
+          "vi": "among (Prep): giữa những"
+        },
+        {
+          "key": "C",
+          "en": "in front of",
+          "vi": "in front of (Prep): phía trước"
+        },
+        {
+          "key": "D",
+          "en": "away from",
+          "vi": "away from (Prep): cách xa"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets23-t07-p5-q118",
+      "number": 118,
+      "question": {
+        "en": "Although the look of the new mobile phone model is ______ the previous one, the call quality is much improved.",
+        "vi": "Mặc dù vẻ ngoài của mẫu điện thoại di động mới tương tự như mẫu trước đó, chất lượng cuộc gọi đã được cải thiện đáng kể."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "similar to",
+          "vi": "similar to (Adj): tương tự với"
+        },
+        {
+          "key": "B",
+          "en": "involved in",
+          "vi": "involved in (Adj): liên quan đến"
+        },
+        {
+          "key": "C",
+          "en": "happy with",
+          "vi": "happy with (Adj): hài lòng với"
+        },
+        {
+          "key": "D",
+          "en": "occupied by",
+          "vi": "occupied by (Adj): bị chiếm giữ bởi"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets23-t07-p5-q119",
+      "number": 119,
+      "question": {
+        "en": "Dr. Simone Beaumont ______ to head of Research and Development at Brodeur Technology last week.",
+        "vi": "Tiến sĩ Simone Beaumont đã được thăng chức lên làm Trưởng phòng Nghiên cứu và Phát triển tại Brodeur Technology vào tuần trước."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "promoted",
+          "vi": "promoted (V-ed): thăng chức"
+        },
+        {
+          "key": "B",
+          "en": "was promoted",
+          "vi": "was promoted (V-passive): được thăng chức"
+        },
+        {
+          "key": "C",
+          "en": "promotes",
+          "vi": "promotes (V-s): thăng chức"
+        },
+        {
+          "key": "D",
+          "en": "is promoting",
+          "vi": "is promoting (V-ing): đang thăng chức"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets23-t07-p5-q120",
+      "number": 120,
+      "question": {
+        "en": "Enertek Industries is developing an ______ safe method for refining lithium.",
+        "vi": "Enertek Industries đang phát triển một phương pháp an toàn với môi trường để tinh chế lithium."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "environmentalist",
+          "vi": "environmentalist (N): nhà môi trường học"
+        },
+        {
+          "key": "B",
+          "en": "environments",
+          "vi": "environments (N): môi trường"
+        },
+        {
+          "key": "C",
+          "en": "environmental",
+          "vi": "environmental (Adj): thuộc môi trường"
+        },
+        {
+          "key": "D",
+          "en": "environmentally",
+          "vi": "environmentally (Adv): về mặt môi trường"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets23-t07-p5-q121",
+      "number": 121,
+      "question": {
+        "en": "Before starting the motor, make sure the brake is ______.",
+        "vi": "Trước khi khởi động động cơ, hãy đảm bảo rằng phanh đã được gài."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "engage",
+          "vi": "engage (V): tham gia/khớp"
+        },
+        {
+          "key": "B",
+          "en": "engages",
+          "vi": "engages (V-s): khớp"
+        },
+        {
+          "key": "C",
+          "en": "engagement",
+          "vi": "engagement (N): sự đính hôn/tham gia"
+        },
+        {
+          "key": "D",
+          "en": "engaged",
+          "vi": "engaged (Adj): đã được khớp/gài"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets23-t07-p5-q122",
+      "number": 122,
+      "question": {
+        "en": "Henderson Technical College offers introductory computer ______ for free to community members.",
+        "vi": "Cao đẳng Kỹ thuật Henderson cung cấp các bài học máy tính sơ cấp miễn phí cho các thành viên cộng đồng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "purchases",
+          "vi": "purchases (N): việc mua sắm"
+        },
+        {
+          "key": "B",
+          "en": "lessons",
+          "vi": "lessons (N): bài học"
+        },
+        {
+          "key": "C",
+          "en": "graphics",
+          "vi": "graphics (N): đồ họa"
+        },
+        {
+          "key": "D",
+          "en": "users",
+          "vi": "users (N): người dùng"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets23-t07-p5-q123",
+      "number": 123,
+      "question": {
+        "en": "No fees will be charged for the time the agency ______ to search for records.",
+        "vi": "Sẽ không có khoản phí nào được tính cho thời gian mà cơ quan này bỏ ra để tìm kiếm hồ sơ."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "looks",
+          "vi": "looks (V): nhìn"
+        },
+        {
+          "key": "B",
+          "en": "examines",
+          "vi": "examines (V): xem xét, khám"
+        },
+        {
+          "key": "C",
+          "en": "takes",
+          "vi": "takes (V): tốn (thời gian)"
+        },
+        {
+          "key": "D",
+          "en": "inspects",
+          "vi": "inspects (V): thanh tra"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets23-t07-p5-q124",
+      "number": 124,
+      "question": {
+        "en": "The Durand Concert Hall, ______ was built 80 years ago, has undergone a complete renovation.",
+        "vi": "Nhà hát Durand, cái mà được xây dựng cách đây 80 năm, đã trải qua một cuộc trùng tu toàn diện."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "where",
+          "vi": "where (Adv): nơi mà"
+        },
+        {
+          "key": "B",
+          "en": "each",
+          "vi": "each (Det): mỗi"
+        },
+        {
+          "key": "C",
+          "en": "there",
+          "vi": "there (Adv): ở đó"
+        },
+        {
+          "key": "D",
+          "en": "which",
+          "vi": "which (Pronoun): cái mà"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets23-t07-p5-q125",
+      "number": 125,
+      "question": {
+        "en": "There may be flaws in the computer code that we are not______aware of.",
+        "vi": "Có thể có những lỗi trong mã máy tính mà chúng tôi vẫn chưa nhận thức được."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "yet",
+          "vi": "yet (Adv): chưa"
+        },
+        {
+          "key": "B",
+          "en": "soon",
+          "vi": "soon (Adv): sớm"
+        },
+        {
+          "key": "C",
+          "en": "far",
+          "vi": "far (Adv): xa"
+        },
+        {
+          "key": "D",
+          "en": "lately",
+          "vi": "lately (Adv): gần đây"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets23-t07-p5-q126",
+      "number": 126,
+      "question": {
+        "en": "______ who wishes to make a monetary gift to the Voltra Museum should fill out the form at the back of the brochure.",
+        "vi": "Bất kỳ ai muốn quyên góp bằng tiền mặt cho Bảo tàng Voltra nên điền vào mẫu đơn ở phía sau tờ rơi."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Anyone",
+          "vi": "Anyone (Pronoun): bất kỳ ai"
+        },
+        {
+          "key": "B",
+          "en": "Whichever",
+          "vi": "Whichever (Det): bất cứ cái nào"
+        },
+        {
+          "key": "C",
+          "en": "Each other",
+          "vi": "Each other (Pronoun): lẫn nhau"
+        },
+        {
+          "key": "D",
+          "en": "Those",
+          "vi": "Those (Pronoun): những người (thường đi với who số nhiều)"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets23-t07-p5-q127",
+      "number": 127,
+      "question": {
+        "en": "Companies that seek a stable workforce should focus on employee ______ as well as recruitment.",
+        "vi": "Các công ty tìm kiếm lực lượng lao động ổn định nên tập trung vào việc giữ chân nhân viên cũng như tuyển dụng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "agents",
+          "vi": "agents (N): đại lý"
+        },
+        {
+          "key": "B",
+          "en": "coverage",
+          "vi": "coverage (N): sự che phủ/bảo hiểm"
+        },
+        {
+          "key": "C",
+          "en": "retention",
+          "vi": "retention (N): sự giữ chân, duy trì"
+        },
+        {
+          "key": "D",
+          "en": "authentication",
+          "vi": "authentication (N): sự xác thực"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets23-t07-p5-q128",
+      "number": 128,
+      "question": {
+        "en": "______ a new user-friendly interface on its Web site, the Kramer-Lee Company reported improved customer satisfaction.",
+        "vi": "Nhờ có giao diện mới thân thiện với người dùng trên trang web, Công ty Kramer-Lee đã báo cáo sự hài lòng của khách hàng được cải thiện."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Furthermore",
+          "vi": "Furthermore (Adv): hơn nữa"
+        },
+        {
+          "key": "B",
+          "en": "Owing to",
+          "vi": "Owing to (Prep): bởi vì, nhờ vào"
+        },
+        {
+          "key": "C",
+          "en": "Subsequently",
+          "vi": "Subsequently (Adv): sau đó"
+        },
+        {
+          "key": "D",
+          "en": "At one time",
+          "vi": "At one time (Phra): đã từng có lúc"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets23-t07-p5-q129",
+      "number": 129,
+      "question": {
+        "en": "Chef Wingert is reluctant to open a second location of Antoine’s Pizza ______ interest from many of his customers.",
+        "vi": "Đầu bếp Wingert ngần ngại mở địa điểm thứ hai của Antoine’s Pizza mặc dù có sự quan tâm từ nhiều khách hàng của ông."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "overall",
+          "vi": "overall (Adv): nhìn chung"
+        },
+        {
+          "key": "B",
+          "en": "in addition to",
+          "vi": "in addition to (Prep): thêm vào đó"
+        },
+        {
+          "key": "C",
+          "en": "despite",
+          "vi": "despite (Prep): mặc dù, bất chấp"
+        },
+        {
+          "key": "D",
+          "en": "on the whole",
+          "vi": "on the whole (Phra): nhìn chung"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets23-t07-p5-q130",
+      "number": 130,
+      "question": {
+        "en": "______ thinking by Ms. Blakely's marketing team helped increase sales of the Mindi motorcycle.",
+        "vi": "Tư duy sáng tạo của đội ngũ marketing của cô Blakely đã giúp tăng doanh số bán xe máy Mindi."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Relative",
+          "vi": "Relative (Adj): tương đối"
+        },
+        {
+          "key": "B",
+          "en": "Potential",
+          "vi": "Potential (Adj): tiềm năng"
+        },
+        {
+          "key": "C",
+          "en": "Distant",
+          "vi": "Distant (Adj): xa xôi"
+        },
+        {
+          "key": "D",
+          "en": "Creative",
+          "vi": "Creative (Adj): sáng tạo"
+        }
+      ],
+      "answer": "D"
+    }
+  ]
+}

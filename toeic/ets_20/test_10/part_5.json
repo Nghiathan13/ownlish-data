@@ -1,0 +1,934 @@
+{
+  "items": [
+    {
+      "id": "ets20-t10-p5-q101",
+      "number": 101,
+      "question": {
+        "en": "Sunwirth Sneakers has several ______ in the greater metropolitan area.",
+        "vi": "Sunwirth Sneakers có một số ______ trong khu vực đô thị lớn."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "locations",
+          "vi": "locations (n): các địa điểm"
+        },
+        {
+          "key": "B",
+          "en": "locate",
+          "vi": "locate (v): xác định vị trí"
+        },
+        {
+          "key": "C",
+          "en": "located",
+          "vi": "located (adj): tọa lạc"
+        },
+        {
+          "key": "D",
+          "en": "location",
+          "vi": "location (n): địa điểm"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets20-t10-p5-q102",
+      "number": 102,
+      "question": {
+        "en": "Cimber CPAs offers clients the convenience of ______ their invoices online and by mail.",
+        "vi": "Cimber CPAs mang đến cho khách hàng sự tiện lợi của việc ______ hóa đơn của họ trực tuyến và qua thư."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "buying",
+          "vi": "buying (v): mua"
+        },
+        {
+          "key": "B",
+          "en": "paying",
+          "vi": "paying (v): thanh toán"
+        },
+        {
+          "key": "C",
+          "en": "going",
+          "vi": "going (v): đi"
+        },
+        {
+          "key": "D",
+          "en": "eating",
+          "vi": "eating (v): ăn"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets20-t10-p5-q103",
+      "number": 103,
+      "question": {
+        "en": "The new software at Patel Industries has been working ______ since it was installed last year.",
+        "vi": "Phần mềm mới tại Patel Industries đã hoạt động ______ kể từ khi được cài đặt vào năm ngoái."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "reliable",
+          "vi": "reliable (adj): đáng tin cậy"
+        },
+        {
+          "key": "B",
+          "en": "to rely",
+          "vi": "to rely (v): dựa vào"
+        },
+        {
+          "key": "C",
+          "en": "more reliable",
+          "vi": "more reliable (adj): đáng tin cậy hơn"
+        },
+        {
+          "key": "D",
+          "en": "reliably",
+          "vi": "reliably (adv): một cách đáng tin cậy"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets20-t10-p5-q104",
+      "number": 104,
+      "question": {
+        "en": "Best practices in customer service are outlined ______ the training handbook.",
+        "vi": "Các phương pháp tốt nhất trong dịch vụ khách hàng được trình bày ______ sổ tay đào tạo."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "along",
+          "vi": "along (prep): dọc theo"
+        },
+        {
+          "key": "B",
+          "en": "toward",
+          "vi": "toward (prep): hướng về"
+        },
+        {
+          "key": "C",
+          "en": "over",
+          "vi": "over (prep): trên, qua"
+        },
+        {
+          "key": "D",
+          "en": "throughout",
+          "vi": "throughout (prep): xuyên suốt"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets20-t10-p5-q105",
+      "number": 105,
+      "question": {
+        "en": "The Scratch software will help us migrate our client records ______.",
+        "vi": "Phần mềm Scratch sẽ giúp chúng tôi chuyển hồ sơ khách hàng của mình ______."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "simple",
+          "vi": "simple (adj): đơn giản"
+        },
+        {
+          "key": "B",
+          "en": "simpler",
+          "vi": "simpler (adj): đơn giản hơn"
+        },
+        {
+          "key": "C",
+          "en": "simply",
+          "vi": "simply (adv): một cách đơn giản"
+        },
+        {
+          "key": "D",
+          "en": "simplicity",
+          "vi": "simplicity (n): sự đơn giản"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets20-t10-p5-q106",
+      "number": 106,
+      "question": {
+        "en": "The comedian said that ______ sense of humor was inherited from a grandparent.",
+        "vi": "Diễn viên hài nói rằng ______ khiếu hài hước được thừa hưởng từ ông/bà của mình."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "herself",
+          "vi": "herself (pron): chính cô ấy"
+        },
+        {
+          "key": "B",
+          "en": "her",
+          "vi": "her (det): của cô ấy"
+        },
+        {
+          "key": "C",
+          "en": "she",
+          "vi": "she (pron): cô ấy"
+        },
+        {
+          "key": "D",
+          "en": "hers",
+          "vi": "hers (pron): cái của cô ấy"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets20-t10-p5-q107",
+      "number": 107,
+      "question": {
+        "en": "Starting this August, Gavelton Bike Tours will be leading group cycling trips ______ Paris to Berlin.",
+        "vi": "Bắt đầu từ tháng 8 này, Gavelton Bike Tours sẽ dẫn các chuyến đi xe đạp theo nhóm ______ Paris đến Berlin."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "from",
+          "vi": "from (prep): từ"
+        },
+        {
+          "key": "B",
+          "en": "beside",
+          "vi": "beside (prep): bên cạnh"
+        },
+        {
+          "key": "C",
+          "en": "along",
+          "vi": "along (prep): dọc theo"
+        },
+        {
+          "key": "D",
+          "en": "after",
+          "vi": "after (prep): sau"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets20-t10-p5-q108",
+      "number": 108,
+      "question": {
+        "en": "We hope to ______ an agreement with Mason Cooper, Inc., within the next week.",
+        "vi": "Chúng tôi hy vọng sẽ ______ một thỏa thuận với Mason Cooper, Inc., trong vòng tuần tới."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "reach",
+          "vi": "reach (v): đạt được"
+        },
+        {
+          "key": "B",
+          "en": "talk",
+          "vi": "talk (v): nói chuyện"
+        },
+        {
+          "key": "C",
+          "en": "reason",
+          "vi": "reason (v): lý luận"
+        },
+        {
+          "key": "D",
+          "en": "put",
+          "vi": "put (v): đặt"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets20-t10-p5-q109",
+      "number": 109,
+      "question": {
+        "en": "Factory-floor managers must submit an inspection report at the end ______ their shift.",
+        "vi": "Các quản lý sàn nhà máy phải nộp báo cáo kiểm tra vào cuối ______ ca làm việc của họ."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "if",
+          "vi": "if (conj): nếu"
+        },
+        {
+          "key": "B",
+          "en": "to",
+          "vi": "to (prep): đến"
+        },
+        {
+          "key": "C",
+          "en": "of",
+          "vi": "of (prep): của"
+        },
+        {
+          "key": "D",
+          "en": "as",
+          "vi": "as (conj): khi, vì"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets20-t10-p5-q110",
+      "number": 110,
+      "question": {
+        "en": "______ a retail store, Seedum International will now sell merchandise only through its Web site.",
+        "vi": "______ một cửa hàng bán lẻ, Seedum International giờ đây sẽ chỉ bán hàng hóa thông qua trang web của mình."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Sometimes",
+          "vi": "Sometimes (adv): đôi khi"
+        },
+        {
+          "key": "B",
+          "en": "Later",
+          "vi": "Later (adv): sau đó"
+        },
+        {
+          "key": "C",
+          "en": "Formerly",
+          "vi": "Formerly (adv): trước đây"
+        },
+        {
+          "key": "D",
+          "en": "Frequently",
+          "vi": "Frequently (adv): thường xuyên"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets20-t10-p5-q111",
+      "number": 111,
+      "question": {
+        "en": "Remarkably, neither Ms. Chen ______ Mr. Gillespie had been notified that the board meeting was canceled.",
+        "vi": "Đáng chú ý là cả cô Chen ______ ông Gillespie đều chưa được thông báo rằng cuộc họp hội đồng đã bị hủy."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "or",
+          "vi": "or (conj): hoặc"
+        },
+        {
+          "key": "B",
+          "en": "and",
+          "vi": "and (conj): và"
+        },
+        {
+          "key": "C",
+          "en": "with",
+          "vi": "with (prep): với"
+        },
+        {
+          "key": "D",
+          "en": "nor",
+          "vi": "nor (conj): cũng không"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets20-t10-p5-q112",
+      "number": 112,
+      "question": {
+        "en": "The new microwave soup containers are ______ than the previous ones.",
+        "vi": "Các hộp đựng súp dùng cho lò vi sóng mới ______ hơn những hộp trước đây."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "rigid",
+          "vi": "rigid (adj): cứng, chắc"
+        },
+        {
+          "key": "B",
+          "en": "most rigidly",
+          "vi": "most rigidly (adv): cứng nhất"
+        },
+        {
+          "key": "C",
+          "en": "rigidly",
+          "vi": "rigidly (adv): một cách cứng nhắc"
+        },
+        {
+          "key": "D",
+          "en": "more rigid",
+          "vi": "more rigid (adj): cứng hơn"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets20-t10-p5-q113",
+      "number": 113,
+      "question": {
+        "en": "The Banly Tourism Society is ______ to present the first issue of its publication, The Banly Quarterly.",
+        "vi": "Banly Tourism Society ______ giới thiệu số đầu tiên của ấn phẩm The Banly Quarterly."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "regular",
+          "vi": "regular (adj): thường xuyên, đều đặn"
+        },
+        {
+          "key": "B",
+          "en": "general",
+          "vi": "general (adj): chung, tổng quát"
+        },
+        {
+          "key": "C",
+          "en": "proud",
+          "vi": "proud (adj): tự hào"
+        },
+        {
+          "key": "D",
+          "en": "favorite",
+          "vi": "favorite (adj): yêu thích"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets20-t10-p5-q114",
+      "number": 114,
+      "question": {
+        "en": "Konixer Printers is conducting a thorough ______ of current requests for equipment upgrades.",
+        "vi": "Konixer Printers đang tiến hành một ______ kỹ lưỡng đối với các yêu cầu hiện tại về nâng cấp thiết bị."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "evaluate",
+          "vi": "evaluate (v): đánh giá"
+        },
+        {
+          "key": "B",
+          "en": "evaluation",
+          "vi": "evaluation (n): sự đánh giá"
+        },
+        {
+          "key": "C",
+          "en": "evaluator",
+          "vi": "evaluator (n): người đánh giá"
+        },
+        {
+          "key": "D",
+          "en": "evaluative",
+          "vi": "evaluative (adj): mang tính đánh giá"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets20-t10-p5-q115",
+      "number": 115,
+      "question": {
+        "en": "______ the addition of 300 spaces, the ferry terminal's parking area is still full by 9:00 A.M. every day.",
+        "vi": "______ việc bổ sung 300 chỗ, khu vực đậu xe của bến phà vẫn đầy trước 9:00 sáng mỗi ngày."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Despite",
+          "vi": "Despite (prep): mặc dù"
+        },
+        {
+          "key": "B",
+          "en": "Across",
+          "vi": "Across (prep): băng qua"
+        },
+        {
+          "key": "C",
+          "en": "Besides",
+          "vi": "Besides (prep): ngoài ra"
+        },
+        {
+          "key": "D",
+          "en": "Inside",
+          "vi": "Inside (prep): bên trong"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets20-t10-p5-q116",
+      "number": 116,
+      "question": {
+        "en": "Justlox, Inc., is planning to ______ redesign Model 543Q with its partners in Britain to ensure a better product.",
+        "vi": "Justlox, Inc., đang lên kế hoạch ______ thiết kế lại Model 543Q với các đối tác của mình ở Anh để đảm bảo một sản phẩm tốt hơn."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "collaboration",
+          "vi": "collaboration (n): sự hợp tác"
+        },
+        {
+          "key": "B",
+          "en": "collaborative",
+          "vi": "collaborative (adj): mang tính hợp tác"
+        },
+        {
+          "key": "C",
+          "en": "collaboratively",
+          "vi": "collaboratively (adv): một cách hợp tác"
+        },
+        {
+          "key": "D",
+          "en": "collaborate",
+          "vi": "collaborate (v): hợp tác"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets20-t10-p5-q117",
+      "number": 117,
+      "question": {
+        "en": "Each box of Lane Permanent Markers contains an ______ of surprising colors.",
+        "vi": "Mỗi hộp bút đánh dấu vĩnh viễn Lane chứa một ______ các màu sắc bất ngờ."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "assortment",
+          "vi": "assortment (n): bộ sưu tập đa dạng"
+        },
+        {
+          "key": "B",
+          "en": "excitement",
+          "vi": "excitement (n): sự phấn khích"
+        },
+        {
+          "key": "C",
+          "en": "account",
+          "vi": "account (n): tài khoản"
+        },
+        {
+          "key": "D",
+          "en": "industry",
+          "vi": "industry (n): ngành công nghiệp"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets20-t10-p5-q118",
+      "number": 118,
+      "question": {
+        "en": "We were pleased by the ______ and courteous reply we received from Astella Airlines concerning the change in itinerary.",
+        "vi": "Chúng tôi hài lòng với phản hồi ______ và lịch sự mà chúng tôi nhận được từ Astella Airlines liên quan đến thay đổi trong lịch trình."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "safe",
+          "vi": "safe (adj): an toàn"
+        },
+        {
+          "key": "B",
+          "en": "close",
+          "vi": "close (adj): gần"
+        },
+        {
+          "key": "C",
+          "en": "clean",
+          "vi": "clean (adj): sạch"
+        },
+        {
+          "key": "D",
+          "en": "prompt",
+          "vi": "prompt (adj): nhanh chóng"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets20-t10-p5-q119",
+      "number": 119,
+      "question": {
+        "en": "The rising employment rate is one factor contributing to ______ in the housing construction trade.",
+        "vi": "Tỷ lệ việc làm tăng là một yếu tố góp phần vào ______ trong ngành xây dựng nhà ở."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "grow",
+          "vi": "grow (v): tăng trưởng"
+        },
+        {
+          "key": "B",
+          "en": "growth",
+          "vi": "growth (n): sự tăng trưởng"
+        },
+        {
+          "key": "C",
+          "en": "grew",
+          "vi": "grew (v): đã tăng trưởng"
+        },
+        {
+          "key": "D",
+          "en": "grown",
+          "vi": "grown (v): đã tăng trưởng (phân từ)"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets20-t10-p5-q120",
+      "number": 120,
+      "question": {
+        "en": "The color of the new chairs was not ______ on the invoice.",
+        "vi": "Màu của những chiếc ghế mới không được ______ trên hóa đơn."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "specify",
+          "vi": "specify (v): ghi rõ"
+        },
+        {
+          "key": "B",
+          "en": "specified",
+          "vi": "specified (v): được ghi rõ (quá khứ phân từ)"
+        },
+        {
+          "key": "C",
+          "en": "specifying",
+          "vi": "specifying (v): đang ghi rõ"
+        },
+        {
+          "key": "D",
+          "en": "specification",
+          "vi": "specification (n): đặc điểm kỹ thuật"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets20-t10-p5-q121",
+      "number": 121,
+      "question": {
+        "en": "Two hours is the ______ amount of time needed to complete the assignment.",
+        "vi": "Hai giờ là lượng thời gian ______ cần thiết để hoàn thành nhiệm vụ."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "minimum",
+          "vi": "minimum (adj): tối thiểu"
+        },
+        {
+          "key": "B",
+          "en": "temporary",
+          "vi": "temporary (adj): tạm thời"
+        },
+        {
+          "key": "C",
+          "en": "bottom",
+          "vi": "bottom (adj): đáy, thấp nhất"
+        },
+        {
+          "key": "D",
+          "en": "durable",
+          "vi": "durable (adj): bền"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets20-t10-p5-q122",
+      "number": 122,
+      "question": {
+        "en": "A successful digital marketing campaign has helped Fossler Electronics ______ its profit margins.",
+        "vi": "Một chiến dịch tiếp thị kỹ thuật số thành công đã giúp Fossler Electronics ______ biên lợi nhuận của mình."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "stabilized",
+          "vi": "stabilized (v): đã ổn định"
+        },
+        {
+          "key": "B",
+          "en": "stability",
+          "vi": "stability (n): sự ổn định"
+        },
+        {
+          "key": "C",
+          "en": "stabilizing",
+          "vi": "stabilizing (v): đang ổn định"
+        },
+        {
+          "key": "D",
+          "en": "stabilize",
+          "vi": "stabilize (v): ổn định"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets20-t10-p5-q123",
+      "number": 123,
+      "question": {
+        "en": "Applicants for the position of data manager are expected to have a minimum of three years' ______ experience.",
+        "vi": "Ứng viên cho vị trí quản lý dữ liệu được kỳ vọng có tối thiểu ba năm kinh nghiệm ______."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "supervisors",
+          "vi": "supervisors (n): những người giám sát"
+        },
+        {
+          "key": "B",
+          "en": "supervisory",
+          "vi": "supervisory (adj): thuộc giám sát"
+        },
+        {
+          "key": "C",
+          "en": "supervise",
+          "vi": "supervise (v): giám sát"
+        },
+        {
+          "key": "D",
+          "en": "supervises",
+          "vi": "supervises (v): giám sát (ngôi thứ ba)"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets20-t10-p5-q124",
+      "number": 124,
+      "question": {
+        "en": "The mayor's speech at Monday's business breakfast ______ and will be broadcast later this week.",
+        "vi": "Bài phát biểu của thị trưởng tại bữa sáng doanh nghiệp hôm thứ Hai ______ và sẽ được phát sóng vào cuối tuần này."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "record",
+          "vi": "record (v): ghi hình"
+        },
+        {
+          "key": "B",
+          "en": "recording",
+          "vi": "recording (n/v): đang ghi hình"
+        },
+        {
+          "key": "C",
+          "en": "being recorded",
+          "vi": "being recorded (v): đang được ghi hình"
+        },
+        {
+          "key": "D",
+          "en": "was recorded",
+          "vi": "was recorded (v): đã được ghi hình"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets20-t10-p5-q125",
+      "number": 125,
+      "question": {
+        "en": "The researchers ______ tested different formulas until the desired results were achieved.",
+        "vi": "Các nhà nghiên cứu đã ______ thử nghiệm các công thức khác nhau cho đến khi đạt được kết quả mong muốn."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "soon",
+          "vi": "soon (adv): sớm"
+        },
+        {
+          "key": "B",
+          "en": "suddenly",
+          "vi": "suddenly (adv): đột ngột"
+        },
+        {
+          "key": "C",
+          "en": "well",
+          "vi": "well (adv): tốt"
+        },
+        {
+          "key": "D",
+          "en": "repeatedly",
+          "vi": "repeatedly (adv): nhiều lần"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets20-t10-p5-q126",
+      "number": 126,
+      "question": {
+        "en": "Loan specialists at Newton Bank can help your company ______ equipment purchases.",
+        "vi": "Các chuyên viên cho vay tại Newton Bank có thể giúp công ty của bạn ______ các giao dịch mua thiết bị."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "commit",
+          "vi": "commit (v): cam kết"
+        },
+        {
+          "key": "B",
+          "en": "associate",
+          "vi": "associate (v): liên kết"
+        },
+        {
+          "key": "C",
+          "en": "reserve",
+          "vi": "reserve (v): dự trữ"
+        },
+        {
+          "key": "D",
+          "en": "finance",
+          "vi": "finance (v): tài trợ"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets20-t10-p5-q127",
+      "number": 127,
+      "question": {
+        "en": "______ our partnership with Shox Gym, we are able to provide employees with a free membership to the fitness center.",
+        "vi": "______ quan hệ đối tác của chúng tôi với Shox Gym, chúng tôi có thể cung cấp cho nhân viên thẻ thành viên miễn phí tại trung tâm thể hình."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "After all",
+          "vi": "After all (adv): rốt cuộc"
+        },
+        {
+          "key": "B",
+          "en": "Because of",
+          "vi": "Because of (prep): vì, nhờ"
+        },
+        {
+          "key": "C",
+          "en": "For this reason",
+          "vi": "For this reason (adv): vì lý do này"
+        },
+        {
+          "key": "D",
+          "en": "As long as",
+          "vi": "As long as (conj): miễn là"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets20-t10-p5-q128",
+      "number": 128,
+      "question": {
+        "en": "Mr. Tran asked the department whether ______ could work overtime on Friday.",
+        "vi": "Ông Tran hỏi phòng ban liệu ______ có thể làm thêm giờ vào thứ Sáu không."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "anyone",
+          "vi": "anyone (pron): bất kỳ ai"
+        },
+        {
+          "key": "B",
+          "en": "anywhere",
+          "vi": "anywhere (adv): bất kỳ đâu"
+        },
+        {
+          "key": "C",
+          "en": "anyway",
+          "vi": "anyway (adv): dù sao"
+        },
+        {
+          "key": "D",
+          "en": "anyhow",
+          "vi": "anyhow (adv): dù sao"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets20-t10-p5-q129",
+      "number": 129,
+      "question": {
+        "en": "Canyonland Corporation will research the potential ______ of expanding its overseas market to East Africa.",
+        "vi": "Canyonland Corporation sẽ nghiên cứu ______ tiềm năng của việc mở rộng thị trường nước ngoài sang Đông Phi."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "deadline",
+          "vi": "deadline (n): thời hạn"
+        },
+        {
+          "key": "B",
+          "en": "availability",
+          "vi": "availability (n): tính sẵn có"
+        },
+        {
+          "key": "C",
+          "en": "profitability",
+          "vi": "profitability (n): khả năng sinh lời"
+        },
+        {
+          "key": "D",
+          "en": "emphasis",
+          "vi": "emphasis (n): sự nhấn mạnh"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets20-t10-p5-q130",
+      "number": 130,
+      "question": {
+        "en": "Chef Lind's cookbook, ______ will be available next week, contains only dessert recipes.",
+        "vi": "Sách nấu ăn của đầu bếp Lind, ______ sẽ có mặt vào tuần tới, chỉ chứa các công thức món tráng miệng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "who",
+          "vi": "who (pron): người mà"
+        },
+        {
+          "key": "B",
+          "en": "what",
+          "vi": "what (pron): cái gì"
+        },
+        {
+          "key": "C",
+          "en": "which",
+          "vi": "which (pron): cái mà"
+        },
+        {
+          "key": "D",
+          "en": "whose",
+          "vi": "whose (pron): của ai"
+        }
+      ],
+      "answer": "C"
+    }
+  ]
+}

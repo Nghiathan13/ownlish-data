@@ -1,0 +1,934 @@
+{
+  "items": [
+    {
+      "id": "ets19-t09-p5-q101",
+      "number": 101,
+      "question": {
+        "en": "Every batch of sauce at Generita's Bistro is processed meticulously by ______ expert chefs.",
+        "vi": "Mỗi mẻ nước sốt tại Generita's Bistro đều được các đầu bếp chuyên gia của chúng tôi xử lý tỉ mỉ bằng ______."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "they",
+          "vi": "they (pron): họ (đại từ chủ ngữ)"
+        },
+        {
+          "key": "B",
+          "en": "their",
+          "vi": "their (adj): của họ (đứng trước danh từ)"
+        },
+        {
+          "key": "C",
+          "en": "them",
+          "vi": "them (pron): họ (đại từ tân ngữ)"
+        },
+        {
+          "key": "D",
+          "en": "themselves",
+          "vi": "themselves (pron): bản thân họ (đại từ phản thân)"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets19-t09-p5-q102",
+      "number": 102,
+      "question": {
+        "en": "Computerization of medical records ______ increases a physician's ability to diagnose and treat patients.",
+        "vi": "Việc tin học hóa hồ sơ y tế ______ làm tăng khả năng chẩn đoán và điều trị bệnh nhân của bác sĩ."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "great",
+          "vi": "great (adj): tuyệt vời, lớn"
+        },
+        {
+          "key": "B",
+          "en": "greatly",
+          "vi": "greatly (adv): rất nhiều, đáng kể"
+        },
+        {
+          "key": "C",
+          "en": "greatness",
+          "vi": "greatness (n): sự vĩ đại"
+        },
+        {
+          "key": "D",
+          "en": "greatest",
+          "vi": "greatest (adj-superl): lớn nhất, tuyệt vời nhất"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets19-t09-p5-q103",
+      "number": 103,
+      "question": {
+        "en": "At Rojelle's Fine Dining, we use the freshest ______ available to make our salads.",
+        "vi": "Tại Rojelle's Fine Dining, chúng tôi sử dụng các ______ tươi nhất hiện có để làm salad."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "applications",
+          "vi": "applications (n): ứng dụng, đơn xin"
+        },
+        {
+          "key": "B",
+          "en": "subjects",
+          "vi": "subjects (n): chủ đề, môn học"
+        },
+        {
+          "key": "C",
+          "en": "ingredients",
+          "vi": "ingredients (n): nguyên liệu, thành phần"
+        },
+        {
+          "key": "D",
+          "en": "factors",
+          "vi": "factors (n): nhân tố, yếu tố"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets19-t09-p5-q104",
+      "number": 104,
+      "question": {
+        "en": "Professor Benguigui will present his paper ______ the natural history conference tomorrow.",
+        "vi": "Giáo sư Benguigui sẽ trình bày bài nghiên cứu của mình ______ hội nghị lịch sử tự nhiên vào ngày mai."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "by",
+          "vi": "by (prep): bởi, bằng cách"
+        },
+        {
+          "key": "B",
+          "en": "at",
+          "vi": "at (prep): tại (địa điểm/sự kiện)"
+        },
+        {
+          "key": "C",
+          "en": "of",
+          "vi": "of (prep): của"
+        },
+        {
+          "key": "D",
+          "en": "on",
+          "vi": "on (prep): về, trên"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets19-t09-p5-q105",
+      "number": 105,
+      "question": {
+        "en": "The chefs are still waiting for a ______ date for the new convection oven that was ordered two weeks ago.",
+        "vi": "Các đầu bếp vẫn đang chờ một ngày ______ cho lò nướng đối lưu mới đã được đặt hàng hai tuần trước."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "shipper",
+          "vi": "shipper (n): người/công ty vận chuyển"
+        },
+        {
+          "key": "B",
+          "en": "ships",
+          "vi": "ships (v/n): con tàu / vận chuyển"
+        },
+        {
+          "key": "C",
+          "en": "shipments",
+          "vi": "shipments (n): các lô hàng"
+        },
+        {
+          "key": "D",
+          "en": "shipping",
+          "vi": "shipping (n/adj): vận chuyển (dùng bổ nghĩa cho danh từ)"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets19-t09-p5-q106",
+      "number": 106,
+      "question": {
+        "en": "Mr. Kang works ______ with our internal team members as well as various regional sales representatives.",
+        "vi": "Ông Kang làm việc ______ với các thành viên đội ngũ nội bộ của chúng tôi cũng như nhiều đại diện bán hàng khu vực."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "mildly",
+          "vi": "mildly (adv): một cách nhẹ nhàng"
+        },
+        {
+          "key": "B",
+          "en": "nearly",
+          "vi": "nearly (adv): gần như, hầu như"
+        },
+        {
+          "key": "C",
+          "en": "closely",
+          "vi": "closely (adv): một cách chặt chẽ, mật thiết"
+        },
+        {
+          "key": "D",
+          "en": "narrowly",
+          "vi": "narrowly (adv): một cách hẹp, vừa vặn"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets19-t09-p5-q107",
+      "number": 107,
+      "question": {
+        "en": "Fashion designer Hye-Ja Pak knows ______ to update her line in response to changing tastes.",
+        "vi": "Nhà thiết kế thời trang Hye-Ja Pak biết ______ cập nhật dòng sản phẩm của mình để đáp ứng thị hiếu thay đổi."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "and",
+          "vi": "and (conj): và"
+        },
+        {
+          "key": "B",
+          "en": "when",
+          "vi": "when (adv): khi nào"
+        },
+        {
+          "key": "C",
+          "en": "need",
+          "vi": "need (v/n): cần / nhu cầu"
+        },
+        {
+          "key": "D",
+          "en": "for",
+          "vi": "for (prep): cho, vì"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets19-t09-p5-q108",
+      "number": 108,
+      "question": {
+        "en": "The samba class was so well ______ that the Yulara Dance School decided to make the course a permanent offering.",
+        "vi": "Lớp samba được ______ tốt đến mức Trường Múa Yulara quyết định biến khóa học này thành một chương trình thường xuyên."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "attended",
+          "vi": "attended (v-pp): được tham dự"
+        },
+        {
+          "key": "B",
+          "en": "educated",
+          "vi": "educated (v-pp): được giáo dục"
+        },
+        {
+          "key": "C",
+          "en": "gathered",
+          "vi": "gathered (v-pp): được tập hợp"
+        },
+        {
+          "key": "D",
+          "en": "protected",
+          "vi": "protected (v-pp): được bảo vệ"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets19-t09-p5-q109",
+      "number": 109,
+      "question": {
+        "en": "The factory will be situated away ______ the city's residential area to reduce complaints about noise and emissions.",
+        "vi": "Nhà máy sẽ được đặt cách ______ khu dân cư của thành phố để giảm các khiếu nại về tiếng ồn và khí thải."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "from",
+          "vi": "from (prep): từ, khỏi (dùng trong cụm away from)"
+        },
+        {
+          "key": "B",
+          "en": "about",
+          "vi": "about (prep): về, xung quanh"
+        },
+        {
+          "key": "C",
+          "en": "with",
+          "vi": "with (prep): với"
+        },
+        {
+          "key": "D",
+          "en": "out",
+          "vi": "out (adv): ra ngoài"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets19-t09-p5-q110",
+      "number": 110,
+      "question": {
+        "en": "Ms. Kuramoto selected the most ______ mailing option available.",
+        "vi": "Cô Kuramoto đã chọn tùy chọn gửi thư ______ nhất hiện có."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "economical",
+          "vi": "economical (adj): tiết kiệm, hiệu quả về chi phí"
+        },
+        {
+          "key": "B",
+          "en": "economy",
+          "vi": "economy (n): nền kinh tế, sự tiết kiệm"
+        },
+        {
+          "key": "C",
+          "en": "economize",
+          "vi": "economize (v): tiết kiệm, cắt giảm chi phí"
+        },
+        {
+          "key": "D",
+          "en": "economized",
+          "vi": "economized (v-pp): đã tiết kiệm"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets19-t09-p5-q111",
+      "number": 111,
+      "question": {
+        "en": "Companies without information technology specialists can ______ on Vyber Software Advisers for assistance with online services.",
+        "vi": "Các công ty không có chuyên gia công nghệ thông tin có thể ______ Vyber Software Advisers để được hỗ trợ với các dịch vụ trực tuyến."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "reliable",
+          "vi": "reliable (adj): đáng tin cậy"
+        },
+        {
+          "key": "B",
+          "en": "reliably",
+          "vi": "reliably (adv): một cách đáng tin cậy"
+        },
+        {
+          "key": "C",
+          "en": "rely",
+          "vi": "rely (v): dựa vào, tin tưởng"
+        },
+        {
+          "key": "D",
+          "en": "relying",
+          "vi": "relying (v-ing): đang dựa vào"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets19-t09-p5-q112",
+      "number": 112,
+      "question": {
+        "en": "Next year, our team will have a new task, ______ is to review design portfolios.",
+        "vi": "Năm tới, đội của chúng tôi sẽ có một nhiệm vụ mới, ______ là xem xét các hồ sơ thiết kế."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "although",
+          "vi": "although (conj): mặc dù"
+        },
+        {
+          "key": "B",
+          "en": "which",
+          "vi": "which (pron): mà, cái mà (đại từ quan hệ)"
+        },
+        {
+          "key": "C",
+          "en": "after",
+          "vi": "after (conj/prep): sau khi"
+        },
+        {
+          "key": "D",
+          "en": "because",
+          "vi": "because (conj): bởi vì"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets19-t09-p5-q113",
+      "number": 113,
+      "question": {
+        "en": "Cook the meat for 30 minutes to ensure ______ readiness to be eaten.",
+        "vi": "Nấu thịt trong 30 phút để đảm bảo ______ sẵn sàng để ăn."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "both",
+          "vi": "both (det): cả hai"
+        },
+        {
+          "key": "B",
+          "en": "this",
+          "vi": "this (det): này"
+        },
+        {
+          "key": "C",
+          "en": "its",
+          "vi": "its (pron): của nó (tính từ sở hữu)"
+        },
+        {
+          "key": "D",
+          "en": "that",
+          "vi": "that (det/pron): đó, cái đó"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets19-t09-p5-q114",
+      "number": 114,
+      "question": {
+        "en": "Amoxitron's research team will hire ______ interns to assist with laboratory duties.",
+        "vi": "Đội nghiên cứu của Amoxitron sẽ thuê ______ thực tập sinh để hỗ trợ các nhiệm vụ trong phòng thí nghiệm."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "given",
+          "vi": "given (adj): nhất định, đã cho"
+        },
+        {
+          "key": "B",
+          "en": "several",
+          "vi": "several (det): một số, vài"
+        },
+        {
+          "key": "C",
+          "en": "whole",
+          "vi": "whole (adj): toàn bộ, nguyên vẹn"
+        },
+        {
+          "key": "D",
+          "en": "natural",
+          "vi": "natural (adj): tự nhiên, bẩm sinh"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets19-t09-p5-q115",
+      "number": 115,
+      "question": {
+        "en": "______ the new acai juice blend has proved so popular, we should move quickly to increase our production volume.",
+        "vi": "______ hỗn hợp nước ép acai mới đã chứng tỏ rất phổ biến, chúng ta nên nhanh chóng tăng sản lượng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "If",
+          "vi": "If (conj): nếu"
+        },
+        {
+          "key": "B",
+          "en": "Whether",
+          "vi": "Whether (conj): liệu... hay không"
+        },
+        {
+          "key": "C",
+          "en": "Since",
+          "vi": "Since (conj): vì, bởi vì, kể từ khi"
+        },
+        {
+          "key": "D",
+          "en": "Unless",
+          "vi": "Unless (conj): trừ khi"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets19-t09-p5-q116",
+      "number": 116,
+      "question": {
+        "en": "New emissions standards have forced Rider Auto to modify the process of engine ______.",
+        "vi": "Các tiêu chuẩn khí thải mới đã buộc Rider Auto phải điều chỉnh quy trình ______ động cơ."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "construction",
+          "vi": "construction (n): quá trình xây dựng/chế tạo"
+        },
+        {
+          "key": "B",
+          "en": "constructed",
+          "vi": "constructed (v-pp): được xây dựng"
+        },
+        {
+          "key": "C",
+          "en": "constructive",
+          "vi": "constructive (adj): mang tính xây dựng"
+        },
+        {
+          "key": "D",
+          "en": "construct",
+          "vi": "construct (v/n): xây dựng / công trình"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets19-t09-p5-q117",
+      "number": 117,
+      "question": {
+        "en": "Maki Kayano's book offers techniques for ______ business tasks with speed and precision.",
+        "vi": "Cuốn sách của Maki Kayano cung cấp các kỹ thuật để ______ các nhiệm vụ kinh doanh với tốc độ và độ chính xác."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "executing",
+          "vi": "executing (v-ing): thực hiện, xử lý"
+        },
+        {
+          "key": "B",
+          "en": "equipping",
+          "vi": "equipping (v-ing): trang bị"
+        },
+        {
+          "key": "C",
+          "en": "returning",
+          "vi": "returning (v-ing): trở lại, trả lại"
+        },
+        {
+          "key": "D",
+          "en": "involving",
+          "vi": "involving (v-ing): liên quan đến"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets19-t09-p5-q118",
+      "number": 118,
+      "question": {
+        "en": "To control costs, updated credit card readers will be installed in branch stores ______.",
+        "vi": "Để kiểm soát chi phí, các máy đọc thẻ tín dụng cập nhật sẽ được lắp đặt tại các cửa hàng chi nhánh ______."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "gradual",
+          "vi": "gradual (adj): dần dần (tính từ)"
+        },
+        {
+          "key": "B",
+          "en": "gradually",
+          "vi": "gradually (adv): một cách dần dần, từng bước"
+        },
+        {
+          "key": "C",
+          "en": "more gradual",
+          "vi": "more gradual (adj-comp): dần dần hơn"
+        },
+        {
+          "key": "D",
+          "en": "most gradual",
+          "vi": "most gradual (adj-superl): dần dần nhất"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets19-t09-p5-q119",
+      "number": 119,
+      "question": {
+        "en": "In this quarter, the Montel Beverage Company is expecting sales ______ £160,000 and £180,000.",
+        "vi": "Trong quý này, Montel Beverage Company dự kiến doanh số ______ £160,000 và £180,000."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "without",
+          "vi": "without (prep): không có, ngoại trừ"
+        },
+        {
+          "key": "B",
+          "en": "among",
+          "vi": "among (prep): trong số (nhiều hơn hai)"
+        },
+        {
+          "key": "C",
+          "en": "throughout",
+          "vi": "throughout (prep): xuyên suốt, khắp"
+        },
+        {
+          "key": "D",
+          "en": "between",
+          "vi": "between (prep): giữa (hai giá trị)"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets19-t09-p5-q120",
+      "number": 120,
+      "question": {
+        "en": "Because Mount Akoyola is so challenging for climbers, ______ have reached its peak.",
+        "vi": "Vì Núi Akoyola rất thử thách đối với người leo núi, ______ đã lên đến đỉnh của nó."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "any",
+          "vi": "any (det/pron): bất kỳ"
+        },
+        {
+          "key": "B",
+          "en": "either",
+          "vi": "either (det/pron): một trong hai"
+        },
+        {
+          "key": "C",
+          "en": "other",
+          "vi": "other (det/pron): khác"
+        },
+        {
+          "key": "D",
+          "en": "few",
+          "vi": "few (det/pron): rất ít, chẳng mấy ai"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets19-t09-p5-q121",
+      "number": 121,
+      "question": {
+        "en": "King Street Bridge will be closed in the month of September ______ repair work.",
+        "vi": "Cầu King Street sẽ bị đóng trong tháng 9 ______ công việc sửa chữa."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "because of",
+          "vi": "because of (prep): vì, do"
+        },
+        {
+          "key": "B",
+          "en": "so that",
+          "vi": "so that (conj): để mà, để cho"
+        },
+        {
+          "key": "C",
+          "en": "as if",
+          "vi": "as if (conj): như thể"
+        },
+        {
+          "key": "D",
+          "en": "rather than",
+          "vi": "rather than (prep): thay vì, hơn là"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets19-t09-p5-q122",
+      "number": 122,
+      "question": {
+        "en": "Ms. Taniguchi's supervisor commended her for negotiating ______ with Furuyama Corporation.",
+        "vi": "Cấp trên của cô Taniguchi đã khen ngợi cô vì đã đàm phán ______ với Furuyama Corporation."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "effective",
+          "vi": "effective (adj): hiệu quả (tính từ)"
+        },
+        {
+          "key": "B",
+          "en": "effecting",
+          "vi": "effecting (v-ing): thực hiện, tạo ra"
+        },
+        {
+          "key": "C",
+          "en": "effected",
+          "vi": "effected (v-pp): đã thực hiện"
+        },
+        {
+          "key": "D",
+          "en": "effectively",
+          "vi": "effectively (adv): một cách hiệu quả"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets19-t09-p5-q123",
+      "number": 123,
+      "question": {
+        "en": "Staff members may reserve the conference room ______ they need it.",
+        "vi": "Nhân viên có thể đặt phòng họp ______ họ cần."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "somewhere",
+          "vi": "somewhere (adv): ở đâu đó"
+        },
+        {
+          "key": "B",
+          "en": "whatever",
+          "vi": "whatever (pron/det): bất cứ điều gì"
+        },
+        {
+          "key": "C",
+          "en": "everything",
+          "vi": "everything (pron): mọi thứ"
+        },
+        {
+          "key": "D",
+          "en": "anytime",
+          "vi": "anytime (adv): bất cứ lúc nào"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets19-t09-p5-q124",
+      "number": 124,
+      "question": {
+        "en": "The public relations director must have a high level of ______ in English and Spanish.",
+        "vi": "Giám đốc quan hệ công chúng phải có trình độ ______ cao bằng tiếng Anh và tiếng Tây Ban Nha."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "proficiency",
+          "vi": "proficiency (n): trình độ thành thạo, năng lực"
+        },
+        {
+          "key": "B",
+          "en": "advancement",
+          "vi": "advancement (n): sự thăng tiến, tiến bộ"
+        },
+        {
+          "key": "C",
+          "en": "routine",
+          "vi": "routine (n): thói quen, quy trình thường ngày"
+        },
+        {
+          "key": "D",
+          "en": "strength",
+          "vi": "strength (n): sức mạnh, điểm mạnh"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets19-t09-p5-q125",
+      "number": 125,
+      "question": {
+        "en": "Patterson Products ______ seeks innovative ways of meeting changing consumer demand.",
+        "vi": "Patterson Products ______ tìm kiếm những cách sáng tạo để đáp ứng nhu cầu thay đổi của người tiêu dùng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "dually",
+          "vi": "dually (adv): theo cách kép, song song"
+        },
+        {
+          "key": "B",
+          "en": "favorably",
+          "vi": "favorably (adv): một cách thuận lợi"
+        },
+        {
+          "key": "C",
+          "en": "continually",
+          "vi": "continually (adv): liên tục, không ngừng"
+        },
+        {
+          "key": "D",
+          "en": "generically",
+          "vi": "generically (adv): một cách chung chung"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets19-t09-p5-q126",
+      "number": 126,
+      "question": {
+        "en": "Mr. Volante is working at home tomorrow so he ______ the technical report without any distractions.",
+        "vi": "Ông Volante sẽ làm việc tại nhà vào ngày mai để ông ấy ______ báo cáo kỹ thuật mà không bị phân tâm."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "can finish",
+          "vi": "can finish (v): có thể hoàn thành"
+        },
+        {
+          "key": "B",
+          "en": "would finish",
+          "vi": "would finish (v): sẽ hoàn thành (giả định)"
+        },
+        {
+          "key": "C",
+          "en": "finished",
+          "vi": "finished (v-pt): đã hoàn thành"
+        },
+        {
+          "key": "D",
+          "en": "has been finishing",
+          "vi": "has been finishing (v): đang trong quá trình hoàn thành"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets19-t09-p5-q127",
+      "number": 127,
+      "question": {
+        "en": "All of the billing procedures remain the same, ______ new payment codes need to be inserted into the invoice documents.",
+        "vi": "Tất cả các quy trình lập hóa đơn vẫn giữ nguyên, ______ các mã thanh toán mới cần được chèn vào tài liệu hóa đơn."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "in order that",
+          "vi": "in order that (conj): để mà, nhằm mục đích"
+        },
+        {
+          "key": "B",
+          "en": "during",
+          "vi": "during (prep): trong suốt (đứng trước danh từ)"
+        },
+        {
+          "key": "C",
+          "en": "across from",
+          "vi": "across from (prep): đối diện với"
+        },
+        {
+          "key": "D",
+          "en": "except that",
+          "vi": "except that (conj): ngoại trừ việc, chỉ là"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets19-t09-p5-q128",
+      "number": 128,
+      "question": {
+        "en": "The lightweight design of the new sedan is ______ because it can cause the vehicle to slide on icy roads.",
+        "vi": "Thiết kế nhẹ của mẫu sedan mới là ______ vì nó có thể khiến xe bị trượt trên đường đóng băng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "possible",
+          "vi": "possible (adj): có thể, khả thi"
+        },
+        {
+          "key": "B",
+          "en": "mechanical",
+          "vi": "mechanical (adj): thuộc cơ học, máy móc"
+        },
+        {
+          "key": "C",
+          "en": "questionable",
+          "vi": "questionable (adj): đáng ngờ, gây lo ngại"
+        },
+        {
+          "key": "D",
+          "en": "multiple",
+          "vi": "multiple (adj): nhiều, đa dạng"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets19-t09-p5-q129",
+      "number": 129,
+      "question": {
+        "en": "When the bank president retired, the common ______ was that the vice president would take over.",
+        "vi": "Khi chủ tịch ngân hàng nghỉ hưu, ______ phổ biến là phó chủ tịch sẽ tiếp quản."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "assume",
+          "vi": "assume (v): cho rằng, đảm nhận"
+        },
+        {
+          "key": "B",
+          "en": "assumption",
+          "vi": "assumption (n): giả định, quan điểm chung"
+        },
+        {
+          "key": "C",
+          "en": "assuming",
+          "vi": "assuming (v-ing/conj): giả sử rằng"
+        },
+        {
+          "key": "D",
+          "en": "assumable",
+          "vi": "assumable (adj): có thể đảm nhận"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets19-t09-p5-q130",
+      "number": 130,
+      "question": {
+        "en": "West Bengali Airlines ______ fees for oversized items that are still within weight limitations.",
+        "vi": "West Bengali Airlines ______ phí đối với các mặt hàng quá khổ nhưng vẫn nằm trong giới hạn trọng lượng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "invites",
+          "vi": "invites (v): mời"
+        },
+        {
+          "key": "B",
+          "en": "cooperates",
+          "vi": "cooperates (v): hợp tác"
+        },
+        {
+          "key": "C",
+          "en": "transports",
+          "vi": "transports (v): vận chuyển"
+        },
+        {
+          "key": "D",
+          "en": "waives",
+          "vi": "waives (v): miễn, bỏ qua (phí, yêu cầu)"
+        }
+      ],
+      "answer": "D"
+    }
+  ]
+}

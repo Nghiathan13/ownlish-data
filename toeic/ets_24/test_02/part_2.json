@@ -1,0 +1,679 @@
+{
+  "items": [
+    {
+      "id": "ets24-t02-p2-q007",
+      "number": 7,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_02/audio/007.mp3",
+      "question": {
+        "en": "Have the machines on the factory floor been cleaned?",
+        "vi": "Máy móc trên sàn nhà máy đã được vệ sinh chưa?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "No, not yet.",
+          "vi": "Chưa, chưa đâu."
+        },
+        {
+          "key": "B",
+          "en": "It's in the shipping container.",
+          "vi": "Nó ở trong container vận chuyển."
+        },
+        {
+          "key": "C",
+          "en": "I just put it in the trash bin.",
+          "vi": "Tôi vừa bỏ nó vào thùng rác."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets24-t02-p2-q008",
+      "number": 8,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_02/audio/008.mp3",
+      "question": {
+        "en": "How much will the budget increase next year?",
+        "vi": "Ngân sách sẽ tăng bao nhiêu vào năm tới?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "About 10 percent.",
+          "vi": "Khoảng 10 phần trăm."
+        },
+        {
+          "key": "B",
+          "en": "Three hours, I think.",
+          "vi": "Tôi nghĩ là ba giờ."
+        },
+        {
+          "key": "C",
+          "en": "At the bank's main branch.",
+          "vi": "Tại chi nhánh chính của ngân hàng."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets24-t02-p2-q009",
+      "number": 9,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_02/audio/009.mp3",
+      "question": {
+        "en": "You're going to water the plants before you leave, aren't you?",
+        "vi": "Bạn sẽ tưới cây trước khi rời đi, phải không?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "I walked the whole way.",
+          "vi": "Tôi đã đi bộ suốt quãng đường."
+        },
+        {
+          "key": "B",
+          "en": "Yes, right after lunch.",
+          "vi": "Vâng, ngay sau bữa trưa."
+        },
+        {
+          "key": "C",
+          "en": "In the breakroom.",
+          "vi": "Trong phòng nghỉ."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets24-t02-p2-q010",
+      "number": 10,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_02/audio/010.mp3",
+      "question": {
+        "en": "Aren't you going to schedule an eye doctor appointment?",
+        "vi": "Bạn không định đặt lịch khám bác sĩ mắt à?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Those glasses look nice on you.",
+          "vi": "Cặp kính đó trông đẹp trên bạn."
+        },
+        {
+          "key": "B",
+          "en": "I already scheduled one.",
+          "vi": "Tôi đã đặt lịch một cuộc hẹn rồi."
+        },
+        {
+          "key": "C",
+          "en": "The seminar is three days long.",
+          "vi": "Hội thảo kéo dài ba ngày."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets24-t02-p2-q011",
+      "number": 11,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_02/audio/011.mp3",
+      "question": {
+        "en": "I'm going to try to fix this printer.",
+        "vi": "Tôi sẽ cố sửa cái máy in này."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "You're right, it doesn't fit.",
+          "vi": "Bạn nói đúng, nó không vừa."
+        },
+        {
+          "key": "B",
+          "en": "Double-sided copies.",
+          "vi": "Bản sao hai mặt."
+        },
+        {
+          "key": "C",
+          "en": "Are you sure it can be repaired?",
+          "vi": "Bạn có chắc nó có thể sửa được không?"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets24-t02-p2-q012",
+      "number": 12,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_02/audio/012.mp3",
+      "question": {
+        "en": "What should we do with these brochures?",
+        "vi": "Chúng ta nên làm gì với những tờ rơi này?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "A trip to the seashore.",
+          "vi": "Một chuyến đi đến bờ biển."
+        },
+        {
+          "key": "B",
+          "en": "Yes, I found it already.",
+          "vi": "Vâng, tôi đã tìm thấy nó rồi."
+        },
+        {
+          "key": "C",
+          "en": "I'll leave them at the front desk.",
+          "vi": "Tôi sẽ để chúng ở quầy lễ tân."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets24-t02-p2-q013",
+      "number": 13,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_02/audio/013.mp3",
+      "question": {
+        "en": "Has the policy meeting been rescheduled?",
+        "vi": "Cuộc họp về chính sách đã được dời lịch chưa?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "We have lots of desk calendar designs.",
+          "vi": "Chúng tôi có nhiều mẫu lịch để bàn."
+        },
+        {
+          "key": "B",
+          "en": "Yes, it's happening tomorrow instead.",
+          "vi": "Vâng, thay vào đó nó sẽ diễn ra vào ngày mai."
+        },
+        {
+          "key": "C",
+          "en": "This soup I ordered is delicious.",
+          "vi": "Món súp tôi gọi thật ngon."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets24-t02-p2-q014",
+      "number": 14,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_02/audio/014.mp3",
+      "question": {
+        "en": "Why don't we stop by the office cafeteria on our way to the workshop?",
+        "vi": "Tại sao chúng ta không ghé qua quán cà phê của văn phòng trên đường đến hội thảo?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Sure, we have time for that.",
+          "vi": "Chắc chắn rồi, chúng ta có thời gian cho việc đó."
+        },
+        {
+          "key": "B",
+          "en": "A full-service buffet.",
+          "vi": "Một bữa tiệc buffet đầy đủ dịch vụ."
+        },
+        {
+          "key": "C",
+          "en": "The topic is professional networking.",
+          "vi": "Chủ đề là kết nối nghề nghiệp."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets24-t02-p2-q015",
+      "number": 15,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_02/audio/015.mp3",
+      "question": {
+        "en": "Have you tried our famous pasta dish?",
+        "vi": "Bạn đã thử món mì Ý nổi tiếng của chúng tôi chưa?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "We need a table for five.",
+          "vi": "Chúng tôi cần bàn cho năm người."
+        },
+        {
+          "key": "B",
+          "en": "Yes, it was delicious.",
+          "vi": "Vâng, nó rất ngon."
+        },
+        {
+          "key": "C",
+          "en": "I'll try to make it on time.",
+          "vi": "Tôi sẽ cố gắng đến đúng giờ."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets24-t02-p2-q016",
+      "number": 16,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_02/audio/016.mp3",
+      "question": {
+        "en": "Who's the opening act at tonight's concert?",
+        "vi": "Ai là nghệ sĩ mở màn cho buổi hòa nhạc tối nay?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Could you turn up the volume?",
+          "vi": "Bạn có thể tăng âm lượng được không?"
+        },
+        {
+          "key": "B",
+          "en": "A jazz singer from France.",
+          "vi": "Một ca sĩ nhạc jazz đến từ Pháp."
+        },
+        {
+          "key": "C",
+          "en": "The position has been filled.",
+          "vi": "Vị trí đã được lấp đầy."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets24-t02-p2-q017",
+      "number": 17,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_02/audio/017.mp3",
+      "question": {
+        "en": "When do the product demonstrations start?",
+        "vi": "Khi nào các buổi trình diễn sản phẩm bắt đầu?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "The schedule was e-mailed last Friday.",
+          "vi": "Lịch trình đã được gửi qua email vào thứ Sáu tuần trước."
+        },
+        {
+          "key": "B",
+          "en": "Some innovative features.",
+          "vi": "Một số tính năng sáng tạo."
+        },
+        {
+          "key": "C",
+          "en": "In room 202, I think.",
+          "vi": "Tôi nghĩ là ở phòng 202."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets24-t02-p2-q018",
+      "number": 18,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_02/audio/018.mp3",
+      "question": {
+        "en": "I tried updating the Web site, but it didn't work.",
+        "vi": "Tôi đã thử cập nhật trang web, nhưng nó không hoạt động."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "That date works for me.",
+          "vi": "Ngày đó phù hợp với tôi."
+        },
+        {
+          "key": "B",
+          "en": "Usually our online reviews.",
+          "vi": "Thường là các đánh giá trực tuyến của chúng tôi."
+        },
+        {
+          "key": "C",
+          "en": "Just send me the changes you want.",
+          "vi": "Chỉ cần gửi cho tôi những thay đổi bạn muốn."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets24-t02-p2-q019",
+      "number": 19,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_02/audio/019.mp3",
+      "question": {
+        "en": "Did you hire a new welding specialist?",
+        "vi": "Bạn đã thuê một chuyên gia hàn mới chưa?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "The part's back-ordered.",
+          "vi": "Bộ phận đó đã bị đặt hàng lại."
+        },
+        {
+          "key": "B",
+          "en": "Yes, he starts tomorrow.",
+          "vi": "Vâng, anh ấy bắt đầu làm việc vào ngày mai."
+        },
+        {
+          "key": "C",
+          "en": "No, it should be higher.",
+          "vi": "Không, nó nên cao hơn."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets24-t02-p2-q020",
+      "number": 20,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_02/audio/020.mp3",
+      "question": {
+        "en": "How was the color palette for the lobby chosen?",
+        "vi": "Bảng màu cho sảnh đã được chọn như thế nào?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Blue and orange.",
+          "vi": "Xanh dương và cam."
+        },
+        {
+          "key": "B",
+          "en": "It was fine, thanks.",
+          "vi": "Nó ổn, cảm ơn."
+        },
+        {
+          "key": "C",
+          "en": "I wasn't involved.",
+          "vi": "Tôi không tham gia."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets24-t02-p2-q021",
+      "number": 21,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_02/audio/021.mp3",
+      "question": {
+        "en": "When are we ordering more supplies for the office?",
+        "vi": "Khi nào chúng ta đặt thêm đồ dùng văn phòng?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "In the storage closet.",
+          "vi": "Trong tủ đựng đồ."
+        },
+        {
+          "key": "B",
+          "en": "Next week on Monday.",
+          "vi": "Thứ Hai tuần sau."
+        },
+        {
+          "key": "C",
+          "en": "The new desk looks great!",
+          "vi": "Bàn làm việc mới trông thật tuyệt!"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets24-t02-p2-q022",
+      "number": 22,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_02/audio/022.mp3",
+      "question": {
+        "en": "The battery for the water pump is going to be solar powered, right?",
+        "vi": "Pin cho máy bơm nước sẽ chạy bằng năng lượng mặt trời, phải không?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "We're still in the planning stages.",
+          "vi": "Chúng tôi vẫn đang trong giai đoạn lên kế hoạch."
+        },
+        {
+          "key": "B",
+          "en": "A hundred and forty dollars per year.",
+          "vi": "Một trăm bốn mươi đô la mỗi năm."
+        },
+        {
+          "key": "C",
+          "en": "Yes, I'd love a glass of water.",
+          "vi": "Vâng, tôi muốn một cốc nước."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets24-t02-p2-q023",
+      "number": 23,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_02/audio/023.mp3",
+      "question": {
+        "en": "Where can I buy a charger for this laptop?",
+        "vi": "Tôi có thể mua bộ sạc cho máy tính xách tay này ở đâu?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Around three o'clock.",
+          "vi": "Khoảng ba giờ."
+        },
+        {
+          "key": "B",
+          "en": "I can order one for you.",
+          "vi": "Tôi có thể đặt một cái cho bạn."
+        },
+        {
+          "key": "C",
+          "en": "A limited return policy.",
+          "vi": "Chính sách đổi trả có giới hạn."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets24-t02-p2-q024",
+      "number": 24,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_02/audio/024.mp3",
+      "question": {
+        "en": "Do I need to reserve a meeting room?",
+        "vi": "Tôi có cần đặt phòng họp không?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Yes, let me show you how.",
+          "vi": "Vâng, để tôi chỉ bạn cách làm."
+        },
+        {
+          "key": "B",
+          "en": "The service is good.",
+          "vi": "Dịch vụ tốt."
+        },
+        {
+          "key": "C",
+          "en": "My slide presentation.",
+          "vi": "Bài thuyết trình slide của tôi."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets24-t02-p2-q025",
+      "number": 25,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_02/audio/025.mp3",
+      "question": {
+        "en": "When's the new department director supposed to start?",
+        "vi": "Giám đốc bộ phận mới dự kiến bắt đầu làm việc khi nào?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "It's an hour long.",
+          "vi": "Nó dài một giờ."
+        },
+        {
+          "key": "B",
+          "en": "Ms. Pavlova isn't retiring for several weeks.",
+          "vi": "Cô Pavlova sẽ không nghỉ hưu trong vài tuần nữa."
+        },
+        {
+          "key": "C",
+          "en": "No, that department's upstairs.",
+          "vi": "Không, bộ phận đó ở trên lầu."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets24-t02-p2-q026",
+      "number": 26,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_02/audio/026.mp3",
+      "question": {
+        "en": "Should I deliver these pizzas, or will you?",
+        "vi": "Tôi nên giao những chiếc bánh pizza này, hay bạn sẽ làm?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "No thanks—I'm not hungry.",
+          "vi": "Cảm ơn, không cần – tôi không đói."
+        },
+        {
+          "key": "B",
+          "en": "Ten dollars for two.",
+          "vi": "Mười đô la cho hai cái."
+        },
+        {
+          "key": "C",
+          "en": "They're being picked up.",
+          "vi": "Chúng đang được nhận đi."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets24-t02-p2-q027",
+      "number": 27,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_02/audio/027.mp3",
+      "question": {
+        "en": "This month's shipment schedule has been revised.",
+        "vi": "Lịch trình vận chuyển của tháng này đã được sửa đổi."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "I couldn't find them either.",
+          "vi": "Tôi cũng không tìm thấy chúng."
+        },
+        {
+          "key": "B",
+          "en": "Which dates have been changed?",
+          "vi": "Những ngày nào đã bị thay đổi?"
+        },
+        {
+          "key": "C",
+          "en": "Two dollars per pound.",
+          "vi": "Hai đô la mỗi pound."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets24-t02-p2-q028",
+      "number": 28,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_02/audio/028.mp3",
+      "question": {
+        "en": "How much will the repairs cost?",
+        "vi": "Chi phí sửa chữa sẽ là bao nhiêu?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "The work is covered under the warranty plan.",
+          "vi": "Công việc được bảo hành theo chương trình bảo hành."
+        },
+        {
+          "key": "B",
+          "en": "Yes, it's also available in red.",
+          "vi": "Vâng, nó cũng có sẵn màu đỏ."
+        },
+        {
+          "key": "C",
+          "en": "In about two weeks.",
+          "vi": "Trong khoảng hai tuần."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets24-t02-p2-q029",
+      "number": 29,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_02/audio/029.mp3",
+      "question": {
+        "en": "Why don't we provide more samples of the wallpaper patterns?",
+        "vi": "Tại sao chúng ta không cung cấp thêm mẫu họa tiết giấy dán tường?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "The newspaper is delivered daily.",
+          "vi": "Báo được giao hàng ngày."
+        },
+        {
+          "key": "B",
+          "en": "An interior design course.",
+          "vi": "Một khóa học thiết kế nội thất."
+        },
+        {
+          "key": "C",
+          "en": "There are plenty in the binders.",
+          "vi": "Có rất nhiều trong các bìa kẹp tài liệu."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets24-t02-p2-q030",
+      "number": 30,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_02/audio/030.mp3",
+      "question": {
+        "en": "Can you give me a tour of the property this afternoon?",
+        "vi": "Bạn có thể dẫn tôi tham quan khu đất này chiều nay không?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Sorry, I won't have time until tomorrow.",
+          "vi": "Xin lỗi, tôi sẽ không có thời gian cho đến ngày mai."
+        },
+        {
+          "key": "B",
+          "en": "It has a very modern design.",
+          "vi": "Nó có thiết kế rất hiện đại."
+        },
+        {
+          "key": "C",
+          "en": "A house on Maple Street.",
+          "vi": "Một ngôi nhà trên phố Maple."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets24-t02-p2-q031",
+      "number": 31,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_02/audio/031.mp3",
+      "question": {
+        "en": "Who's scheduled to test the product today?",
+        "vi": "Ai được lên lịch để kiểm tra sản phẩm hôm nay?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "We're waiting for confirmation.",
+          "vi": "Chúng tôi đang chờ xác nhận."
+        },
+        {
+          "key": "B",
+          "en": "It's a great album, right?",
+          "vi": "Đó là một album tuyệt vời, phải không?"
+        },
+        {
+          "key": "C",
+          "en": "About six weeks ago.",
+          "vi": "Khoảng sáu tuần trước."
+        }
+      ],
+      "answer": "A"
+    }
+  ]
+}

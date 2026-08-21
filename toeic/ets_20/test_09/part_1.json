@@ -1,0 +1,178 @@
+{
+  "items": [
+    {
+      "id": "ets20-t09-p1-q001",
+      "number": 1,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_09/image/001.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_09/audio/001.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "She's closing a door.",
+          "vi": "Cô ấy đang đóng cửa."
+        },
+        {
+          "key": "B",
+          "en": "She's washing some plates.",
+          "vi": "Cô ấy đang rửa vài cái đĩa."
+        },
+        {
+          "key": "C",
+          "en": "She's preparing some food.",
+          "vi": "Cô ấy đang chuẩn bị đồ ăn."
+        },
+        {
+          "key": "D",
+          "en": "She's sweeping a floor.",
+          "vi": "Cô ấy đang quét sàn nhà."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets20-t09-p1-q002",
+      "number": 2,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_09/image/002.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_09/audio/002.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "They're taking off their jackets.",
+          "vi": "Họ đang cởi áo khoác."
+        },
+        {
+          "key": "B",
+          "en": "They're walking outside.",
+          "vi": "Họ đang đi bộ bên ngoài."
+        },
+        {
+          "key": "C",
+          "en": "They're going into a building.",
+          "vi": "Họ đang đi vào một tòa nhà."
+        },
+        {
+          "key": "D",
+          "en": "They're packing some luggage.",
+          "vi": "Họ đang đóng gói hành lý."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets20-t09-p1-q003",
+      "number": 3,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_09/image/003.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_09/audio/003.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "They're shaking hands across a counter.",
+          "vi": "Họ đang bắt tay nhau qua quầy."
+        },
+        {
+          "key": "B",
+          "en": "They're putting stamps on envelopes.",
+          "vi": "Họ đang dán tem lên phong bì."
+        },
+        {
+          "key": "C",
+          "en": "A man is organizing documents in a folder.",
+          "vi": "Một người đàn ông đang sắp xếp tài liệu vào cặp hồ sơ."
+        },
+        {
+          "key": "D",
+          "en": "A woman is writing on a piece of paper.",
+          "vi": "Một người phụ nữ đang viết lên tờ giấy."
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets20-t09-p1-q004",
+      "number": 4,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_09/image/004.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_09/audio/004.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "Some ladders have been set up in a work space.",
+          "vi": "Vài cái thang đã được dựng trong khu vực làm việc."
+        },
+        {
+          "key": "B",
+          "en": "Some chairs have been lined up against a wall.",
+          "vi": "Vài cái ghế đã được xếp hàng dựa vào tường."
+        },
+        {
+          "key": "C",
+          "en": "Some plants have been placed on the ground.",
+          "vi": "Vài cây đã được đặt trên mặt đất."
+        },
+        {
+          "key": "D",
+          "en": "Some cabinet drawers have been left open.",
+          "vi": "Vài ngăn kéo tủ đã được để mở."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets20-t09-p1-q005",
+      "number": 5,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_09/image/005.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_09/audio/005.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "A man is loading some bricks onto a cart.",
+          "vi": "Một người đàn ông đang chất gạch lên xe đẩy."
+        },
+        {
+          "key": "B",
+          "en": "A man is cutting the grass alongside a road.",
+          "vi": "Một người đàn ông đang cắt cỏ dọc theo đường."
+        },
+        {
+          "key": "C",
+          "en": "A man is driving a truck into a parking garage.",
+          "vi": "Một người đàn ông đang lái xe tải vào nhà để xe."
+        },
+        {
+          "key": "D",
+          "en": "A man is using a shovel to move some dirt.",
+          "vi": "Một người đàn ông đang dùng xẻng để xúc đất."
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets20-t09-p1-q006",
+      "number": 6,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_09/image/006.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_09/audio/006.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "A bridge crosses over a waterway.",
+          "vi": "Một cây cầu bắc qua tuyến đường thủy."
+        },
+        {
+          "key": "B",
+          "en": "A dock is crowded with tourists.",
+          "vi": "Bến tàu đông đúc khách du lịch."
+        },
+        {
+          "key": "C",
+          "en": "Some boats are sailing in the ocean.",
+          "vi": "Vài chiếc thuyền đang lướt trên đại dương."
+        },
+        {
+          "key": "D",
+          "en": "Some ropes are piled on top of a box.",
+          "vi": "Vài sợi dây thừng được chất đống trên một cái hộp."
+        }
+      ],
+      "answer": "A"
+    }
+  ]
+}

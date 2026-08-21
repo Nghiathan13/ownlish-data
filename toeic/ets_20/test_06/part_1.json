@@ -1,0 +1,178 @@
+{
+  "items": [
+    {
+      "id": "ets20-t06-p1-q001",
+      "number": 1,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_06/image/001.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_06/audio/001.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "He's planting some grass.",
+          "vi": "Anh ấy đang trồng cỏ."
+        },
+        {
+          "key": "B",
+          "en": "He's painting a fence.",
+          "vi": "Anh ấy đang sơn hàng rào."
+        },
+        {
+          "key": "C",
+          "en": "He's working on a machine.",
+          "vi": "Anh ấy đang làm việc với một chiếc máy."
+        },
+        {
+          "key": "D",
+          "en": "He's moving a container.",
+          "vi": "Anh ấy đang di chuyển một thùng chứa."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets20-t06-p1-q002",
+      "number": 2,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_06/image/002.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_06/audio/002.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "She's pushing a shopping cart.",
+          "vi": "Cô ấy đang đẩy xe mua hàng."
+        },
+        {
+          "key": "B",
+          "en": "She's removing her glasses.",
+          "vi": "Cô ấy đang tháo kính."
+        },
+        {
+          "key": "C",
+          "en": "She's putting some bags on a shelf.",
+          "vi": "Cô ấy đang đặt một số túi lên kệ."
+        },
+        {
+          "key": "D",
+          "en": "She's looking at some packages.",
+          "vi": "Cô ấy đang nhìn một số gói hàng."
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets20-t06-p1-q003",
+      "number": 3,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_06/image/003.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_06/audio/003.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "The woman is carrying some food.",
+          "vi": "Người phụ nữ đang mang thức ăn."
+        },
+        {
+          "key": "B",
+          "en": "The woman is wiping off a table.",
+          "vi": "Người phụ nữ đang lau bàn."
+        },
+        {
+          "key": "C",
+          "en": "The man is talking to a server.",
+          "vi": "Người đàn ông đang nói chuyện với nhân viên phục vụ."
+        },
+        {
+          "key": "D",
+          "en": "The man is picking up some silverware.",
+          "vi": "Người đàn ông đang nhặt dao nĩa."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets20-t06-p1-q004",
+      "number": 4,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_06/image/004.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_06/audio/004.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "She's holding on to a handrail.",
+          "vi": "Cô ấy đang bám vào tay vịn."
+        },
+        {
+          "key": "B",
+          "en": "She's bending down to tie her shoe.",
+          "vi": "Cô ấy đang cúi xuống buộc giày."
+        },
+        {
+          "key": "C",
+          "en": "The entryway is blocked off.",
+          "vi": "Lối vào bị chặn."
+        },
+        {
+          "key": "D",
+          "en": "The stairs are being fixed.",
+          "vi": "Cầu thang đang được sửa chữa."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets20-t06-p1-q005",
+      "number": 5,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_06/image/005.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_06/audio/005.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "The curtain has been closed.",
+          "vi": "Rèm cửa đã được kéo lại."
+        },
+        {
+          "key": "B",
+          "en": "Some photos are displayed on a desk.",
+          "vi": "Một số bức ảnh được trưng bày trên bàn."
+        },
+        {
+          "key": "C",
+          "en": "A travel bag has been set on a chair.",
+          "vi": "Một chiếc túi du lịch đã được đặt trên ghế."
+        },
+        {
+          "key": "D",
+          "en": "A light is hanging from the ceiling.",
+          "vi": "Một chiếc đèn đang treo trên trần nhà."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets20-t06-p1-q006",
+      "number": 6,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_06/image/006.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_20/test_06/audio/006.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "A man is walking along a path.",
+          "vi": "Một người đàn ông đang đi bộ dọc con đường."
+        },
+        {
+          "key": "B",
+          "en": "An outdoor area is crowded with people.",
+          "vi": "Khu vực ngoài trời đông đúc người."
+        },
+        {
+          "key": "C",
+          "en": "A man is removing his jacket and hat.",
+          "vi": "Một người đàn ông đang cởi áo khoác và mũ."
+        },
+        {
+          "key": "D",
+          "en": "A walkway is lined with benches.",
+          "vi": "Lối đi được bố trí những chiếc ghế dài hai bên."
+        }
+      ],
+      "answer": "D"
+    }
+  ]
+}

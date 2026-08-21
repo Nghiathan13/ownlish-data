@@ -1,0 +1,934 @@
+{
+  "items": [
+    {
+      "id": "ybm25-t02-p5-q101",
+      "number": 101,
+      "question": {
+        "en": "If you are not ______ with the service you receive at Luxe Salon, let our manager know.",
+        "vi": "Nếu bạn không hài lòng với dịch vụ nhận được tại Luxe Salon, hãy cho quản lý của chúng tôi biết."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "pleased",
+          "vi": "pleased (adj): hài lòng"
+        },
+        {
+          "key": "B",
+          "en": "pleasure",
+          "vi": "pleasure (n): niềm vui"
+        },
+        {
+          "key": "C",
+          "en": "pleasing",
+          "vi": "pleasing (adj): làm hài lòng, dễ chịu"
+        },
+        {
+          "key": "D",
+          "en": "please",
+          "vi": "please (v): làm hài lòng"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ybm25-t02-p5-q102",
+      "number": 102,
+      "question": {
+        "en": "When searching for an auto glass repair shop, make sure to choose one that has certified technicians like ______.",
+        "vi": "Khi tìm một cửa hàng sửa kính ô tô, hãy chắc chắn chọn một nơi có kỹ thuật viên được chứng nhận giống như kỹ thuật viên của chúng tôi."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "we",
+          "vi": "we (pron): chúng tôi (chủ ngữ)"
+        },
+        {
+          "key": "B",
+          "en": "our",
+          "vi": "our (adj): của chúng tôi"
+        },
+        {
+          "key": "C",
+          "en": "ours",
+          "vi": "ours (pron): (cái) của chúng tôi"
+        },
+        {
+          "key": "D",
+          "en": "ourselves",
+          "vi": "ourselves (pron): chính chúng tôi"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ybm25-t02-p5-q103",
+      "number": 103,
+      "question": {
+        "en": "Ms. Chin ______ Mr. Stepp's duties while he is at a weeklong marketing seminar.",
+        "vi": "Bà Chin sẽ đảm nhận các nhiệm vụ của ông Stepp trong khi ông tham dự một hội thảo marketing kéo dài một tuần."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "assumed",
+          "vi": "assumed (v): đã đảm nhận (quá khứ)"
+        },
+        {
+          "key": "B",
+          "en": "to assume",
+          "vi": "to assume (v): để đảm nhận"
+        },
+        {
+          "key": "C",
+          "en": "is assumed",
+          "vi": "is assumed (v): bị đảm nhận (bị động)"
+        },
+        {
+          "key": "D",
+          "en": "will assume",
+          "vi": "will assume (v): sẽ đảm nhận"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ybm25-t02-p5-q104",
+      "number": 104,
+      "question": {
+        "en": "After accepting a delivery from a frozen food supplier, ______ transfer the items to the restaurant's freezer.",
+        "vi": "Sau khi nhận hàng giao từ nhà cung cấp thực phẩm đông lạnh, hãy nhanh chóng chuyển các mặt hàng vào tủ đông của nhà hàng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "quickly",
+          "vi": "quickly (adv): nhanh chóng"
+        },
+        {
+          "key": "B",
+          "en": "enough",
+          "vi": "enough (adv): đủ"
+        },
+        {
+          "key": "C",
+          "en": "closely",
+          "vi": "closely (adv): sát, kỹ lưỡng"
+        },
+        {
+          "key": "D",
+          "en": "partly",
+          "vi": "partly (adv): một phần"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ybm25-t02-p5-q105",
+      "number": 105,
+      "question": {
+        "en": "Snap Sauces handed out all of its product samples to trade show attendees ______ 11 a.m. on the first day.",
+        "vi": "Snap Sauces đã phát hết tất cả mẫu sản phẩm cho người tham dự triển lãm thương mại trước 11 giờ sáng ngày đầu tiên."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "about",
+          "vi": "about (prep): về, khoảng"
+        },
+        {
+          "key": "B",
+          "en": "by",
+          "vi": "by (prep): trước (mốc thời gian)"
+        },
+        {
+          "key": "C",
+          "en": "for",
+          "vi": "for (prep): cho, trong"
+        },
+        {
+          "key": "D",
+          "en": "in",
+          "vi": "in (prep): trong, vào"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ybm25-t02-p5-q106",
+      "number": 106,
+      "question": {
+        "en": "The Foy County Parks Department has compiled a list of hiking trails ______ by bus.",
+        "vi": "Sở Công viên Hạt Foy đã biên soạn một danh sách các đường mòn đi bộ có thể đến được bằng xe buýt."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "accessibility",
+          "vi": "accessibility (n): khả năng tiếp cận"
+        },
+        {
+          "key": "B",
+          "en": "accessible",
+          "vi": "accessible (adj): có thể tiếp cận"
+        },
+        {
+          "key": "C",
+          "en": "accessibly",
+          "vi": "accessibly (adv): một cách dễ tiếp cận"
+        },
+        {
+          "key": "D",
+          "en": "access",
+          "vi": "access (n/v): sự truy cập / truy cập"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ybm25-t02-p5-q107",
+      "number": 107,
+      "question": {
+        "en": "Nia Aldridge has shown ______ for learning the skills needed to become a software engineer.",
+        "vi": "Nia Aldridge đã thể hiện sự nhiệt tình đối với việc học các kỹ năng cần thiết để trở thành một kỹ sư phần mềm."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "enthusiast",
+          "vi": "enthusiast (n): người đam mê"
+        },
+        {
+          "key": "B",
+          "en": "enthusiastic",
+          "vi": "enthusiastic (adj): nhiệt tình"
+        },
+        {
+          "key": "C",
+          "en": "enthusiastically",
+          "vi": "enthusiastically (adv): một cách nhiệt tình"
+        },
+        {
+          "key": "D",
+          "en": "enthusiasm",
+          "vi": "enthusiasm (n): sự nhiệt tình, đam mê"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ybm25-t02-p5-q108",
+      "number": 108,
+      "question": {
+        "en": "In accordance with company policy, incomplete requests for reimbursement will not be ______.",
+        "vi": "Theo chính sách của công ty, các yêu cầu hoàn tiền không đầy đủ sẽ không được chấp thuận."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "approved",
+          "vi": "approved (v-pp): được chấp thuận"
+        },
+        {
+          "key": "B",
+          "en": "achieved",
+          "vi": "achieved (v-pp): đạt được"
+        },
+        {
+          "key": "C",
+          "en": "decided",
+          "vi": "decided (v-pp): được quyết định"
+        },
+        {
+          "key": "D",
+          "en": "increased",
+          "vi": "increased (v-pp): được tăng lên"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ybm25-t02-p5-q109",
+      "number": 109,
+      "question": {
+        "en": "Sonia Ray was the lead singer of the band Indigo Mist for several years ______ becoming a solo act.",
+        "vi": "Sonia Ray là ca sĩ chính của ban nhạc Indigo Mist trong vài năm trước khi trở thành một nghệ sĩ solo."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "before",
+          "vi": "before (prep/conj): trước khi"
+        },
+        {
+          "key": "B",
+          "en": "except",
+          "vi": "except (prep): ngoại trừ"
+        },
+        {
+          "key": "C",
+          "en": "then",
+          "vi": "then (adv): sau đó"
+        },
+        {
+          "key": "D",
+          "en": "yet",
+          "vi": "yet (adv): vẫn chưa"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ybm25-t02-p5-q110",
+      "number": 110,
+      "question": {
+        "en": "The employee picnic celebrating the start of summer may need to be postponed if the rain ______.",
+        "vi": "Buổi picnic của nhân viên mừng đầu mùa hè có thể cần được hoãn lại nếu trời mưa vẫn tiếp tục."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "continue",
+          "vi": "continue (v): tiếp tục (nguyên mẫu)"
+        },
+        {
+          "key": "B",
+          "en": "continues",
+          "vi": "continues (v): tiếp tục (ngôi 3 số ít)"
+        },
+        {
+          "key": "C",
+          "en": "had continued",
+          "vi": "had continued (v): đã tiếp tục (quá khứ hoàn thành)"
+        },
+        {
+          "key": "D",
+          "en": "continuing",
+          "vi": "continuing (v-ing): đang tiếp tục"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ybm25-t02-p5-q111",
+      "number": 111,
+      "question": {
+        "en": "Ever since the Dwyerton Building's construction, its architecture has been considered the most ______ in the city.",
+        "vi": "Kể từ khi tòa nhà Dwyerton được xây dựng, kiến trúc của nó đã được coi là đẹp nhất trong thành phố."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "beauty",
+          "vi": "beauty (n): vẻ đẹp"
+        },
+        {
+          "key": "B",
+          "en": "beauties",
+          "vi": "beauties (n): những vẻ đẹp"
+        },
+        {
+          "key": "C",
+          "en": "beautiful",
+          "vi": "beautiful (adj): đẹp"
+        },
+        {
+          "key": "D",
+          "en": "beautifully",
+          "vi": "beautifully (adv): một cách đẹp đẽ"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ybm25-t02-p5-q112",
+      "number": 112,
+      "question": {
+        "en": "UBN Tours will offer daily walking tours of downtown Peralt ______ this week onward.",
+        "vi": "UBN Tours sẽ cung cấp các chuyến tham quan đi bộ hàng ngày ở trung tâm Peralt từ tuần này trở đi."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "among",
+          "vi": "among (prep): giữa, trong số"
+        },
+        {
+          "key": "B",
+          "en": "from",
+          "vi": "from (prep): từ"
+        },
+        {
+          "key": "C",
+          "en": "over",
+          "vi": "over (prep): trên, qua"
+        },
+        {
+          "key": "D",
+          "en": "toward",
+          "vi": "toward (prep): về phía"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ybm25-t02-p5-q113",
+      "number": 113,
+      "question": {
+        "en": "The management team of Shelzan Pharmaceuticals has developed a ______ for expanding its operations into China within a few years.",
+        "vi": "Đội ngũ quản lý của Shelzan Pharmaceuticals đã phát triển một chiến lược để mở rộng hoạt động kinh doanh sang Trung Quốc trong vòng vài năm."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "meeting",
+          "vi": "meeting (n): cuộc họp"
+        },
+        {
+          "key": "B",
+          "en": "benefit",
+          "vi": "benefit (n): lợi ích"
+        },
+        {
+          "key": "C",
+          "en": "strategy",
+          "vi": "strategy (n): chiến lược"
+        },
+        {
+          "key": "D",
+          "en": "recognition",
+          "vi": "recognition (n): sự công nhận"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ybm25-t02-p5-q114",
+      "number": 114,
+      "question": {
+        "en": "By conducting extensive marketing ______, RIV Associates can produce crucial insights into your target consumers.",
+        "vi": "Bằng cách tiến hành nghiên cứu thị trường sâu rộng, RIV Associates có thể đưa ra những hiểu biết quan trọng về người tiêu dùng mục tiêu của bạn."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "research",
+          "vi": "research (n): nghiên cứu"
+        },
+        {
+          "key": "B",
+          "en": "researched",
+          "vi": "researched (v-pp): đã nghiên cứu"
+        },
+        {
+          "key": "C",
+          "en": "researching",
+          "vi": "researching (v-ing): đang nghiên cứu"
+        },
+        {
+          "key": "D",
+          "en": "researchers",
+          "vi": "researchers (n): các nhà nghiên cứu"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ybm25-t02-p5-q115",
+      "number": 115,
+      "question": {
+        "en": "______ the old lighting has been replaced with more efficient fixtures, the office's electricity bills will be lower.",
+        "vi": "Giờ đây khi hệ thống chiếu sáng cũ đã được thay thế bằng các thiết bị hiệu quả hơn, hóa đơn tiền điện của văn phòng sẽ thấp hơn."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Unless",
+          "vi": "Unless (conj): trừ khi"
+        },
+        {
+          "key": "B",
+          "en": "At once",
+          "vi": "At once (adv): ngay lập tức"
+        },
+        {
+          "key": "C",
+          "en": "Now that",
+          "vi": "Now that (conj): giờ đây khi"
+        },
+        {
+          "key": "D",
+          "en": "Although",
+          "vi": "Although (conj): mặc dù"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ybm25-t02-p5-q116",
+      "number": 116,
+      "question": {
+        "en": "For the premiere of its new film, Lofton Studios's publicity team has been instructed to reserve the largest theater ______.",
+        "vi": "Cho buổi ra mắt bộ phim mới của mình, nhóm quảng bá của Lofton Studios đã được chỉ thị đặt trước rạp chiếu lớn nhất hiện có."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "secure",
+          "vi": "secure (adj): an toàn"
+        },
+        {
+          "key": "B",
+          "en": "certain",
+          "vi": "certain (adj): chắc chắn"
+        },
+        {
+          "key": "C",
+          "en": "welcome",
+          "vi": "welcome (adj): được chào đón"
+        },
+        {
+          "key": "D",
+          "en": "available",
+          "vi": "available (adj): có sẵn"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ybm25-t02-p5-q117",
+      "number": 117,
+      "question": {
+        "en": "The company encourages customers to review its products ______ on shopping Web sites.",
+        "vi": "Công ty khuyến khích khách hàng đánh giá sản phẩm của mình một cách tích cực trên các trang web mua sắm."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "favorable",
+          "vi": "favorable (adj): thuận lợi, tích cực"
+        },
+        {
+          "key": "B",
+          "en": "favorably",
+          "vi": "favorably (adv): một cách tích cực"
+        },
+        {
+          "key": "C",
+          "en": "favorite",
+          "vi": "favorite (adj/n): yêu thích"
+        },
+        {
+          "key": "D",
+          "en": "favor",
+          "vi": "favor (n/v): sự ưu ái / ủng hộ"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ybm25-t02-p5-q118",
+      "number": 118,
+      "question": {
+        "en": "______ the next few weeks, the CEO of Serna Mining will announce her successor.",
+        "vi": "Trong vòng vài tuần tới, CEO của Serna Mining sẽ công bố người kế nhiệm của bà."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Until",
+          "vi": "Until (prep/conj): cho đến khi"
+        },
+        {
+          "key": "B",
+          "en": "Provided",
+          "vi": "Provided (conj): miễn là"
+        },
+        {
+          "key": "C",
+          "en": "Within",
+          "vi": "Within (prep): trong vòng"
+        },
+        {
+          "key": "D",
+          "en": "Involving",
+          "vi": "Involving (prep): liên quan đến"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ybm25-t02-p5-q119",
+      "number": 119,
+      "question": {
+        "en": "Planning committee members were proud that the final cost of the project matched their initial estimate ______.",
+        "vi": "Các thành viên ủy ban lập kế hoạch tự hào rằng chi phí cuối cùng của dự án khớp chính xác với dự toán ban đầu của họ."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "occasionally",
+          "vi": "occasionally (adv): thỉnh thoảng"
+        },
+        {
+          "key": "B",
+          "en": "briefly",
+          "vi": "briefly (adv): ngắn gọn"
+        },
+        {
+          "key": "C",
+          "en": "lately",
+          "vi": "lately (adv): gần đây"
+        },
+        {
+          "key": "D",
+          "en": "exactly",
+          "vi": "exactly (adv): chính xác"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ybm25-t02-p5-q120",
+      "number": 120,
+      "question": {
+        "en": "The catalogue should include the information that dishwashers described as \"compact\" are ______ 18 inches wide.",
+        "vi": "Danh mục nên bao gồm thông tin rằng các máy rửa chén được mô tả là \"compact\" thông thường rộng 18 inch."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "normal",
+          "vi": "normal (adj): bình thường"
+        },
+        {
+          "key": "B",
+          "en": "normally",
+          "vi": "normally (adv): thông thường"
+        },
+        {
+          "key": "C",
+          "en": "normalize",
+          "vi": "normalize (v): bình thường hóa"
+        },
+        {
+          "key": "D",
+          "en": "normalization",
+          "vi": "normalization (n): sự bình thường hóa"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ybm25-t02-p5-q121",
+      "number": 121,
+      "question": {
+        "en": "After considering sites around the country, Noitech ______ built its new factory in Murin.",
+        "vi": "Sau khi xem xét các địa điểm trên khắp đất nước, cuối cùng Noitech đã xây dựng nhà máy mới của mình ở Murin."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "intensely",
+          "vi": "intensely (adv): mạnh mẽ, gay gắt"
+        },
+        {
+          "key": "B",
+          "en": "ultimately",
+          "vi": "ultimately (adv): cuối cùng"
+        },
+        {
+          "key": "C",
+          "en": "concisely",
+          "vi": "concisely (adv): ngắn gọn"
+        },
+        {
+          "key": "D",
+          "en": "already",
+          "vi": "already (adv): đã rồi"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ybm25-t02-p5-q122",
+      "number": 122,
+      "question": {
+        "en": "Clury Insurance made a ______ donation to charity on its tenth anniversary in business.",
+        "vi": "Clury Insurance đã thực hiện một khoản quyên góp đáng kể cho tổ chức từ thiện nhân kỷ niệm 10 năm hoạt động kinh doanh."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "wide",
+          "vi": "wide (adj): rộng"
+        },
+        {
+          "key": "B",
+          "en": "primary",
+          "vi": "primary (adj): chính, quan trọng"
+        },
+        {
+          "key": "C",
+          "en": "sizable",
+          "vi": "sizable (adj): đáng kể, lớn"
+        },
+        {
+          "key": "D",
+          "en": "severe",
+          "vi": "severe (adj): nghiêm trọng"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ybm25-t02-p5-q123",
+      "number": 123,
+      "question": {
+        "en": "Bullard Park Hotel has ______ to upgrade its business facilities in preparation for the upcoming trade convention.",
+        "vi": "Bullard Park Hotel đã cố gắng nâng cấp các tiện nghi dành cho khách doanh nhân để chuẩn bị cho hội nghị thương mại sắp tới."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "since",
+          "vi": "since (prep/conj): từ khi"
+        },
+        {
+          "key": "B",
+          "en": "shortly",
+          "vi": "shortly (adv): sớm, chẳng mấy chốc"
+        },
+        {
+          "key": "C",
+          "en": "whereas",
+          "vi": "whereas (conj): trong khi"
+        },
+        {
+          "key": "D",
+          "en": "attempted",
+          "vi": "attempted (v-pp): đã cố gắng"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ybm25-t02-p5-q124",
+      "number": 124,
+      "question": {
+        "en": "Throughout his career as an artist, Mr. Lipscomb has ______ in creating intricate sculptures out of recycled materials.",
+        "vi": "Trong suốt sự nghiệp nghệ thuật của mình, ông Lipscomb đã chuyên về việc tạo ra các tác phẩm điêu khắc phức tạp từ vật liệu tái chế."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "specialized",
+          "vi": "specialized (v-pp): đã chuyên về"
+        },
+        {
+          "key": "B",
+          "en": "distinguished",
+          "vi": "distinguished (v-pp): đã phân biệt"
+        },
+        {
+          "key": "C",
+          "en": "approached",
+          "vi": "approached (v-pp): đã tiếp cận"
+        },
+        {
+          "key": "D",
+          "en": "committed",
+          "vi": "committed (v-pp): đã cam kết"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ybm25-t02-p5-q125",
+      "number": 125,
+      "question": {
+        "en": "A newspaper article on the ______ of public transportation in Laes City led to calls for fare decreases.",
+        "vi": "Một bài báo về khả năng chi trả của phương tiện giao thông công cộng ở Laes City đã dẫn đến những lời kêu gọi giảm giá vé."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "afforded",
+          "vi": "afforded (v-pp): đã đủ khả năng"
+        },
+        {
+          "key": "B",
+          "en": "affordably",
+          "vi": "affordably (adv): một cách phải chăng"
+        },
+        {
+          "key": "C",
+          "en": "affordability",
+          "vi": "affordability (n): khả năng chi trả, sự phải chăng"
+        },
+        {
+          "key": "D",
+          "en": "affordable",
+          "vi": "affordable (adj): có giá phải chăng"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ybm25-t02-p5-q126",
+      "number": 126,
+      "question": {
+        "en": "Poulik Enterprises's stock prices rose upon the news of its proposed ______ of a competitor.",
+        "vi": "Giá cổ phiếu của Poulik Enterprises đã tăng sau tin tức về thương vụ mua lại được đề xuất của một đối thủ cạnh tranh."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "investment",
+          "vi": "investment (n): sự đầu tư"
+        },
+        {
+          "key": "B",
+          "en": "acquisition",
+          "vi": "acquisition (n): sự mua lại, thâu tóm"
+        },
+        {
+          "key": "C",
+          "en": "agenda",
+          "vi": "agenda (n): chương trình nghị sự"
+        },
+        {
+          "key": "D",
+          "en": "vision",
+          "vi": "vision (n): tầm nhìn"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ybm25-t02-p5-q127",
+      "number": 127,
+      "question": {
+        "en": "Croft Fitness Center has state-of-the-art equipment but a ______ relaxed atmosphere.",
+        "vi": "Croft Fitness Center có trang thiết bị hiện đại nhưng bầu không khí lại thoải mái đến bất ngờ."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "remark",
+          "vi": "remark (n/v): nhận xét"
+        },
+        {
+          "key": "B",
+          "en": "remarks",
+          "vi": "remarks (n/v): các nhận xét"
+        },
+        {
+          "key": "C",
+          "en": "remarking",
+          "vi": "remarking (v-ing): đang nhận xét"
+        },
+        {
+          "key": "D",
+          "en": "remarkably",
+          "vi": "remarkably (adv): một cách đáng chú ý, đến bất ngờ"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ybm25-t02-p5-q128",
+      "number": 128,
+      "question": {
+        "en": "The warranty expires when five years have passed since purchase or the tractor has been driven for 5,000 hours, ______ occurs first.",
+        "vi": "Bảo hành hết hạn khi đã trôi qua năm năm kể từ ngày mua hoặc máy kéo đã được chạy 5.000 giờ, tùy điều kiện nào xảy ra trước."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "anything",
+          "vi": "anything (pron): bất cứ điều gì"
+        },
+        {
+          "key": "B",
+          "en": "whose",
+          "vi": "whose (pron): của ai/cái mà"
+        },
+        {
+          "key": "C",
+          "en": "however",
+          "vi": "however (adv): tuy nhiên"
+        },
+        {
+          "key": "D",
+          "en": "whichever",
+          "vi": "whichever (pron): cái nào (trong hai/nhiều)"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ybm25-t02-p5-q129",
+      "number": 129,
+      "question": {
+        "en": "______ the feedback from the focus group, we should choose a more readable font for the product label.",
+        "vi": "Xét đến phản hồi từ nhóm khảo sát tập trung, chúng ta nên chọn một phông chữ dễ đọc hơn cho nhãn sản phẩm."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Because",
+          "vi": "Because (conj): bởi vì (cần mệnh đề)"
+        },
+        {
+          "key": "B",
+          "en": "Whether",
+          "vi": "Whether (conj): liệu có"
+        },
+        {
+          "key": "C",
+          "en": "Considering",
+          "vi": "Considering (prep): xét đến, xem xét"
+        },
+        {
+          "key": "D",
+          "en": "Alongside",
+          "vi": "Alongside (prep): cùng với"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ybm25-t02-p5-q130",
+      "number": 130,
+      "question": {
+        "en": "Following Thursday's training, Ms. Adkins ______ the advantages of the new database software.",
+        "vi": "Sau buổi đào tạo hôm thứ Năm, bà Adkins đã công nhận những ưu điểm của phần mềm cơ sở dữ liệu mới."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "acknowledged",
+          "vi": "acknowledged (v): đã thừa nhận, công nhận"
+        },
+        {
+          "key": "B",
+          "en": "nominated",
+          "vi": "nominated (v): đã đề cử"
+        },
+        {
+          "key": "C",
+          "en": "belonged",
+          "vi": "belonged (v): đã thuộc về"
+        },
+        {
+          "key": "D",
+          "en": "permitted",
+          "vi": "permitted (v): đã cho phép"
+        }
+      ],
+      "answer": "A"
+    }
+  ]
+}

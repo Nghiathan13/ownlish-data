@@ -1,0 +1,178 @@
+{
+  "items": [
+    {
+      "id": "ets19-t07-p1-q001",
+      "number": 1,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_07/image/001.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_07/audio/001.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "He's watering some flowers.",
+          "vi": "Anh ấy đang tưới hoa."
+        },
+        {
+          "key": "B",
+          "en": "He's talking on a phone.",
+          "vi": "Anh ấy đang nói chuyện điện thoại."
+        },
+        {
+          "key": "C",
+          "en": "He's drinking from a coffee mug.",
+          "vi": "Anh ấy đang uống từ cốc cà phê."
+        },
+        {
+          "key": "D",
+          "en": "He's tying his shoe.",
+          "vi": "Anh ấy đang buộc dây giày."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets19-t07-p1-q002",
+      "number": 2,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_07/image/002.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_07/audio/002.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "They're installing a photocopier.",
+          "vi": "Họ đang lắp đặt máy photocopy."
+        },
+        {
+          "key": "B",
+          "en": "They're replacing a window.",
+          "vi": "Họ đang thay cửa sổ."
+        },
+        {
+          "key": "C",
+          "en": "One of the men is hanging a sign.",
+          "vi": "Một trong số họ đang treo biển."
+        },
+        {
+          "key": "D",
+          "en": "One of the men is reaching for a telephone.",
+          "vi": "Một trong số họ đang với tay lấy điện thoại."
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets19-t07-p1-q003",
+      "number": 3,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_07/image/003.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_07/audio/003.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "The woman is using a broom.",
+          "vi": "Người phụ nữ đang dùng chổi."
+        },
+        {
+          "key": "B",
+          "en": "The woman is trying on a helmet.",
+          "vi": "Người phụ nữ đang thử mũ bảo hiểm."
+        },
+        {
+          "key": "C",
+          "en": "The man is measuring a cabinet.",
+          "vi": "Người đàn ông đang đo tủ."
+        },
+        {
+          "key": "D",
+          "en": "The man is painting a wall.",
+          "vi": "Người đàn ông đang sơn tường."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets19-t07-p1-q004",
+      "number": 4,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_07/image/004.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_07/audio/004.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "She's drying her hands with a paper towel.",
+          "vi": "Cô ấy đang lau tay bằng khăn giấy."
+        },
+        {
+          "key": "B",
+          "en": "She's plugging in an appliance.",
+          "vi": "Cô ấy đang cắm điện thiết bị."
+        },
+        {
+          "key": "C",
+          "en": "She's wiping off a countertop.",
+          "vi": "Cô ấy đang lau mặt bàn bếp."
+        },
+        {
+          "key": "D",
+          "en": "She's washing a cup in the sink.",
+          "vi": "Cô ấy đang rửa cốc ở bồn rửa."
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets19-t07-p1-q005",
+      "number": 5,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_07/image/005.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_07/audio/005.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "One of the men is holding a briefcase.",
+          "vi": "Một trong hai người đàn ông đang cầm cặp tài liệu."
+        },
+        {
+          "key": "B",
+          "en": "One of the men is taking off his sunglasses.",
+          "vi": "Một trong hai người đàn ông đang tháo kính râm."
+        },
+        {
+          "key": "C",
+          "en": "They're handing out some flyers.",
+          "vi": "Họ đang phát tờ rơi."
+        },
+        {
+          "key": "D",
+          "en": "They're replacing bricks on a pathway.",
+          "vi": "Họ đang thay gạch trên lối đi."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets19-t07-p1-q006",
+      "number": 6,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_07/image/006.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_07/audio/006.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "A kayak is being paddled down a river.",
+          "vi": "Một chiếc thuyền kayak đang được chèo trên sông."
+        },
+        {
+          "key": "B",
+          "en": "A pile of bricks has been left on a walkway.",
+          "vi": "Một đống gạch được để trên lối đi."
+        },
+        {
+          "key": "C",
+          "en": "Some roofs are being repaired.",
+          "vi": "Một số mái nhà đang được sửa chữa."
+        },
+        {
+          "key": "D",
+          "en": "Some chairs have been placed along a canal.",
+          "vi": "Một số ghế được đặt dọc theo kênh đào."
+        }
+      ],
+      "answer": "D"
+    }
+  ]
+}

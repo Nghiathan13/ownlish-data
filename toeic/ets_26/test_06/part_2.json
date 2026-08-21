@@ -1,0 +1,679 @@
+{
+  "items": [
+    {
+      "id": "ets26-t06-p2-q007",
+      "number": 7,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/007.mp3",
+      "question": {
+        "en": "How long will the renovations take?",
+        "vi": "Việc cải tạo sẽ mất bao lâu?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "About a month.",
+          "vi": "Khoảng một tháng."
+        },
+        {
+          "key": "B",
+          "en": "Mostly the roof.",
+          "vi": "Chủ yếu là phần mái nhà."
+        },
+        {
+          "key": "C",
+          "en": "I finished that book.",
+          "vi": "Tôi đã đọc xong cuốn sách đó rồi."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets26-t06-p2-q008",
+      "number": 8,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/008.mp3",
+      "question": {
+        "en": "What is the factory's inspection process like?",
+        "vi": "Quy trình kiểm tra của nhà máy như thế nào?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "It's quite thorough.",
+          "vi": "Nó khá là kỹ lưỡng."
+        },
+        {
+          "key": "B",
+          "en": "I didn't bring any.",
+          "vi": "Tôi đã không mang theo cái nào cả."
+        },
+        {
+          "key": "C",
+          "en": "He likes working nights.",
+          "vi": "Anh ấy thích làm việc ca đêm."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets26-t06-p2-q009",
+      "number": 9,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/009.mp3",
+      "question": {
+        "en": "Hasn't our merchandise arrived yet?",
+        "vi": "Hàng hóa của chúng ta vẫn chưa đến sao?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Handmade clothing.",
+          "vi": "Quần áo may thủ công."
+        },
+        {
+          "key": "B",
+          "en": "I can drive you there.",
+          "vi": "Tôi có thể lái xe đưa bạn đến đó."
+        },
+        {
+          "key": "C",
+          "en": "No, it was just shipped yesterday.",
+          "vi": "Chưa, nó vừa mới được gửi đi vào ngày hôm qua."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets26-t06-p2-q010",
+      "number": 10,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/010.mp3",
+      "question": {
+        "en": "Who's buying beverages for the retreat?",
+        "vi": "Ai sẽ mua đồ uống cho chuyến nghỉ dưỡng/buổi họp mặt?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "At the café.",
+          "vi": "Tại quán cà phê."
+        },
+        {
+          "key": "B",
+          "en": "I parked the car by the tree.",
+          "vi": "Tôi đã đỗ xe ở cạnh cái cây."
+        },
+        {
+          "key": "C",
+          "en": "Carlos and I are.",
+          "vi": "Carlos và tôi sẽ mua."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets26-t06-p2-q011",
+      "number": 11,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/011.mp3",
+      "question": {
+        "en": "Why is the reception at a different location?",
+        "vi": "Tại sao buổi tiệc chiêu đãi lại ở một địa điểm khác?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Sure, let's go greet the guests.",
+          "vi": "Chắc chắn rồi, hãy đi chào đón khách thôi."
+        },
+        {
+          "key": "B",
+          "en": "Because the conference room wasn't big enough.",
+          "vi": "Bởi vì phòng hội nghị đã không đủ lớn."
+        },
+        {
+          "key": "C",
+          "en": "Yes, I can hear you very well—thank you.",
+          "vi": "Vâng, tôi có thể nghe bạn rất rõ—cảm ơn bạn."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets26-t06-p2-q012",
+      "number": 12,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/012.mp3",
+      "question": {
+        "en": "Would you like me to process your travel voucher?",
+        "vi": "Bạn có muốn tôi xử lý phiếu thanh toán chi phí đi lại của bạn không?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "I didn’t know that.",
+          "vi": "Tôi đã không biết điều đó."
+        },
+        {
+          "key": "B",
+          "en": "A much larger convention center.",
+          "vi": "Một trung tâm hội nghị lớn hơn nhiều."
+        },
+        {
+          "key": "C",
+          "en": "Yes, if you have time.",
+          "vi": "Vâng, nếu bạn có thời gian."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets26-t06-p2-q013",
+      "number": 13,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/013.mp3",
+      "question": {
+        "en": "How far away is Azuma’s Dry Cleaning Company?",
+        "vi": "Công ty Giặt khô Azuma cách đây bao xa?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "No, not until I’ve seen it.",
+          "vi": "Không, cho đến khi tôi nhìn thấy nó."
+        },
+        {
+          "key": "B",
+          "en": "Oh, it’s only a few minutes’ walk from here.",
+          "vi": "Ồ, chỉ mất vài phút đi bộ từ đây thôi."
+        },
+        {
+          "key": "C",
+          "en": "Five dollars per shirt.",
+          "vi": "Năm đô la cho mỗi chiếc sơ mi."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets26-t06-p2-q014",
+      "number": 14,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/014.mp3",
+      "question": {
+        "en": "Do we have the registration forms ready for the students?",
+        "vi": "Chúng ta đã chuẩn bị sẵn các mẫu đơn đăng ký cho sinh viên chưa?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "The manager’s signature.",
+          "vi": "Chữ ký của quản lý."
+        },
+        {
+          "key": "B",
+          "en": "Yes, I printed them.",
+          "vi": "Rồi, tôi đã in chúng rồi."
+        },
+        {
+          "key": "C",
+          "en": "We require uniforms.",
+          "vi": "Chúng tôi yêu cầu đồng phục."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets26-t06-p2-q015",
+      "number": 15,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/015.mp3",
+      "question": {
+        "en": "I could provide you with a copy of the lease.",
+        "vi": "Tôi có thể cung cấp cho bạn một bản sao của hợp đồng thuê nhà."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Great—I need it for my records.",
+          "vi": "Tuyệt quá—tôi cần nó để lưu hồ sơ."
+        },
+        {
+          "key": "B",
+          "en": "At least another week.",
+          "vi": "Ít nhất là một tuần nữa."
+        },
+        {
+          "key": "C",
+          "en": "Why don’t we offer a discount?",
+          "vi": "Tại sao chúng ta không đưa ra chương trình giảm giá nhỉ?"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets26-t06-p2-q016",
+      "number": 16,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/016.mp3",
+      "question": {
+        "en": "How many oil changes are scheduled for this afternoon?",
+        "vi": "Có bao nhiêu lịch thay dầu được sắp xếp vào chiều nay?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "A few replacement pieces.",
+          "vi": "Một vài phụ tùng thay thế."
+        },
+        {
+          "key": "B",
+          "en": "Right now, there are five.",
+          "vi": "Hiện tại thì có năm xe."
+        },
+        {
+          "key": "C",
+          "en": "Can you change the channel?",
+          "vi": "Bạn có thể chuyển kênh không?"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets26-t06-p2-q017",
+      "number": 17,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/017.mp3",
+      "question": {
+        "en": "When was the last time you traveled for business?",
+        "vi": "Lần cuối cùng bạn đi công tác là khi nào?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "About three years ago.",
+          "vi": "Khoảng ba năm trước."
+        },
+        {
+          "key": "B",
+          "en": "It’s the black briefcase.",
+          "vi": "Đó là chiếc cặp tài liệu màu đen."
+        },
+        {
+          "key": "C",
+          "en": "I have some stamps.",
+          "vi": "Tôi có một vài con tem."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets26-t06-p2-q018",
+      "number": 18,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/018.mp3",
+      "question": {
+        "en": "Should I order the parts online or over the phone?",
+        "vi": "Tôi nên đặt hàng các linh kiện qua mạng hay qua điện thoại?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Just half—thank you.",
+          "vi": "Chỉ một nửa thôi—cảm ơn bạn."
+        },
+        {
+          "key": "B",
+          "en": "No, I’ve never been there.",
+          "vi": "Không, tôi chưa từng đến đó."
+        },
+        {
+          "key": "C",
+          "en": "By phone is best.",
+          "vi": "Qua điện thoại là tốt nhất."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets26-t06-p2-q019",
+      "number": 19,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/019.mp3",
+      "question": {
+        "en": "Where should I pick up my conference badge?",
+        "vi": "Tôi nên lấy thẻ tham dự hội nghị ở đâu?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "We signed the lease.",
+          "vi": "Chúng tôi đã ký hợp đồng thuê."
+        },
+        {
+          "key": "B",
+          "en": "About 10,000 units per week.",
+          "vi": "Khoảng 10.000 đơn vị mỗi tuần."
+        },
+        {
+          "key": "C",
+          "en": "There are three tables in the lobby.",
+          "vi": "Có ba chiếc bàn ở sảnh đợi."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets26-t06-p2-q020",
+      "number": 20,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/020.mp3",
+      "question": {
+        "en": "Isn’t the computer network running a bit slow?",
+        "vi": "Mạng máy tính đang chạy hơi chậm đúng không?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "To an upgraded service.",
+          "vi": "Đến một dịch vụ đã được nâng cấp."
+        },
+        {
+          "key": "B",
+          "en": "Actually, I prefer to walk.",
+          "vi": "Thực ra, tôi thích đi bộ hơn."
+        },
+        {
+          "key": "C",
+          "en": "A technician’s on the way.",
+          "vi": "Nhân viên kỹ thuật đang trên"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets26-t06-p2-q021",
+      "number": 21,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/021.mp3",
+      "question": {
+        "en": "How do you like this office space?",
+        "vi": "Bạn thích không gian văn phòng này như thế nào?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "An afternoon appointment.",
+          "vi": "Một cuộc hẹn buổi chiều."
+        },
+        {
+          "key": "B",
+          "en": "I'd rather have a window.",
+          "vi": "Tôi muốn có một cửa sổ hơn."
+        },
+        {
+          "key": "C",
+          "en": "On page five of the contract.",
+          "vi": "Ở trang năm của hợp đồng."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets26-t06-p2-q022",
+      "number": 22,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/022.mp3",
+      "question": {
+        "en": "You can use the company van to make your deliveries.",
+        "vi": "Bạn có thể sử dụng xe tải của công ty để giao hàng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "OK, I'll go get the key.",
+          "vi": "OK, tôi sẽ đi lấy chìa khóa."
+        },
+        {
+          "key": "B",
+          "en": "A clothing manufacturer.",
+          "vi": "Một nhà sản xuất quần áo."
+        },
+        {
+          "key": "C",
+          "en": "It's on Market Street.",
+          "vi": "Nó nằm trên phố Market."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets26-t06-p2-q023",
+      "number": 23,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/023.mp3",
+      "question": {
+        "en": "Isn't the city council meeting tonight?",
+        "vi": "Tối nay không phải là cuộc họp hội đồng thành phố sao?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Thanks—that would be great.",
+          "vi": "Cảm ơn—điều đó thật tuyệt vời."
+        },
+        {
+          "key": "B",
+          "en": "He's the recently elected mayor.",
+          "vi": "Ông ấy là thị trưởng mới đắc cử."
+        },
+        {
+          "key": "C",
+          "en": "Did you check their Web site?",
+          "vi": "Bạn đã kiểm tra trang web của họ chưa?"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets26-t06-p2-q024",
+      "number": 24,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/024.mp3",
+      "question": {
+        "en": "Could you look at the revised logo tomorrow?",
+        "vi": "Bạn có thể xem lại logo đã sửa đổi vào ngày mai không?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "A color printer.",
+          "vi": "Một máy in màu."
+        },
+        {
+          "key": "B",
+          "en": "The score was tied.",
+          "vi": "Tỷ số đã hòa."
+        },
+        {
+          "key": "C",
+          "en": "I have time now.",
+          "vi": "Bây giờ tôi có thời gian."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets26-t06-p2-q025",
+      "number": 25,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/025.mp3",
+      "question": {
+        "en": "Is the business local or national?",
+        "vi": "Doanh nghiệp này mang tính địa phương hay quốc gia?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "At the community center nearby.",
+          "vi": "Tại trung tâm cộng đồng gần đó."
+        },
+        {
+          "key": "B",
+          "en": "We have stores in every province.",
+          "vi": "Chúng tôi có các cửa hàng ở mọi tỉnh thành."
+        },
+        {
+          "key": "C",
+          "en": "The flight's in two hours.",
+          "vi": "Chuyến bay sẽ khởi hành sau hai giờ nữa."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets26-t06-p2-q026",
+      "number": 26,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/026.mp3",
+      "question": {
+        "en": "How do you make sure your products will sell well?",
+        "vi": "Làm sao để bạn đảm bảo sản phẩm của mình sẽ bán chạy?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "No, I bought it last month.",
+          "vi": "Không, tôi đã mua nó tháng trước."
+        },
+        {
+          "key": "B",
+          "en": "I conduct market research.",
+          "vi": "Tôi tiến hành nghiên cứu thị trường."
+        },
+        {
+          "key": "C",
+          "en": "OK, I'll bring it.",
+          "vi": "OK, tôi sẽ mang nó đến."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets26-t06-p2-q027",
+      "number": 27,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/027.mp3",
+      "question": {
+        "en": "Who will fill the open manager position?",
+        "vi": "Ai sẽ đảm nhận vị trí quản lý đang bỏ trống?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Interviews will take place next week.",
+          "vi": "Các cuộc phỏng vấn sẽ diễn ra vào tuần tới."
+        },
+        {
+          "key": "B",
+          "en": "I'd like a refill on my coffee, please.",
+          "vi": "Tôi muốn được rót thêm cà phê."
+        },
+        {
+          "key": "C",
+          "en": "The desk should be in the corner.",
+          "vi": "Chiếc bàn nên ở trong góc."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets26-t06-p2-q028",
+      "number": 28,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/028.mp3",
+      "question": {
+        "en": "Where do you want to store the extra brochures?",
+        "vi": "quảng cáo bổ sung ở đâu?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "The price lists for new products.",
+          "vi": "Bảng giá cho các sản phẩm mới."
+        },
+        {
+          "key": "B",
+          "en": "I think that's right.",
+          "vi": "Tôi nghĩ điều đó đúng."
+        },
+        {
+          "key": "C",
+          "en": "There are none left.",
+          "vi": "Không còn cái nào cả."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets26-t06-p2-q029",
+      "number": 29,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/029.mp3",
+      "question": {
+        "en": "The new bottling machine's been installed, hasn't it?",
+        "vi": "Máy đóng chai mới đã được lắp đặt rồi, phải không?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "We'll have two packs, please.",
+          "vi": "Làm ơn cho chúng tôi hai gói."
+        },
+        {
+          "key": "B",
+          "en": "No, I didn't drive here.",
+          "vi": "Không, tôi không lái xe đến đây."
+        },
+        {
+          "key": "C",
+          "en": "We're expecting delivery this afternoon.",
+          "vi": "Chúng tôi đang mong đợi việc giao hàng vào chiều nay."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets26-t06-p2-q030",
+      "number": 30,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/030.mp3",
+      "question": {
+        "en": "Shouldn't we update our security protocol?",
+        "vi": "Chúng ta không nên cập nhật giao thức bảo mật của mình sao?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "About an hour.",
+          "vi": "Khoảng một giờ."
+        },
+        {
+          "key": "B",
+          "en": "We have a good plan in place.",
+          "vi": "Chúng tôi đã có một kế hoạch tốt sẵn sàng."
+        },
+        {
+          "key": "C",
+          "en": "No, it wasn't.",
+          "vi": "Không, nó không phải."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets26-t06-p2-q031",
+      "number": 31,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_26/test_06/audio/031.mp3",
+      "question": {
+        "en": "The engineering team would like to meet sometime today.",
+        "vi": "Đội ngũ kỹ thuật muốn gặp nhau vào lúc nào đó trong hôm nay."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Yes, Mr. Tamura is from Kyoto.",
+          "vi": "Vâng, ông Tamura đến từ Kyoto."
+        },
+        {
+          "key": "B",
+          "en": "Before or after the company-wide meeting?",
+          "vi": "Trước hay sau cuộc họp toàn công ty?"
+        },
+        {
+          "key": "C",
+          "en": "That was a long baseball game.",
+          "vi": "Đó là một trận đấu bóng chày dài. PART 3 32-34"
+        }
+      ],
+      "answer": "B"
+    }
+  ]
+}

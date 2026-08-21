@@ -1,0 +1,1944 @@
+{
+  "groups": [
+    {
+      "id": "ets24-t05-p7-g147-148",
+      "documents": [
+        {
+          "kind": "advertisement",
+          "content": {
+            "en": "Owl and Moon\n\nBuy one mattress, and choose one of our beautiful rugs for free!\n\nUse the following coupon code when you check out at owlandmoon.co.uk:\nESSZRS4T.\n\nOur mattresses are shipped directly to your home and usually arrive within one week. Try out a mattress for 90 days, and if you are not happy with it, send it back for a full refund. We also offer low-interest financing for two years on all our furniture.",
+            "vi": "Owl and Moon\n\nMua một tấm nệm và chọn một trong những tấm thảm đẹp của chúng tôi miễn phí!\n\nSử dụng mã phiếu giảm giá sau khi bạn thanh toán tại owlandmoon.co.uk:\nESSZRS4T.\n\nNệm của chúng tôi được vận chuyển trực tiếp đến nhà bạn và thường đến trong vòng một tuần. Hãy dùng thử một tấm nệm trong 90 ngày, và nếu bạn không hài lòng với nó, hãy gửi trả lại để được hoàn tiền đầy đủ. Chúng tôi cũng cung cấp hình thức tài trợ lãi suất thấp trong hai năm cho tất cả đồ nội thất của chúng tôi."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t05-p7-q147",
+          "number": 147,
+          "question": {
+            "en": "What types of products are being advertised?",
+            "vi": "Những loại sản phẩm nào đang được quảng cáo?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Camping gear",
+              "vi": "Đồ cắm trại"
+            },
+            {
+              "key": "B",
+              "en": "Household items",
+              "vi": "Đồ gia dụng"
+            },
+            {
+              "key": "C",
+              "en": "Office equipment",
+              "vi": "Thiết bị văn phòng"
+            },
+            {
+              "key": "D",
+              "en": "Automobile accessories",
+              "vi": "Phụ kiện ô tô"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t05-p7-q148",
+          "number": 148,
+          "question": {
+            "en": "What is indicated about the company?",
+            "vi": "Điều gì được chỉ ra về công ty?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It has been in business for two years.",
+              "vi": "Công ty đã kinh doanh được hai năm."
+            },
+            {
+              "key": "B",
+              "en": "It accepts product returns.",
+              "vi": "Công ty chấp nhận trả lại sản phẩm."
+            },
+            {
+              "key": "C",
+              "en": "It has same-day delivery.",
+              "vi": "Công ty có giao hàng trong ngày."
+            },
+            {
+              "key": "D",
+              "en": "It has a yearly sale.",
+              "vi": "Công ty có đợt giảm giá hằng năm."
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t05-p7-g149-150",
+      "documents": [
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Demarco Hines <d.hines@worldmail.com>\nFrom: Soon Yi Park <customerservice@thebestbags.co.kr>\nSubject: Item F208 (canvas overnight bag)\nDate: 19 June\n\nDear Mr. Hines,\n\nThe Best Bags canvas overnight bag you ordered is not currently available in the colour you requested. There are several options available to you.\n\n1. Cancel your order, and we will gladly refund your money in full.\n\n2. Select a different colour. That item is currently available in light blue, dark green, and dark gray.\n\n3. Choose an item of equal value from our Web site or catalogue.\n\n4. Wait until the item you ordered is back in stock in light gray. Allow three to five weeks.\n\nPlease let us know which option you prefer. We apologize for any inconvenience.\n\nThank you,\n\nSoon Yi Park, Customer Service Agent",
+            "vi": "Đến: Demarco Hines <d.hines@worldmail.com>\nTừ: Soon Yi Park <customerservice@thebestbags.co.kr>\nChủ đề: Mặt hàng F208 (túi vải canvas qua đêm)\nNgày: 19 tháng 6\n\nKính gửi ông Hines,\n\nTúi vải canvas qua đêm của The Best Bags mà ông đã đặt hiện không có sẵn màu mà ông yêu cầu. Có một số lựa chọn dành cho ông.\n\n1. Hủy đơn hàng của ông, và chúng tôi sẽ sẵn lòng hoàn lại toàn bộ tiền cho ông.\n\n2. Chọn một màu khác. Mặt hàng đó hiện có sẵn màu xanh dương nhạt, xanh lá đậm và xám đậm.\n\n3. Chọn một mặt hàng có giá trị tương đương từ trang web hoặc danh mục của chúng tôi.\n\n4. Chờ cho đến khi mặt hàng ông đã đặt có hàng trở lại với màu xám nhạt. Vui lòng chờ ba đến năm tuần.\n\nVui lòng cho chúng tôi biết ông thích lựa chọn nào. Chúng tôi xin lỗi vì bất kỳ sự bất tiện nào.\n\nCảm ơn ông,\n\nSoon Yi Park, Nhân viên Dịch vụ Khách hàng"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t05-p7-q149",
+          "number": 149,
+          "question": {
+            "en": "What is the purpose of the e-mail?",
+            "vi": "Mục đích của e-mail là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To confirm shipment of an order",
+              "vi": "Để xác nhận việc vận chuyển một đơn hàng"
+            },
+            {
+              "key": "B",
+              "en": "To acknowledge the return of an order",
+              "vi": "Để xác nhận việc trả lại một đơn hàng"
+            },
+            {
+              "key": "C",
+              "en": "To provide alternatives for an order",
+              "vi": "Để cung cấp các lựa chọn thay thế cho một đơn hàng"
+            },
+            {
+              "key": "D",
+              "en": "To thank a customer for placing an order",
+              "vi": "Để cảm ơn một khách hàng vì đã đặt hàng"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t05-p7-q150",
+          "number": 150,
+          "question": {
+            "en": "What color bag is currently NOT available?",
+            "vi": "Túi màu nào hiện KHÔNG có sẵn?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "The light blue one",
+              "vi": "Túi màu xanh dương nhạt"
+            },
+            {
+              "key": "B",
+              "en": "The dark green one",
+              "vi": "Túi màu xanh lá đậm"
+            },
+            {
+              "key": "C",
+              "en": "The dark gray one",
+              "vi": "Túi màu xám đậm"
+            },
+            {
+              "key": "D",
+              "en": "The light gray one",
+              "vi": "Túi màu xám nhạt"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t05-p7-g151-152",
+      "documents": [
+        {
+          "kind": "text_message_chain",
+          "content": {
+            "en": "Christie Moroff (9:47 A.M.)\nGood morning, Ren. I just stopped by your office.\n\nRen Nomura (9:48 A.M.)\nThen you already know that I am not there today.\n\nChristie Moroff (9:48 A.M.)\nYes, your new office mate—I can’t remember her name—told me that you just started working remotely on Tuesdays. I was looking for some empty binders.\n\nRen Nomura (9:49 A.M.)\nThat’s Cheryl. I thought you had already met her. Are there any binders in the supply closet?\n\nChristie Moroff (9:50 A.M.)\nNo, I just looked. Frank has ordered some more, but they won’t be in until next week. I need two or three of them now.\n\nRen Nomura (9:51 A.M.)\nCheck with Cheryl. She is really helpful.\n\nChristie Moroff (9:52 A.M.)\nOK. I will.",
+            "vi": "Christie Moroff (9:47 sáng)\nChào buổi sáng, Ren. Tôi vừa ghé qua văn phòng của anh.\n\nRen Nomura (9:48 sáng)\nVậy thì cô đã biết là hôm nay tôi không có ở đó rồi.\n\nChristie Moroff (9:48 sáng)\nĐúng vậy, bạn cùng văn phòng mới của anh — tôi không nhớ tên cô ấy — nói với tôi rằng anh vừa bắt đầu làm việc từ xa vào các ngày thứ Ba. Tôi đang tìm một số bìa hồ sơ trống.\n\nRen Nomura (9:49 sáng)\nĐó là Cheryl. Tôi tưởng cô đã gặp cô ấy rồi. Có bìa hồ sơ nào trong tủ vật tư không?\n\nChristie Moroff (9:50 sáng)\nKhông, tôi vừa kiểm tra rồi. Frank đã đặt thêm một số, nhưng chúng sẽ chưa có cho đến tuần sau. Tôi cần hai hoặc ba cái ngay bây giờ.\n\nRen Nomura (9:51 sáng)\nHỏi Cheryl thử xem. Cô ấy rất nhiệt tình giúp đỡ.\n\nChristie Moroff (9:52 sáng)\nĐược. Tôi sẽ hỏi."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t05-p7-q151",
+          "number": 151,
+          "question": {
+            "en": "What is suggested about Mr. Nomura?",
+            "vi": "Điều gì được gợi ý về ông Nomura?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He does not usually work on Tuesdays.",
+              "vi": "Ông ấy thường không làm việc vào các ngày thứ Ba."
+            },
+            {
+              "key": "B",
+              "en": "He shares an office with Ms. Moroff.",
+              "vi": "Ông ấy dùng chung văn phòng với cô Moroff."
+            },
+            {
+              "key": "C",
+              "en": "He recently purchased office supplies.",
+              "vi": "Ông ấy gần đây đã mua đồ dùng văn phòng."
+            },
+            {
+              "key": "D",
+              "en": "He works off-site one day a week.",
+              "vi": "Ông ấy làm việc ngoài văn phòng một ngày mỗi tuần."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets24-t05-p7-q152",
+          "number": 152,
+          "question": {
+            "en": "At 9:51 A.M., what does Mr. Nomura most likely mean when he writes, “Check with Cheryl”?",
+            "vi": "Vào lúc 9:51 sáng, ông Nomura có khả năng muốn nói gì nhất khi viết, “Hỏi Cheryl thử xem”?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Cheryl may have extra binders.",
+              "vi": "Cheryl có thể có thêm bìa hồ sơ."
+            },
+            {
+              "key": "B",
+              "en": "Cheryl must approve a purchase.",
+              "vi": "Cheryl phải phê duyệt một giao dịch mua."
+            },
+            {
+              "key": "C",
+              "en": "Cheryl will be able to locate Frank.",
+              "vi": "Cheryl sẽ có thể tìm được Frank."
+            },
+            {
+              "key": "D",
+              "en": "Cheryl knows when a delivery will arrive.",
+              "vi": "Cheryl biết khi nào một chuyến giao hàng sẽ đến."
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t05-p7-g153-154",
+      "documents": [
+        {
+          "kind": "form",
+          "content": {
+            "en": "Cortica Bank\n\nPlease fill out the following form to open a new bank account.\n\nIs this your first account with Cortica Bank? ___ Yes   X No\n\nExisting account number (if applicable): 190-37580\n\nNew account type: ___ Chequing   X Savings   ___ Investment\n\nName: Frances Wilkes\n\nMailing address: 17 Jones Street\nNorth Sydney NSW 2060\n\nPhone number: (02) 7010 8624\n\nE-mail address: fwilkes@myemail.com.au\n\nInitial deposit amount (minimum $500): $1,500\n\nWould you like to sign up for electronic communications? ___ Yes   X No\n\nIf you select “Yes,” we will contact you via voice mail, e-mail, or text.\nIf you select “No,” you will receive monthly paper statements in the mail.\n\nPlease note that accounts take up to two business days to be established. Your funds will be available after this period. You will receive your debit card in the mail in up to five business days.",
+            "vi": "Cortica Bank\n\nVui lòng điền vào biểu mẫu sau để mở tài khoản ngân hàng mới.\n\nĐây có phải là tài khoản đầu tiên của bạn với Cortica Bank không? ___ Có   X Không\n\nSố tài khoản hiện có (nếu áp dụng): 190-37580\n\nLoại tài khoản mới: ___ Tài khoản thanh toán   X Tài khoản tiết kiệm   ___ Tài khoản đầu tư\n\nTên: Frances Wilkes\n\nĐịa chỉ nhận thư: 17 Jones Street\nNorth Sydney NSW 2060\n\nSố điện thoại: (02) 7010 8624\n\nĐịa chỉ e-mail: fwilkes@myemail.com.au\n\nSố tiền gửi ban đầu (tối thiểu $500): $1,500\n\nBạn có muốn đăng ký nhận thông tin liên lạc điện tử không? ___ Có   X Không\n\nNếu bạn chọn “Có,” chúng tôi sẽ liên hệ với bạn qua thư thoại, e-mail hoặc tin nhắn.\nNếu bạn chọn “Không,” bạn sẽ nhận được sao kê giấy hằng tháng qua đường bưu điện.\n\nVui lòng lưu ý rằng tài khoản mất tối đa hai ngày làm việc để được thiết lập. Tiền của bạn sẽ có sẵn sau khoảng thời gian này. Bạn sẽ nhận được thẻ ghi nợ qua đường bưu điện trong tối đa năm ngày làm việc."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t05-p7-q153",
+          "number": 153,
+          "question": {
+            "en": "What is indicated about Ms. Wilkes?",
+            "vi": "Điều gì được chỉ ra về cô Wilkes?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She has another account with Cortica Bank.",
+              "vi": "Cô ấy có một tài khoản khác với Cortica Bank."
+            },
+            {
+              "key": "B",
+              "en": "She plans to open an investment account.",
+              "vi": "Cô ấy dự định mở một tài khoản đầu tư."
+            },
+            {
+              "key": "C",
+              "en": "She has lost a debit card.",
+              "vi": "Cô ấy đã làm mất thẻ ghi nợ."
+            },
+            {
+              "key": "D",
+              "en": "She placed an order for checks.",
+              "vi": "Cô ấy đã đặt séc."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets24-t05-p7-q154",
+          "number": 154,
+          "question": {
+            "en": "How will the bank most likely contact Ms. Wilkes?",
+            "vi": "Ngân hàng có khả năng sẽ liên hệ với cô Wilkes bằng cách nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "By e-mail",
+              "vi": "Bằng e-mail"
+            },
+            {
+              "key": "B",
+              "en": "By text message",
+              "vi": "Bằng tin nhắn văn bản"
+            },
+            {
+              "key": "C",
+              "en": "By telephone",
+              "vi": "Bằng điện thoại"
+            },
+            {
+              "key": "D",
+              "en": "By letter",
+              "vi": "Bằng thư"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t05-p7-g155-157",
+      "documents": [
+        {
+          "kind": "job_advertisement",
+          "content": {
+            "en": "Construction Superintendent\nJones-Richmond Construction (JRC)\n\nFounded 25 years ago, JRC is a full-service general contractor serving clients throughout Winnipeg and the surrounding area.\n\nResponsibilities:\n• Report to senior project manager\n• Manage on-site construction activities\n• Ensure compliance with safety regulations\n• Negotiate purchases and contracts\n• Establish construction schedules\n\nQualifications:\n• Minimum five years of commercial construction experience\n• Willingness to travel to job sites daily (usually within a 50-kilometre radius)\n• Strong written communication skills\n\nTo apply, submit a résumé and cover letter through www.jrc.ca/apply.",
+            "vi": "Giám sát Công trình Xây dựng\nJones-Richmond Construction (JRC)\n\nĐược thành lập 25 năm trước, JRC là một tổng thầu cung cấp đầy đủ dịch vụ, phục vụ khách hàng trên khắp Winnipeg và khu vực xung quanh.\n\nTrách nhiệm:\n• Báo cáo cho quản lý dự án cấp cao\n• Quản lý các hoạt động xây dựng tại công trường\n• Đảm bảo tuân thủ các quy định an toàn\n• Đàm phán các giao dịch mua và hợp đồng\n• Thiết lập lịch trình xây dựng\n\nYêu cầu:\n• Tối thiểu năm năm kinh nghiệm xây dựng thương mại\n• Sẵn sàng di chuyển đến các công trường hằng ngày, thường trong bán kính 50 ki-lô-mét\n• Kỹ năng giao tiếp bằng văn bản tốt\n\nĐể ứng tuyển, hãy nộp sơ yếu lý lịch và thư xin việc qua www.jrc.ca/apply."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t05-p7-q155",
+          "number": 155,
+          "question": {
+            "en": "What is suggested about Jones-Richmond Construction?",
+            "vi": "Điều gì được gợi ý về Jones-Richmond Construction?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is a new company.",
+              "vi": "Đây là một công ty mới."
+            },
+            {
+              "key": "B",
+              "en": "It has won industry awards for its work.",
+              "vi": "Công ty đã giành được các giải thưởng trong ngành cho công việc của mình."
+            },
+            {
+              "key": "C",
+              "en": "It is based in Winnipeg.",
+              "vi": "Công ty có trụ sở tại Winnipeg."
+            },
+            {
+              "key": "D",
+              "en": "It specializes in home construction projects.",
+              "vi": "Công ty chuyên về các dự án xây dựng nhà ở."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t05-p7-q156",
+          "number": 156,
+          "question": {
+            "en": "What is NOT listed as a responsibility of the construction superintendent?",
+            "vi": "Điều gì KHÔNG được liệt kê là trách nhiệm của giám sát công trình xây dựng?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Setting schedules",
+              "vi": "Thiết lập lịch trình"
+            },
+            {
+              "key": "B",
+              "en": "Training inexperienced workers",
+              "vi": "Đào tạo công nhân thiếu kinh nghiệm"
+            },
+            {
+              "key": "C",
+              "en": "Participating in contract discussions",
+              "vi": "Tham gia thảo luận hợp đồng"
+            },
+            {
+              "key": "D",
+              "en": "Ensuring worker safety",
+              "vi": "Đảm bảo an toàn cho công nhân"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t05-p7-q157",
+          "number": 157,
+          "question": {
+            "en": "According to the advertisement, what must a successful job applicant have?",
+            "vi": "Theo quảng cáo, ứng viên thành công phải có gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A technical certification",
+              "vi": "Một chứng chỉ kỹ thuật"
+            },
+            {
+              "key": "B",
+              "en": "A reference letter from a former employer",
+              "vi": "Một thư giới thiệu từ nhà tuyển dụng cũ"
+            },
+            {
+              "key": "C",
+              "en": "Senior management experience",
+              "vi": "Kinh nghiệm quản lý cấp cao"
+            },
+            {
+              "key": "D",
+              "en": "The ability to visit construction sites each workday",
+              "vi": "Khả năng đến thăm công trường xây dựng mỗi ngày làm việc"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t05-p7-g158-160",
+      "documents": [
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: All Sledgehammer Gym Staff\nFrom: Lucas Sledge\nDate: September 15\nSubject: Payroll changes\nAttachment: Form\n\nDear Staff,\n\nThanks to your dedicated work, word of our little gym has spread. Over the past twelve months, enrollment has significantly increased and so has our teaching staff. Although this growth is wonderful, having to process the payroll by myself has become rather burdensome. Therefore, I have contacted Trumbull and Company to provide direct deposit of your wages into your bank accounts. — [1] —. Consequently, you no longer need to deposit your paycheck yourself. Also, you will now be able to get your pay stubs and tax information online. — [2] —.\n\nTo allow for these changes, I am asking everyone to provide me with the necessary banking details. Please complete the attached form and bring it to the office with a voided check no later than September 25. — [3] —. The new process will take effect in October. — [4] —. Please let me know if you have any questions.\n\nTake care,\n\nLucas",
+            "vi": "Đến: Tất cả nhân viên Sledgehammer Gym\nTừ: Lucas Sledge\nNgày: 15 tháng 9\nChủ đề: Thay đổi bảng lương\nTệp đính kèm: Biểu mẫu\n\nKính gửi nhân viên,\n\nNhờ sự làm việc tận tâm của các bạn, tiếng tăm của phòng gym nhỏ của chúng ta đã được lan truyền. Trong mười hai tháng qua, số lượng hội viên đã tăng đáng kể và đội ngũ giảng dạy của chúng ta cũng vậy. Mặc dù sự phát triển này rất tuyệt vời, việc phải tự mình xử lý bảng lương đã trở nên khá nặng nề. Vì vậy, tôi đã liên hệ với Trumbull and Company để cung cấp dịch vụ gửi trực tiếp tiền lương của các bạn vào tài khoản ngân hàng. — [1] —. Do đó, các bạn không còn cần tự gửi séc lương nữa. Ngoài ra, bây giờ các bạn sẽ có thể nhận phiếu lương và thông tin thuế trực tuyến. — [2] —.\n\nĐể cho phép những thay đổi này, tôi yêu cầu mọi người cung cấp cho tôi các thông tin ngân hàng cần thiết. Vui lòng hoàn thành biểu mẫu đính kèm và mang đến văn phòng cùng với một tờ séc đã hủy không muộn hơn ngày 25 tháng 9. — [3] —. Quy trình mới sẽ có hiệu lực vào tháng 10. — [4] —. Vui lòng cho tôi biết nếu các bạn có bất kỳ câu hỏi nào.\n\nBảo trọng,\n\nLucas"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t05-p7-q158",
+          "number": 158,
+          "question": {
+            "en": "What is mentioned as a benefit of the new payment system?",
+            "vi": "Điều gì được đề cập là một lợi ích của hệ thống thanh toán mới?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It will reduce Mr. Sledge’s workload.",
+              "vi": "Nó sẽ giảm khối lượng công việc của ông Sledge."
+            },
+            {
+              "key": "B",
+              "en": "It will include more staff involvement.",
+              "vi": "Nó sẽ bao gồm nhiều sự tham gia hơn từ nhân viên."
+            },
+            {
+              "key": "C",
+              "en": "It will simplify tax collection.",
+              "vi": "Nó sẽ đơn giản hóa việc thu thuế."
+            },
+            {
+              "key": "D",
+              "en": "It will result in fewer payment errors.",
+              "vi": "Nó sẽ dẫn đến ít lỗi thanh toán hơn."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets24-t05-p7-q159",
+          "number": 159,
+          "question": {
+            "en": "What does Mr. Sledge ask employees to do?",
+            "vi": "Ông Sledge yêu cầu nhân viên làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Update their contact information",
+              "vi": "Cập nhật thông tin liên hệ của họ"
+            },
+            {
+              "key": "B",
+              "en": "Submit ideas on how to improve the gym",
+              "vi": "Gửi ý tưởng về cách cải thiện phòng gym"
+            },
+            {
+              "key": "C",
+              "en": "Provide information about their bank account",
+              "vi": "Cung cấp thông tin về tài khoản ngân hàng của họ"
+            },
+            {
+              "key": "D",
+              "en": "Sign up for a professional development class",
+              "vi": "Đăng ký một lớp phát triển chuyên môn"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t05-p7-q160",
+          "number": 160,
+          "question": {
+            "en": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?\n“If I am not around, please see my assistant.”",
+            "vi": "Câu sau phù hợp nhất với vị trí nào được đánh dấu [1], [2], [3], và [4]?\n“Nếu tôi không có mặt, vui lòng gặp trợ lý của tôi.”"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "[1]",
+              "vi": "[1]"
+            },
+            {
+              "key": "B",
+              "en": "[2]",
+              "vi": "[2]"
+            },
+            {
+              "key": "C",
+              "en": "[3]",
+              "vi": "[3]"
+            },
+            {
+              "key": "D",
+              "en": "[4]",
+              "vi": "[4]"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t05-p7-g161-163",
+      "documents": [
+        {
+          "kind": "article",
+          "content": {
+            "en": "Aussie Coffee Fair This Weekend\n\nSYDNEY (4 June)—Coffee will be the main attraction this weekend at the Aussie Coffee Fair hosted by Homewares, the country’s top kitchen appliance manufacturer. The event will be held at the Harbour Expo Centre.\n\nThe two-day event will feature a variety of coffee-oriented presentations by coffee growers and roasters, food writers, makers of kitchen equipment, and chefs. Foods and beverages will be available to view, taste, and buy at booths throughout the centre.\n\nSessions will feature demonstrations on cooking with coffee and tips for brewing the best cup of coffee, as well as information on nonfood uses for coffee. In addition, culinary experts will be on hand to meet with coffee enthusiasts for discussions designed to help them create a true coffeehouse experience in their own homes.\n\nEntry to the Aussie Coffee Fair is free. However, registration is required as space is limited. For information and to register online, go to www.aussiecoffeefair.com.",
+            "vi": "Hội chợ Cà phê Aussie cuối tuần này\n\nSYDNEY (ngày 4 tháng 6)—Cà phê sẽ là điểm thu hút chính vào cuối tuần này tại Hội chợ Cà phê Aussie do Homewares, nhà sản xuất thiết bị nhà bếp hàng đầu của đất nước, tổ chức. Sự kiện sẽ được tổ chức tại Harbour Expo Centre.\n\nSự kiện kéo dài hai ngày này sẽ có nhiều bài thuyết trình liên quan đến cà phê từ những người trồng cà phê và thợ rang cà phê, các cây bút ẩm thực, nhà sản xuất thiết bị nhà bếp và đầu bếp. Thực phẩm và đồ uống sẽ có sẵn để xem, nếm thử và mua tại các gian hàng khắp trung tâm.\n\nCác buổi sẽ có phần trình diễn về nấu ăn với cà phê và mẹo pha một tách cà phê ngon nhất, cũng như thông tin về các cách sử dụng cà phê ngoài thực phẩm. Ngoài ra, các chuyên gia ẩm thực sẽ có mặt để gặp những người yêu thích cà phê trong các buổi thảo luận được thiết kế nhằm giúp họ tạo ra trải nghiệm quán cà phê thực thụ ngay tại nhà của mình.\n\nVé vào Hội chợ Cà phê Aussie là miễn phí. Tuy nhiên, cần đăng ký vì không gian có hạn. Để biết thông tin và đăng ký trực tuyến, hãy truy cập www.aussiecoffeefair.com."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t05-p7-q161",
+          "number": 161,
+          "question": {
+            "en": "The word “top” in paragraph 1, line 3, is closest in meaning to",
+            "vi": "Từ “top” trong đoạn 1, dòng 3, gần nghĩa nhất với"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "only",
+              "vi": "duy nhất"
+            },
+            {
+              "key": "B",
+              "en": "leading",
+              "vi": "hàng đầu"
+            },
+            {
+              "key": "C",
+              "en": "highest",
+              "vi": "cao nhất"
+            },
+            {
+              "key": "D",
+              "en": "modern",
+              "vi": "hiện đại"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t05-p7-q162",
+          "number": 162,
+          "question": {
+            "en": "Who will NOT be conducting informational presentations at the fair?",
+            "vi": "Ai sẽ KHÔNG thực hiện các bài thuyết trình cung cấp thông tin tại hội chợ?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Chefs",
+              "vi": "Đầu bếp"
+            },
+            {
+              "key": "B",
+              "en": "Coffee growers",
+              "vi": "Người trồng cà phê"
+            },
+            {
+              "key": "C",
+              "en": "Equipment makers",
+              "vi": "Nhà sản xuất thiết bị"
+            },
+            {
+              "key": "D",
+              "en": "Coffeehouse owners",
+              "vi": "Chủ quán cà phê"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets24-t05-p7-q163",
+          "number": 163,
+          "question": {
+            "en": "What must people do to attend the fair?",
+            "vi": "Mọi người phải làm gì để tham dự hội chợ?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Sign up on a Web site",
+              "vi": "Đăng ký trên một trang web"
+            },
+            {
+              "key": "B",
+              "en": "Call to make a reservation",
+              "vi": "Gọi điện để đặt chỗ"
+            },
+            {
+              "key": "C",
+              "en": "Buy a ticket at the event location",
+              "vi": "Mua vé tại địa điểm tổ chức sự kiện"
+            },
+            {
+              "key": "D",
+              "en": "Present a Homewares product receipt",
+              "vi": "Xuất trình biên nhận sản phẩm của Homewares"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t05-p7-g164-167",
+      "documents": [
+        {
+          "kind": "email",
+          "content": {
+            "en": "From: melissa@grandgrainsbakery.com\nTo: elinorotero@webmail.com\nDate: October 28\nRe: Desserts\n\nDear Ms. Otero,\n\nI just followed up with our baker about your request to have an assortment of desserts instead of one large cake for the party you are hosting at your home on November 7. We suggest ordering three dessert pieces per person. The cost for three desserts is between $10 and $12 per person. Our most popular desserts are the mini cheesecakes, the berry tartlets, and the brownies.\n\nI know you are using a separate caterer for the lunch, and they will help serve and clean up after the party. You also mentioned that you were considering whether to put the dessert table in your backyard or inside your house. Just keep in mind that if you order the cheesecakes, they should not be left out for more than two hours. If you give us very specific instructions about where to set up the desserts, our staff can leave them in the appropriate place without disturbing the party.\n\nOnce you make your dessert choices, simply let us know how many guests you expect, and we can take care of the rest.\n\nMelissa Luhya\nGrand Grains Bakery",
+            "vi": "Từ: melissa@grandgrainsbakery.com\nĐến: elinorotero@webmail.com\nNgày: 28 tháng 10\nVề việc: Món tráng miệng\n\nKính gửi cô Otero,\n\nTôi vừa trao đổi lại với thợ làm bánh của chúng tôi về yêu cầu của cô muốn có nhiều loại món tráng miệng thay vì một chiếc bánh lớn cho bữa tiệc mà cô sẽ tổ chức tại nhà vào ngày 7 tháng 11. Chúng tôi đề xuất đặt ba phần tráng miệng cho mỗi người. Chi phí cho ba món tráng miệng là từ 10 đến 12 đô la mỗi người. Các món tráng miệng phổ biến nhất của chúng tôi là bánh phô mai mini, bánh tart quả mọng và bánh brownie.\n\nTôi biết cô đang sử dụng một đơn vị phục vụ ăn uống riêng cho bữa trưa, và họ sẽ giúp phục vụ cũng như dọn dẹp sau bữa tiệc. Cô cũng đã đề cập rằng cô đang cân nhắc nên đặt bàn tráng miệng ở sân sau hay bên trong nhà. Chỉ cần lưu ý rằng nếu cô đặt bánh phô mai, chúng không nên được để bên ngoài quá hai giờ. Nếu cô cung cấp cho chúng tôi hướng dẫn thật cụ thể về nơi đặt các món tráng miệng, nhân viên của chúng tôi có thể để chúng ở vị trí phù hợp mà không làm gián đoạn bữa tiệc.\n\nKhi cô đã chọn xong các món tráng miệng, chỉ cần cho chúng tôi biết cô dự kiến có bao nhiêu khách, và chúng tôi có thể lo phần còn lại.\n\nMelissa Luhya\nGrand Grains Bakery"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t05-p7-q164",
+          "number": 164,
+          "question": {
+            "en": "What is the purpose of the e-mail?",
+            "vi": "Mục đích của e-mail là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To advertise some new pastries",
+              "vi": "Để quảng cáo một số loại bánh ngọt mới"
+            },
+            {
+              "key": "B",
+              "en": "To present options for an event",
+              "vi": "Để trình bày các lựa chọn cho một sự kiện"
+            },
+            {
+              "key": "C",
+              "en": "To recommend serving a larger cake",
+              "vi": "Để khuyến nghị phục vụ một chiếc bánh lớn hơn"
+            },
+            {
+              "key": "D",
+              "en": "To request payment on an order",
+              "vi": "Để yêu cầu thanh toán cho một đơn hàng"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t05-p7-q165",
+          "number": 165,
+          "question": {
+            "en": "What does Ms. Luhya indicate about the mini cheesecakes?",
+            "vi": "Cô Luhya cho biết điều gì về bánh phô mai mini?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "They are the most expensive dessert.",
+              "vi": "Chúng là món tráng miệng đắt nhất."
+            },
+            {
+              "key": "B",
+              "en": "They are available in several flavors.",
+              "vi": "Chúng có sẵn nhiều hương vị."
+            },
+            {
+              "key": "C",
+              "en": "They should not be unrefrigerated for a long time.",
+              "vi": "Chúng không nên được để ngoài tủ lạnh trong thời gian dài."
+            },
+            {
+              "key": "D",
+              "en": "They cannot be ordered in larger sizes.",
+              "vi": "Chúng không thể được đặt với kích cỡ lớn hơn."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t05-p7-q166",
+          "number": 166,
+          "question": {
+            "en": "The word “disturbing” in paragraph 2, line 6, is closest in meaning to",
+            "vi": "Từ “disturbing” trong đoạn 2, dòng 6, gần nghĩa nhất với"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "interrupting",
+              "vi": "làm gián đoạn"
+            },
+            {
+              "key": "B",
+              "en": "frightening",
+              "vi": "làm sợ hãi"
+            },
+            {
+              "key": "C",
+              "en": "rearranging",
+              "vi": "sắp xếp lại"
+            },
+            {
+              "key": "D",
+              "en": "moving",
+              "vi": "di chuyển"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets24-t05-p7-q167",
+          "number": 167,
+          "question": {
+            "en": "What information does Ms. Luhya request from Ms. Otero?",
+            "vi": "Cô Luhya yêu cầu thông tin gì từ cô Otero?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A street address",
+              "vi": "Một địa chỉ đường phố"
+            },
+            {
+              "key": "B",
+              "en": "An approximate budget",
+              "vi": "Một ngân sách ước tính"
+            },
+            {
+              "key": "C",
+              "en": "The name of a caterer",
+              "vi": "Tên của một đơn vị phục vụ ăn uống"
+            },
+            {
+              "key": "D",
+              "en": "The number of guests",
+              "vi": "Số lượng khách"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t05-p7-g168-171",
+      "documents": [
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Cheryl Futrel <cfutrel@zephyrmail.com>\nFrom: Lydia Matsuda <service@candella.com>\nDate: June 9\nSubject: Home decorating\n\nDear Ms. Futrel,\n\nThank you for your interest in Candella Interior Design. — [1] —. We are proud to claim that we are the oldest and most successful online design consulting company in the region. We welcome you as a new client. — [2] —. From modest country homes to urban apartments, we do it all.\n\nWe understand from your original inquiry that you intend to sell your apartment soon and are primarily interested in how best to present it to prospective buyers. Here’s how our design services work: the first step is completing an online questionnaire. — [3] —. Next, you will be matched with an online professional interior designer who can help you with all choices for paint colors, window treatments, and floor coverings. You will receive a room layout plan and a personalized list of ideas for furniture and accessories, with all products available for purchase online. — [4] —. As a special bonus, from now until July 1 our online retail partners have agreed to offer a 10 percent discount on products purchased through our links.\n\nFinally, you will be glad to learn that we charge not by the hour but by the room for our design ideas, with the average price being about $275 per room.\n\nWe look forward to hearing from you and working with you soon.\n\nSincerely,\n\nLydia Matsuda",
+            "vi": "Đến: Cheryl Futrel <cfutrel@zephyrmail.com>\nTừ: Lydia Matsuda <service@candella.com>\nNgày: 9 tháng 6\nChủ đề: Trang trí nhà cửa\n\nKính gửi cô Futrel,\n\nCảm ơn cô đã quan tâm đến Candella Interior Design. — [1] —. Chúng tôi tự hào khẳng định rằng chúng tôi là công ty tư vấn thiết kế trực tuyến lâu đời nhất và thành công nhất trong khu vực. Chúng tôi chào đón cô với tư cách là khách hàng mới. — [2] —. Từ những ngôi nhà đồng quê khiêm tốn đến các căn hộ đô thị, chúng tôi đều thực hiện tất cả.\n\nChúng tôi hiểu từ yêu cầu ban đầu của cô rằng cô dự định sớm bán căn hộ của mình và chủ yếu quan tâm đến cách tốt nhất để trình bày căn hộ với những người mua tiềm năng. Đây là cách dịch vụ thiết kế của chúng tôi hoạt động: bước đầu tiên là hoàn thành một bảng câu hỏi trực tuyến. — [3] —. Tiếp theo, cô sẽ được ghép với một nhà thiết kế nội thất chuyên nghiệp trực tuyến, người có thể giúp cô với tất cả các lựa chọn về màu sơn, rèm cửa và vật liệu lát sàn. Cô sẽ nhận được một bản kế hoạch bố trí phòng và một danh sách ý tưởng được cá nhân hóa cho đồ nội thất và phụ kiện, với tất cả sản phẩm đều có thể mua trực tuyến. — [4] —. Như một phần thưởng đặc biệt, từ nay đến ngày 1 tháng 7, các đối tác bán lẻ trực tuyến của chúng tôi đã đồng ý giảm giá 10 phần trăm cho các sản phẩm được mua thông qua các liên kết của chúng tôi.\n\nCuối cùng, cô sẽ vui khi biết rằng chúng tôi tính phí cho các ý tưởng thiết kế không theo giờ mà theo phòng, với mức giá trung bình khoảng 275 đô la mỗi phòng.\n\nChúng tôi mong sớm nhận được phản hồi từ cô và được làm việc với cô.\n\nTrân trọng,\n\nLydia Matsuda"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t05-p7-q168",
+          "number": 168,
+          "question": {
+            "en": "What is indicated about Candella Interior Design?",
+            "vi": "Điều gì được chỉ ra về Candella Interior Design?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Its main office is located in a major city.",
+              "vi": "Văn phòng chính của công ty nằm ở một thành phố lớn."
+            },
+            {
+              "key": "B",
+              "en": "Its staff members visit clients’ houses.",
+              "vi": "Nhân viên của công ty đến thăm nhà của khách hàng."
+            },
+            {
+              "key": "C",
+              "en": "It has been in business longer than its competitors have been.",
+              "vi": "Công ty đã kinh doanh lâu hơn các đối thủ cạnh tranh."
+            },
+            {
+              "key": "D",
+              "en": "It is a family-run business.",
+              "vi": "Đây là một doanh nghiệp do gia đình điều hành."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t05-p7-q169",
+          "number": 169,
+          "question": {
+            "en": "Why does Ms. Futrel want to redecorate her apartment?",
+            "vi": "Tại sao cô Futrel muốn trang trí lại căn hộ của mình?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To prepare for a visit from relatives",
+              "vi": "Để chuẩn bị cho chuyến thăm của người thân"
+            },
+            {
+              "key": "B",
+              "en": "To make it attractive to potential buyers",
+              "vi": "Để làm cho căn hộ hấp dẫn với những người mua tiềm năng"
+            },
+            {
+              "key": "C",
+              "en": "To replace furniture that she dislikes",
+              "vi": "Để thay thế đồ nội thất mà cô ấy không thích"
+            },
+            {
+              "key": "D",
+              "en": "To use it as an example for her clients",
+              "vi": "Để sử dụng nó làm ví dụ cho khách hàng của cô ấy"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t05-p7-q170",
+          "number": 170,
+          "question": {
+            "en": "What will happen on July 1?",
+            "vi": "Điều gì sẽ xảy ra vào ngày 1 tháng 7?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Room accessories will be distributed.",
+              "vi": "Phụ kiện phòng sẽ được phân phát."
+            },
+            {
+              "key": "B",
+              "en": "Work will begin on a new project.",
+              "vi": "Công việc sẽ bắt đầu cho một dự án mới."
+            },
+            {
+              "key": "C",
+              "en": "The client list will be expanded.",
+              "vi": "Danh sách khách hàng sẽ được mở rộng."
+            },
+            {
+              "key": "D",
+              "en": "A special offer will end.",
+              "vi": "Một ưu đãi đặc biệt sẽ kết thúc."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets24-t05-p7-q171",
+          "number": 171,
+          "question": {
+            "en": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong?\n“The answers will give us a sense of your taste and requirements.”",
+            "vi": "Câu sau phù hợp nhất với vị trí nào được đánh dấu [1], [2], [3], và [4]?\n“Các câu trả lời sẽ giúp chúng tôi hiểu được gu thẩm mỹ và yêu cầu của cô.”"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "[1]",
+              "vi": "[1]"
+            },
+            {
+              "key": "B",
+              "en": "[2]",
+              "vi": "[2]"
+            },
+            {
+              "key": "C",
+              "en": "[3]",
+              "vi": "[3]"
+            },
+            {
+              "key": "D",
+              "en": "[4]",
+              "vi": "[4]"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t05-p7-g172-175",
+      "documents": [
+        {
+          "kind": "text_message_chain",
+          "content": {
+            "en": "Darius Wilkins (11:09 A.M.)\nHi, Ms. Clarke. This is Darius from Roto Bicycle. I promised to check with you before servicing your bicycle.\n\nLauren Clarke (11:14 A.M.)\nThanks. So, what do you think?\n\nDarius Wilkins (11:15 A.M.)\nIn addition to the regular maintenance service, I suggest a drivetrain cleaning and new brake mechanisms.\n\nLauren Clarke (11:16 A.M.)\nOK. What does that come to?\n\nDarius Wilkins (11:18 A.M.)\nAn extensive maintenance service, which includes the same gear and brake adjustments as a regular maintenance service, plus the drivetrain cleaning, is $140. Add $70 for two new brake mechanisms and pads and another $30 for labor charges. So it should come to around $240 altogether. Shall I move forward?\n\nLauren Clarke (11:21 A.M.)\nWow! That much?\n\nDarius Wilkins (11:22 A.M.)\nEspecially with that major bicycle race you have ahead of you.\n\nLauren Clarke (11:24 A.M.)\nI know. I guess we have to do it. Please let me know when it’s ready.",
+            "vi": "Darius Wilkins (11:09 sáng)\nChào cô Clarke. Tôi là Darius từ Roto Bicycle. Tôi đã hứa sẽ trao đổi với cô trước khi bảo dưỡng xe đạp của cô.\n\nLauren Clarke (11:14 sáng)\nCảm ơn. Vậy anh nghĩ sao?\n\nDarius Wilkins (11:15 sáng)\nNgoài dịch vụ bảo dưỡng thông thường, tôi đề xuất vệ sinh bộ truyền động và thay cơ cấu phanh mới.\n\nLauren Clarke (11:16 sáng)\nĐược. Tổng cộng là bao nhiêu?\n\nDarius Wilkins (11:18 sáng)\nDịch vụ bảo dưỡng toàn diện, bao gồm cùng các điều chỉnh về líp và phanh như dịch vụ bảo dưỡng thông thường, cộng thêm vệ sinh bộ truyền động, là 140 đô la. Thêm 70 đô la cho hai cơ cấu phanh và má phanh mới, và thêm 30 đô la tiền công. Vậy tổng cộng khoảng 240 đô la. Tôi có nên tiến hành không?\n\nLauren Clarke (11:21 sáng)\nỒ! Nhiều vậy sao?\n\nDarius Wilkins (11:22 sáng)\nĐặc biệt là khi cô sắp tham gia cuộc đua xe đạp lớn đó.\n\nLauren Clarke (11:24 sáng)\nTôi biết. Tôi đoán chúng ta phải làm thôi. Vui lòng cho tôi biết khi nào xe sẵn sàng."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t05-p7-q172",
+          "number": 172,
+          "question": {
+            "en": "Why did Mr. Wilkins contact Ms. Clarke?",
+            "vi": "Tại sao ông Wilkins liên hệ với cô Clarke?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To recommend a new product",
+              "vi": "Để đề xuất một sản phẩm mới"
+            },
+            {
+              "key": "B",
+              "en": "To discuss a scheduling problem",
+              "vi": "Để thảo luận về một vấn đề lịch trình"
+            },
+            {
+              "key": "C",
+              "en": "To confirm that a bicycle part has been ordered",
+              "vi": "Để xác nhận rằng một bộ phận xe đạp đã được đặt hàng"
+            },
+            {
+              "key": "D",
+              "en": "To request permission to do some work",
+              "vi": "Để xin phép thực hiện một số công việc"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets24-t05-p7-q173",
+          "number": 173,
+          "question": {
+            "en": "What most likely cost about $30?",
+            "vi": "Khoản nào có khả năng tốn khoảng 30 đô la nhất?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "New braking mechanisms",
+              "vi": "Các cơ cấu phanh mới"
+            },
+            {
+              "key": "B",
+              "en": "Labor charges",
+              "vi": "Tiền công"
+            },
+            {
+              "key": "C",
+              "en": "Basic maintenance service",
+              "vi": "Dịch vụ bảo dưỡng cơ bản"
+            },
+            {
+              "key": "D",
+              "en": "Drivetrain cleaning",
+              "vi": "Vệ sinh bộ truyền động"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t05-p7-q174",
+          "number": 174,
+          "question": {
+            "en": "At 11:21 A.M., what does Ms. Clarke imply when she writes, “That much?”",
+            "vi": "Vào lúc 11:21 sáng, cô Clarke ngụ ý gì khi viết, “Nhiều vậy sao?”"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She did not realize how busy Mr. Wilkins is.",
+              "vi": "Cô ấy không nhận ra ông Wilkins bận đến mức nào."
+            },
+            {
+              "key": "B",
+              "en": "The pressure in her tires was surprisingly low.",
+              "vi": "Áp suất trong lốp xe của cô ấy thấp một cách đáng ngạc nhiên."
+            },
+            {
+              "key": "C",
+              "en": "The cost of repairs seems high.",
+              "vi": "Chi phí sửa chữa có vẻ cao."
+            },
+            {
+              "key": "D",
+              "en": "Repairing the bike will take more time than she expected.",
+              "vi": "Việc sửa xe đạp sẽ mất nhiều thời gian hơn cô ấy dự kiến."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t05-p7-q175",
+          "number": 175,
+          "question": {
+            "en": "What is suggested about Ms. Clarke?",
+            "vi": "Điều gì được gợi ý về cô Clarke?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She prefers to pay with cash.",
+              "vi": "Cô ấy thích thanh toán bằng tiền mặt."
+            },
+            {
+              "key": "B",
+              "en": "She is shopping for a new bicycle.",
+              "vi": "Cô ấy đang tìm mua một chiếc xe đạp mới."
+            },
+            {
+              "key": "C",
+              "en": "She is unhappy with the quality of a repair.",
+              "vi": "Cô ấy không hài lòng với chất lượng của một lần sửa chữa."
+            },
+            {
+              "key": "D",
+              "en": "She will soon compete in a bicycle race.",
+              "vi": "Cô ấy sẽ sớm thi đấu trong một cuộc đua xe đạp."
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t05-p7-g176-180",
+      "documents": [
+        {
+          "kind": "email",
+          "content": {
+            "en": "E-Mail Message\n\nTo: Cassie Raferty <cassie@mailcurrent.ie>\nFrom: Youssef Zimri <zimri@zimrimechanical.ie>\nSubject: Following up\nDate: 12 September\nAttachment: cmcclinic\n\nDear Ms. Raferty,\n\nI am very happy with your work so far. Your suggestion to add photos from our archive certainly dressed up the “Company History” page. The help-wanted pop-up bubble on the home page also looks good. Hopefully, it will attract applicants with mechanical experience.\n\nI’d like you to add one more project to our “Portfolio” page. We have finally finished replacing the plumbing and heating systems at Clary Medical Centre’s satellite clinic in Galway. It was a challenging job, and I’m proud of our results. The attachment contains photos and a short description of what we did there.\n\nSincerely,\n\nYoussef Zimri\nOwner, Zimri Mechanical",
+            "vi": "E-Mail Message\n\nĐến: Cassie Raferty <cassie@mailcurrent.ie>\nTừ: Youssef Zimri <zimri@zimrimechanical.ie>\nChủ đề: Theo dõi tiếp\nNgày: 12 tháng 9\nTệp đính kèm: cmcclinic\n\nKính gửi cô Raferty,\n\nTôi rất hài lòng với công việc của cô cho đến nay. Đề xuất của cô về việc thêm ảnh từ kho lưu trữ của chúng tôi chắc chắn đã làm cho trang “Lịch sử Công ty” trở nên đẹp hơn. Bong bóng bật lên tuyển dụng trên trang chủ cũng trông tốt. Hy vọng rằng nó sẽ thu hút các ứng viên có kinh nghiệm cơ khí.\n\nTôi muốn cô thêm một dự án nữa vào trang “Danh mục dự án” của chúng tôi. Chúng tôi cuối cùng đã hoàn thành việc thay thế hệ thống ống nước và hệ thống sưởi tại phòng khám vệ tinh của Clary Medical Centre ở Galway. Đó là một công việc đầy thử thách, và tôi tự hào về kết quả của chúng tôi. Tệp đính kèm có chứa ảnh và một mô tả ngắn về những gì chúng tôi đã làm ở đó.\n\nTrân trọng,\n\nYoussef Zimri\nChủ sở hữu, Zimri Mechanical"
+          }
+        },
+        {
+          "kind": "web_page",
+          "content": {
+            "en": "https://www.clarymedicalcentre.ie\n\nAbout     News     Staff     Contact Us\n\nClinic opening soon\n\nWe have repurposed 47 High Street, Galway, into a satellite medical clinic and will celebrate with a grand opening party on Friday, 28 October. Remarks by Medical Director Dr. Celia O’Leary and local elected officials will begin promptly at 1:00 P.M., followed by a ribbon-cutting ceremony and tours until 4:30 P.M.\n\nThirty miles from the Clary Medical Centre’s main campus, the Clary Clinic is housed in the historic Brandmore shoe factory, which closed more than two decades ago. During renovations, care was taken to maintain the exterior’s nineteenth-century architectural features. The clinic’s interior boasts eighteen examination rooms, a state-of-the-art x-ray facility, private offices for patient consultations, and a lab for processing patient samples.\n\nClinic staff will begin seeing patients on Tuesday, 1 November. To make an appointment, please call 020 915 1424.",
+            "vi": "https://www.clarymedicalcentre.ie\n\nGiới thiệu     Tin tức     Nhân viên     Liên hệ với chúng tôi\n\nPhòng khám sắp khai trương\n\nChúng tôi đã chuyển đổi mục đích sử dụng của số 47 High Street, Galway, thành một phòng khám y tế vệ tinh và sẽ tổ chức tiệc khai trương vào thứ Sáu, ngày 28 tháng 10. Phát biểu của Giám đốc Y khoa, Tiến sĩ Celia O’Leary, và các quan chức dân cử địa phương sẽ bắt đầu đúng 1:00 chiều, tiếp theo là lễ cắt băng khánh thành và các chuyến tham quan đến 4:30 chiều.\n\nCách khuôn viên chính của Clary Medical Centre ba mươi dặm, Clary Clinic được đặt trong nhà máy giày Brandmore lịch sử, nơi đã đóng cửa hơn hai thập kỷ trước. Trong quá trình cải tạo, sự cẩn trọng đã được thực hiện để giữ gìn các đặc điểm kiến trúc thế kỷ XIX ở bên ngoài. Bên trong phòng khám có mười tám phòng khám, một cơ sở chụp X-quang hiện đại, các văn phòng riêng cho tư vấn bệnh nhân và một phòng thí nghiệm để xử lý mẫu bệnh phẩm.\n\nNhân viên phòng khám sẽ bắt đầu khám bệnh cho bệnh nhân vào thứ Ba, ngày 1 tháng 11. Để đặt lịch hẹn, vui lòng gọi 020 915 1424."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t05-p7-q176",
+          "number": 176,
+          "question": {
+            "en": "Who most likely is Ms. Raferty?",
+            "vi": "Cô Raferty có khả năng là ai nhất?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A job recruiter",
+              "vi": "Một nhà tuyển dụng"
+            },
+            {
+              "key": "B",
+              "en": "A plumbing contractor",
+              "vi": "Một nhà thầu ống nước"
+            },
+            {
+              "key": "C",
+              "en": "A Galway historian",
+              "vi": "Một nhà sử học ở Galway"
+            },
+            {
+              "key": "D",
+              "en": "A Web-site designer",
+              "vi": "Một nhà thiết kế trang web"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets24-t05-p7-q177",
+          "number": 177,
+          "question": {
+            "en": "What is indicated about Mr. Zimri?",
+            "vi": "Điều gì được chỉ ra về ông Zimri?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He is trying to recruit an assistant architect.",
+              "vi": "Ông ấy đang cố tuyển một trợ lý kiến trúc sư."
+            },
+            {
+              "key": "B",
+              "en": "He is a member of Clary Medical Centre’s board of directors.",
+              "vi": "Ông ấy là thành viên hội đồng quản trị của Clary Medical Centre."
+            },
+            {
+              "key": "C",
+              "en": "He is pleased with his firm’s work at a former shoe factory.",
+              "vi": "Ông ấy hài lòng với công việc của công ty mình tại một nhà máy giày cũ."
+            },
+            {
+              "key": "D",
+              "en": "He is waiting for Dr. O’Leary’s feedback on a portfolio.",
+              "vi": "Ông ấy đang chờ phản hồi của Tiến sĩ O’Leary về một danh mục dự án."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t05-p7-q178",
+          "number": 178,
+          "question": {
+            "en": "According to the Web page, what will happen at the grand opening event?",
+            "vi": "Theo trang web, điều gì sẽ xảy ra tại sự kiện khai trương?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Government officials will be in attendance.",
+              "vi": "Các quan chức chính phủ sẽ tham dự."
+            },
+            {
+              "key": "B",
+              "en": "Sandwiches will be served.",
+              "vi": "Bánh sandwich sẽ được phục vụ."
+            },
+            {
+              "key": "C",
+              "en": "New building plans will be revealed.",
+              "vi": "Các kế hoạch xây dựng mới sẽ được tiết lộ."
+            },
+            {
+              "key": "D",
+              "en": "Former patients will be interviewed.",
+              "vi": "Các bệnh nhân cũ sẽ được phỏng vấn."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets24-t05-p7-q179",
+          "number": 179,
+          "question": {
+            "en": "On the Web page, the word “maintain” in paragraph 2, line 3, is closest in meaning to",
+            "vi": "Trên trang web, từ “maintain” trong đoạn 2, dòng 3, gần nghĩa nhất với"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "assert",
+              "vi": "khẳng định"
+            },
+            {
+              "key": "B",
+              "en": "heal",
+              "vi": "chữa lành"
+            },
+            {
+              "key": "C",
+              "en": "support",
+              "vi": "hỗ trợ"
+            },
+            {
+              "key": "D",
+              "en": "preserve",
+              "vi": "giữ gìn, bảo tồn"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets24-t05-p7-q180",
+          "number": 180,
+          "question": {
+            "en": "According to the Web page, what is NOT part of the Clary Clinic?",
+            "vi": "Theo trang web, điều gì KHÔNG phải là một phần của Clary Clinic?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A medical laboratory",
+              "vi": "Một phòng thí nghiệm y tế"
+            },
+            {
+              "key": "B",
+              "en": "A pharmacy",
+              "vi": "Một nhà thuốc"
+            },
+            {
+              "key": "C",
+              "en": "Medical imaging equipment",
+              "vi": "Thiết bị chẩn đoán hình ảnh y tế"
+            },
+            {
+              "key": "D",
+              "en": "Offices for clinicians",
+              "vi": "Các văn phòng cho bác sĩ lâm sàng"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t05-p7-g181-185",
+      "documents": [
+        {
+          "kind": "form",
+          "content": {
+            "en": "PURCHASE ORDER\n\nPirate’s Bounty Seafood\n11 Harbor Street\nCharlottetown, Prince Edward Island, C1A 0A5\n\n2 October\nPurchase Order: 5338\n\nVENDOR\nRochette’s Commercial Refrigeration\n2175 Lyons Avenue\nGuelph, Ontario, N1C 0A1\n519-555-0112\n\nSHIP TO\nPirate’s Bounty Seafood\n11 Harbor Street\nCharlottetown, Prince Edward Island,\nC1A 0A5\nAttn: Lenore Okiya\n782-555-0145\n\nITEM NUMBER\nBF550\n\nDESCRIPTION\nBlizzard walk-in freezer\n\nFeatures: 1.5m x 2m x 2.5m,\nadjustable shelves,\naluminum flooring,\ngalvanized steel panels\n\nQUANTITY\n1\n\nPRICE\n$6,400.00\n\nTOTAL\n$6,400.00\n\nCOMMENTS OR SPECIAL INSTRUCTIONS\nRestaurant expanding. Need unit by 17 November.\n\nSUBTOTAL\n$6,400.00\n\nTAX\n$960.00\n\nGRAND TOTAL\n$7,360.00",
+            "vi": "ĐƠN ĐẶT HÀNG\n\nPirate’s Bounty Seafood\n11 Harbor Street\nCharlottetown, Prince Edward Island, C1A 0A5\n\nNgày 2 tháng 10\nĐơn đặt hàng: 5338\n\nNHÀ CUNG CẤP\nRochette’s Commercial Refrigeration\n2175 Lyons Avenue\nGuelph, Ontario, N1C 0A1\n519-555-0112\n\nGỬI ĐẾN\nPirate’s Bounty Seafood\n11 Harbor Street\nCharlottetown, Prince Edward Island,\nC1A 0A5\nNgười nhận: Lenore Okiya\n782-555-0145\n\nMÃ MẶT HÀNG\nBF550\n\nMÔ TẢ\nTủ đông đi bộ vào Blizzard\n\nTính năng: 1,5m x 2m x 2,5m,\nkệ có thể điều chỉnh,\nsàn nhôm,\ntấm thép mạ kẽm\n\nSỐ LƯỢNG\n1\n\nGIÁ\n$6,400.00\n\nTỔNG\n$6,400.00\n\nGHI CHÚ HOẶC HƯỚNG DẪN ĐẶC BIỆT\nNhà hàng đang mở rộng. Cần thiết bị trước ngày 17 tháng 11.\n\nTỔNG PHỤ\n$6,400.00\n\nTHUẾ\n$960.00\n\nTỔNG CỘNG\n$7,360.00"
+          }
+        },
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Lenore Okiya <l.okiya@piratesbounty.ca>\nFrom: Shaliya Umuma <customerservice@rochettesrefrigeration.ca>\nDate: 3 October\nSubject: Purchase Order 5338\n\nDear Ms. Okiya,\n\nWe received your purchase order for the Blizzard walk-in freezer. Unfortunately, the model you requested is on back order and will not be available for three months. We regret the inconvenience and would like to offer you some options.\n\nI can offer you the Blizzard BF600, which measures 2m x 2.5m x 3m, at the discounted price of $6,900 plus tax. It comes with the same features as the item you ordered. Alternately, we have a refurbished BF400 in stock. It’s the same size as the BF550; however, while the BF550 includes a remote control for setting the temperature, the BF400 has a wall-mounted device for that purpose. The BF400 unit comes with a two-year warranty. It is priced at $5,600 plus tax.\n\nPlease let me know how you wish to proceed. Just reply to this e-mail.\n\nShaliya Umuma, Customer Service Manager",
+            "vi": "Đến: Lenore Okiya <l.okiya@piratesbounty.ca>\nTừ: Shaliya Umuma <customerservice@rochettesrefrigeration.ca>\nNgày: 3 tháng 10\nChủ đề: Đơn đặt hàng 5338\n\nKính gửi cô Okiya,\n\nChúng tôi đã nhận được đơn đặt hàng của cô cho tủ đông đi bộ vào Blizzard. Rất tiếc, mẫu mà cô yêu cầu đang trong tình trạng đặt hàng chờ và sẽ không có sẵn trong ba tháng. Chúng tôi lấy làm tiếc vì sự bất tiện này và muốn đưa ra cho cô một số lựa chọn.\n\nTôi có thể cung cấp cho cô mẫu Blizzard BF600, có kích thước 2m x 2,5m x 3m, với mức giá giảm là $6,900 cộng thuế. Mẫu này có cùng các tính năng với mặt hàng cô đã đặt. Ngoài ra, chúng tôi có một mẫu BF400 tân trang sẵn trong kho. Nó có cùng kích thước với BF550; tuy nhiên, trong khi BF550 có điều khiển từ xa để cài đặt nhiệt độ, BF400 có một thiết bị gắn tường cho mục đích đó. Thiết bị BF400 đi kèm bảo hành hai năm. Nó có giá $5,600 cộng thuế.\n\nVui lòng cho tôi biết cô muốn tiến hành như thế nào. Chỉ cần trả lời e-mail này.\n\nShaliya Umuma, Quản lý Dịch vụ Khách hàng"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t05-p7-q181",
+          "number": 181,
+          "question": {
+            "en": "Why does Pirate’s Bounty Seafood need to purchase new equipment?",
+            "vi": "Tại sao Pirate’s Bounty Seafood cần mua thiết bị mới?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Its current refrigerator stopped working.",
+              "vi": "Tủ lạnh hiện tại của nhà hàng đã ngừng hoạt động."
+            },
+            {
+              "key": "B",
+              "en": "The warranty on its current refrigerator has expired.",
+              "vi": "Bảo hành của tủ lạnh hiện tại đã hết hạn."
+            },
+            {
+              "key": "C",
+              "en": "The restaurant is increasing in size.",
+              "vi": "Nhà hàng đang mở rộng quy mô."
+            },
+            {
+              "key": "D",
+              "en": "The restaurant is moving to a new location.",
+              "vi": "Nhà hàng đang chuyển đến địa điểm mới."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t05-p7-q182",
+          "number": 182,
+          "question": {
+            "en": "What is the problem with the item Ms. Okiya ordered?",
+            "vi": "Vấn đề với mặt hàng cô Okiya đã đặt là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It was lost during shipping.",
+              "vi": "Nó bị thất lạc trong quá trình vận chuyển."
+            },
+            {
+              "key": "B",
+              "en": "It has been discontinued.",
+              "vi": "Nó đã bị ngừng sản xuất."
+            },
+            {
+              "key": "C",
+              "en": "It is temporarily out of stock.",
+              "vi": "Nó tạm thời hết hàng."
+            },
+            {
+              "key": "D",
+              "en": "It has a damaged control panel.",
+              "vi": "Nó có bảng điều khiển bị hỏng."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t05-p7-q183",
+          "number": 183,
+          "question": {
+            "en": "What is NOT a feature of the Blizzard BF600?",
+            "vi": "Điều gì KHÔNG phải là một tính năng của Blizzard BF600?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It has a fast-freeze switch.",
+              "vi": "Nó có công tắc làm đông nhanh."
+            },
+            {
+              "key": "B",
+              "en": "It has adjustable shelves.",
+              "vi": "Nó có kệ có thể điều chỉnh."
+            },
+            {
+              "key": "C",
+              "en": "It has aluminum flooring.",
+              "vi": "Nó có sàn nhôm."
+            },
+            {
+              "key": "D",
+              "en": "It has galvanized steel panels.",
+              "vi": "Nó có các tấm thép mạ kẽm."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets24-t05-p7-q184",
+          "number": 184,
+          "question": {
+            "en": "According to the e-mail, what does the BF400 model come with?",
+            "vi": "Theo e-mail, mẫu BF400 đi kèm với gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A user manual",
+              "vi": "Sách hướng dẫn sử dụng"
+            },
+            {
+              "key": "B",
+              "en": "A remote control",
+              "vi": "Điều khiển từ xa"
+            },
+            {
+              "key": "C",
+              "en": "A warranty",
+              "vi": "Bảo hành"
+            },
+            {
+              "key": "D",
+              "en": "A tax waiver",
+              "vi": "Miễn thuế"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t05-p7-q185",
+          "number": 185,
+          "question": {
+            "en": "In the e-mail, the word “Just” in paragraph 3, line 1, is closest in meaning to",
+            "vi": "Trong e-mail, từ “Just” trong đoạn 3, dòng 1, gần nghĩa nhất với"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "immediately",
+              "vi": "ngay lập tức"
+            },
+            {
+              "key": "B",
+              "en": "kindly",
+              "vi": "vui lòng, tử tế"
+            },
+            {
+              "key": "C",
+              "en": "shortly",
+              "vi": "trong thời gian ngắn"
+            },
+            {
+              "key": "D",
+              "en": "simply",
+              "vi": "đơn giản là, chỉ cần"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t05-p7-g186-190",
+      "documents": [
+        {
+          "kind": "schedule",
+          "content": {
+            "en": "Fifth Annual International Marketing Society Conference\n23–25 October, Grant Hotel and Conference Centre, London\n\nDay 1:\n\nTime                    Description                                      Venue\n7:00 A.M. to 8:00 A.M.   Morning Social: Complimentary                   Mezzanine\n                         omelets, pastries, coffee, tea\n\n8:30 A.M. to 10:00 A.M.  Marcos Secada, founder and CEO,                 Room 2\n                         Grindstone Marketing Group\n\n10:30 A.M. to noon       Claire Song, business columnist                 Room 10\n                         and best-selling author\n\n12:30 P.M. to 2:00 P.M.  Lunch (ticket purchase required)                Alexander Ballroom",
+            "vi": "Hội nghị thường niên lần thứ năm của Hiệp hội Tiếp thị Quốc tế\nNgày 23–25 tháng 10, Grant Hotel and Conference Centre, London\n\nNgày 1:\n\nThời gian                Mô tả                                             Địa điểm\n7:00 sáng đến 8:00 sáng   Giao lưu buổi sáng: Miễn phí                    Tầng lửng\n                          trứng ốp lết, bánh ngọt, cà phê, trà\n\n8:30 sáng đến 10:00 sáng  Marcos Secada, nhà sáng lập và CEO,             Phòng 2\n                          Grindstone Marketing Group\n\n10:30 sáng đến trưa       Claire Song, cây bút chuyên mục kinh doanh       Phòng 10\n                          và tác giả sách bán chạy\n\n12:30 trưa đến 2:00 chiều Bữa trưa (yêu cầu mua vé)                       Alexander Ballroom"
+          }
+        },
+        {
+          "kind": "email",
+          "content": {
+            "en": "To: Nadir Kalwar <kalwar.n@kdbuildingconcepts.com>\nFrom: Olek Dzik <odzik.k@kdbuildingconcepts.com>\nDate: 12 May\nSubject: Upcoming marketing campaign\nAttachment: Link to video\n\nNadir,\n\nThanks for your help with the corporate marketing plan. Attached is a link to the video created for us by Grindstone Marketing Group. It shows our 3-D printing equipment pouring fast-setting concrete, layer by layer. I think it looks great as is, and I believe it will be the most compelling aspect of our 1 June launch, especially if the Sheffield house is sold by then.\n\nIn case you haven’t heard, our next construction project will be a home just a couple of kilometres from your office building!\n\nOlek",
+            "vi": "Đến: Nadir Kalwar <kalwar.n@kdbuildingconcepts.com>\nTừ: Olek Dzik <odzik.k@kdbuildingconcepts.com>\nNgày: 12 tháng 5\nChủ đề: Chiến dịch tiếp thị sắp tới\nTệp đính kèm: Liên kết đến video\n\nNadir,\n\nCảm ơn anh đã giúp đỡ với kế hoạch tiếp thị của công ty. Đính kèm là liên kết đến video do Grindstone Marketing Group tạo cho chúng ta. Video cho thấy thiết bị in 3-D của chúng ta đang đổ bê tông đông kết nhanh, từng lớp một. Tôi nghĩ video hiện tại trông rất tốt, và tôi tin rằng nó sẽ là khía cạnh hấp dẫn nhất trong buổi ra mắt ngày 1 tháng 6 của chúng ta, đặc biệt nếu căn nhà ở Sheffield được bán trước thời điểm đó.\n\nTrong trường hợp anh chưa nghe, dự án xây dựng tiếp theo của chúng ta sẽ là một căn nhà chỉ cách tòa nhà văn phòng của anh vài ki-lô-mét!\n\nOlek"
+          }
+        },
+        {
+          "kind": "article",
+          "content": {
+            "en": "House Constructed Using 3-D Technology For Sale\n\nSHEFFIELD (15 May)—An international construction firm specializing in innovative building technologies has completed one of Britain’s first 3-D printed houses. The new structure is located on Morgan Road in Sheffield.\n\nKD Building Concepts took less than two weeks to execute the first phase of the project, which entailed printing the concrete walls and installing the electrical and plumbing systems, according to company president Olek Dzik. In just two months, the fully landscaped house with two bedrooms and two bathrooms was ready for market.\n\n“Labour costs were cut in half thanks to 3-D printing technology,” said Mr. Dzik, whose company has offices in France and Germany, as well as in Sheffield. “At KD Building Concepts, we are committed to building homes that are both affordable and luxurious.”\n\nThe house was listed for sale this week by a local real estate broker. The asking price is £150,000.\n\nNext on the horizon for KD Building Concepts is the construction of a home in Hamburg, Germany.",
+            "vi": "Nhà được xây dựng bằng công nghệ 3-D được rao bán\n\nSHEFFIELD (ngày 15 tháng 5)—Một công ty xây dựng quốc tế chuyên về các công nghệ xây dựng sáng tạo đã hoàn thành một trong những căn nhà in 3-D đầu tiên của Anh. Công trình mới này nằm trên đường Morgan ở Sheffield.\n\nKD Building Concepts mất chưa đến hai tuần để thực hiện giai đoạn đầu tiên của dự án, bao gồm việc in các bức tường bê tông và lắp đặt hệ thống điện và ống nước, theo chủ tịch công ty Olek Dzik. Chỉ trong hai tháng, căn nhà có cảnh quan hoàn chỉnh với hai phòng ngủ và hai phòng tắm đã sẵn sàng để đưa ra thị trường.\n\n“Chi phí lao động đã giảm một nửa nhờ công nghệ in 3-D,” ông Dzik cho biết. Công ty của ông có văn phòng tại Pháp và Đức, cũng như ở Sheffield. “Tại KD Building Concepts, chúng tôi cam kết xây dựng những ngôi nhà vừa có giá phải chăng vừa sang trọng.”\n\nCăn nhà đã được một nhà môi giới bất động sản địa phương rao bán trong tuần này. Giá chào bán là 150.000 bảng Anh.\n\nDự án tiếp theo của KD Building Concepts là xây dựng một căn nhà ở Hamburg, Đức."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t05-p7-q186",
+          "number": 186,
+          "question": {
+            "en": "What is mentioned on the schedule?",
+            "vi": "Điều gì được đề cập trong lịch trình?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Free breakfast is available for conference participants.",
+              "vi": "Bữa sáng miễn phí có sẵn cho người tham gia hội nghị."
+            },
+            {
+              "key": "B",
+              "en": "The conference is five days long.",
+              "vi": "Hội nghị kéo dài năm ngày."
+            },
+            {
+              "key": "C",
+              "en": "A keynote address will be delivered at the end of the first day.",
+              "vi": "Một bài phát biểu chính sẽ được trình bày vào cuối ngày đầu tiên."
+            },
+            {
+              "key": "D",
+              "en": "A featured speaker has been replaced.",
+              "vi": "Một diễn giả nổi bật đã được thay thế."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets24-t05-p7-q187",
+          "number": 187,
+          "question": {
+            "en": "According to the schedule, what will happen at 10:30 A.M.?",
+            "vi": "Theo lịch trình, điều gì sẽ xảy ra lúc 10:30 sáng?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A writer will give a presentation.",
+              "vi": "Một nhà văn sẽ trình bày."
+            },
+            {
+              "key": "B",
+              "en": "Coffee will be served in the lobby.",
+              "vi": "Cà phê sẽ được phục vụ ở sảnh."
+            },
+            {
+              "key": "C",
+              "en": "Lunch tickets will be sold in room 10.",
+              "vi": "Vé ăn trưa sẽ được bán ở phòng 10."
+            },
+            {
+              "key": "D",
+              "en": "A revised schedule will be distributed.",
+              "vi": "Một lịch trình đã sửa đổi sẽ được phân phát."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets24-t05-p7-q188",
+          "number": 188,
+          "question": {
+            "en": "What can be concluded about Mr. Dzik?",
+            "vi": "Có thể kết luận điều gì về ông Dzik?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He wants a marketing video to be shortened.",
+              "vi": "Ông ấy muốn một video tiếp thị được rút ngắn."
+            },
+            {
+              "key": "B",
+              "en": "He has asked Mr. Kalwar for a new marketing plan.",
+              "vi": "Ông ấy đã yêu cầu ông Kalwar lập một kế hoạch tiếp thị mới."
+            },
+            {
+              "key": "C",
+              "en": "He organized a conference in London.",
+              "vi": "Ông ấy đã tổ chức một hội nghị ở London."
+            },
+            {
+              "key": "D",
+              "en": "He hired Mr. Secada’s firm for a project.",
+              "vi": "Ông ấy đã thuê công ty của ông Secada cho một dự án."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets24-t05-p7-q189",
+          "number": 189,
+          "question": {
+            "en": "What is suggested about Mr. Kalwar?",
+            "vi": "Điều gì được gợi ý về ông Kalwar?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He is a videographer.",
+              "vi": "Ông ấy là một người quay video."
+            },
+            {
+              "key": "B",
+              "en": "He works in Germany.",
+              "vi": "Ông ấy làm việc ở Đức."
+            },
+            {
+              "key": "C",
+              "en": "He is planning to buy a house in Sheffield.",
+              "vi": "Ông ấy đang lên kế hoạch mua một căn nhà ở Sheffield."
+            },
+            {
+              "key": "D",
+              "en": "He specializes in construction materials.",
+              "vi": "Ông ấy chuyên về vật liệu xây dựng."
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t05-p7-q190",
+          "number": 190,
+          "question": {
+            "en": "What does the article indicate about the house created with a 3-D printer?",
+            "vi": "Bài báo cho biết điều gì về căn nhà được tạo bằng máy in 3-D?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It cost £150,000 to build.",
+              "vi": "Căn nhà tốn 150.000 bảng Anh để xây dựng."
+            },
+            {
+              "key": "B",
+              "en": "It was finished in two months.",
+              "vi": "Căn nhà được hoàn thành trong hai tháng."
+            },
+            {
+              "key": "C",
+              "en": "It will be landscaped next week.",
+              "vi": "Cảnh quan của căn nhà sẽ được hoàn thiện vào tuần tới."
+            },
+            {
+              "key": "D",
+              "en": "Its bedrooms are all the same size.",
+              "vi": "Các phòng ngủ của căn nhà đều có cùng kích thước."
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t05-p7-g191-195",
+      "documents": [
+        {
+          "kind": "job_posting",
+          "content": {
+            "en": "Gallery manager at Richard Lahiri Gallery in Cromwood\n\nApplicants for this full-time position must have experience in retail art with an established history of successfully attracting patrons interested in purchasing original works of art. Experience managing a social media account is also desired. The position will be primarily on-site; however, some remote hours can be scheduled. Candidates must be available to start work on or before April 1. Qualified applicants should contact gallery director Richard Lahiri at rlahiri@richardlahirigallery.com.",
+            "vi": "Quản lý phòng trưng bày tại Richard Lahiri Gallery ở Cromwood\n\nỨng viên cho vị trí toàn thời gian này phải có kinh nghiệm trong lĩnh vực bán lẻ nghệ thuật, với lịch sử đã được chứng minh về việc thu hút thành công những khách hàng quan tâm đến việc mua các tác phẩm nghệ thuật gốc. Kinh nghiệm quản lý tài khoản mạng xã hội cũng được mong muốn. Vị trí này chủ yếu sẽ làm việc tại chỗ; tuy nhiên, một số giờ làm việc từ xa có thể được sắp xếp. Ứng viên phải có thể bắt đầu làm việc vào hoặc trước ngày 1 tháng 4. Các ứng viên đủ tiêu chuẩn nên liên hệ với giám đốc phòng trưng bày Richard Lahiri tại rlahiri@richardlahirigallery.com."
+          }
+        },
+        {
+          "kind": "flyer",
+          "content": {
+            "en": "Summer Scene Arts Program\n\nStarting on May 1, five art galleries in Cromwood will be hosting open houses every Friday from May through August. Come enjoy live music, refreshments, artist talks, and more on the Cromwood boardwalk. Activities start at 4:00 P.M. and continue until 9:30 P.M., rain or shine. Participating galleries are listed below.\n\nRita Blake Art • Siitva Gallery • Richard Lahiri Gallery\nPatricia Dolivo Painting • Ashland Pottery and Crafts\n\nFunded by the Cromwood City Council and Regents Bank",
+            "vi": "Chương trình Nghệ thuật Summer Scene\n\nBắt đầu từ ngày 1 tháng 5, năm phòng trưng bày nghệ thuật ở Cromwood sẽ tổ chức ngày mở cửa cho khách tham quan vào mỗi thứ Sáu từ tháng 5 đến tháng 8. Hãy đến thưởng thức nhạc sống, đồ uống nhẹ, các buổi nói chuyện của nghệ sĩ và nhiều hoạt động khác trên lối đi bộ ven biển Cromwood. Các hoạt động bắt đầu lúc 4:00 chiều và tiếp tục đến 9:30 tối, bất kể trời mưa hay nắng. Các phòng trưng bày tham gia được liệt kê bên dưới.\n\nRita Blake Art • Siitva Gallery • Richard Lahiri Gallery\nPatricia Dolivo Painting • Ashland Pottery and Crafts\n\nĐược tài trợ bởi Hội đồng Thành phố Cromwood và Regents Bank"
+          }
+        },
+        {
+          "kind": "article",
+          "content": {
+            "en": "Summer Activities in Middleton County\nCompiled by Lisa Yu-Seaver\n\nCromwood Art Nights\n\nResidents of Elmhurst, Melbridge, and Cromwood are invited to explore the local art scene in Cromwood this summer. The five galleries on the boardwalk overlooking the Wye River are holding special events each Friday as part of the Summer Scene Arts Program. This Friday, Richard Lahiri and his gallery manager, Geetu Gelang, will use a giant screen to demonstrate software for creating virtual art. The event will also feature craft vendors, food trucks, and live music. See www.cromwood.gov/things-to-do for more information.\n\nMovies in Brady Park\n\nThe popular summer movie series in Herrontown returns on June 16! Each Saturday evening, a classic film will be projected on Brady Park’s Grand Lawn. Bring your picnic basket and a blanket and get comfortable! The schedule of films is available at www.bradypark.org/activities.",
+            "vi": "Các hoạt động mùa hè ở Middleton County\nTổng hợp bởi Lisa Yu-Seaver\n\nĐêm Nghệ thuật Cromwood\n\nCư dân của Elmhurst, Melbridge và Cromwood được mời khám phá nền nghệ thuật địa phương ở Cromwood vào mùa hè này. Năm phòng trưng bày trên lối đi bộ ven biển nhìn ra sông Wye sẽ tổ chức các sự kiện đặc biệt vào mỗi thứ Sáu như một phần của Chương trình Nghệ thuật Summer Scene. Thứ Sáu này, Richard Lahiri và quản lý phòng trưng bày của ông, Geetu Gelang, sẽ sử dụng một màn hình lớn để trình diễn phần mềm tạo nghệ thuật ảo. Sự kiện cũng sẽ có các người bán đồ thủ công, xe bán đồ ăn và nhạc sống. Xem thêm thông tin tại www.cromwood.gov/things-to-do.\n\nPhim ở Công viên Brady\n\nChuỗi phim mùa hè nổi tiếng ở Herrontown sẽ trở lại vào ngày 16 tháng 6! Vào mỗi tối thứ Bảy, một bộ phim kinh điển sẽ được chiếu trên bãi cỏ Grand Lawn của Công viên Brady. Hãy mang theo giỏ dã ngoại và một tấm chăn rồi ngồi thoải mái! Lịch chiếu phim có tại www.bradypark.org/activities."
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t05-p7-q191",
+          "number": 191,
+          "question": {
+            "en": "What is stated in the job posting about the managerial position?",
+            "vi": "Điều gì được nêu trong tin tuyển dụng về vị trí quản lý?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is fully on-site.",
+              "vi": "Vị trí này hoàn toàn làm việc tại chỗ."
+            },
+            {
+              "key": "B",
+              "en": "It is Mr. Lahiri’s current job.",
+              "vi": "Đây là công việc hiện tại của ông Lahiri."
+            },
+            {
+              "key": "C",
+              "en": "It requires sales experience.",
+              "vi": "Vị trí này yêu cầu kinh nghiệm bán hàng."
+            },
+            {
+              "key": "D",
+              "en": "It will be part-time until April 1.",
+              "vi": "Vị trí này sẽ là bán thời gian cho đến ngày 1 tháng 4."
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t05-p7-q192",
+          "number": 192,
+          "question": {
+            "en": "According to the flyer, what will happen on May 1?",
+            "vi": "Theo tờ rơi, điều gì sẽ xảy ra vào ngày 1 tháng 5?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A public arts program will begin.",
+              "vi": "Một chương trình nghệ thuật công cộng sẽ bắt đầu."
+            },
+            {
+              "key": "B",
+              "en": "A city council meeting will take place.",
+              "vi": "Một cuộc họp hội đồng thành phố sẽ diễn ra."
+            },
+            {
+              "key": "C",
+              "en": "A new art gallery will hold a grand opening.",
+              "vi": "Một phòng trưng bày nghệ thuật mới sẽ tổ chức khai trương."
+            },
+            {
+              "key": "D",
+              "en": "Regents Bank will be closed for the day.",
+              "vi": "Regents Bank sẽ đóng cửa trong ngày."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets24-t05-p7-q193",
+          "number": 193,
+          "question": {
+            "en": "What is suggested about Ashland Pottery and Crafts?",
+            "vi": "Điều gì được gợi ý về Ashland Pottery and Crafts?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is located near the Wye River.",
+              "vi": "Nơi này nằm gần sông Wye."
+            },
+            {
+              "key": "B",
+              "en": "It specializes in virtual art.",
+              "vi": "Nơi này chuyên về nghệ thuật ảo."
+            },
+            {
+              "key": "C",
+              "en": "It hosts pottery workshops every Saturday.",
+              "vi": "Nơi này tổ chức các buổi hội thảo làm đồ gốm vào mỗi thứ Bảy."
+            },
+            {
+              "key": "D",
+              "en": "It is sponsoring a summer movie series.",
+              "vi": "Nơi này tài trợ cho chuỗi phim mùa hè."
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets24-t05-p7-q194",
+          "number": 194,
+          "question": {
+            "en": "What is suggested about Geetu Gelang?",
+            "vi": "Điều gì được gợi ý về Geetu Gelang?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "She is a local musician.",
+              "vi": "Cô ấy là một nhạc sĩ địa phương."
+            },
+            {
+              "key": "B",
+              "en": "She will be selling her crafts on May 1.",
+              "vi": "Cô ấy sẽ bán đồ thủ công của mình vào ngày 1 tháng 5."
+            },
+            {
+              "key": "C",
+              "en": "She plans to start a social media account.",
+              "vi": "Cô ấy dự định bắt đầu một tài khoản mạng xã hội."
+            },
+            {
+              "key": "D",
+              "en": "She was recently hired by the Richard Lahiri Gallery.",
+              "vi": "Cô ấy gần đây đã được Richard Lahiri Gallery tuyển dụng."
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets24-t05-p7-q195",
+          "number": 195,
+          "question": {
+            "en": "According to the article, where is Brady Park located?",
+            "vi": "Theo bài báo, Công viên Brady nằm ở đâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "In Cromwood",
+              "vi": "Ở Cromwood"
+            },
+            {
+              "key": "B",
+              "en": "In Elmhurst",
+              "vi": "Ở Elmhurst"
+            },
+            {
+              "key": "C",
+              "en": "In Herrontown",
+              "vi": "Ở Herrontown"
+            },
+            {
+              "key": "D",
+              "en": "In Melbridge",
+              "vi": "Ở Melbridge"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ets24-t05-p7-g196-200",
+      "documents": [
+        {
+          "kind": "article",
+          "content": {
+            "en": "Senano Designs Buys Gendalla in $60 Million Deal\n\nLOS ANGELES (March 20)—Fashion powerhouse Senano Designs announced on Wednesday that it had acquired Gendalla, an up-and-coming luxury brand. The acquisition is part of Senano’s plan to supplement its clothing products with a line of designer watches. Over the next two years, the company has further plans to expand its offerings to include fragrances and luggage. Lina Pacheco, Senano’s chief executive officer, said that such expansion is necessary to keep up and compete with other international fashion houses. Although based in Los Angeles, in recent years Senano has opened offices in Philadelphia, Chicago, and Miami. Ms. Pacheco says she was unfamiliar with Gendalla products until a year ago, when she saw one of their ads in an automobile magazine. “The products have a distinctive, modern style,” Ms. Pacheco said, “which will go well with Senano’s trendsetting clothes.”",
+            "vi": "Senano Designs mua lại Gendalla trong thương vụ 60 triệu đô la\n\nLOS ANGELES (ngày 20 tháng 3)—Tập đoàn thời trang lớn Senano Designs thông báo vào thứ Tư rằng công ty đã mua lại Gendalla, một thương hiệu xa xỉ đang lên. Việc mua lại này là một phần trong kế hoạch của Senano nhằm bổ sung cho các sản phẩm quần áo của mình bằng một dòng đồng hồ thiết kế. Trong hai năm tới, công ty còn có kế hoạch mở rộng các sản phẩm của mình để bao gồm nước hoa và hành lý. Lina Pacheco, giám đốc điều hành của Senano, cho biết sự mở rộng như vậy là cần thiết để theo kịp và cạnh tranh với các hãng thời trang quốc tế khác. Mặc dù có trụ sở tại Los Angeles, trong những năm gần đây Senano đã mở văn phòng ở Philadelphia, Chicago và Miami. Cô Pacheco cho biết cô không quen thuộc với các sản phẩm của Gendalla cho đến một năm trước, khi cô nhìn thấy một quảng cáo của họ trên một tạp chí ô tô. “Các sản phẩm có phong cách hiện đại, khác biệt,” cô Pacheco nói, “và sẽ rất phù hợp với quần áo dẫn đầu xu hướng của Senano.”"
+          }
+        },
+        {
+          "kind": "memo",
+          "content": {
+            "en": "MEMO\n\nFrom: Oscar Johansen, Accounting department\nTo: All Gendalla employees\nDate: March 22\nSubject: Travel expense policy\nAttachment: Policy\n\nI have attached a copy of Senano’s policy on travel expenses, which will go into effect when we officially become employees of Senano on March 31.\n\nNote that Senano’s policy is more restrictive than Gendalla’s policy in several ways. For example, employees will no longer have one month to submit expense reports. However, the new policy will make some processes much easier: specifically, Senano’s requirements for submitting expenses under $50 are simpler than those under current Gendalla policy.\n\nCarlie Dawson, an accounting director who works at Senano’s headquarters, will come to our New York office to lead an information session about this and other policy-related changes on Thursday, March 28, at 2:00 P.M. I strongly encourage you to attend.",
+            "vi": "BẢN GHI NHỚ\n\nTừ: Oscar Johansen, phòng Kế toán\nĐến: Tất cả nhân viên Gendalla\nNgày: 22 tháng 3\nChủ đề: Chính sách chi phí đi lại\nTệp đính kèm: Chính sách\n\nTôi đã đính kèm một bản sao chính sách của Senano về chi phí đi lại, chính sách này sẽ có hiệu lực khi chúng ta chính thức trở thành nhân viên của Senano vào ngày 31 tháng 3.\n\nLưu ý rằng chính sách của Senano nghiêm ngặt hơn chính sách của Gendalla ở một số điểm. Ví dụ, nhân viên sẽ không còn có một tháng để nộp báo cáo chi phí. Tuy nhiên, chính sách mới sẽ làm cho một số quy trình dễ dàng hơn nhiều: cụ thể, các yêu cầu của Senano đối với việc nộp chi phí dưới 50 đô la đơn giản hơn so với chính sách hiện tại của Gendalla.\n\nCarlie Dawson, một giám đốc kế toán làm việc tại trụ sở chính của Senano, sẽ đến văn phòng New York của chúng ta để dẫn dắt một buổi thông tin về vấn đề này và các thay đổi khác liên quan đến chính sách vào thứ Năm, ngày 28 tháng 3, lúc 2:00 chiều. Tôi thực sự khuyến khích các bạn tham dự."
+          }
+        },
+        {
+          "kind": "policy",
+          "content": {
+            "en": "Senano Designs\nTravel Expense Policy\n\n• To be reimbursed for work-related travel, employees must submit a travel request at least two weeks before a trip, listing the reason for travel and estimating all expenses.\n• Original receipts must be submitted for expenses above $50. Any expenses below that do not require the submission of original receipts.\n• All receipts and expense reports must be submitted within three weeks after a trip is completed. Expenses submitted after this time will require the approval of the department head.\n\nPage 1",
+            "vi": "Senano Designs\nChính sách Chi phí Đi lại\n\n• Để được hoàn tiền cho chuyến đi liên quan đến công việc, nhân viên phải nộp yêu cầu đi lại ít nhất hai tuần trước chuyến đi, trong đó nêu lý do đi lại và ước tính tất cả chi phí.\n• Biên nhận gốc phải được nộp cho các chi phí trên 50 đô la. Bất kỳ chi phí nào dưới mức đó không yêu cầu nộp biên nhận gốc.\n• Tất cả biên nhận và báo cáo chi phí phải được nộp trong vòng ba tuần sau khi chuyến đi hoàn tất. Các chi phí được nộp sau thời gian này sẽ cần sự phê duyệt của trưởng bộ phận.\n\nTrang 1"
+          }
+        }
+      ],
+      "questions": [
+        {
+          "id": "ets24-t05-p7-q196",
+          "number": 196,
+          "question": {
+            "en": "What does Gendalla mainly produce?",
+            "vi": "Gendalla chủ yếu sản xuất gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Watches",
+              "vi": "Đồng hồ"
+            },
+            {
+              "key": "B",
+              "en": "Luggage",
+              "vi": "Hành lý"
+            },
+            {
+              "key": "C",
+              "en": "Clothing",
+              "vi": "Quần áo"
+            },
+            {
+              "key": "D",
+              "en": "Fragrances",
+              "vi": "Nước hoa"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ets24-t05-p7-q197",
+          "number": 197,
+          "question": {
+            "en": "According to the article, why is Senano Designs acquiring Gendalla?",
+            "vi": "Theo bài báo, tại sao Senano Designs mua lại Gendalla?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To sell products at a lower price",
+              "vi": "Để bán sản phẩm với giá thấp hơn"
+            },
+            {
+              "key": "B",
+              "en": "To expand its social media presence",
+              "vi": "Để mở rộng sự hiện diện trên mạng xã hội"
+            },
+            {
+              "key": "C",
+              "en": "To offer a more diverse range of products",
+              "vi": "Để cung cấp một phạm vi sản phẩm đa dạng hơn"
+            },
+            {
+              "key": "D",
+              "en": "To address declining sales in some cities",
+              "vi": "Để giải quyết tình trạng doanh số giảm ở một số thành phố"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ets24-t05-p7-q198",
+          "number": 198,
+          "question": {
+            "en": "What are Gendalla’s employees invited to do on March 28?",
+            "vi": "Nhân viên của Gendalla được mời làm gì vào ngày 28 tháng 3?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Suggest changes to a travel policy",
+              "vi": "Đề xuất thay đổi đối với một chính sách đi lại"
+            },
+            {
+              "key": "B",
+              "en": "Attend a meeting in the afternoon",
+              "vi": "Tham dự một cuộc họp vào buổi chiều"
+            },
+            {
+              "key": "C",
+              "en": "Tour Senano’s corporate headquarters",
+              "vi": "Tham quan trụ sở công ty của Senano"
+            },
+            {
+              "key": "D",
+              "en": "Make an appointment with an accountant",
+              "vi": "Đặt lịch hẹn với một kế toán viên"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ets24-t05-p7-q199",
+          "number": 199,
+          "question": {
+            "en": "Where is Ms. Dawson’s office?",
+            "vi": "Văn phòng của cô Dawson ở đâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "In New York",
+              "vi": "Ở New York"
+            },
+            {
+              "key": "B",
+              "en": "In Chicago",
+              "vi": "Ở Chicago"
+            },
+            {
+              "key": "C",
+              "en": "In Philadelphia",
+              "vi": "Ở Philadelphia"
+            },
+            {
+              "key": "D",
+              "en": "In Los Angeles",
+              "vi": "Ở Los Angeles"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ets24-t05-p7-q200",
+          "number": 200,
+          "question": {
+            "en": "How is Gendalla’s current travel expense policy likely different from Senano’s?",
+            "vi": "Chính sách chi phí đi lại hiện tại của Gendalla có khả năng khác với chính sách của Senano như thế nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A receipt must be submitted for every expense.",
+              "vi": "Biên nhận phải được nộp cho mọi chi phí."
+            },
+            {
+              "key": "B",
+              "en": "Preapproval must be obtained for expenses over $50.",
+              "vi": "Phải có phê duyệt trước cho các chi phí trên 50 đô la."
+            },
+            {
+              "key": "C",
+              "en": "The expense report must be signed by a manager.",
+              "vi": "Báo cáo chi phí phải được ký bởi một quản lý."
+            },
+            {
+              "key": "D",
+              "en": "Employees can submit their expense reports jointly.",
+              "vi": "Nhân viên có thể nộp báo cáo chi phí chung."
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    }
+  ]
+}

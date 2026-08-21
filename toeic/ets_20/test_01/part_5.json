@@ -1,0 +1,934 @@
+{
+  "items": [
+    {
+      "id": "ets20-t01-p5-q101",
+      "number": 101,
+      "question": {
+        "en": "Departmental restructuring will be discussed at the ______ monthly meeting.",
+        "vi": "Việc tái cơ cấu phòng ban sẽ được thảo luận tại cuộc họp hằng tháng ______."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "next",
+          "vi": "next (adj): kế tiếp, tới"
+        },
+        {
+          "key": "B",
+          "en": "always",
+          "vi": "always (adv): luôn luôn, hôm nào cũng"
+        },
+        {
+          "key": "C",
+          "en": "soon",
+          "vi": "soon (adv): sớm, chẳng lâu"
+        },
+        {
+          "key": "D",
+          "en": "like",
+          "vi": "like (v/prep): thích, giống như"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets20-t01-p5-q102",
+      "number": 102,
+      "question": {
+        "en": "To keep ______ park beautiful, please place your nonrecyclables in the available trash cans.",
+        "vi": "Để giữ cho công viên ______ luôn đẹp, vui lòng bỏ rác không thể tái chế vào các thùng rác có sẵn."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "our",
+          "vi": "our (adj): của chúng tôi/chúng ta (đứng trước danh từ)"
+        },
+        {
+          "key": "B",
+          "en": "we",
+          "vi": "we (pron): chúng tôi/chúng ta (đại từ chủ ngữ)"
+        },
+        {
+          "key": "C",
+          "en": "us",
+          "vi": "us (pron): chúng tôi/chúng ta (đại từ tân ngữ)"
+        },
+        {
+          "key": "D",
+          "en": "ours",
+          "vi": "ours (pron): của chúng tôi/chúng ta (sở hữu độc lập)"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets20-t01-p5-q103",
+      "number": 103,
+      "question": {
+        "en": "Mr. Hardin ______ additional images of the office building he is interested in leasing.",
+        "vi": "Ông Hardin ______ thêm hình ảnh của tòa nhà văn phòng mà ông ấy quan tâm đến việc thuê."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "informed",
+          "vi": "informed (v-pp): đã thông báo"
+        },
+        {
+          "key": "B",
+          "en": "asked",
+          "vi": "asked (v-pp): đã hỏi"
+        },
+        {
+          "key": "C",
+          "en": "advised",
+          "vi": "advised (v-pp): đã khuyên bảo"
+        },
+        {
+          "key": "D",
+          "en": "requested",
+          "vi": "requested (v-pp): đã yêu cầu"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets20-t01-p5-q104",
+      "number": 104,
+      "question": {
+        "en": "A team of agricultural experts will be brought ______ to try to improve crop harvests.",
+        "vi": "Một đội chuyên gia nông nghiệp sẽ được đưa ______ để cố gắng cải thiện vụ thu hoạch cây trồng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "because",
+          "vi": "because (conj): vì, bởi vì"
+        },
+        {
+          "key": "B",
+          "en": "either",
+          "vi": "either (det/adv): cũng không (trong phủ định)"
+        },
+        {
+          "key": "C",
+          "en": "between",
+          "vi": "between (prep): giữa, ở giữa"
+        },
+        {
+          "key": "D",
+          "en": "together",
+          "vi": "together (adv): cùng nhau, lại với nhau"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets20-t01-p5-q105",
+      "number": 105,
+      "question": {
+        "en": "The board of Galaxipharm ______ Mr. Kwon's successor at yesterday's meeting.",
+        "vi": "Hội đồng quản trị của Galaxipharm ______ người kế nhiệm ông Kwon tại cuộc họp hôm qua."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "named",
+          "vi": "named (v-pp): đã bổ nhiệm, chỉ định"
+        },
+        {
+          "key": "B",
+          "en": "granted",
+          "vi": "granted (v-pp): đã cấp phát, cho phép"
+        },
+        {
+          "key": "C",
+          "en": "founded",
+          "vi": "founded (v-pp): đã sáng lập, thành lập"
+        },
+        {
+          "key": "D",
+          "en": "proved",
+          "vi": "proved (v-pp): đã chứng minh, tỏ ra"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets20-t01-p5-q106",
+      "number": 106,
+      "question": {
+        "en": "If your parking permit is damaged, bring it to the entrance station for a ______.",
+        "vi": "Nếu giấy phép đậu xe của bạn bị hư hỏng, hãy mang nó đến trạm vào cổng để được ______."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "replacement",
+          "vi": "replacement (n): phiếu thay thế, sự thay thế"
+        },
+        {
+          "key": "B",
+          "en": "replacing",
+          "vi": "replacing (v-ing): đang thay thế"
+        },
+        {
+          "key": "C",
+          "en": "replace",
+          "vi": "replace (v): thay thế, cấp lại"
+        },
+        {
+          "key": "D",
+          "en": "replaces",
+          "vi": "replaces (v): thay thế (hiện tại số ít)"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets20-t01-p5-q107",
+      "number": 107,
+      "question": {
+        "en": "Mr. Ahmad decided to reserve a private room for the awards dinner ______ the restaurant was noisy.",
+        "vi": "Ông Ahmad quyết định đặt một phòng riêng cho bữa tối trao giải ______ nhà hàng ồn ào."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "rather than",
+          "vi": "rather than (conj): thay vì, hơn là"
+        },
+        {
+          "key": "B",
+          "en": "in case",
+          "vi": "in case (conj): phòng trường hợp, để phòng ngừa"
+        },
+        {
+          "key": "C",
+          "en": "such as",
+          "vi": "such as (conj): chẳng hạn như, ví dụ như"
+        },
+        {
+          "key": "D",
+          "en": "unless",
+          "vi": "unless (conj): trừ khi, nếu không"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets20-t01-p5-q108",
+      "number": 108,
+      "question": {
+        "en": "Ms. Jones has provided a ______ estimate of the costs of expanding distribution statewide.",
+        "vi": "Cô Jones đã cung cấp một ước tính ______ về chi phí mở rộng phân phối trên toàn bang."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "conserve",
+          "vi": "conserve (v): bảo vệ, tiết kiệm"
+        },
+        {
+          "key": "B",
+          "en": "conserves",
+          "vi": "conserves (v): bảo vệ (hiện tại số ít)"
+        },
+        {
+          "key": "C",
+          "en": "conservative",
+          "vi": "conservative (adj): bảo thủ, cẩn thận"
+        },
+        {
+          "key": "D",
+          "en": "conservatively",
+          "vi": "conservatively (adv): một cách bảo thủ"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets20-t01-p5-q109",
+      "number": 109,
+      "question": {
+        "en": "Each quarter, Acaba Exports sets ______ sales goals for its staff.",
+        "vi": "Mỗi quý, Acaba Exports đặt ra các mục tiêu bán hàng ______ cho nhân viên của mình."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "compact",
+          "vi": "compact (adj): nhỏ gọn, chặt chẽ"
+        },
+        {
+          "key": "B",
+          "en": "wealthy",
+          "vi": "wealthy (adj): giàu có, giàu sang"
+        },
+        {
+          "key": "C",
+          "en": "faithful",
+          "vi": "faithful (adj): trung thành, trung thực"
+        },
+        {
+          "key": "D",
+          "en": "realistic",
+          "vi": "realistic (adj): thực tế, hợp lý"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets20-t01-p5-q110",
+      "number": 110,
+      "question": {
+        "en": "Ms. Garcia was delighted to receive ______ that her company soon will be featured in the In Town Times magazine.",
+        "vi": "Cô Garcia rất vui khi nhận được ______ rằng công ty của cô ấy sẽ sớm được giới thiệu trên tạp chí In Town Times."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "notify",
+          "vi": "notify (v): thông báo, cho biết"
+        },
+        {
+          "key": "B",
+          "en": "notification",
+          "vi": "notification (n): thông báo, thông tin"
+        },
+        {
+          "key": "C",
+          "en": "notifying",
+          "vi": "notifying (v-ing): đang thông báo"
+        },
+        {
+          "key": "D",
+          "en": "notifies",
+          "vi": "notifies (v): thông báo (hiện tại số ít)"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets20-t01-p5-q111",
+      "number": 111,
+      "question": {
+        "en": "Children under five years of age are eligible ______ free vision tests.",
+        "vi": "Trẻ em dưới năm tuổi đủ điều kiện ______ các bài kiểm tra thị lực miễn phí."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "over",
+          "vi": "over (prep): trên, vượt quá"
+        },
+        {
+          "key": "B",
+          "en": "down",
+          "vi": "down (prep): xuống, ở dưới"
+        },
+        {
+          "key": "C",
+          "en": "for",
+          "vi": "for (prep): cho, để (diễn tả mục đích)"
+        },
+        {
+          "key": "D",
+          "en": "out",
+          "vi": "out (prep): ra ngoài, ngoài"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets20-t01-p5-q112",
+      "number": 112,
+      "question": {
+        "en": "Drivers on the Partan Expressway are reminded to drive ______ throughout July because of the ongoing construction work.",
+        "vi": "Các tài xế trên Đường cao tốc Partan được nhắc nhở lái xe ______ trong suốt tháng 7 vì công trình xây dựng đang diễn ra."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "caution",
+          "vi": "caution (n): cảnh báo, sự cẩn thận"
+        },
+        {
+          "key": "B",
+          "en": "cautiously",
+          "vi": "cautiously (adv): một cách cẩn thận"
+        },
+        {
+          "key": "C",
+          "en": "cautious",
+          "vi": "cautious (adj): cẩn thận, thận trọng"
+        },
+        {
+          "key": "D",
+          "en": "cautiousness",
+          "vi": "cautiousness (n): sự cẩn thận, thế cẩn trọng"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets20-t01-p5-q113",
+      "number": 113,
+      "question": {
+        "en": "The committee will resume its weekly meetings ______ Ms. Cheon returns from Scotland on September 17.",
+        "vi": "Ủy ban sẽ tiếp tục các cuộc họp hằng tuần ______ cô Cheon trở về từ Scotland vào ngày 17 tháng 9."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "that",
+          "vi": "that (conj): cái đó, mà"
+        },
+        {
+          "key": "B",
+          "en": "once",
+          "vi": "once (conj): một khi, khi mà"
+        },
+        {
+          "key": "C",
+          "en": "as well",
+          "vi": "as well (adv): cũng như, lại nữa"
+        },
+        {
+          "key": "D",
+          "en": "then",
+          "vi": "then (adv): sau đó, lúc đó"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets20-t01-p5-q114",
+      "number": 114,
+      "question": {
+        "en": "The ______ initiative aims to provide public transportation for commuters living in the outer suburbs.",
+        "vi": "Sáng kiến ______ nhằm cung cấp phương tiện giao thông công cộng cho những người đi làm sống ở các vùng ngoại ô xa."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "proposed",
+          "vi": "proposed (adj/v-pp): được đề xuất, dự kiến"
+        },
+        {
+          "key": "B",
+          "en": "proposing",
+          "vi": "proposing (v-ing): đang đề xuất"
+        },
+        {
+          "key": "C",
+          "en": "proposal",
+          "vi": "proposal (n): đề xuất, sáng kiến"
+        },
+        {
+          "key": "D",
+          "en": "propose",
+          "vi": "propose (v): đề xuất, tính toán"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets20-t01-p5-q115",
+      "number": 115,
+      "question": {
+        "en": "Yesterday's storm ______ interrupted the services of the Duddula, Inc., satellite communications system.",
+        "vi": "Cơn bão hôm qua đã ______ làm gián đoạn các dịch vụ của hệ thống thông tin vệ tinh Duddula, Inc."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "annually",
+          "vi": "annually (adv): hàng năm, từng năm"
+        },
+        {
+          "key": "B",
+          "en": "anytime",
+          "vi": "anytime (adv): bất cứ lúc nào"
+        },
+        {
+          "key": "C",
+          "en": "whenever",
+          "vi": "whenever (adv): bất cứ khi nào"
+        },
+        {
+          "key": "D",
+          "en": "temporarily",
+          "vi": "temporarily (adv): tạm thời, tạm thế"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets20-t01-p5-q116",
+      "number": 116,
+      "question": {
+        "en": "Even though Cabrera Pictures and Marcella Images make very different films, ______ are successful movie studios.",
+        "vi": "Mặc dù Cabrera Pictures và Marcella Images sản xuất những bộ phim rất khác nhau, ______ đều là các hãng phim thành công."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "several",
+          "vi": "several (det): một số, nhiều"
+        },
+        {
+          "key": "B",
+          "en": "everybody",
+          "vi": "everybody (pron): mọi người, ai cũng"
+        },
+        {
+          "key": "C",
+          "en": "some",
+          "vi": "some (det): một số, vài"
+        },
+        {
+          "key": "D",
+          "en": "both",
+          "vi": "both (det/pron): cả hai"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets20-t01-p5-q117",
+      "number": 117,
+      "question": {
+        "en": "______ of tasks can make a manager's job easier and help other employees learn new skills.",
+        "vi": "______ nhiệm vụ có thể làm cho công việc của một quản lý dễ dàng hơn và giúp các nhân viên khác học được kỹ năng mới."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Reputation",
+          "vi": "Reputation (n): danh tiếng, uy tín"
+        },
+        {
+          "key": "B",
+          "en": "Foundation",
+          "vi": "Foundation (n): nền tảng, cơ sở"
+        },
+        {
+          "key": "C",
+          "en": "Delegation",
+          "vi": "Delegation (n): ủy quyền, phân công"
+        },
+        {
+          "key": "D",
+          "en": "Permission",
+          "vi": "Permission (n): sự cho phép, phép phép"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets20-t01-p5-q118",
+      "number": 118,
+      "question": {
+        "en": "Proceeds from the sale of Delcrest Corporation were equally ______ among the founder's three daughters.",
+        "vi": "Tiền thu được từ việc bán Delcrest Corporation đã được ______ đều cho ba người con gái của người sáng lập."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "divisions",
+          "vi": "divisions (n): sự chia rẽ, sự chia tách"
+        },
+        {
+          "key": "B",
+          "en": "dividing",
+          "vi": "dividing (v-ing): đang chia"
+        },
+        {
+          "key": "C",
+          "en": "divide",
+          "vi": "divide (v): chia, phân chia"
+        },
+        {
+          "key": "D",
+          "en": "divided",
+          "vi": "divided (v-pp): được chia (thụ động)"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets20-t01-p5-q119",
+      "number": 119,
+      "question": {
+        "en": "______ higher than average ticket prices, every performance of Aiden North's new play is sold out for the next six months.",
+        "vi": "______ giá vé cao hơn mức trung bình, mọi buổi biểu diễn vở kịch mới của Aiden North đều đã bán hết vé trong sáu tháng tới."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Throughout",
+          "vi": "Throughout (prep): suốt, xuyên suốt"
+        },
+        {
+          "key": "B",
+          "en": "Except for",
+          "vi": "Except for (prep): ngoại trừ, trừ"
+        },
+        {
+          "key": "C",
+          "en": "Despite",
+          "vi": "Despite (prep): mặc dù, dù cho"
+        },
+        {
+          "key": "D",
+          "en": "Prior to",
+          "vi": "Prior to (prep): trước khi, trước đó"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets20-t01-p5-q120",
+      "number": 120,
+      "question": {
+        "en": "Ricardo Sosa, the executive chef at Restaurant Ninal, responds to guests' suggestions ______.",
+        "vi": "Ricardo Sosa, bếp trưởng điều hành tại Restaurant Ninal, phản hồi các đề xuất của khách ______."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "respect",
+          "vi": "respect (n/v): sự tôn trọng, tôn trọng"
+        },
+        {
+          "key": "B",
+          "en": "respects",
+          "vi": "respects (v): tôn trọng (hiện tại số ít)"
+        },
+        {
+          "key": "C",
+          "en": "respectfully",
+          "vi": "respectfully (adv): một cách tôn trọng, lễ phép"
+        },
+        {
+          "key": "D",
+          "en": "respected",
+          "vi": "respected (adj/v-pp): được tôn trọng"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets20-t01-p5-q121",
+      "number": 121,
+      "question": {
+        "en": "Mr. Koster is negotiating the ______ of the new contract with Arban, Inc.",
+        "vi": "Ông Koster đang đàm phán ______ của hợp đồng mới với Arban, Inc."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "scope",
+          "vi": "scope (n): phạm vi, nội dung"
+        },
+        {
+          "key": "B",
+          "en": "turn",
+          "vi": "turn (n): lượt, thứ tự"
+        },
+        {
+          "key": "C",
+          "en": "grip",
+          "vi": "grip (n): nắm giữ, sự kiểm soát"
+        },
+        {
+          "key": "D",
+          "en": "drive",
+          "vi": "drive (n): hướng, động lực"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets20-t01-p5-q122",
+      "number": 122,
+      "question": {
+        "en": "The equipment-use guidelines ______ on our internal corporate Web site.",
+        "vi": "Các hướng dẫn sử dụng thiết bị ______ trên trang web nội bộ của công ty chúng tôi."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "may find",
+          "vi": "may find (v): có thể tìm (chủ động)"
+        },
+        {
+          "key": "B",
+          "en": "can be found",
+          "vi": "can be found (v): có thể được tìm thấy (thụ động)"
+        },
+        {
+          "key": "C",
+          "en": "have found",
+          "vi": "have found (v): đã tìm thấy (chủ động hoàn thành)"
+        },
+        {
+          "key": "D",
+          "en": "have to find",
+          "vi": "have to find (v): phải tìm (chủ động)"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets20-t01-p5-q123",
+      "number": 123,
+      "question": {
+        "en": "Professor Han created spreadsheets to calculate the farm's irrigation needs ______.",
+        "vi": "Giáo sư Han đã tạo các bảng tính để tính toán nhu cầu tưới tiêu của trang trại ______."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "dominantly",
+          "vi": "dominantly (adv): một cách thống trị"
+        },
+        {
+          "key": "B",
+          "en": "precisely",
+          "vi": "precisely (adv): chính xác, đúng đắn"
+        },
+        {
+          "key": "C",
+          "en": "relatively",
+          "vi": "relatively (adv): tương đối, so với"
+        },
+        {
+          "key": "D",
+          "en": "widely",
+          "vi": "widely (adv): rộng rãi, phổ biến"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets20-t01-p5-q124",
+      "number": 124,
+      "question": {
+        "en": "For hiring purposes, five years of professional experience is ______ to having achieved certification.",
+        "vi": "Vì mục đích tuyển dụng, năm năm kinh nghiệm chuyên môn là ______ với việc đạt được chứng nhận."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "reasonable",
+          "vi": "reasonable (adj): hợp lý, có lý do"
+        },
+        {
+          "key": "B",
+          "en": "appropriate",
+          "vi": "appropriate (adj): thích hợp, phù hợp"
+        },
+        {
+          "key": "C",
+          "en": "equivalent",
+          "vi": "equivalent (adj): tương đương, bằng nhau"
+        },
+        {
+          "key": "D",
+          "en": "significant",
+          "vi": "significant (adj): quan trọng, đáng kể"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets20-t01-p5-q125",
+      "number": 125,
+      "question": {
+        "en": "South Regent Aviation is adopting measures to reduce fuel expenses by ______ cargo loads.",
+        "vi": "South Regent Aviation đang áp dụng các biện pháp để giảm chi phí nhiên liệu bằng cách ______ tải hàng hóa."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "light",
+          "vi": "light (adj/n/v): nhẹ, ánh sáng, chiếu sáng"
+        },
+        {
+          "key": "B",
+          "en": "lighten",
+          "vi": "lighten (v): giảm nhẹ, làm nhẹ hơn"
+        },
+        {
+          "key": "C",
+          "en": "lightly",
+          "vi": "lightly (adv): nhẹ nhàng, chỉ chút ít"
+        },
+        {
+          "key": "D",
+          "en": "lightening",
+          "vi": "lightening (v-ing): đang giảm nhẹ"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets20-t01-p5-q126",
+      "number": 126,
+      "question": {
+        "en": "______ the most challenging aspect of accepting a new position is negotiating a salary that is both fair and satisfying.",
+        "vi": "______ khía cạnh khó khăn nhất của việc nhận một vị trí mới là đàm phán mức lương vừa công bằng vừa thỏa đáng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Perhaps",
+          "vi": "Perhaps (adv): có lẽ, có thể"
+        },
+        {
+          "key": "B",
+          "en": "Outside",
+          "vi": "Outside (prep): bên ngoài"
+        },
+        {
+          "key": "C",
+          "en": "Every",
+          "vi": "Every (det): mỗi, từng"
+        },
+        {
+          "key": "D",
+          "en": "While",
+          "vi": "While (conj/n): trong khi, lúc"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets20-t01-p5-q127",
+      "number": 127,
+      "question": {
+        "en": "Complaints about its new line of kitchen appliances led Loxevo, Inc., to adopt higher ______ for assessing quality.",
+        "vi": "Những lời phàn nàn về dòng thiết bị nhà bếp mới đã khiến Loxevo, Inc. áp dụng các ______ cao hơn để đánh giá chất lượng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "standards",
+          "vi": "standards (n): tiêu chuẩn, chuẩn mực"
+        },
+        {
+          "key": "B",
+          "en": "features",
+          "vi": "features (n): tính năng, đặc điểm"
+        },
+        {
+          "key": "C",
+          "en": "risks",
+          "vi": "risks (n): rủi ro, nguy hiểm"
+        },
+        {
+          "key": "D",
+          "en": "institutions",
+          "vi": "institutions (n): tổ chức, cơ sở"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets20-t01-p5-q128",
+      "number": 128,
+      "question": {
+        "en": "The chief engineer noted that constructing another bridge would be more ______ than repairing the existing structure.",
+        "vi": "Kỹ sư trưởng lưu ý rằng việc xây dựng một cây cầu khác sẽ ______ hơn so với sửa chữa cấu trúc hiện có."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "economy",
+          "vi": "economy (n): nền kinh tế, sự tiết kiệm"
+        },
+        {
+          "key": "B",
+          "en": "economics",
+          "vi": "economics (n): kinh tế học, kinh tế"
+        },
+        {
+          "key": "C",
+          "en": "economically",
+          "vi": "economically (adv): về mặt kinh tế"
+        },
+        {
+          "key": "D",
+          "en": "economical",
+          "vi": "economical (adj): tiết kiệm, rẻ tiền"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets20-t01-p5-q129",
+      "number": 129,
+      "question": {
+        "en": "Jansen Bus Company drivers are expected to complete regular trainings ______ maintaining their state licenses.",
+        "vi": "Các tài xế của Jansen Bus Company được kỳ vọng hoàn thành các khóa đào tạo định kỳ ______ duy trì giấy phép tiểu bang của họ."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "in addition to",
+          "vi": "in addition to (prep): ngoài, thêm vào"
+        },
+        {
+          "key": "B",
+          "en": "according to",
+          "vi": "according to (prep): theo, tùy theo"
+        },
+        {
+          "key": "C",
+          "en": "inside",
+          "vi": "inside (prep): bên trong, ở trong"
+        },
+        {
+          "key": "D",
+          "en": "within",
+          "vi": "within (prep): trong, ở trong"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets20-t01-p5-q130",
+      "number": 130,
+      "question": {
+        "en": "Ms. DeSoto ______ all employees to come to last week's budget meeting even though only officers were obligated to attend.",
+        "vi": "Cô DeSoto ______ tất cả nhân viên đến cuộc họp ngân sách tuần trước mặc dù chỉ các viên chức mới bắt buộc phải tham dự."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "to have urged",
+          "vi": "to have urged (v): để có khuyến khích"
+        },
+        {
+          "key": "B",
+          "en": "had urged",
+          "vi": "had urged (v): đã khuyến khích (quá khứ hoàn thành)"
+        },
+        {
+          "key": "C",
+          "en": "will have urged",
+          "vi": "will have urged (v): sẽ đã khuyến khích (tương lai hoàn thành)"
+        },
+        {
+          "key": "D",
+          "en": "was urged",
+          "vi": "was urged (v): bị khuyến khích (quá khứ thụ động)"
+        }
+      ],
+      "answer": "B"
+    }
+  ]
+}

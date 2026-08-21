@@ -1,0 +1,679 @@
+{
+  "items": [
+    {
+      "id": "ybm25-t06-p2-q007",
+      "number": 7,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/007.mp3",
+      "question": {
+        "en": "How did you like the book?",
+        "vi": "Bạn thấy cuốn sách thế nào?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Around three hundred pages.",
+          "vi": "Khoảng ba trăm trang."
+        },
+        {
+          "key": "B",
+          "en": "A friend recommended it.",
+          "vi": "Một người bạn đã giới thiệu nó."
+        },
+        {
+          "key": "C",
+          "en": "The ending was surprising!",
+          "vi": "Phần kết thật bất ngờ!"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ybm25-t06-p2-q008",
+      "number": 8,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/008.mp3",
+      "question": {
+        "en": "Where is the security office?",
+        "vi": "Văn phòng an ninh ở đâu?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "For a visitor's badge.",
+          "vi": "Để lấy thẻ khách tham quan."
+        },
+        {
+          "key": "B",
+          "en": "At the back of the lobby.",
+          "vi": "Ở phía sau sảnh."
+        },
+        {
+          "key": "C",
+          "en": "The security report is done.",
+          "vi": "Báo cáo an ninh đã xong."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ybm25-t06-p2-q009",
+      "number": 9,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/009.mp3",
+      "question": {
+        "en": "What did you think of the orientation video?",
+        "vi": "Anh thấy video định hướng thế nào?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "On my first day at the company.",
+          "vi": "Vào ngày đầu tiên của tôi tại công ty."
+        },
+        {
+          "key": "B",
+          "en": "You can start recording at any time.",
+          "vi": "Bạn có thể bắt đầu ghi hình bất cứ lúc nào."
+        },
+        {
+          "key": "C",
+          "en": "It had a lot of helpful information.",
+          "vi": "Nó chứa rất nhiều thông tin hữu ích."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ybm25-t06-p2-q010",
+      "number": 10,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/010.mp3",
+      "question": {
+        "en": "Should we ask Donna to give the product demonstration?",
+        "vi": "Chúng ta có nên nhờ Donna trình diễn sản phẩm không?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "At the exposition in Seoul.",
+          "vi": "Tại triển lãm ở Seoul."
+        },
+        {
+          "key": "B",
+          "en": "They only accept cash donations.",
+          "vi": "Họ chỉ chấp nhận quyên góp bằng tiền mặt."
+        },
+        {
+          "key": "C",
+          "en": "Yes, she's great at public speaking.",
+          "vi": "Vâng, cô ấy rất giỏi nói trước công chúng."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ybm25-t06-p2-q011",
+      "number": 11,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/011.mp3",
+      "question": {
+        "en": "What is that interesting building across the river?",
+        "vi": "Tòa nhà thú vị bên kia sông là gì vậy?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "A concert hall.",
+          "vi": "Một phòng hòa nhạc."
+        },
+        {
+          "key": "B",
+          "en": "Take Calhoun Bridge, please.",
+          "vi": "Hãy đi cầu Calhoun nhé."
+        },
+        {
+          "key": "C",
+          "en": "From the top floor.",
+          "vi": "Từ tầng trên cùng."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ybm25-t06-p2-q012",
+      "number": 12,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/012.mp3",
+      "question": {
+        "en": "Will the clinic stay open while the road is being repaired?",
+        "vi": "Phòng khám có mở cửa trong khi đường đang được sửa chữa không?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Yes, we'll be seeing patients.",
+          "vi": "Có, chúng tôi vẫn sẽ tiếp đón bệnh nhân."
+        },
+        {
+          "key": "B",
+          "en": "It's a load of disposable gloves.",
+          "vi": "Đó là cả đống găng tay dùng một lần."
+        },
+        {
+          "key": "C",
+          "en": "Because of damage from heavy trucks.",
+          "vi": "Vì hư hại do xe tải hạng nặng gây ra."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ybm25-t06-p2-q013",
+      "number": 13,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/013.mp3",
+      "question": {
+        "en": "When will the inspection take place?",
+        "vi": "Khi nào cuộc kiểm tra sẽ diễn ra?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Sometime this week.",
+          "vi": "Vào một thời điểm nào đó trong tuần này."
+        },
+        {
+          "key": "B",
+          "en": "The corner by the dishwashers.",
+          "vi": "Góc cạnh chỗ máy rửa bát."
+        },
+        {
+          "key": "C",
+          "en": "No, I brought my own.",
+          "vi": "Không, tôi mang theo của riêng mình."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ybm25-t06-p2-q014",
+      "number": 14,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/014.mp3",
+      "question": {
+        "en": "It's going to start raining soon.",
+        "vi": "Trời sắp bắt đầu mưa rồi."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "I'll bring the sidewalk display inside.",
+          "vi": "Tôi sẽ mang đồ trưng bày trên vỉa hè vào trong."
+        },
+        {
+          "key": "B",
+          "en": "Yes, that was a good start.",
+          "vi": "Vâng, đó là một khởi đầu tốt."
+        },
+        {
+          "key": "C",
+          "en": "With a professional trainer.",
+          "vi": "Với một huấn luyện viên chuyên nghiệp."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ybm25-t06-p2-q015",
+      "number": 15,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/015.mp3",
+      "question": {
+        "en": "Why did the candidate turn down our offer?",
+        "vi": "Tại sao ứng viên lại từ chối lời đề nghị của chúng ta?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Yes, unfortunately.",
+          "vi": "Vâng, thật không may."
+        },
+        {
+          "key": "B",
+          "en": "He had already taken another job.",
+          "vi": "Anh ấy đã nhận một công việc khác rồi."
+        },
+        {
+          "key": "C",
+          "en": "Do you want me to turn it up again?",
+          "vi": "Bạn có muốn tôi vặn nó lên lại không?"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ybm25-t06-p2-q016",
+      "number": 16,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/016.mp3",
+      "question": {
+        "en": "Which project is our crew working on next?",
+        "vi": "Đội của chúng ta sẽ làm dự án nào tiếp theo?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "The concrete was already safe to walk on.",
+          "vi": "Bê tông đã đủ an toàn để đi lại rồi."
+        },
+        {
+          "key": "B",
+          "en": "That's not what I've heard.",
+          "vi": "Đó không phải là điều tôi đã nghe."
+        },
+        {
+          "key": "C",
+          "en": "The Miller family's kitchen renovation.",
+          "vi": "Việc cải tạo nhà bếp của gia đình Miller."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ybm25-t06-p2-q017",
+      "number": 17,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/017.mp3",
+      "question": {
+        "en": "Aren't you supposed to be leaving for your business trip?",
+        "vi": "Chẳng phải anh đáng lẽ phải đi công tác rồi sao?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "I already left it with the front desk.",
+          "vi": "Tôi đã để nó ở quầy lễ tân rồi."
+        },
+        {
+          "key": "B",
+          "en": "Actually, it's a very successful business.",
+          "vi": "Thật ra, đó là một việc kinh doanh rất thành công."
+        },
+        {
+          "key": "C",
+          "en": "My flight isn't until seven P.M.",
+          "vi": "Chuyến bay của tôi đến tận 7 giờ tối mới khởi hành."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ybm25-t06-p2-q018",
+      "number": 18,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/018.mp3",
+      "question": {
+        "en": "Why don't we redesign our sandals this year?",
+        "vi": "Sao chúng ta không thiết kế lại dép sandal trong năm nay nhỉ?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "This style is still selling pretty well.",
+          "vi": "Kiểu này vẫn đang bán khá chạy."
+        },
+        {
+          "key": "B",
+          "en": "She goes to the beach every summer.",
+          "vi": "Cô ấy đi biển vào mỗi mùa hè."
+        },
+        {
+          "key": "C",
+          "en": "A famous shoe designer.",
+          "vi": "Một nhà thiết kế giày nổi tiếng."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ybm25-t06-p2-q019",
+      "number": 19,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/019.mp3",
+      "question": {
+        "en": "How many buses will we need to take everyone to the retreat site?",
+        "vi": "Chúng ta cần bao nhiêu xe buýt để đưa mọi người đến địa điểm nghỉ dưỡng?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "No, you can't park here on weekdays.",
+          "vi": "Không, bạn không thể đậu xe ở đây vào ngày thường."
+        },
+        {
+          "key": "B",
+          "en": "Over thirty miles away.",
+          "vi": "Hơn ba mươi dặm xa."
+        },
+        {
+          "key": "C",
+          "en": "We have a hundred and twenty staff.",
+          "vi": "Chúng ta có 120 nhân viên."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ybm25-t06-p2-q020",
+      "number": 20,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/020.mp3",
+      "question": {
+        "en": "Are we giving our clients wall calendars or desk calendars this year?",
+        "vi": "Năm nay chúng ta tặng khách hàng lịch treo tường hay lịch để bàn?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "I thought you ordered the gifts.",
+          "vi": "Tôi tưởng anh đã đặt mua quà rồi chứ."
+        },
+        {
+          "key": "B",
+          "en": "To show our appreciation for them.",
+          "vi": "Để thể hiện sự cảm kích của chúng ta đối với họ."
+        },
+        {
+          "key": "C",
+          "en": "No, not according to my calendar.",
+          "vi": "Không, theo lịch của tôi thì không phải."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ybm25-t06-p2-q021",
+      "number": 21,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/021.mp3",
+      "question": {
+        "en": "Wasn't that food festival postponed again?",
+        "vi": "Lễ hội ẩm thực đó chẳng phải đã bị hoãn lại lần nữa sao?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "It's been pushed back to June.",
+          "vi": "Nó đã được dời lại đến tháng Sáu."
+        },
+        {
+          "key": "B",
+          "en": "Some of it was quite spicy.",
+          "vi": "Một số món khá cay."
+        },
+        {
+          "key": "C",
+          "en": "I put one on the bulletin board.",
+          "vi": "Tôi đã dán một cái lên bảng tin."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ybm25-t06-p2-q022",
+      "number": 22,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/022.mp3",
+      "question": {
+        "en": "The office relocation is taking longer than we hoped.",
+        "vi": "Việc chuyển văn phòng đang mất nhiều thời gian hơn chúng ta mong đợi."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "We do have a lot of electronics to set up.",
+          "vi": "Chúng ta thực sự có rất nhiều thiết bị điện tử cần lắp đặt."
+        },
+        {
+          "key": "B",
+          "en": "Our official logo.",
+          "vi": "Logo chính thức của chúng ta."
+        },
+        {
+          "key": "C",
+          "en": "I could cut a few words here.",
+          "vi": "Tôi có thể cắt bớt vài từ ở đây."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ybm25-t06-p2-q023",
+      "number": 23,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/023.mp3",
+      "question": {
+        "en": "Why did Mayor Shin call a press conference?",
+        "vi": "Tại sao Thị trưởng Shin lại tổ chức họp báo?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Just a few hours ago.",
+          "vi": "Chỉ vài giờ trước."
+        },
+        {
+          "key": "B",
+          "en": "It's been called that for years.",
+          "vi": "Người ta đã gọi nó như vậy nhiều năm rồi."
+        },
+        {
+          "key": "C",
+          "en": "She's announcing a new policy.",
+          "vi": "Bà ấy sắp công bố một chính sách mới."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ybm25-t06-p2-q024",
+      "number": 24,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/024.mp3",
+      "question": {
+        "en": "The projector in that conference room is still out of order, isn't it?",
+        "vi": "Máy chiếu trong phòng họp đó vẫn đang hỏng phải không?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "They should be in alphabetical order.",
+          "vi": "Chúng nên được xếp theo thứ tự bảng chữ cái."
+        },
+        {
+          "key": "B",
+          "en": "Just print out your presentation slides.",
+          "vi": "Cứ in các slide thuyết trình của anh ra đi."
+        },
+        {
+          "key": "C",
+          "en": "On a rolling cart outside the door.",
+          "vi": "Trên xe đẩy ngoài cửa."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ybm25-t06-p2-q025",
+      "number": 25,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/025.mp3",
+      "question": {
+        "en": "Who knows how to report a maintenance issue?",
+        "vi": "Ai biết cách báo cáo một vấn đề bảo trì?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Some routine elevator maintenance.",
+          "vi": "Bảo trì thang máy định kỳ."
+        },
+        {
+          "key": "B",
+          "en": "Sheldon has done it before.",
+          "vi": "Sheldon đã từng làm việc đó."
+        },
+        {
+          "key": "C",
+          "en": "Yes, we have copies of every issue.",
+          "vi": "Vâng, chúng tôi có bản sao của mọi số phát hành."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ybm25-t06-p2-q026",
+      "number": 26,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/026.mp3",
+      "question": {
+        "en": "Why is the exhibit on European painting closed?",
+        "vi": "Tại sao triển lãm tranh châu Âu lại bị đóng cửa?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "There's an art supply store on Martin Street.",
+          "vi": "Có một cửa hàng đồ dùng mỹ thuật trên Phố Martin."
+        },
+        {
+          "key": "B",
+          "en": "Didn't you read the notice at the museum entrance?",
+          "vi": "Anh không đọc thông báo ở lối vào bảo tàng à?"
+        },
+        {
+          "key": "C",
+          "en": "Yes, the very next room.",
+          "vi": "Vâng, ngay phòng kế bên."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ybm25-t06-p2-q027",
+      "number": 27,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/027.mp3",
+      "question": {
+        "en": "When do you want to meet to sign the contract?",
+        "vi": "Khi nào anh muốn gặp để ký hợp đồng?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Yes, she sent out the agenda.",
+          "vi": "Vâng, cô ấy đã gửi chương trình nghị sự ra rồi."
+        },
+        {
+          "key": "B",
+          "en": "I believe that's correct.",
+          "vi": "Tôi tin rằng đúng vậy."
+        },
+        {
+          "key": "C",
+          "en": "I'd like to see more apartments first.",
+          "vi": "Tôi muốn xem thêm vài căn hộ trước đã."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ybm25-t06-p2-q028",
+      "number": 28,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/028.mp3",
+      "question": {
+        "en": "What should I do with these old bank statements?",
+        "vi": "Tôi nên làm gì với những sao kê ngân hàng cũ này?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "No, they really shouldn't.",
+          "vi": "Không, họ thật sự không nên."
+        },
+        {
+          "key": "B",
+          "en": "Put them through the shredder",
+          "vi": "Cho chúng vào máy hủy giấy."
+        },
+        {
+          "key": "C",
+          "en": "Once a year, in January.",
+          "vi": "Một năm một lần, vào tháng Một."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ybm25-t06-p2-q029",
+      "number": 29,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/029.mp3",
+      "question": {
+        "en": "I'd be happy to pick up the executives at the airport.",
+        "vi": "Tôi rất sẵn lòng đi đón các vị lãnh đạo ở sân bay."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "We hired a car service.",
+          "vi": "Chúng ta đã thuê dịch vụ xe rồi."
+        },
+        {
+          "key": "B",
+          "en": "Yes, a round-trip ticket.",
+          "vi": "Vâng, một vé khứ hồi."
+        },
+        {
+          "key": "C",
+          "en": "Some shipments from overseas.",
+          "vi": "Một số lô hàng từ nước ngoài."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ybm25-t06-p2-q030",
+      "number": 30,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/030.mp3",
+      "question": {
+        "en": "This credit card's annual fee is quite high.",
+        "vi": "Phí thường niên của thẻ tín dụng này khá cao."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "A monthly list of charges.",
+          "vi": "Một danh sách phí hằng tháng."
+        },
+        {
+          "key": "B",
+          "en": "It offers great cash rewards.",
+          "vi": "Nó cung cấp phần thưởng tiền mặt rất hấp dẫn."
+        },
+        {
+          "key": "C",
+          "en": "Let me get you a stepladder.",
+          "vi": "Để tôi lấy cho bạn một cái thang gấp."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ybm25-t06-p2-q031",
+      "number": 31,
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_06/audio/031.mp3",
+      "question": {
+        "en": "Selma, could you order more file folders?",
+        "vi": "Selma, cô có thể đặt thêm bìa hồ sơ được không?"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Yes, he filed the permit yesterday.",
+          "vi": "Vâng, anh ấy đã nộp giấy phép hôm qua."
+        },
+        {
+          "key": "B",
+          "en": "Tatsu found some extras in the cabinet.",
+          "vi": "Tatsu đã tìm thấy một số bìa dư trong tủ."
+        },
+        {
+          "key": "C",
+          "en": "One of our major shareholders.",
+          "vi": "Một trong những cổ đông lớn của chúng tôi."
+        }
+      ],
+      "answer": "B"
+    }
+  ]
+}

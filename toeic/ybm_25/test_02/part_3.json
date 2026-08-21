@@ -1,0 +1,1842 @@
+{
+  "groups": [
+    {
+      "id": "ybm25-t02-p3-g032-034",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/032-034.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "M-Au: Hi, Nancy. I just saw you through the window, so I thought I'd stop in. ",
+            "questionIds": []
+          },
+          {
+            "text": "As a fellow Main Street business owner, I'm glad to see you're getting the bookstore ready for reopening.",
+            "questionIds": [
+              "ybm25-t02-p3-q032"
+            ]
+          },
+          {
+            "text": "\nW-Am: Yes, we'll finally reopen this weekend. What do you think of the changes to the layout? ",
+            "questionIds": []
+          },
+          {
+            "text": "We'll have staff selling coffee and tea from that counter, and customers will be able to relax at the tables with their drinks and books.",
+            "questionIds": [
+              "ybm25-t02-p3-q033"
+            ]
+          },
+          {
+            "text": "\nM-Au: Sounds nice. Will you serve snacks too, or just drinks?\nW-Am: We'll sell a few baked goods. Oh, that reminds me—",
+            "questionIds": []
+          },
+          {
+            "text": "I need to head out now to buy the plates and silverware we'll need.",
+            "questionIds": [
+              "ybm25-t02-p3-q034"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Chào, Nancy. Tôi vừa nhìn thấy cô qua cửa sổ, nên tôi nghĩ tôi sẽ ghé vào. Với tư cách là một chủ doanh nghiệp khác trên Phố Chính, tôi rất vui khi thấy cô đang chuẩn bị cửa hàng sách để mở cửa trở lại.\nVâng, cuối cùng chúng tôi sẽ mở cửa trở lại vào cuối tuần này. Cô nghĩ sao về những thay đổi trong cách bố trí? Chúng tôi sẽ có nhân viên bán cà phê và trà từ quầy đó, và khách hàng sẽ có thể thư giãn tại các bàn với đồ uống và sách của họ.\nNghe hay đấy. Cô sẽ phục vụ đồ ăn nhẹ nữa chứ, hay chỉ đồ uống thôi?\nChúng tôi sẽ bán một vài món nướng. Ôi, điều đó nhắc tôi – tôi cần phải đi ngay bây giờ để mua đĩa và dao kéo mà chúng tôi sẽ cần.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ybm25-t02-p3-q032",
+          "number": 32,
+          "question": {
+            "en": "What is the woman getting ready for?",
+            "vi": "Người phụ nữ đang chuẩn bị cho điều gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A seasonal sale",
+              "vi": "Đợt giảm giá theo mùa"
+            },
+            {
+              "key": "B",
+              "en": "A business's reopening",
+              "vi": "Tái khai trương doanh nghiệp"
+            },
+            {
+              "key": "C",
+              "en": "A book's publication",
+              "vi": "Ra mắt sách"
+            },
+            {
+              "key": "D",
+              "en": "A local festival",
+              "vi": "Lễ hội địa phương"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ybm25-t02-p3-q033",
+          "number": 33,
+          "question": {
+            "en": "What new feature of the bookstore does the woman point out?",
+            "vi": "Người phụ nữ chỉ ra đặc điểm mới nào của hiệu sách?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Its search kiosks",
+              "vi": "Ki-ốt tìm kiếm"
+            },
+            {
+              "key": "B",
+              "en": "Its gift certificates",
+              "vi": "Phiếu quà tặng"
+            },
+            {
+              "key": "C",
+              "en": "Its author readings",
+              "vi": "Buổi đọc sách của tác giả"
+            },
+            {
+              "key": "D",
+              "en": "Its in-store café",
+              "vi": "Cà phê trong cửa hàng"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ybm25-t02-p3-q034",
+          "number": 34,
+          "question": {
+            "en": "What will the woman most likely do next?",
+            "vi": "Người phụ nữ có khả năng làm gì tiếp theo?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Purchase some supplies",
+              "vi": "Mua sắm vật dụng"
+            },
+            {
+              "key": "B",
+              "en": "Start a cleaning process",
+              "vi": "Bắt đầu dọn dẹp"
+            },
+            {
+              "key": "C",
+              "en": "Hang up some signs",
+              "vi": "Treo biển hiệu"
+            },
+            {
+              "key": "D",
+              "en": "Write a job posting",
+              "vi": "Viết tin tuyển dụng"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ybm25-t02-p3-g035-037",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/035-037.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "M-Cn: ",
+            "questionIds": []
+          },
+          {
+            "text": "Hi, this is Marco Amato. I'm a new member at the gym.",
+            "questionIds": [
+              "ybm25-t02-p3-q035"
+            ]
+          },
+          {
+            "text": " Uh, ",
+            "questionIds": []
+          },
+          {
+            "text": "I was supposed to have a personal training session with Tim yesterday at seven, but I missed it because of rush-hour traffic.",
+            "questionIds": [
+              "ybm25-t02-p3-q036"
+            ]
+          },
+          {
+            "text": "\nW-Am: I see. Well, I'm sorry, but our gym doesn't issue refunds for missed sessions.\nM-Cn: Oh, I know. I was wondering if I could move my future sessions later so that this doesn't happen again.\nW-Am: Tim isn't available later. I could schedule you with Derek, though. He has openings at eight.\nM-Cn: ",
+            "questionIds": []
+          },
+          {
+            "text": "Perfect—that will give me enough time to get there after finishing work.",
+            "questionIds": [
+              "ybm25-t02-p3-q037"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Chào, tôi là Marco Amato. Tôi là thành viên mới của phòng tập. Ờ, tôi đáng lẽ có một buổi tập với huấn luyện viên cá nhân Tim vào lúc bảy giờ hôm qua, nhưng tôi đã lỡ mất vì tắc đường giờ cao điểm.\nTôi hiểu. Chà, tôi xin lỗi, nhưng phòng tập của chúng tôi không hoàn tiền cho các buổi tập bị bỏ lỡ.\nỒ, tôi biết. Tôi đang tự hỏi liệu tôi có thể chuyển các buổi tập trong tương lai muộn hơn để điều này không xảy ra nữa không.\nTim không rảnh muộn hơn. Tuy nhiên, tôi có thể xếp lịch cho anh với Derek. Anh ấy có lịch trống vào lúc tám giờ.\nHoàn hảo – điều đó sẽ cho tôi đủ thời gian để đến đó sau khi kết thúc công việc.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ybm25-t02-p3-q035",
+          "number": 35,
+          "question": {
+            "en": "Where most likely does the woman work?",
+            "vi": "Người phụ nữ có khả năng làm việc ở đâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "At a bank",
+              "vi": "Tại ngân hàng"
+            },
+            {
+              "key": "B",
+              "en": "At a medical clinic",
+              "vi": "Tại phòng khám"
+            },
+            {
+              "key": "C",
+              "en": "At a real estate agency",
+              "vi": "Tại công ty bất động sản"
+            },
+            {
+              "key": "D",
+              "en": "At a fitness center",
+              "vi": "Tại trung tâm thể dục"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ybm25-t02-p3-q036",
+          "number": 36,
+          "question": {
+            "en": "What was the man unable to do yesterday?",
+            "vi": "Nam giới hôm qua không thể làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Locate a building",
+              "vi": "Tìm vị trí tòa nhà"
+            },
+            {
+              "key": "B",
+              "en": "Keep an appointment",
+              "vi": "Giữ lịch hẹn"
+            },
+            {
+              "key": "C",
+              "en": "Transfer a payment",
+              "vi": "Chuyển khoản thanh toán"
+            },
+            {
+              "key": "D",
+              "en": "Arrange transportation",
+              "vi": "Sắp xếp phương tiện đi lại"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ybm25-t02-p3-q037",
+          "number": 37,
+          "question": {
+            "en": "What does the man like about the woman's suggestion?",
+            "vi": "Nam giới thích điều gì ở đề xuất của người phụ nữ?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It suits his schedule",
+              "vi": "Phù hợp với lịch trình của anh ấy"
+            },
+            {
+              "key": "B",
+              "en": "It is good for his health",
+              "vi": "Tốt cho sức khỏe của anh ấy"
+            },
+            {
+              "key": "C",
+              "en": "It will be more enjoyable",
+              "vi": "Sẽ thú vị hơn"
+            },
+            {
+              "key": "D",
+              "en": "It will reduce a fee",
+              "vi": "Sẽ giảm phí"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ybm25-t02-p3-g038-040",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/038-040.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "W-Br: Jutaro, this invoice from Turnbull Appliances just arrived in the mail. It's for the installation of our new office fridge last month.\nM-Cn: ",
+            "questionIds": []
+          },
+          {
+            "text": "That wasn't free?",
+            "questionIds": [
+              "ybm25-t02-p3-q038"
+            ]
+          },
+          {
+            "text": "\nW-Br: The technicians had to do some extra work to set up the wiring. That isn't part of the standard installation, so it cost extra.\nM-Cn: Oh, that's not good. ",
+            "questionIds": []
+          },
+          {
+            "text": "The price of the fridge was close to the limit Ms. Brent approved for the replacement. With this charge, we've exceeded the budget.",
+            "questionIds": [
+              "ybm25-t02-p3-q039"
+            ]
+          },
+          {
+            "text": "\nW-Br: I see. ",
+            "questionIds": []
+          },
+          {
+            "text": "I'll let Ms. Brent know about the situation.",
+            "questionIds": [
+              "ybm25-t02-p3-q040"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Jutaro, hóa đơn này từ Turnbull Appliances vừa được gửi đến qua đường bưu điện. Nó dành cho việc lắp đặt tủ lạnh văn phòng mới của chúng ta vào tháng trước.\nNó không miễn phí à?\nCác kỹ thuật viên đã phải làm thêm một số công việc để thiết lập hệ thống dây điện. Công việc đó không nằm trong gói lắp đặt tiêu chuẩn, nên nó tốn thêm chi phí.\nỒ, vậy thì không tốt rồi. Giá của chiếc tủ lạnh đã gần bằng giới hạn mà cô Brent đã duyệt cho việc thay thế. Với khoản phí này, chúng ta đã vượt quá ngân sách.\nTôi hiểu rồi. Tôi sẽ thông báo cho cô Brent về tình hình.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ybm25-t02-p3-q038",
+          "number": 38,
+          "question": {
+            "en": "Why does the man say, \"That wasn't free\"?",
+            "vi": "Tại sao nam giới nói \"Điều đó không miễn phí à\"?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To show surprise",
+              "vi": "Để bày tỏ sự ngạc nhiên"
+            },
+            {
+              "key": "B",
+              "en": "To explain a refusal",
+              "vi": "Để giải thích sự từ chối"
+            },
+            {
+              "key": "C",
+              "en": "To request reimbursement",
+              "vi": "Để yêu cầu hoàn tiền"
+            },
+            {
+              "key": "D",
+              "en": "To emphasize an item's value",
+              "vi": "Để nhấn mạnh giá trị của một mặt hàng"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ybm25-t02-p3-q039",
+          "number": 39,
+          "question": {
+            "en": "What problem does the man report?",
+            "vi": "Nam giới báo cáo vấn đề gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "An appliance has broken down",
+              "vi": "Một thiết bị bị hỏng"
+            },
+            {
+              "key": "B",
+              "en": "Some paperwork is missing",
+              "vi": "Một số hồ sơ bị thất lạc"
+            },
+            {
+              "key": "C",
+              "en": "Some technicians are unavailable",
+              "vi": "Một số kỹ thuật viên không có mặt"
+            },
+            {
+              "key": "D",
+              "en": "A budget has been exceeded",
+              "vi": "Ngân sách đã bị vượt"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ybm25-t02-p3-q040",
+          "number": 40,
+          "question": {
+            "en": "What does the woman say she will do?",
+            "vi": "Người phụ nữ nói cô ấy sẽ làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Look for a manual",
+              "vi": "Tìm sách hướng dẫn"
+            },
+            {
+              "key": "B",
+              "en": "Cancel an order",
+              "vi": "Hủy đơn hàng"
+            },
+            {
+              "key": "C",
+              "en": "Make some copies",
+              "vi": "Sao chép một số tài liệu"
+            },
+            {
+              "key": "D",
+              "en": "Speak with a manager",
+              "vi": "Nói chuyện với quản lý"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ybm25-t02-p3-g041-043",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/041-043.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "W-Am: ",
+            "questionIds": []
+          },
+          {
+            "text": "Hi, I'm hoping to find out how much it would cost to rent one of your buses for an event next month.",
+            "questionIds": [
+              "ybm25-t02-p3-q041"
+            ]
+          },
+          {
+            "text": " ",
+            "questionIds": []
+          },
+          {
+            "text": "It's a two-day company retreat for the pharmacy I own.",
+            "questionIds": [
+              "ybm25-t02-p3-q042"
+            ]
+          },
+          {
+            "text": " We'll need transportation to and from a resort on Garris Mountain.\nM-Cn: Sure. I'll just need a few more details. But first—did you know you can request a quote through our Web site? Many customers prefer to do that.\nW-Am: Oh, I tried to use the service on your Web site, but I couldn't. ",
+            "questionIds": []
+          },
+          {
+            "text": "I couldn't understand how to fill out the request form.",
+            "questionIds": [
+              "ybm25-t02-p3-q043"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Chào, tôi muốn biết chi phí thuê một trong những chiếc xe buýt của các bạn cho một sự kiện vào tháng tới là bao nhiêu. Đây là chuyến đi dã ngoại kéo dài hai ngày của công ty dược phẩm mà tôi sở hữu. Chúng tôi sẽ cần phương tiện di chuyển đến và đi từ một khu nghỉ dưỡng trên núi Garris.\nChắc chắn rồi. Tôi sẽ cần thêm một vài thông tin chi tiết. Nhưng trước tiên—bạn có biết bạn có thể yêu cầu báo giá qua trang web của chúng tôi không? Nhiều khách hàng thích làm điều đó.\nỒ, tôi đã cố gắng sử dụng dịch vụ trên trang web của các bạn, nhưng tôi không thể. Tôi không hiểu cách điền vào biểu mẫu yêu cầu.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ybm25-t02-p3-q041",
+          "number": 41,
+          "question": {
+            "en": "Why is the woman calling?",
+            "vi": "Tại sao người phụ nữ gọi điện?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To check on an order",
+              "vi": "Để kiểm tra đơn hàng"
+            },
+            {
+              "key": "B",
+              "en": "To receive a cost estimate",
+              "vi": "Để nhận báo giá chi phí"
+            },
+            {
+              "key": "C",
+              "en": "To reserve an event venue",
+              "vi": "Để đặt địa điểm tổ chức sự kiện"
+            },
+            {
+              "key": "D",
+              "en": "To ask for a change to a route",
+              "vi": "Để yêu cầu thay đổi lộ trình"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ybm25-t02-p3-q042",
+          "number": 42,
+          "question": {
+            "en": "What kind of business does the woman own?",
+            "vi": "Người phụ nữ sở hữu loại hình doanh nghiệp nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A tour company",
+              "vi": "Công ty du lịch"
+            },
+            {
+              "key": "B",
+              "en": "A ski resort",
+              "vi": "Khu nghỉ dưỡng trượt tuyết"
+            },
+            {
+              "key": "C",
+              "en": "An insurance agency",
+              "vi": "Công ty bảo hiểm"
+            },
+            {
+              "key": "D",
+              "en": "A pharmacy",
+              "vi": "Nhà thuốc"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ybm25-t02-p3-q043",
+          "number": 43,
+          "question": {
+            "en": "Why was the woman unable to use the online service?",
+            "vi": "Tại sao người phụ nữ không thể sử dụng dịch vụ trực tuyến?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A form is confusing",
+              "vi": "Mẫu quá khó hiểu"
+            },
+            {
+              "key": "B",
+              "en": "She was not aware of it",
+              "vi": "Cô ấy không biết về nó"
+            },
+            {
+              "key": "C",
+              "en": "A Web site was down",
+              "vi": "Trang web bị ngừng hoạt động"
+            },
+            {
+              "key": "D",
+              "en": "Her computer is outdated",
+              "vi": "Máy tính của cô ấy lỗi thời"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ybm25-t02-p3-g044-046",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/044-046.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "M-Cn: Hi, Tamara. ",
+            "questionIds": []
+          },
+          {
+            "text": "Oh, I see you're reading the new issue of the company newsletter. What's it about?",
+            "questionIds": [
+              "ybm25-t02-p3-q044"
+            ]
+          },
+          {
+            "text": "\nW-Br: ",
+            "questionIds": []
+          },
+          {
+            "text": "The main feature is an announcement about a contest to design a new company logo. Any employee can submit a design, and the CEO's going to pick the winning logo next month.",
+            "questionIds": [
+              "ybm25-t02-p3-q045"
+            ]
+          },
+          {
+            "text": "\nM-Cn: How interesting! I'd like to enter.\nW-Br: ",
+            "questionIds": []
+          },
+          {
+            "text": "Well, the announcement includes instructions for participants. You should take a look at them.",
+            "questionIds": [
+              "ybm25-t02-p3-q046"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Chào Tamara. Ồ, tôi thấy cô đang đọc số báo mới của bản tin công ty. Có gì trong đó vậy?\nBài chính là thông báo về một cuộc thi thiết kế logo mới của công ty. Bất kỳ nhân viên nào cũng có thể gửi thiết kế, và Giám đốc điều hành sẽ chọn logo thắng cuộc vào tháng tới.\nThật thú vị! Tôi muốn tham gia.\nChà, thông báo có bao gồm hướng dẫn dành cho những người tham gia. Cô nên xem qua chúng.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ybm25-t02-p3-q044",
+          "number": 44,
+          "question": {
+            "en": "What does the man ask the woman about?",
+            "vi": "Nam giới hỏi người phụ nữ về điều gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Who will lead a meeting",
+              "vi": "Ai sẽ chủ trì cuộc họp"
+            },
+            {
+              "key": "B",
+              "en": "Why a report is not finished",
+              "vi": "Tại sao báo cáo chưa hoàn thành"
+            },
+            {
+              "key": "C",
+              "en": "What topics a newsletter covers",
+              "vi": "Bản tin đề cập đến những chủ đề nào"
+            },
+            {
+              "key": "D",
+              "en": "When an executive will visit",
+              "vi": "Khi nào giám đốc điều hành sẽ đến thăm"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ybm25-t02-p3-q045",
+          "number": 45,
+          "question": {
+            "en": "What will happen next month?",
+            "vi": "Điều gì sẽ xảy ra vào tháng tới?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A new logo will be chosen",
+              "vi": "Một logo mới sẽ được chọn"
+            },
+            {
+              "key": "B",
+              "en": "A parking area will be expanded",
+              "vi": "Khu vực đỗ xe sẽ được mở rộng"
+            },
+            {
+              "key": "C",
+              "en": "A department will be restructured",
+              "vi": "Một bộ phận sẽ được tái cơ cấu"
+            },
+            {
+              "key": "D",
+              "en": "A review will be published",
+              "vi": "Một bài đánh giá sẽ được xuất bản"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ybm25-t02-p3-q046",
+          "number": 46,
+          "question": {
+            "en": "What does the woman say the man should look at?",
+            "vi": "Người phụ nữ nói nam giới nên xem gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A revised list of names",
+              "vi": "Danh sách tên đã sửa đổi"
+            },
+            {
+              "key": "B",
+              "en": "Guidelines for a competition",
+              "vi": "Hướng dẫn cho cuộc thi"
+            },
+            {
+              "key": "C",
+              "en": "Blueprints for a building",
+              "vi": "Bản vẽ thiết kế tòa nhà"
+            },
+            {
+              "key": "D",
+              "en": "A budget proposal",
+              "vi": "Đề xuất ngân sách"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ybm25-t02-p3-g047-049",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/047-049.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "M-Au: Excuse me. I'm not sure which product to buy. ",
+            "questionIds": []
+          },
+          {
+            "text": "My bathroom drain is clogged, and I need something that can clear it.",
+            "questionIds": [
+              "ybm25-t02-p3-q047"
+            ]
+          },
+          {
+            "text": " What do you recommend?\nW-Br: Almost any of these products would probably work, but if you want to make sure the job gets done, I'd recommend Purifine. ",
+            "questionIds": []
+          },
+          {
+            "text": "Purifine's the strongest drain cleaner on the market.",
+            "questionIds": [
+              "ybm25-t02-p3-q048"
+            ]
+          },
+          {
+            "text": "\nM-Au: Got it. Thank you! Is there anything I should know before using it on my drain?\nW-Br: Yes—these kinds of chemicals can be dangerous. ",
+            "questionIds": []
+          },
+          {
+            "text": "Make sure to look over the safety information printed on the back of the bottle before you open it",
+            "questionIds": [
+              "ybm25-t02-p3-q049"
+            ]
+          },
+          {
+            "text": " up.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Xin lỗi. Tôi không chắc nên mua sản phẩm nào. Cống thoát nước trong phòng tắm của tôi bị tắc, và tôi cần thứ gì đó có thể thông tắc nó. Bạn giới thiệu loại nào?\nHầu hết các sản phẩm này đều có thể có tác dụng, nhưng nếu bạn muốn đảm bảo công việc được hoàn thành, tôi khuyên dùng Purifine. Purifine là chất thông cống mạnh nhất trên thị trường.\nHiểu rồi. Cảm ơn bạn! Có điều gì tôi nên biết trước khi sử dụng nó cho cống thoát nước của mình không?\nVâng—những loại hóa chất này có thể nguy hiểm. Hãy đảm bảo đọc kỹ thông tin an toàn được in ở mặt sau của chai trước khi bạn mở nó.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ybm25-t02-p3-q047",
+          "number": 47,
+          "question": {
+            "en": "What does the man want to do?",
+            "vi": "Nam giới muốn làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Clear a drain",
+              "vi": "Thông cống thoát nước"
+            },
+            {
+              "key": "B",
+              "en": "Remove a stain",
+              "vi": "Tẩy vết bẩn"
+            },
+            {
+              "key": "C",
+              "en": "Protect some flooring",
+              "vi": "Bảo vệ sàn nhà"
+            },
+            {
+              "key": "D",
+              "en": "Improve a room's odor",
+              "vi": "Cải thiện mùi phòng"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ybm25-t02-p3-q048",
+          "number": 48,
+          "question": {
+            "en": "Why does the woman recommend a product?",
+            "vi": "Tại sao người phụ nữ đề xuất sản phẩm?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is environmentally friendly",
+              "vi": "Thân thiện với môi trường"
+            },
+            {
+              "key": "B",
+              "en": "It has a variety of uses",
+              "vi": "Có nhiều công dụng"
+            },
+            {
+              "key": "C",
+              "en": "It is powerful",
+              "vi": "Mạnh mẽ"
+            },
+            {
+              "key": "D",
+              "en": "It is inexpensive",
+              "vi": "Giá rẻ"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ybm25-t02-p3-q049",
+          "number": 49,
+          "question": {
+            "en": "What does the woman tell the man to do?",
+            "vi": "Người phụ nữ bảo nam giới làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Leave some windows open",
+              "vi": "Để cửa sổ mở"
+            },
+            {
+              "key": "B",
+              "en": "Watch some videos",
+              "vi": "Xem một số video"
+            },
+            {
+              "key": "C",
+              "en": "Wear a pair of gloves",
+              "vi": "Đeo găng tay"
+            },
+            {
+              "key": "D",
+              "en": "Read a product label",
+              "vi": "Đọc nhãn sản phẩm"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ybm25-t02-p3-g050-052",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/050-052.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "W-Br: Hi, Tanya and George. ",
+            "questionIds": []
+          },
+          {
+            "text": "Welcome to the team here at Pritchard Airport.",
+            "questionIds": [
+              "ybm25-t02-p3-q050"
+            ]
+          },
+          {
+            "text": " We're so glad to have two more baggage handlers with our busy season coming soon. OK, do you have any questions before I begin your orientation?\nW-Am: Yes, I do. Are there lockers where we can leave our belongings during our shifts?\nW-Br: There are. ",
+            "questionIds": []
+          },
+          {
+            "text": "You'll see them when we visit the staff breakroom later this morning.",
+            "questionIds": [
+              "ybm25-t02-p3-q051"
+            ]
+          },
+          {
+            "text": "\nM-Cn: And—we're supposed to wear a reflective vest and black pants, right? ",
+            "questionIds": []
+          },
+          {
+            "text": "Where do we get those from?",
+            "questionIds": [
+              "ybm25-t02-p3-q052"
+            ]
+          },
+          {
+            "text": "\nW-Br: We supply the vest, but you'll need to wear your own pants.\nW-Am: Oh, OK.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Chào Tanya và George. Chào mừng các bạn đến với đội ngũ tại Sân bay Pritchard. Chúng tôi rất vui khi có thêm hai nhân viên xử lý hành lý nữa vì mùa cao điểm của chúng tôi sắp đến rồi. Được rồi, các bạn có câu hỏi nào trước khi tôi bắt đầu buổi định hướng không?\nVâng, tôi có. Có tủ khóa để chúng tôi có thể cất đồ đạc trong ca làm việc không?\nCó. Các bạn sẽ thấy chúng khi chúng ta ghé thăm phòng nghỉ của nhân viên vào sáng nay.\nVà—chúng tôi phải mặc áo phản quang và quần đen, đúng không? Chúng tôi lấy những thứ đó từ đâu?\nChúng tôi cung cấp áo phản quang, nhưng các bạn sẽ cần mặc quần của riêng mình.\nỒ, được thôi.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ybm25-t02-p3-q050",
+          "number": 50,
+          "question": {
+            "en": "Where is the conversation taking place?",
+            "vi": "Cuộc trò chuyện đang diễn ra ở đâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "At an appliance store",
+              "vi": "Tại cửa hàng đồ gia dụng"
+            },
+            {
+              "key": "B",
+              "en": "At a movie theater",
+              "vi": "Tại rạp chiếu phim"
+            },
+            {
+              "key": "C",
+              "en": "At an airport",
+              "vi": "Tại sân bay"
+            },
+            {
+              "key": "D",
+              "en": "At a school",
+              "vi": "Tại trường học"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ybm25-t02-p3-q051",
+          "number": 51,
+          "question": {
+            "en": "Where will the speakers go later in the morning?",
+            "vi": "Các diễn giả sẽ đi đến đâu vào buổi sáng hôm nay?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To a staff break area",
+              "vi": "Khu nghỉ ngơi của nhân viên"
+            },
+            {
+              "key": "B",
+              "en": "To a cafeteria",
+              "vi": "Căng tin"
+            },
+            {
+              "key": "C",
+              "en": "To a loading zone",
+              "vi": "Khu vực bốc dỡ hàng"
+            },
+            {
+              "key": "D",
+              "en": "To a conference room",
+              "vi": "Phòng họp"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ybm25-t02-p3-q052",
+          "number": 52,
+          "question": {
+            "en": "What does the man ask about?",
+            "vi": "Nam giới hỏi về điều gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Who is part of a team",
+              "vi": "Ai là thành viên trong nhóm"
+            },
+            {
+              "key": "B",
+              "en": "How long a certain shift is",
+              "vi": "Ca làm việc kéo dài bao lâu"
+            },
+            {
+              "key": "C",
+              "en": "Where to submit a document",
+              "vi": "Nộp tài liệu ở đâu"
+            },
+            {
+              "key": "D",
+              "en": "How to obtain a uniform",
+              "vi": "Cách nhận đồng phục"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    },
+    {
+      "id": "ybm25-t02-p3-g053-055",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/053-055.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "M-Au: Hi, Lori. ",
+            "questionIds": []
+          },
+          {
+            "text": "Did Dean let you know that I'll be giving the interview that Tech News Weekly asked for?",
+            "questionIds": [
+              "ybm25-t02-p3-q053"
+            ]
+          },
+          {
+            "text": " He's quite busy this week, and I also know a lot about the products the interviewer wants to discuss.\nW-Br: Really? Last time we spoke, he said that he would come here to the ",
+            "questionIds": []
+          },
+          {
+            "text": "public relations department",
+            "questionIds": [
+              "ybm25-t02-p3-q054"
+            ]
+          },
+          {
+            "text": " so we could prepare him for it. That was this morning.\nM-Au: ",
+            "questionIds": []
+          },
+          {
+            "text": "Well, I spoke with him after lunch.",
+            "questionIds": [
+              "ybm25-t02-p3-q055"
+            ]
+          },
+          {
+            "text": " You can call him to confirm if you'd like.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Chào, Lori. Dean đã cho cô biết là tôi sẽ thực hiện buổi phỏng vấn mà Tech News Weekly đã yêu cầu phải không? Anh ấy khá bận trong tuần này, với lại tôi cũng biết nhiều về các sản phẩm mà người phỏng vấn muốn bàn luận.\nThật à? Lần trước chúng ta nói chuyện, anh ấy nói rằng anh ấy sẽ đến đây đến phòng quan hệ công chúng để chúng ta có thể chuẩn bị cho anh ấy cho việc đó. Đó là sáng nay.\nỒ, tôi đã nói chuyện với anh ấy sau bữa trưa. Cô có thể gọi cho anh ấy để xác nhận nếu cô muốn.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ybm25-t02-p3-q053",
+          "number": 53,
+          "question": {
+            "en": "What is the conversation about?",
+            "vi": "Cuộc trò chuyện nói về điều gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "A company policy",
+              "vi": "Chính sách công ty"
+            },
+            {
+              "key": "B",
+              "en": "A production delay",
+              "vi": "Sự chậm trễ sản xuất"
+            },
+            {
+              "key": "C",
+              "en": "A damaged machine",
+              "vi": "Máy móc bị hư hỏng"
+            },
+            {
+              "key": "D",
+              "en": "An upcoming interview",
+              "vi": "Cuộc phỏng vấn sắp tới"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ybm25-t02-p3-q054",
+          "number": 54,
+          "question": {
+            "en": "What department does the woman most likely work for?",
+            "vi": "Người phụ nữ có khả năng làm việc ở bộ phận nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Security",
+              "vi": "Bảo vệ"
+            },
+            {
+              "key": "B",
+              "en": "Accounting",
+              "vi": "Kế toán"
+            },
+            {
+              "key": "C",
+              "en": "Public Relations",
+              "vi": "Quan hệ công chúng"
+            },
+            {
+              "key": "D",
+              "en": "Human Resources",
+              "vi": "Nhân sự"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ybm25-t02-p3-q055",
+          "number": 55,
+          "question": {
+            "en": "What does the man imply when he says, \"I spoke with him after lunch\"?",
+            "vi": "Nam giới ám chỉ điều gì khi nói \"Tôi đã nói chuyện với anh ấy sau bữa trưa\"?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "He missed a group outing",
+              "vi": "Anh ấy đã bỏ lỡ buổi dã ngoại nhóm"
+            },
+            {
+              "key": "B",
+              "en": "He already received some instructions",
+              "vi": "Anh ấy đã nhận được một số hướng dẫn"
+            },
+            {
+              "key": "C",
+              "en": "A plan changed a short time ago",
+              "vi": "Kế hoạch đã thay đổi gần đây"
+            },
+            {
+              "key": "D",
+              "en": "A task has been completed",
+              "vi": "Một nhiệm vụ đã hoàn thành"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ybm25-t02-p3-g056-058",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/056-058.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "M-Au: ",
+            "questionIds": []
+          },
+          {
+            "text": "Scott, what do you think of the company's new internal Web site?",
+            "questionIds": [
+              "ybm25-t02-p3-q056"
+            ]
+          },
+          {
+            "text": " To me, it seems to have a lot of helpful features.\nM-Cn: Yes, I like it. ",
+            "questionIds": []
+          },
+          {
+            "text": "I was especially happy to see that we can share documents through it. That should make it easier for teams to collaborate.",
+            "questionIds": [
+              "ybm25-t02-p3-q057"
+            ]
+          },
+          {
+            "text": "\nM-Au: I agree. And the companywide forum page is going to improve collaboration, too. I wonder how they thought of including that in the Web site.\nM-Cn: Well, Alexis might know, since she works for the IT department.\nM-Au: Hey, Alexis? ",
+            "questionIds": []
+          },
+          {
+            "text": "Scott and I are curious—where did the inspiration for the new Web site's forum page come from?",
+            "questionIds": [
+              "ybm25-t02-p3-q058"
+            ]
+          },
+          {
+            "text": "\nW-Am: I think it was proposed by Courtney Gray in Human Resources. She had a lot of good suggestions, actually.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Scott, bạn nghĩ gì về trang web nội bộ mới của công ty? Đối với tôi, nó dường như có rất nhiều tính năng hữu ích.\nVâng, tôi thích nó. Tôi đặc biệt vui khi thấy rằng chúng ta có thể chia sẻ tài liệu thông qua nó. Điều đó sẽ giúp các nhóm làm việc dễ dàng cộng tác hơn.\nTôi đồng ý. Và trang diễn đàn toàn công ty cũng sẽ cải thiện sự cộng tác. Tôi tự hỏi làm thế nào họ nghĩ ra việc đưa cái đó vào trang web.\nChà, Alexis có thể biết, vì cô ấy làm việc cho bộ phận IT.\nNày, Alexis? Scott và tôi tò mò—nguồn cảm hứng cho trang diễn đàn của trang web mới đến từ đâu?\nTôi nghĩ nó được đề xuất bởi Courtney Gray trong phòng Nhân sự. Cô ấy thực sự có rất nhiều gợi ý hay.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ybm25-t02-p3-q056",
+          "number": 56,
+          "question": {
+            "en": "What did the speakers' company recently do?",
+            "vi": "Công ty của các diễn giả gần đây đã làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It launched a Web site",
+              "vi": "Ra mắt trang web"
+            },
+            {
+              "key": "B",
+              "en": "It renovated its office",
+              "vi": "Cải tạo văn phòng"
+            },
+            {
+              "key": "C",
+              "en": "It hired a spokesperson",
+              "vi": "Tuyển dụng người phát ngôn"
+            },
+            {
+              "key": "D",
+              "en": "It introduced a new policy",
+              "vi": "Giới thiệu chính sách mới"
+            }
+          ],
+          "answer": "A"
+        },
+        {
+          "id": "ybm25-t02-p3-q057",
+          "number": 57,
+          "question": {
+            "en": "What do the men say is a benefit of the change?",
+            "vi": "Nam giới nói lợi ích của thay đổi là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It will attract new customers",
+              "vi": "Sẽ thu hút khách hàng mới"
+            },
+            {
+              "key": "B",
+              "en": "It will lower maintenance costs",
+              "vi": "Sẽ giảm chi phí bảo trì"
+            },
+            {
+              "key": "C",
+              "en": "It will improve staff collaboration",
+              "vi": "Sẽ cải thiện sự hợp tác của nhân viên"
+            },
+            {
+              "key": "D",
+              "en": "It will make some travel unnecessary",
+              "vi": "Sẽ làm cho một số chuyến đi không cần thiết"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ybm25-t02-p3-q058",
+          "number": 58,
+          "question": {
+            "en": "What do the men ask the woman about?",
+            "vi": "Nam giới hỏi người phụ nữ về điều gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "The reaction to an announcement",
+              "vi": "Phản ứng với thông báo"
+            },
+            {
+              "key": "B",
+              "en": "The quality of a service",
+              "vi": "Chất lượng dịch vụ"
+            },
+            {
+              "key": "C",
+              "en": "The origin of an idea",
+              "vi": "Nguồn gốc của ý tưởng"
+            },
+            {
+              "key": "D",
+              "en": "The status of a project",
+              "vi": "Tình trạng dự án"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ybm25-t02-p3-g059-061",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/059-061.mp3",
+      "transcript": {
+        "en": [
+          {
+            "text": "W-Br: Louis, I heard that you're going to be posting about our work on social media. I think that's smart. ",
+            "questionIds": []
+          },
+          {
+            "text": "A lot of people don't know about the services that a tailor shop like this provides.",
+            "questionIds": [
+              "ybm25-t02-p3-q059"
+            ]
+          },
+          {
+            "text": "\nM-Au: Right! Ms. Lam made the decision when she found out that I'm active on social media. She'd been wanting to increase the shop's Internet presence. ",
+            "questionIds": []
+          },
+          {
+            "text": "So now one of my duties will be managing our accounts on social media sites.",
+            "questionIds": [
+              "ybm25-t02-p3-q060"
+            ]
+          },
+          {
+            "text": "\nW-Br: That's great. What kinds of content are you going to post?\nM-Au: Well, I definitely want to show pictures of clothes before and after tailoring. But I'm not sure what else to post. ",
+            "questionIds": []
+          },
+          {
+            "text": "If you have any ideas, please let me know",
+            "questionIds": [
+              "ybm25-t02-p3-q061"
+            ]
+          },
+          {
+            "text": "!",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Louis, tôi nghe nói anh sẽ đăng bài về công việc của chúng ta lên mạng xã hội. Tôi nghĩ điều đó rất thông minh. Nhiều người không biết về các dịch vụ mà một tiệm may như thế này cung cấp.\nĐúng vậy! Cô Lam đã đưa ra quyết định khi cô ấy biết tôi năng động trên mạng xã hội. Cô ấy đã muốn tăng cường sự hiện diện trên Internet của cửa hàng. Vì vậy, bây giờ một trong những nhiệm vụ của tôi sẽ là quản lý các tài khoản của chúng ta trên các trang mạng xã hội.\nTuyệt vời. Anh sẽ đăng những loại nội dung nào?\nChà, tôi chắc chắn muốn khoe ảnh quần áo trước và sau khi may đo. Nhưng tôi không chắc nên đăng gì khác. Nếu bạn có bất kỳ ý tưởng nào, vui lòng cho tôi biết!",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ybm25-t02-p3-q059",
+          "number": 59,
+          "question": {
+            "en": "Where do the speakers work?",
+            "vi": "Các diễn giả làm việc ở đâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "At a fashion magazine",
+              "vi": "Tại tạp chí thời trang"
+            },
+            {
+              "key": "B",
+              "en": "At a restaurant",
+              "vi": "Tại nhà hàng"
+            },
+            {
+              "key": "C",
+              "en": "At a Web development firm",
+              "vi": "Tại công ty phát triển web"
+            },
+            {
+              "key": "D",
+              "en": "At a tailor shop",
+              "vi": "Tại tiệm may"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ybm25-t02-p3-q060",
+          "number": 60,
+          "question": {
+            "en": "What has the man been assigned to do?",
+            "vi": "Nam giới được giao làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Mentor some colleagues",
+              "vi": "Hướng dẫn một số đồng nghiệp"
+            },
+            {
+              "key": "B",
+              "en": "Oversee social media accounts",
+              "vi": "Giám sát các tài khoản mạng xã hội"
+            },
+            {
+              "key": "C",
+              "en": "Organize a storage space",
+              "vi": "Tổ chức không gian lưu trữ"
+            },
+            {
+              "key": "D",
+              "en": "Research a competitor",
+              "vi": "Nghiên cứu đối thủ cạnh tranh"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ybm25-t02-p3-q061",
+          "number": 61,
+          "question": {
+            "en": "What does the man ask the woman to do?",
+            "vi": "Nam giới yêu cầu người phụ nữ làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Review a presentation",
+              "vi": "Xem xét bài thuyết trình"
+            },
+            {
+              "key": "B",
+              "en": "Make some suggestions",
+              "vi": "Đưa ra một số gợi ý"
+            },
+            {
+              "key": "C",
+              "en": "Take some pictures",
+              "vi": "Chụp một số ảnh"
+            },
+            {
+              "key": "D",
+              "en": "Pick up some food",
+              "vi": "Lấy một số thức ăn"
+            }
+          ],
+          "answer": "B"
+        }
+      ]
+    },
+    {
+      "id": "ybm25-t02-p3-g062-064",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/062-064.mp3",
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/image/062-064.png",
+      "transcript": {
+        "en": [
+          {
+            "text": "W-Br: Welcome to the Beldwin Ferry East Terminal. Would you like to purchase a ticket?\nM-Cn: Yes, for the next ferry. I'm a photographer, and ",
+            "questionIds": []
+          },
+          {
+            "text": "I'm planning to spend the day taking pictures of the plant life on Beldwin Island.",
+            "questionIds": [
+              "ybm25-t02-p3-q062"
+            ]
+          },
+          {
+            "text": " I've heard it's beautiful.\nW-Br: Yes, very! Four dollars, please.\nM-Cn: Oh, I thought the fare was higher than that... ",
+            "questionIds": []
+          },
+          {
+            "text": "Ah, I see.",
+            "questionIds": [
+              "ybm25-t02-p3-q063"
+            ]
+          },
+          {
+            "text": "\nW-Br: Yes. Here's your ticket. As you can see, the next ferry departs in about half an hour.\nM-Cn: Hmm... In that case, ",
+            "questionIds": []
+          },
+          {
+            "text": "is there a restaurant or cafeteria around here? I'd like to grab a bite to eat before getting on the ferry.",
+            "questionIds": [
+              "ybm25-t02-p3-q064"
+            ]
+          },
+          {
+            "text": "\nW-Br: Yes, there's a place around that corner.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Chào mừng đến với Bến phà Đông Beldwin. Quý khách có muốn mua vé không?\nVâng, cho chuyến phà tiếp theo. Tôi là một nhiếp ảnh gia, và tôi dự định dành cả ngày để chụp ảnh đời sống thực vật trên đảo Beldwin. Tôi nghe nói nó rất đẹp.\nVâng, rất đẹp! Bốn đô la, làm ơn.\nỒ, tôi nghĩ giá vé cao hơn thế... À, tôi hiểu rồi.\nVâng. Đây là vé của quý khách. Như quý khách thấy, chuyến phà tiếp theo sẽ khởi hành sau khoảng nửa giờ nữa.\nỪm... Trong trường hợp đó, có nhà hàng hay quán cà phê nào quanh đây không? Tôi muốn ăn một chút gì đó trước khi lên phà.\nVâng, có một địa điểm quanh góc đó.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ybm25-t02-p3-q062",
+          "number": 62,
+          "question": {
+            "en": "What is the purpose of the man's trip?",
+            "vi": "Mục đích chuyến đi của nam giới là gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To get exercise outdoors",
+              "vi": "Tập thể dục ngoài trời"
+            },
+            {
+              "key": "B",
+              "en": "To create artworks",
+              "vi": "Tạo ra tác phẩm nghệ thuật"
+            },
+            {
+              "key": "C",
+              "en": "To collect samples of plants",
+              "vi": "Thu thập mẫu thực vật"
+            },
+            {
+              "key": "D",
+              "en": "To repair electronics",
+              "vi": "Sửa chữa thiết bị điện tử"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ybm25-t02-p3-q063",
+          "number": 63,
+          "question": {
+            "en": "Look at the graphic. Why does the man receive a discount?",
+            "vi": "Nhìn vào hình. Tại sao nam giới được giảm giá?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "It is after 6 P.M.",
+              "vi": "Sau 6 giờ chiều"
+            },
+            {
+              "key": "B",
+              "en": "It is a weekend day",
+              "vi": "Là ngày cuối tuần"
+            },
+            {
+              "key": "C",
+              "en": "He is a senior",
+              "vi": "Anh ấy là người cao tuổi"
+            },
+            {
+              "key": "D",
+              "en": "He has a pass",
+              "vi": "Anh ấy có thẻ thông hành"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ybm25-t02-p3-q064",
+          "number": 64,
+          "question": {
+            "en": "What will the man most likely do next?",
+            "vi": "Nam giới có khả năng làm gì tiếp theo?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Have a small meal",
+              "vi": "Dùng một bữa nhẹ"
+            },
+            {
+              "key": "B",
+              "en": "Board a passenger ferry",
+              "vi": "Lên phà chở khách"
+            },
+            {
+              "key": "C",
+              "en": "Shop for souvenirs",
+              "vi": "Mua đồ lưu niệm"
+            },
+            {
+              "key": "D",
+              "en": "Retrieve his bicycle",
+              "vi": "Lấy lại xe đạp"
+            }
+          ],
+          "answer": "A"
+        }
+      ]
+    },
+    {
+      "id": "ybm25-t02-p3-g065-067",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/065-067.mp3",
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/image/065-067.png",
+      "transcript": {
+        "en": [
+          {
+            "text": "W-Br: Thanks for helping me with the charity drive to collect gently used items. ",
+            "questionIds": []
+          },
+          {
+            "text": "Our patients have donated a lot, right?",
+            "questionIds": [
+              "ybm25-t02-p3-q065"
+            ]
+          },
+          {
+            "text": "\nM-Au: Yes. ",
+            "questionIds": []
+          },
+          {
+            "text": "Someone's just dropped off all of these board games, dolls, and blocks.",
+            "questionIds": [
+              "ybm25-t02-p3-q066"
+            ]
+          },
+          {
+            "text": " They're in great condition. And the medical staff and visitors have also been bringing things in.\nW-Br: Wonderful! The collection boxes are in the hall by the administration office. But don't put them in all together, as the pieces may get mixed up. ",
+            "questionIds": []
+          },
+          {
+            "text": "I brought some plastic bags to separate each item.",
+            "questionIds": [
+              "ybm25-t02-p3-q067"
+            ]
+          }
+        ],
+        "vi": [
+          {
+            "text": "Cảm ơn bạn đã giúp tôi trong đợt quyên góp từ thiện để thu thập các vật dụng đã qua sử dụng còn tốt. Các bệnh nhân của chúng ta đã quyên góp rất nhiều, phải không?\nVâng. Ai đó vừa mới gửi tất cả những trò chơi cờ bàn, búp bê và khối xếp hình này. Chúng còn trong tình trạng rất tốt. Và các nhân viên y tế và khách thăm cũng đã mang đồ đến rồi.\nTuyệt vời! Các hộp thu gom đang ở trong hành lang cạnh văn phòng hành chính. Nhưng đừng đặt tất cả chúng vào cùng nhau, vì các mảnh có thể bị lẫn lộn. Tôi đã mang một số túi ni lông để phân loại từng món đồ rồi.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ybm25-t02-p3-q065",
+          "number": 65,
+          "question": {
+            "en": "Where most likely are the speakers?",
+            "vi": "Các diễn giả có khả năng ở đâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "At a travel agency",
+              "vi": "Tại đại lý du lịch"
+            },
+            {
+              "key": "B",
+              "en": "At a school",
+              "vi": "Tại trường học"
+            },
+            {
+              "key": "C",
+              "en": "At a hospital",
+              "vi": "Tại bệnh viện"
+            },
+            {
+              "key": "D",
+              "en": "At a bank",
+              "vi": "Tại ngân hàng"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ybm25-t02-p3-q066",
+          "number": 66,
+          "question": {
+            "en": "Look at the graphic. Which box will the man use?",
+            "vi": "Nhìn vào hình. Nam giới sẽ dùng hộp nào?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Box 1",
+              "vi": "Hộp 1"
+            },
+            {
+              "key": "B",
+              "en": "Box 2",
+              "vi": "Hộp 2"
+            },
+            {
+              "key": "C",
+              "en": "Box 3",
+              "vi": "Hộp 3"
+            },
+            {
+              "key": "D",
+              "en": "Box 4",
+              "vi": "Hộp 4"
+            }
+          ],
+          "answer": "B"
+        },
+        {
+          "id": "ybm25-t02-p3-q067",
+          "number": 67,
+          "question": {
+            "en": "What does the woman suggest doing?",
+            "vi": "Người phụ nữ đề xuất làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Assessing the value of the contents",
+              "vi": "Đánh giá giá trị của đồ vật"
+            },
+            {
+              "key": "B",
+              "en": "Printing some new labels for the boxes",
+              "vi": "In nhãn mới cho hộp"
+            },
+            {
+              "key": "C",
+              "en": "Placing some items in individual bags",
+              "vi": "Đặt từng mặt hàng vào túi riêng"
+            },
+            {
+              "key": "D",
+              "en": "Checking to see if there are missing pieces",
+              "vi": "Kiểm tra xem có bộ phận bị thiếu không"
+            }
+          ],
+          "answer": "C"
+        }
+      ]
+    },
+    {
+      "id": "ybm25-t02-p3-g068-070",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/068-070.mp3",
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/image/068-070.png",
+      "transcript": {
+        "en": [
+          {
+            "text": "M-Au: Hi, could you help me?\nW-Am: Absolutely. What brings you to the Randholm Building today?\nM-Au: ",
+            "questionIds": []
+          },
+          {
+            "text": "I'm looking for the convenience store. I have a job interview there in a few minutes.",
+            "questionIds": [
+              "ybm25-t02-p3-q068"
+            ]
+          },
+          {
+            "text": "\nW-Am: OK. Here's the floor plan for the ground floor. You're here, at the information desk. Just walk around the potted trees there. ",
+            "questionIds": []
+          },
+          {
+            "text": "The convenience store is across from Uncle Freddie's.",
+            "questionIds": [
+              "ybm25-t02-p3-q069"
+            ]
+          },
+          {
+            "text": "\nM-Au: I see. Thank you.\nW-Am: Sure. Oh, and afterwards, come back out this way. ",
+            "questionIds": []
+          },
+          {
+            "text": "The other entrance is closed today.",
+            "questionIds": [
+              "ybm25-t02-p3-q070"
+            ]
+          },
+          {
+            "text": "\nM-Au: That's good to know.",
+            "questionIds": []
+          }
+        ],
+        "vi": [
+          {
+            "text": "Xin chào, bạn có thể giúp tôi được không?\nChắc chắn rồi. Điều gì đưa bạn đến Tòa nhà Randholm hôm nay?\nTôi đang tìm cửa hàng tiện lợi. Tôi có một buổi phỏng vấn xin việc ở đó sau vài phút nữa.\nOK. Đây là sơ đồ mặt bằng tầng trệt. Bạn đang ở đây, tại quầy thông tin. Chỉ cần đi vòng qua những cây cảnh ở đó. Cửa hàng tiện lợi nằm đối diện với Uncle Freddie's.\nTôi hiểu rồi. Cảm ơn bạn.\nKhông có gì. Ồ, và sau đó, hãy quay lại theo lối này. Lối vào khác đóng cửa hôm nay.\nĐiều đó tốt để biết.",
+            "questionIds": []
+          }
+        ]
+      },
+      "questions": [
+        {
+          "id": "ybm25-t02-p3-q068",
+          "number": 68,
+          "question": {
+            "en": "What does the man plan to do?",
+            "vi": "Nam giới có kế hoạch làm gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "Make a purchase",
+              "vi": "Mua sắm"
+            },
+            {
+              "key": "B",
+              "en": "Meet a friend",
+              "vi": "Gặp bạn"
+            },
+            {
+              "key": "C",
+              "en": "Deliver a package",
+              "vi": "Giao một kiện hàng"
+            },
+            {
+              "key": "D",
+              "en": "Attend a job interview",
+              "vi": "Tham dự phỏng vấn việc làm"
+            }
+          ],
+          "answer": "D"
+        },
+        {
+          "id": "ybm25-t02-p3-q069",
+          "number": 69,
+          "question": {
+            "en": "Look at the graphic. Where will the man most likely go?",
+            "vi": "Nhìn vào hình. Nam giới có khả năng sẽ đi đến đâu?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "To the Information Desk",
+              "vi": "Quầy thông tin"
+            },
+            {
+              "key": "B",
+              "en": "To The Full Basket",
+              "vi": "The Full Basket"
+            },
+            {
+              "key": "C",
+              "en": "To Quality Spot",
+              "vi": "Quality Spot"
+            },
+            {
+              "key": "D",
+              "en": "To Uncle Freddie's",
+              "vi": "Uncle Freddie's"
+            }
+          ],
+          "answer": "C"
+        },
+        {
+          "id": "ybm25-t02-p3-q070",
+          "number": 70,
+          "question": {
+            "en": "What does the woman inform the man about?",
+            "vi": "Người phụ nữ thông báo cho nam giới điều gì?"
+          },
+          "options": [
+            {
+              "key": "A",
+              "en": "An elevator skips some floors",
+              "vi": "Thang máy bỏ qua một số tầng"
+            },
+            {
+              "key": "B",
+              "en": "A parking space has a time limit",
+              "vi": "Chỗ đỗ xe có giới hạn thời gian"
+            },
+            {
+              "key": "C",
+              "en": "A sales event is happening",
+              "vi": "Sự kiện giảm giá đang diễn ra"
+            },
+            {
+              "key": "D",
+              "en": "An entrance is closed",
+              "vi": "Một lối vào bị đóng cửa"
+            }
+          ],
+          "answer": "D"
+        }
+      ]
+    }
+  ]
+}

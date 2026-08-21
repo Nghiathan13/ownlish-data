@@ -1,0 +1,934 @@
+{
+  "items": [
+    {
+      "id": "ets26-t07-p5-q101",
+      "number": 101,
+      "question": {
+        "en": "After Ms. Takido finishes ______ presentation, the audience will be permitted to ask questions.",
+        "vi": "Sau khi cô Takido hoàn thành bài thuyết trình ______, khán giả sẽ được phép đặt câu hỏi."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "her",
+          "vi": "her (det): của cô ấy"
+        },
+        {
+          "key": "B",
+          "en": "she",
+          "vi": "she (pron): cô ấy"
+        },
+        {
+          "key": "C",
+          "en": "hers",
+          "vi": "hers (pron): của cô ấy (đại từ sở hữu)"
+        },
+        {
+          "key": "D",
+          "en": "herself",
+          "vi": "herself (pron): chính cô ấy"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets26-t07-p5-q102",
+      "number": 102,
+      "question": {
+        "en": "Mike's Café offers a free ______ with every meal on Tuesdays from 11 A.M. to 7 P.M.",
+        "vi": "Mike's Café cung cấp một ______ miễn phí kèm theo mỗi bữa ăn vào các ngày thứ Ba từ 11"
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "table",
+          "vi": "M. đến 7 P.M. (A) table (n): bàn"
+        },
+        {
+          "key": "B",
+          "en": "drink",
+          "vi": "drink (n): đồ uống"
+        },
+        {
+          "key": "C",
+          "en": "price",
+          "vi": "price (n): giá cả"
+        },
+        {
+          "key": "D",
+          "en": "menu",
+          "vi": "menu (n): thực đơn"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets26-t07-p5-q103",
+      "number": 103,
+      "question": {
+        "en": "Mr. Ozawa generally prefers ______ to work by train instead of by car.",
+        "vi": "Ông Ozawa thường thích ______ đi làm bằng tàu hỏa hơn là bằng ô tô."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "commute",
+          "vi": "commute (v): đi lại, di chuyển thường nhật"
+        },
+        {
+          "key": "B",
+          "en": "to commute",
+          "vi": "to commute (to-v): đi lại, di chuyển thường nhật"
+        },
+        {
+          "key": "C",
+          "en": "having commuted",
+          "vi": "having commuted (v-ed): đã đi lại, di chuyển thường nhật"
+        },
+        {
+          "key": "D",
+          "en": "is commuting",
+          "vi": "is commuting (v): đang đi lại, di chuyển thường nhật"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets26-t07-p5-q104",
+      "number": 104,
+      "question": {
+        "en": "______ the new branch office was understaffed, more workers were hired.",
+        "vi": "______ văn phòng chi nhánh mới bị thiếu nhân sự, nhiều nhân viên hơn đã được tuyển dụng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Because",
+          "vi": "Because (conj): bởi vì"
+        },
+        {
+          "key": "B",
+          "en": "Having",
+          "vi": "Having (v-ing): có"
+        },
+        {
+          "key": "C",
+          "en": "Usually",
+          "vi": "Usually (adv): thông thường"
+        },
+        {
+          "key": "D",
+          "en": "Following",
+          "vi": "Following (prep): sau khi, tiếp theo"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets26-t07-p5-q105",
+      "number": 105,
+      "question": {
+        "en": "Dumbbells, also known as free weights, are ______ for keeping fit at home.",
+        "vi": "Quả tạ tay, còn được gọi là tạ tự do, thì ______ cho việc giữ dáng tại nhà."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "use",
+          "vi": "use (n/v): sử dụng"
+        },
+        {
+          "key": "B",
+          "en": "using",
+          "vi": "using (v-ing): việc sử dụng, đang sử dụng"
+        },
+        {
+          "key": "C",
+          "en": "to use",
+          "vi": "to use (to-v): để sử dụng"
+        },
+        {
+          "key": "D",
+          "en": "useful",
+          "vi": "useful (adj): hữu ích"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets26-t07-p5-q106",
+      "number": 106,
+      "question": {
+        "en": "The scheduled completion date was September 4, but the job was ______ finished two weeks ahead of schedule.",
+        "vi": "Ngày hoàn thành theo kế hoạch là ngày September 4, nhưng công việc ______ đã được hoàn thành trước hai tuần so với kế hoạch."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "additionally",
+          "vi": "additionally (adv): thêm vào đó"
+        },
+        {
+          "key": "B",
+          "en": "rarely",
+          "vi": "rarely (adv): hiếm khi"
+        },
+        {
+          "key": "C",
+          "en": "extremely",
+          "vi": "extremely (adv): vô cùng, cực kỳ"
+        },
+        {
+          "key": "D",
+          "en": "actually",
+          "vi": "actually (adv): thực tế, thực sự"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets26-t07-p5-q107",
+      "number": 107,
+      "question": {
+        "en": "Please click on the ______ below to subscribe to our monthly newsletter.",
+        "vi": "Vui lòng nhấp vào ______ bên dưới để đăng ký nhận bản tin hàng tháng của chúng tôi."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "link",
+          "vi": "link (n): đường liên kết"
+        },
+        {
+          "key": "B",
+          "en": "linker",
+          "vi": "linker (n): người liên kết, vật liên kết"
+        },
+        {
+          "key": "C",
+          "en": "linking",
+          "vi": "linking (v-ing): sự liên kết, việc liên kết"
+        },
+        {
+          "key": "D",
+          "en": "linkage",
+          "vi": "linkage (n): sự liên kết, hệ thống liên kết"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets26-t07-p5-q108",
+      "number": 108,
+      "question": {
+        "en": "Candidates for the entry-level marketing position need to have a ______ understanding of consumer behavior.",
+        "vi": "Các ứng viên cho vị trí tiếp thị cấp độ khởi điểm cần có một sự hiểu biết ______ về hành vi của người tiêu dùng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "proud",
+          "vi": "proud (adj): tự hào"
+        },
+        {
+          "key": "B",
+          "en": "basic",
+          "vi": "basic (adj): cơ bản"
+        },
+        {
+          "key": "C",
+          "en": "short",
+          "vi": "short (adj): ngắn, thấp"
+        },
+        {
+          "key": "D",
+          "en": "considerate",
+          "vi": "considerate (adj): chu đáo, ân cần"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets26-t07-p5-q109",
+      "number": 109,
+      "question": {
+        "en": "Ms. Persson was able to respond ______ to government leaders about their concerns regarding the funding plan.",
+        "vi": "Bà Persson đã có thể phản hồi ______ đến các nhà lãnh đạo chính phủ về những lo ngại của họ liên quan đến kế hoạch tài trợ."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "directly",
+          "vi": "directly (adv): một cách trực tiếp"
+        },
+        {
+          "key": "B",
+          "en": "direct",
+          "vi": "direct (adj/v): trực tiếp"
+        },
+        {
+          "key": "C",
+          "en": "directions",
+          "vi": "directions (n-s): các hướng dẫn, phương hướng"
+        },
+        {
+          "key": "D",
+          "en": "directed",
+          "vi": "directed (v-ed): đã hướng dẫn, đã định hướng"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets26-t07-p5-q110",
+      "number": 110,
+      "question": {
+        "en": "Leigh Ainsley, the featured soloist in tonight's performance, began taking violin lessons ______ the age of five.",
+        "vi": "Leigh Ainsley, nghệ sĩ độc tấu nổi bật trong buổi biểu diễn tối nay, đã bắt đầu học violin ______ năm năm tuổi."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "on",
+          "vi": "on (prep): trên, vào"
+        },
+        {
+          "key": "B",
+          "en": "at",
+          "vi": "at (prep): tại, lúc"
+        },
+        {
+          "key": "C",
+          "en": "with",
+          "vi": "with (prep): với"
+        },
+        {
+          "key": "D",
+          "en": "along",
+          "vi": "along (prep): dọc theo"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets26-t07-p5-q111",
+      "number": 111,
+      "question": {
+        "en": "From among the seven candidates for the management position, the hiring committee must choose only ______.",
+        "vi": "Trong số bảy ứng viên cho vị trí quản lý, ủy ban tuyển dụng chỉ được chọn ______."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "one",
+          "vi": "one (pron): một người, một cái"
+        },
+        {
+          "key": "B",
+          "en": "either",
+          "vi": "either (pron/det): một trong hai"
+        },
+        {
+          "key": "C",
+          "en": "such",
+          "vi": "such (pron/det): như vậy"
+        },
+        {
+          "key": "D",
+          "en": "other",
+          "vi": "other (pron/det): người khác, cái khác"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets26-t07-p5-q112",
+      "number": 112,
+      "question": {
+        "en": "GT International Foods sells unique products that are difficult to find ______.",
+        "vi": "GT International Foods bán các sản phẩm độc đáo rất khó tìm thấy ở ______."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "aside",
+          "vi": "aside (adv): sang một bên"
+        },
+        {
+          "key": "B",
+          "en": "instead",
+          "vi": "instead (adv): thay vào đó"
+        },
+        {
+          "key": "C",
+          "en": "likewise",
+          "vi": "likewise (adv): tương tự như vậy"
+        },
+        {
+          "key": "D",
+          "en": "elsewhere",
+          "vi": "elsewhere (adv): ở nơi khác"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets26-t07-p5-q113",
+      "number": 113,
+      "question": {
+        "en": "Contact the hotel's main office ______ you wish to receive daily linen service.",
+        "vi": "Hãy liên hệ với văn phòng chính của khách sạn ______ bạn muốn nhận dịch vụ dọn ga giường hàng ngày."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "moreover",
+          "vi": "moreover (adv): hơn thế nữa"
+        },
+        {
+          "key": "B",
+          "en": "besides",
+          "vi": "besides (prep/adv): ngoài ra, bên cạnh đó"
+        },
+        {
+          "key": "C",
+          "en": "if",
+          "vi": "if (conj): nếu"
+        },
+        {
+          "key": "D",
+          "en": "also",
+          "vi": "also (adv): cũng"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets26-t07-p5-q114",
+      "number": 114,
+      "question": {
+        "en": "Please ______ yourself with the company's tuition-reimbursement policy before enrolling in any classes.",
+        "vi": "Vui lòng ______ bản thân với chính sách hoàn trả học phí của công ty trước khi đăng ký bất kỳ lớp học nào."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "organize",
+          "vi": "organize (v): tổ chức"
+        },
+        {
+          "key": "B",
+          "en": "identify",
+          "vi": "identify (v): nhận dạng, xác định"
+        },
+        {
+          "key": "C",
+          "en": "consider",
+          "vi": "consider (v): xem xét"
+        },
+        {
+          "key": "D",
+          "en": "familiarize",
+          "vi": "familiarize (v): làm quen"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets26-t07-p5-q115",
+      "number": 115,
+      "question": {
+        "en": "The proposed purchase agreement is ______ being evaluated by officials at Corlan Tech.",
+        "vi": "Thỏa thuận mua lại được đề xuất đang ______ được đánh giá bởi các quan chức tại Corlan Tech."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "active",
+          "vi": "active (adj): năng động, tích cực"
+        },
+        {
+          "key": "B",
+          "en": "actively",
+          "vi": "actively (adv): một cách tích cực, một cách chủ động"
+        },
+        {
+          "key": "C",
+          "en": "activity",
+          "vi": "activity (n): hoạt động"
+        },
+        {
+          "key": "D",
+          "en": "activate",
+          "vi": "activate (v): kích hoạt"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets26-t07-p5-q116",
+      "number": 116,
+      "question": {
+        "en": "Another ______ option for getting to the airport will be available once the subway station at the international terminal is completed.",
+        "vi": "Một lựa chọn ______ khác để di chuyển đến sân bay sẽ sẵn sàng sau khi ga tàu điện ngầm tại nhà ga quốc tế được hoàn thành."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "convenient",
+          "vi": "convenient (adj): tiện lợi"
+        },
+        {
+          "key": "B",
+          "en": "receptive",
+          "vi": "receptive (adj): dễ tiếp thu, dễ đón nhận"
+        },
+        {
+          "key": "C",
+          "en": "fortunate",
+          "vi": "fortunate (adj): may mắn"
+        },
+        {
+          "key": "D",
+          "en": "traditional",
+          "vi": "traditional (adj): truyền thống"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets26-t07-p5-q117",
+      "number": 117,
+      "question": {
+        "en": "Given the forecast for rain on Saturday, the ceremony ______ indoors at the Raheen Gallery.",
+        "vi": "Do dự báo có mưa vào thứ Bảy, buổi lễ ______ trong nhà tại Raheen Gallery."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "is held",
+          "vi": "is held (v): được tổ chức"
+        },
+        {
+          "key": "B",
+          "en": "was held",
+          "vi": "was held (v-ed): đã được tổ chức"
+        },
+        {
+          "key": "C",
+          "en": "will be held",
+          "vi": "will be held (phrase): sẽ được tổ chức"
+        },
+        {
+          "key": "D",
+          "en": "had been held",
+          "vi": "had been held (phrase): đã được tổ chức (quá khứ hoàn thành)"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets26-t07-p5-q118",
+      "number": 118,
+      "question": {
+        "en": "As Mr. Rzayev requested, the extra wood pallets have been stacked ______ the old warehouse.",
+        "vi": "Theo yêu cầu của ông Rzayev, các pallet gỗ bổ sung đã được xếp chồng lên nhau ______ nhà kho cũ."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "between",
+          "vi": "between (prep): ở giữa"
+        },
+        {
+          "key": "B",
+          "en": "across",
+          "vi": "across (prep): băng qua, ở bên kia"
+        },
+        {
+          "key": "C",
+          "en": "over",
+          "vi": "over (prep): phía trên, qua"
+        },
+        {
+          "key": "D",
+          "en": "behind",
+          "vi": "behind (prep): ở phía sau, đằng sau"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets26-t07-p5-q119",
+      "number": 119,
+      "question": {
+        "en": "Professor McNamara has published books on a ______ range of topics.",
+        "vi": "Giáo sư McNamara đã xuất bản các cuốn sách về một loạt các chủ đề ______."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "diversion",
+          "vi": "diversion (n): sự chuyển hướng, sự giải trí"
+        },
+        {
+          "key": "B",
+          "en": "diversely",
+          "vi": "diversely (adv): một cách đa dạng"
+        },
+        {
+          "key": "C",
+          "en": "diverse",
+          "vi": "diverse (adj): đa dạng"
+        },
+        {
+          "key": "D",
+          "en": "diversify",
+          "vi": "diversify (v): đa dạng hóa"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets26-t07-p5-q120",
+      "number": 120,
+      "question": {
+        "en": "A ______ of clearly defined milestones was likely why the software development project failed.",
+        "vi": "Sự ______ các cột mốc được xác định rõ ràng có thể là lý do tại sao dự án phát triển phần mềm bị thất bại."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "consent",
+          "vi": "consent (n/v): sự đồng ý, bằng lòng"
+        },
+        {
+          "key": "B",
+          "en": "break",
+          "vi": "break (n/v): sự đổ vỡ, giờ nghỉ giải lao"
+        },
+        {
+          "key": "C",
+          "en": "lack",
+          "vi": "lack (n/v): sự thiếu hụt, thiếu sót"
+        },
+        {
+          "key": "D",
+          "en": "complex",
+          "vi": "complex (n/adj): tổ hợp, phức tạp"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets26-t07-p5-q121",
+      "number": 121,
+      "question": {
+        "en": "Rosemont Department Store employees are said to be very well-informed, ______, and responsive.",
+        "vi": "Nhân viên của Rosemont Department Store được cho là rất am hiểu, ______, và nhạy bén."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "person",
+          "vi": "person (n): người"
+        },
+        {
+          "key": "B",
+          "en": "personably",
+          "vi": "personably (adv): một cách duyên dáng, dễ mến"
+        },
+        {
+          "key": "C",
+          "en": "personify",
+          "vi": "personify (v): nhân hóa"
+        },
+        {
+          "key": "D",
+          "en": "personable",
+          "vi": "personable (adj): duyên dáng, dễ mến, có phong thái tốt"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets26-t07-p5-q122",
+      "number": 122,
+      "question": {
+        "en": "The security officer at the front gate will ______ delivery drivers as to where to drop off packages.",
+        "vi": "Nhân viên an ninh tại cổng trước sẽ ______ các tài xế giao hàng về nơi dỡ các kiện hàng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "invite",
+          "vi": "invite (v): mời"
+        },
+        {
+          "key": "B",
+          "en": "instruct",
+          "vi": "instruct (v): hướng dẫn, chỉ dẫn"
+        },
+        {
+          "key": "C",
+          "en": "provide",
+          "vi": "provide (v): cung cấp"
+        },
+        {
+          "key": "D",
+          "en": "present",
+          "vi": "present (v): trình bày, xuất trình"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets26-t07-p5-q123",
+      "number": 123,
+      "question": {
+        "en": "______ some tickets to the concert are still available, all the best seats have already been taken.",
+        "vi": "______ một số vé xem buổi hòa nhạc vẫn còn, tất cả các chỗ ngồi tốt nhất đều đã được mua hết."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Although",
+          "vi": "Although (conj): mặc dù"
+        },
+        {
+          "key": "B",
+          "en": "Except",
+          "vi": "Except (prep/conj): ngoại trừ"
+        },
+        {
+          "key": "C",
+          "en": "Notice",
+          "vi": "Notice (n/v): thông báo, chú ý"
+        },
+        {
+          "key": "D",
+          "en": "After",
+          "vi": "After (prep/conj): sau khi"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets26-t07-p5-q124",
+      "number": 124,
+      "question": {
+        "en": "Visitors must park in the designated parking area ______ risk having their vehicle towed.",
+        "vi": "Khách tham quan phải đỗ xe trong khu vực đỗ xe được chỉ định ______ chịu rủi ro bị kéo xe đi."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "or",
+          "vi": "or (conj): hoặc"
+        },
+        {
+          "key": "B",
+          "en": "but",
+          "vi": "but (conj): nhưng"
+        },
+        {
+          "key": "C",
+          "en": "yet",
+          "vi": "yet (conj): tuy nhiên"
+        },
+        {
+          "key": "D",
+          "en": "and",
+          "vi": "and (conj): và"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets26-t07-p5-q125",
+      "number": 125,
+      "question": {
+        "en": "When Ms. Liu was hired, the ______ was to train her to work in the chemistry lab.",
+        "vi": "Khi cô Liu được tuyển dụng, ______ là đào tạo cô ấy làm việc trong phòng thí nghiệm hóa học."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "intend",
+          "vi": "intend (v): định, có ý định"
+        },
+        {
+          "key": "B",
+          "en": "intention",
+          "vi": "intention (n): ý định, mục đích"
+        },
+        {
+          "key": "C",
+          "en": "intended",
+          "vi": "intended (v-ed/adj): được định trước, có ý định"
+        },
+        {
+          "key": "D",
+          "en": "intentional",
+          "vi": "intentional (adj): cố ý, có chủ tâm"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets26-t07-p5-q126",
+      "number": 126,
+      "question": {
+        "en": "A ______ effect of increased tourism in our city has been rapid growth in the number of hospitality-related jobs.",
+        "vi": "Một tác động ______ của việc tăng trưởng du lịch ở thành phố chúng ta là sự phát triển nhanh chóng của số lượng việc làm liên quan đến ngành dịch vụ khách hàng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "tentative",
+          "vi": "tentative (adj): dự kiến, tạm thời"
+        },
+        {
+          "key": "B",
+          "en": "negotiable",
+          "vi": "negotiable (adj): có thể thương lượng"
+        },
+        {
+          "key": "C",
+          "en": "favorable",
+          "vi": "favorable (adj): thuận lợi, có lợi"
+        },
+        {
+          "key": "D",
+          "en": "perceptive",
+          "vi": "perceptive (adj): có khả năng nhận thức, mẫn cảm"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets26-t07-p5-q127",
+      "number": 127,
+      "question": {
+        "en": "The new payroll system will send an e-mail to employees ______ a manager edits their time sheet.",
+        "vi": "Hệ thống tiền lương mới sẽ gửi e-mail cho nhân viên ______ một người quản lý chỉnh sửa bảng chấm công của họ."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "now that",
+          "vi": "now that (conj): giờ đây, bởi vì"
+        },
+        {
+          "key": "B",
+          "en": "or else",
+          "vi": "or else (conj): nếu không thì"
+        },
+        {
+          "key": "C",
+          "en": "despite",
+          "vi": "despite (prep): mặc dù"
+        },
+        {
+          "key": "D",
+          "en": "whenever",
+          "vi": "whenever (conj): bất cứ khi nào"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets26-t07-p5-q128",
+      "number": 128,
+      "question": {
+        "en": "The order of the speakers has been changed ______ Mr. Chen arrives late.",
+        "vi": "Thứ tự của các diễn giả đã được thay đổi ______ ông Chen đến muộn."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "so",
+          "vi": "so (conj): vì vậy"
+        },
+        {
+          "key": "B",
+          "en": "as of",
+          "vi": "as of (prep): kể từ"
+        },
+        {
+          "key": "C",
+          "en": "during",
+          "vi": "during (prep): trong suốt"
+        },
+        {
+          "key": "D",
+          "en": "in case",
+          "vi": "in case (conj): phòng khi, trong trường hợp"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets26-t07-p5-q129",
+      "number": 129,
+      "question": {
+        "en": "Even though the fuel container can hold up to a ______ of ten liters, the manufacturer recommends putting in only nine.",
+        "vi": "Mặc dù bình chứa nhiên liệu có thể chứa tới dung tích ______ mười lít, nhà sản xuất khuyến cáo chỉ nên đổ vào chín lít."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "maximum",
+          "vi": "maximum (n/adj): mức tối đa, tối đa"
+        },
+        {
+          "key": "B",
+          "en": "potential",
+          "vi": "potential (n/adj): tiềm năng"
+        },
+        {
+          "key": "C",
+          "en": "greatness",
+          "vi": "greatness (n): sự to lớn, sự vĩ đại"
+        },
+        {
+          "key": "D",
+          "en": "collection",
+          "vi": "collection (n): bộ sưu tập, sự thu thập"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets26-t07-p5-q130",
+      "number": 130,
+      "question": {
+        "en": "Ever since the Unicycle Café opened for business last May, it ______ weekly live music events.",
+        "vi": "Kể từ khi Unicycle Café mở cửa hoạt động vào tháng Năm năm ngoái, nó ______ các sự kiện ca nhạc trực tiếp hàng tuần."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "to have hosted",
+          "vi": "to have hosted (to-v): đã tổ chức"
+        },
+        {
+          "key": "B",
+          "en": "has been hosting",
+          "vi": "has been hosting (v): đã và đang tổ chức"
+        },
+        {
+          "key": "C",
+          "en": "was hosted",
+          "vi": "was hosted (v-ed): đã được tổ chức"
+        },
+        {
+          "key": "D",
+          "en": "will be hosting",
+          "vi": "will be hosting (v): sẽ đang tổ chức"
+        }
+      ],
+      "answer": "B"
+    }
+  ]
+}

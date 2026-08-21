@@ -1,0 +1,934 @@
+{
+  "items": [
+    {
+      "id": "ets20-t07-p5-q101",
+      "number": 101,
+      "question": {
+        "en": "Mr. Guo ______ with an electrician yesterday about the rewiring project.",
+        "vi": "Ông Guo ______ với một thợ điện hôm qua về dự án đi lại dây điện."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "consults",
+          "vi": "consults (v): tham khảo ý kiến (hiện tại đơn)"
+        },
+        {
+          "key": "B",
+          "en": "is consulting",
+          "vi": "is consulting (v): đang tham khảo (hiện tại tiếp diễn)"
+        },
+        {
+          "key": "C",
+          "en": "to consult",
+          "vi": "to consult (v): để tham khảo (dạng nguyên thể)"
+        },
+        {
+          "key": "D",
+          "en": "consulted",
+          "vi": "consulted (v): đã tham khảo (quá khứ đơn)"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets20-t07-p5-q102",
+      "number": 102,
+      "question": {
+        "en": "Ms. Lan Le will complete ______ internship at the George Cake Shop next week.",
+        "vi": "Cô Lan Le sẽ hoàn thành kỳ thực tập ______ tại George Cake Shop vào tuần tới."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "she",
+          "vi": "she (pron): cô ấy (chủ ngữ)"
+        },
+        {
+          "key": "B",
+          "en": "her",
+          "vi": "her (adj): của cô ấy (tính từ sở hữu)"
+        },
+        {
+          "key": "C",
+          "en": "hers",
+          "vi": "hers (pron): cái của cô ấy (đại từ sở hữu)"
+        },
+        {
+          "key": "D",
+          "en": "herself",
+          "vi": "herself (pron): tự cô ấy (đại từ phản thân)"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets20-t07-p5-q103",
+      "number": 103,
+      "question": {
+        "en": "Every Thursday the Lifelong Reading Club meets to ______ novels written by local authors.",
+        "vi": "Mỗi thứ Năm, Lifelong Reading Club gặp nhau để ______ các tiểu thuyết do tác giả địa phương viết."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "create",
+          "vi": "create (v): tạo ra, sáng tạo"
+        },
+        {
+          "key": "B",
+          "en": "discuss",
+          "vi": "discuss (v): thảo luận, bàn luận"
+        },
+        {
+          "key": "C",
+          "en": "perform",
+          "vi": "perform (v): biểu diễn, thực hiện"
+        },
+        {
+          "key": "D",
+          "en": "dictate",
+          "vi": "dictate (v): đọc chính tả, ra lệnh"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets20-t07-p5-q104",
+      "number": 104,
+      "question": {
+        "en": "Skymills Insurance ______ grew from a small business to a midsize company with 350 employees.",
+        "vi": "Skymills Insurance ______ phát triển từ một doanh nghiệp nhỏ thành một công ty cỡ vừa với 350 nhân viên."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "quick",
+          "vi": "quick (adj): nhanh"
+        },
+        {
+          "key": "B",
+          "en": "quickly",
+          "vi": "quickly (adv): một cách nhanh chóng"
+        },
+        {
+          "key": "C",
+          "en": "quicker",
+          "vi": "quicker (adj): nhanh hơn"
+        },
+        {
+          "key": "D",
+          "en": "quickest",
+          "vi": "quickest (adj): nhanh nhất"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets20-t07-p5-q105",
+      "number": 105,
+      "question": {
+        "en": "Local shop owners are invited to the ______ of Clyde Bank's downtown branch.",
+        "vi": "Các chủ cửa hàng địa phương được mời đến ______ chi nhánh trung tâm thành phố của Clyde Bank."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "open",
+          "vi": "open (adj/v): mở, mở cửa"
+        },
+        {
+          "key": "B",
+          "en": "opened",
+          "vi": "opened (v): đã mở (quá khứ)"
+        },
+        {
+          "key": "C",
+          "en": "opening",
+          "vi": "opening (n): lễ khai trương"
+        },
+        {
+          "key": "D",
+          "en": "openly",
+          "vi": "openly (adv): một cách công khai"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets20-t07-p5-q106",
+      "number": 106,
+      "question": {
+        "en": "All e-mail messages regarding legal issues should be ______ in a separate folder.",
+        "vi": "Tất cả e-mail liên quan đến các vấn đề pháp lý nên được ______ trong một thư mục riêng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "stored",
+          "vi": "stored (v): được lưu trữ"
+        },
+        {
+          "key": "B",
+          "en": "escaped",
+          "vi": "escaped (v): thoát khỏi"
+        },
+        {
+          "key": "C",
+          "en": "served",
+          "vi": "served (v): được phục vụ"
+        },
+        {
+          "key": "D",
+          "en": "determined",
+          "vi": "determined (v): được xác định"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets20-t07-p5-q107",
+      "number": 107,
+      "question": {
+        "en": "Hiring an ______ for Ms. Tsai must be our top priority, as her workload has increased.",
+        "vi": "Việc thuê một ______ cho cô Tsai phải là ưu tiên hàng đầu của chúng ta, vì khối lượng công việc của cô ấy đã tăng lên."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "assist",
+          "vi": "assist (v): hỗ trợ"
+        },
+        {
+          "key": "B",
+          "en": "assistant",
+          "vi": "assistant (n): trợ lý"
+        },
+        {
+          "key": "C",
+          "en": "assisted",
+          "vi": "assisted (v): đã hỗ trợ"
+        },
+        {
+          "key": "D",
+          "en": "assistance",
+          "vi": "assistance (n): sự hỗ trợ (không đếm được)"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets20-t07-p5-q108",
+      "number": 108,
+      "question": {
+        "en": "The ______ Ladoff Building was constructed in 1923 and stood two stories tall.",
+        "vi": "Tòa nhà Ladoff ______ được xây dựng vào năm 1923 và cao hai tầng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "origin",
+          "vi": "origin (n): nguồn gốc"
+        },
+        {
+          "key": "B",
+          "en": "originated",
+          "vi": "originated (v): bắt nguồn"
+        },
+        {
+          "key": "C",
+          "en": "originally",
+          "vi": "originally (adv): ban đầu"
+        },
+        {
+          "key": "D",
+          "en": "original",
+          "vi": "original (adj): ban đầu, nguyên bản"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets20-t07-p5-q109",
+      "number": 109,
+      "question": {
+        "en": "If you have questions about your most ______ credit card statement, call Mr. Hassan.",
+        "vi": "Nếu bạn có câu hỏi về sao kê thẻ tín dụng ______ nhất của mình, hãy gọi cho ông Hassan."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "central",
+          "vi": "central (adj): trung tâm"
+        },
+        {
+          "key": "B",
+          "en": "consecutive",
+          "vi": "consecutive (adj): liên tiếp"
+        },
+        {
+          "key": "C",
+          "en": "actual",
+          "vi": "actual (adj): thực tế"
+        },
+        {
+          "key": "D",
+          "en": "recent",
+          "vi": "recent (adj): gần đây"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets20-t07-p5-q110",
+      "number": 110,
+      "question": {
+        "en": "The Rinzlite dishwasher was ranked higher ______ all other dishwashers in its class.",
+        "vi": "Máy rửa chén Rinzlite được xếp hạng cao hơn ______ tất cả các máy rửa chén khác trong cùng phân khúc."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "to",
+          "vi": "to (prep): đến"
+        },
+        {
+          "key": "B",
+          "en": "past",
+          "vi": "past (prep): qua"
+        },
+        {
+          "key": "C",
+          "en": "than",
+          "vi": "than (conj): hơn"
+        },
+        {
+          "key": "D",
+          "en": "by",
+          "vi": "by (prep): bởi"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets20-t07-p5-q111",
+      "number": 111,
+      "question": {
+        "en": "So far, the Grantley store ______ 20 percent more mobile phones than it did last year.",
+        "vi": "Cho đến nay, cửa hàng Grantley ______ nhiều điện thoại di động hơn 20 phần trăm so với năm ngoái."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "will sell",
+          "vi": "will sell (v): sẽ bán (tương lai đơn)"
+        },
+        {
+          "key": "B",
+          "en": "was sold",
+          "vi": "was sold (v): đã được bán (bị động quá khứ)"
+        },
+        {
+          "key": "C",
+          "en": "has sold",
+          "vi": "has sold (v): đã bán (hiện tại hoàn thành)"
+        },
+        {
+          "key": "D",
+          "en": "are selling",
+          "vi": "are selling (v): đang bán (hiện tại tiếp diễn)"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets20-t07-p5-q112",
+      "number": 112,
+      "question": {
+        "en": "In the event of a power failure, unplug computers until power is ______ restored.",
+        "vi": "Trong trường hợp mất điện, hãy rút phích cắm máy tính cho đến khi điện được khôi phục ______."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "fully",
+          "vi": "fully (adv): hoàn toàn"
+        },
+        {
+          "key": "B",
+          "en": "fullness",
+          "vi": "fullness (n): sự đầy đủ"
+        },
+        {
+          "key": "C",
+          "en": "fullest",
+          "vi": "fullest (adj): đầy đủ nhất"
+        },
+        {
+          "key": "D",
+          "en": "full",
+          "vi": "full (adj): đầy"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets20-t07-p5-q113",
+      "number": 113,
+      "question": {
+        "en": "Although Mr. Akiyama retired last year, he ______ visits the office each week.",
+        "vi": "Mặc dù ông Akiyama đã nghỉ hưu năm ngoái, ông ấy ______ ghé thăm văn phòng mỗi tuần."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "next",
+          "vi": "next (adv): tiếp theo"
+        },
+        {
+          "key": "B",
+          "en": "yet",
+          "vi": "yet (adv): chưa"
+        },
+        {
+          "key": "C",
+          "en": "still",
+          "vi": "still (adv): vẫn"
+        },
+        {
+          "key": "D",
+          "en": "finally",
+          "vi": "finally (adv): cuối cùng"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets20-t07-p5-q114",
+      "number": 114,
+      "question": {
+        "en": "At the panel discussion, Ms. Yang made a ______ argument for environmentally responsible business practices.",
+        "vi": "Tại buổi thảo luận nhóm, cô Yang đã đưa ra một lập luận ______ cho các hoạt động kinh doanh có trách nhiệm với môi trường."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "convince",
+          "vi": "convince (v): thuyết phục"
+        },
+        {
+          "key": "B",
+          "en": "convincing",
+          "vi": "convincing (adj): thuyết phục, có sức thuyết phục"
+        },
+        {
+          "key": "C",
+          "en": "convinced",
+          "vi": "convinced (adj): bị thuyết phục"
+        },
+        {
+          "key": "D",
+          "en": "convincingly",
+          "vi": "convincingly (adv): một cách thuyết phục"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets20-t07-p5-q115",
+      "number": 115,
+      "question": {
+        "en": "The Hokodo Orchestra will hold ______ for new string musicians next Tuesday.",
+        "vi": "Dàn nhạc Hokodo sẽ tổ chức ______ cho các nhạc công đàn dây mới vào thứ Ba tới."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "attention",
+          "vi": "attention (n): sự chú ý"
+        },
+        {
+          "key": "B",
+          "en": "investigations",
+          "vi": "investigations (n): cuộc điều tra"
+        },
+        {
+          "key": "C",
+          "en": "motivation",
+          "vi": "motivation (n): động lực"
+        },
+        {
+          "key": "D",
+          "en": "auditions",
+          "vi": "auditions (n): buổi thử giọng/thử tài"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets20-t07-p5-q116",
+      "number": 116,
+      "question": {
+        "en": "Although the team members ______ were not available after the game, the coach was happy to be interviewed.",
+        "vi": "Mặc dù các thành viên đội ______ không có mặt sau trận đấu, huấn luyện viên vẫn vui vẻ được phỏng vấn."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "themselves",
+          "vi": "themselves (pron): chính họ, bản thân họ"
+        },
+        {
+          "key": "B",
+          "en": "they",
+          "vi": "they (pron): họ (chủ ngữ)"
+        },
+        {
+          "key": "C",
+          "en": "theirs",
+          "vi": "theirs (pron): cái của họ"
+        },
+        {
+          "key": "D",
+          "en": "them",
+          "vi": "them (pron): họ (tân ngữ)"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets20-t07-p5-q117",
+      "number": 117,
+      "question": {
+        "en": "Ms. Schwimmer's application was not ______ reviewed until November 5.",
+        "vi": "Đơn ứng tuyển của cô Schwimmer đã không được xem xét ______ cho đến ngày 5 tháng 11."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "relatively",
+          "vi": "relatively (adv): tương đối"
+        },
+        {
+          "key": "B",
+          "en": "occasionally",
+          "vi": "occasionally (adv): thỉnh thoảng"
+        },
+        {
+          "key": "C",
+          "en": "completely",
+          "vi": "completely (adv): hoàn toàn"
+        },
+        {
+          "key": "D",
+          "en": "enormously",
+          "vi": "enormously (adv): vô cùng, rất lớn"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets20-t07-p5-q118",
+      "number": 118,
+      "question": {
+        "en": "Managers are encouraged to give their staff ______ feedback during the annual performance-review meetings.",
+        "vi": "Các quản lý được khuyến khích đưa ra phản hồi ______ cho nhân viên trong các cuộc họp đánh giá hiệu suất hằng năm."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "construction",
+          "vi": "construction (n): sự xây dựng"
+        },
+        {
+          "key": "B",
+          "en": "constructively",
+          "vi": "constructively (adv): một cách xây dựng"
+        },
+        {
+          "key": "C",
+          "en": "constructive",
+          "vi": "constructive (adj): mang tính xây dựng"
+        },
+        {
+          "key": "D",
+          "en": "constructing",
+          "vi": "constructing (v): đang xây dựng"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets20-t07-p5-q119",
+      "number": 119,
+      "question": {
+        "en": "Deckermark Enterprises offers employees flexible scheduling and telecommuting ______.",
+        "vi": "Deckermark Enterprises cung cấp cho nhân viên lịch làm việc linh hoạt và ______ làm việc từ xa."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "statements",
+          "vi": "statements (n): tuyên bố, báo cáo"
+        },
+        {
+          "key": "B",
+          "en": "exchanges",
+          "vi": "exchanges (n): trao đổi"
+        },
+        {
+          "key": "C",
+          "en": "precautions",
+          "vi": "precautions (n): biện pháp phòng ngừa"
+        },
+        {
+          "key": "D",
+          "en": "options",
+          "vi": "options (n): lựa chọn, tùy chọn"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets20-t07-p5-q120",
+      "number": 120,
+      "question": {
+        "en": "Ms. Summer can estimate the cost for the land-clearing project in Fosterville, ______ before the details are finalized.",
+        "vi": "Cô Summer có thể ước tính chi phí cho dự án dọn đất ở Fosterville, ______ trước khi các chi tiết được hoàn tất."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "even",
+          "vi": "even (adv): thậm chí"
+        },
+        {
+          "key": "B",
+          "en": "some",
+          "vi": "some (det): một số"
+        },
+        {
+          "key": "C",
+          "en": "such",
+          "vi": "such (det): như vậy"
+        },
+        {
+          "key": "D",
+          "en": "else",
+          "vi": "else (adv): khác"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets20-t07-p5-q121",
+      "number": 121,
+      "question": {
+        "en": "The company's transition from paper paychecks to electronic paychecks was ______ smooth.",
+        "vi": "Quá trình chuyển đổi của công ty từ phiếu lương giấy sang phiếu lương điện tử diễn ra ______ suôn sẻ."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "impressive",
+          "vi": "impressive (adj): ấn tượng"
+        },
+        {
+          "key": "B",
+          "en": "impression",
+          "vi": "impression (n): ấn tượng"
+        },
+        {
+          "key": "C",
+          "en": "impressively",
+          "vi": "impressively (adv): một cách ấn tượng"
+        },
+        {
+          "key": "D",
+          "en": "impress",
+          "vi": "impress (v): gây ấn tượng"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets20-t07-p5-q122",
+      "number": 122,
+      "question": {
+        "en": "All temporary workers should contact Ms. Fierro to ______ an identification badge.",
+        "vi": "Tất cả nhân viên tạm thời nên liên hệ cô Fierro để ______ thẻ nhận dạng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "combine",
+          "vi": "combine (v): kết hợp"
+        },
+        {
+          "key": "B",
+          "en": "obtain",
+          "vi": "obtain (v): nhận được, lấy được"
+        },
+        {
+          "key": "C",
+          "en": "gather",
+          "vi": "gather (v): thu thập"
+        },
+        {
+          "key": "D",
+          "en": "approach",
+          "vi": "approach (v): tiếp cận"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets20-t07-p5-q123",
+      "number": 123,
+      "question": {
+        "en": "We will pay your insurance claim ______ we receive the official damage report.",
+        "vi": "Chúng tôi sẽ thanh toán yêu cầu bảo hiểm của bạn ______ chúng tôi nhận được báo cáo thiệt hại chính thức."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "once",
+          "vi": "once (conj): ngay khi, một khi"
+        },
+        {
+          "key": "B",
+          "en": "since",
+          "vi": "since (conj): kể từ khi"
+        },
+        {
+          "key": "C",
+          "en": "like",
+          "vi": "like (prep): giống như"
+        },
+        {
+          "key": "D",
+          "en": "except",
+          "vi": "except (prep): ngoại trừ"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets20-t07-p5-q124",
+      "number": 124,
+      "question": {
+        "en": "Neither of the ______ in the debate was willing to take a stand on the riverfront development controversy.",
+        "vi": "Không ______ nào trong cuộc tranh luận sẵn sàng đưa ra lập trường về tranh cãi phát triển khu bờ sông."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "politicians",
+          "vi": "politicians (n): các chính trị gia"
+        },
+        {
+          "key": "B",
+          "en": "politicize",
+          "vi": "politicize (v): chính trị hóa"
+        },
+        {
+          "key": "C",
+          "en": "political",
+          "vi": "political (adj): thuộc chính trị"
+        },
+        {
+          "key": "D",
+          "en": "politically",
+          "vi": "politically (adv): về mặt chính trị"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets20-t07-p5-q125",
+      "number": 125,
+      "question": {
+        "en": "______ the additional funding, Central City Medical School expects to double the size of its research team.",
+        "vi": "______ khoản tài trợ bổ sung, Central City Medical School kỳ vọng sẽ tăng gấp đôi quy mô đội nghiên cứu của mình."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "Over",
+          "vi": "Over (prep): trên"
+        },
+        {
+          "key": "B",
+          "en": "On",
+          "vi": "On (prep): trên"
+        },
+        {
+          "key": "C",
+          "en": "At",
+          "vi": "At (prep): tại"
+        },
+        {
+          "key": "D",
+          "en": "With",
+          "vi": "With (prep): với"
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets20-t07-p5-q126",
+      "number": 126,
+      "question": {
+        "en": "The clients have indicated that a reception area of 60 square meters will be ______ in the new building.",
+        "vi": "Các khách hàng đã cho biết rằng khu vực lễ tân rộng 60 mét vuông sẽ ______ trong tòa nhà mới."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "sufficient",
+          "vi": "sufficient (adj): đủ, đầy đủ"
+        },
+        {
+          "key": "B",
+          "en": "flexible",
+          "vi": "flexible (adj): linh hoạt"
+        },
+        {
+          "key": "C",
+          "en": "capable",
+          "vi": "capable (adj): có khả năng"
+        },
+        {
+          "key": "D",
+          "en": "calculating",
+          "vi": "calculating (adj): tính toán"
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets20-t07-p5-q127",
+      "number": 127,
+      "question": {
+        "en": "Ms. Lau would like to know ______ Mr. Cole called the main office yesterday.",
+        "vi": "Cô Lau muốn biết ______ ông Cole đã gọi đến văn phòng chính hôm qua."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "whatever",
+          "vi": "whatever (pron): bất cứ điều gì"
+        },
+        {
+          "key": "B",
+          "en": "while",
+          "vi": "while (conj): trong khi"
+        },
+        {
+          "key": "C",
+          "en": "why",
+          "vi": "why (adv): tại sao"
+        },
+        {
+          "key": "D",
+          "en": "who",
+          "vi": "who (pron): ai"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets20-t07-p5-q128",
+      "number": 128,
+      "question": {
+        "en": "Koffler Law hired more paralegals ______ meet its commitment to clients.",
+        "vi": "Koffler Law đã thuê thêm trợ lý pháp lý ______ đáp ứng cam kết của mình với khách hàng."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "consequently",
+          "vi": "consequently (adv): do đó"
+        },
+        {
+          "key": "B",
+          "en": "in order to",
+          "vi": "in order to (conj): để, nhằm"
+        },
+        {
+          "key": "C",
+          "en": "in any case",
+          "vi": "in any case (adv): trong mọi trường hợp"
+        },
+        {
+          "key": "D",
+          "en": "additionally",
+          "vi": "additionally (adv): ngoài ra"
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets20-t07-p5-q129",
+      "number": 129,
+      "question": {
+        "en": "The newest edition of the Biltmire Road Atlas has plastic-coated pages for extra ______.",
+        "vi": "Phiên bản mới nhất của Biltmire Road Atlas có các trang phủ nhựa để tăng thêm ______."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "familiarity",
+          "vi": "familiarity (n): sự quen thuộc"
+        },
+        {
+          "key": "B",
+          "en": "persistence",
+          "vi": "persistence (n): sự kiên trì"
+        },
+        {
+          "key": "C",
+          "en": "durability",
+          "vi": "durability (n): độ bền"
+        },
+        {
+          "key": "D",
+          "en": "replacement",
+          "vi": "replacement (n): sự thay thế"
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets20-t07-p5-q130",
+      "number": 130,
+      "question": {
+        "en": "Job seekers should prepare a list of professional references ______ applying for positions.",
+        "vi": "Người tìm việc nên chuẩn bị một danh sách người tham khảo chuyên môn ______ ứng tuyển các vị trí."
+      },
+      "options": [
+        {
+          "key": "A",
+          "en": "prior to",
+          "vi": "prior to (prep): trước khi"
+        },
+        {
+          "key": "B",
+          "en": "outside of",
+          "vi": "outside of (prep): bên ngoài"
+        },
+        {
+          "key": "C",
+          "en": "in front of",
+          "vi": "in front of (prep): phía trước"
+        },
+        {
+          "key": "D",
+          "en": "according to",
+          "vi": "according to (prep): theo, dựa theo"
+        }
+      ],
+      "answer": "A"
+    }
+  ]
+}

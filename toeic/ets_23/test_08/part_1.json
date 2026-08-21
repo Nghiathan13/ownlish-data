@@ -1,0 +1,178 @@
+{
+  "items": [
+    {
+      "id": "ets23-t08-p1-q001",
+      "number": 1,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_08/image/001.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_08/audio/001.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "She’s writing on a document.",
+          "vi": "Cô ấy đang viết lên một tài liệu."
+        },
+        {
+          "key": "B",
+          "en": "She’s looking at some framed artwork.",
+          "vi": "Cô ấy đang nhìn vào một số tác phẩm nghệ thuật đóng khung."
+        },
+        {
+          "key": "C",
+          "en": "She’s opening a folder.",
+          "vi": "Cô ấy đang mở một bìa hồ sơ."
+        },
+        {
+          "key": "D",
+          "en": "She’s organizing a desk drawer.",
+          "vi": "Cô ấy đang sắp xếp ngăn kéo bàn."
+        }
+      ],
+      "answer": "A"
+    },
+    {
+      "id": "ets23-t08-p1-q002",
+      "number": 2,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_08/image/002.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_08/audio/002.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "He’s driving a van.",
+          "vi": "Anh ấy đang lái một chiếc xe tải."
+        },
+        {
+          "key": "B",
+          "en": "He’s cutting some shrubs.",
+          "vi": "Anh ấy đang tỉa một số bụi cây."
+        },
+        {
+          "key": "C",
+          "en": "He’s moving some garden stones.",
+          "vi": "Anh ấy đang di chuyển một số tảng đá sân vườn."
+        },
+        {
+          "key": "D",
+          "en": "He’s operating a machine.",
+          "vi": "Anh ấy đang vận hành một chiếc máy."
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets23-t08-p1-q003",
+      "number": 3,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_08/image/003.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_08/audio/003.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "They’re swimming in the water.",
+          "vi": "Họ đang bơi dưới nước."
+        },
+        {
+          "key": "B",
+          "en": "They’re catching fish from a lake.",
+          "vi": "Họ đang câu cá từ một hồ nước."
+        },
+        {
+          "key": "C",
+          "en": "They’re waiting at a boat dock.",
+          "vi": "Họ đang đợi ở bến tàu."
+        },
+        {
+          "key": "D",
+          "en": "They’re paddling a canoe.",
+          "vi": "Họ đang chèo thuyền ca-nô."
+        }
+      ],
+      "answer": "D"
+    },
+    {
+      "id": "ets23-t08-p1-q004",
+      "number": 4,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_08/image/004.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_08/audio/004.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "A walkway is being swept clean.",
+          "vi": "Một lối đi bộ đang được quét sạch."
+        },
+        {
+          "key": "B",
+          "en": "Some people are walking through an intersection.",
+          "vi": "Một số người đang đi qua một giao lộ."
+        },
+        {
+          "key": "C",
+          "en": "One of the people is leaning against a wall.",
+          "vi": "Một trong số những người đó đang dựa vào tường."
+        },
+        {
+          "key": "D",
+          "en": "One of the people is fixing a bicycle tire.",
+          "vi": "Một trong số những người đó đang sửa lốp xe đạp."
+        }
+      ],
+      "answer": "C"
+    },
+    {
+      "id": "ets23-t08-p1-q005",
+      "number": 5,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_08/image/005.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_08/audio/005.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "A customer is loading items into a shopping bag.",
+          "vi": "Một khách hàng đang bỏ các món đồ vào túi mua sắm."
+        },
+        {
+          "key": "B",
+          "en": "Some products have been set out under tents.",
+          "vi": "Một số sản phẩm đã được trưng bày dưới những chiếc lều."
+        },
+        {
+          "key": "C",
+          "en": "A bowl has been filled with water.",
+          "vi": "Một chiếc bát đã được đổ đầy nước."
+        },
+        {
+          "key": "D",
+          "en": "Some baskets are hanging from a post.",
+          "vi": "Một số chiếc giỏ đang treo trên một chiếc cột."
+        }
+      ],
+      "answer": "B"
+    },
+    {
+      "id": "ets23-t08-p1-q006",
+      "number": 6,
+      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_08/image/006.png",
+      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_08/audio/006.mp3",
+      "options": [
+        {
+          "key": "A",
+          "en": "There’s a campfire underneath some shade trees.",
+          "vi": "Có một đống lửa trại bên dưới một số cây che bóng mát."
+        },
+        {
+          "key": "B",
+          "en": "Some trees are providing shade for a picnic area.",
+          "vi": "Một số cây đang che bóng mát cho khu vực dã ngoại."
+        },
+        {
+          "key": "C",
+          "en": "A flower bed has been planted near a park bench.",
+          "vi": "Một luống hoa đã được trồng gần một chiếc ghế công viên."
+        },
+        {
+          "key": "D",
+          "en": "Fallen branches are stacked next to a brick pathway.",
+          "vi": "Những cành cây gãy được xếp chồng cạnh một lối đi lát gạch."
+        }
+      ],
+      "answer": "B"
+    }
+  ]
+}

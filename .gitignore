@@ -1,0 +1,4 @@
+# Binary media stays local; authoritative source = Supabase storage
+# (see audioUrl / imageUrl in the JSON files). Same policy as the web repo.
+**/audio/
+**/image/
