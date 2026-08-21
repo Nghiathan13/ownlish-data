@@ -110,10 +110,8 @@ def main() -> None:
             tests.append(
                 {
                     "id": test_id,
-                    "series": series,
                     "year": year,
                     "testNumber": test_number,
-                    "complete": len(parts) == len(PART_NUMBERS),
                     "parts": parts,
                 }
             )
@@ -143,7 +141,7 @@ def main() -> None:
     out = ROOT / "catalog.json"
     out.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n")
     print(f"tests: {len(tests)}, parts total: {sum(len(t['parts']) for t in tests)}, media entries: {len(media_by_group_id)}")
-    print(f"incomplete tests: {sum(1 for t in tests if not t['complete'])}")
+    print(f"incomplete tests: {sum(1 for t in tests if len(t['parts']) != len(PART_NUMBERS))}")
 
 
 main()
