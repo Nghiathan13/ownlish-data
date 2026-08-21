@@ -3,7 +3,6 @@
     {
       "id": "ets23-t01-p2-q007",
       "number": 7,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/007.mp3",
       "question": {
         "en": "What type of food does that store sell?",
         "vi": "Cửa hàng đó bán loại thực phẩm nào?"
@@ -25,12 +24,12 @@
           "vi": "Với một chiếc áo khoác mới."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_23/test_01/audio/007.mp3"
     },
     {
       "id": "ets23-t01-p2-q008",
       "number": 8,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/008.mp3",
       "question": {
         "en": "When should we leave for the airport?",
         "vi": "Khi nào chúng ta nên khởi hành đi sân bay?"
@@ -52,12 +51,12 @@
           "vi": "Ông Choi đã du lịch đến đó năm ngoái."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_23/test_01/audio/008.mp3"
     },
     {
       "id": "ets23-t01-p2-q009",
       "number": 9,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/009.mp3",
       "question": {
         "en": "Where’s the hiring event being held?",
         "vi": "Sự kiện tuyển dụng đang được tổ chức ở đâu?"
@@ -79,12 +78,12 @@
           "vi": "Nếu họ mở cửa đúng giờ."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_23/test_01/audio/009.mp3"
     },
     {
       "id": "ets23-t01-p2-q010",
       "number": 10,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/010.mp3",
       "question": {
         "en": "Why is the budget being updated?",
         "vi": "Tại sao ngân sách đang được cập nhật?"
@@ -106,12 +105,12 @@
           "vi": "Vì số liệu bán hàng mới vừa có."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_23/test_01/audio/010.mp3"
     },
     {
       "id": "ets23-t01-p2-q011",
       "number": 11,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/011.mp3",
       "question": {
         "en": "Can you cover my shift at work tomorrow?",
         "vi": "Bạn có thể làm thay ca cho tôi vào ngày mai không?"
@@ -133,12 +132,12 @@
           "vi": "Nó có trong chương trình nghị sự cho thứ Ba."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_23/test_01/audio/011.mp3"
     },
     {
       "id": "ets23-t01-p2-q012",
       "number": 12,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/012.mp3",
       "question": {
         "en": "Who ordered these vegetables?",
         "vi": "Ai đã đặt những loại rau củ này?"
@@ -160,12 +159,12 @@
           "vi": "Nó rất tuyệt, cảm ơn."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_23/test_01/audio/012.mp3"
     },
     {
       "id": "ets23-t01-p2-q013",
       "number": 13,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/013.mp3",
       "question": {
         "en": "How often should I mail the notices?",
         "vi": "Tôi nên gửi thông báo qua thư bao lâu một lần?"
@@ -187,12 +186,12 @@
           "vi": "Khoảng một nửa trong số chúng."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_23/test_01/audio/013.mp3"
     },
     {
       "id": "ets23-t01-p2-q014",
       "number": 14,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/014.mp3",
       "question": {
         "en": "Which folder are the documents in? We agreed on the deadline. Sure, I’ll take a look. Let me show you.",
         "vi": "Các tài liệu nằm trong thư mục nào?"
@@ -214,12 +213,12 @@
           "vi": "Để tôi chỉ cho bạn."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_23/test_01/audio/014.mp3"
     },
     {
       "id": "ets23-t01-p2-q015",
       "number": 15,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/015.mp3",
       "question": {
         "en": "Did you end up going to a movie or to the concert last night? I saw the new action film. It just ended. Just a couple of my friends.",
         "vi": "Cuối cùng tối qua bạn đã đi xem phim hay đi nghe nhạc?"
@@ -241,12 +240,12 @@
           "vi": "Chỉ một vài người bạn của tôi."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_23/test_01/audio/015.mp3"
     },
     {
       "id": "ets23-t01-p2-q016",
       "number": 16,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/016.mp3",
       "question": {
         "en": "We’ll take the company bus to the conference center. I’m sure it’s not. Maybe we did. That’s a good plan.",
         "vi": "Chúng ta sẽ đi xe buýt công ty đến trung tâm hội nghị."
@@ -268,12 +267,12 @@
           "vi": "Đó là một kế hoạch hay."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_23/test_01/audio/016.mp3"
     },
     {
       "id": "ets23-t01-p2-q017",
       "number": 17,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/017.mp3",
       "question": {
         "en": "What should we put in the introduction to the report? After the summary. The research highlights. I met him yesterday.",
         "vi": "Chúng ta nên đưa gì vào phần giới thiệu của báo cáo?"
@@ -295,12 +294,12 @@
           "vi": "Tôi đã gặp anh ấy hôm qua."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_23/test_01/audio/017.mp3"
     },
     {
       "id": "ets23-t01-p2-q018",
       "number": 18,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/018.mp3",
       "question": {
         "en": "We should have a new logo designed. They’re about five miles from here. I know a good graphic artist. An order for some new calendars.",
         "vi": "Chúng ta nên thiết kế một logo mới."
@@ -322,12 +321,12 @@
           "vi": "Một đơn đặt hàng cho một số lịch mới."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_23/test_01/audio/018.mp3"
     },
     {
       "id": "ets23-t01-p2-q019",
       "number": 19,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/019.mp3",
       "question": {
         "en": "Did you select a site for the new headquarters? Is that so? No one can attend the training. Yes, in the center of town.",
         "vi": "Bạn đã chọn được địa điểm cho trụ sở mới chưa?"
@@ -349,12 +348,12 @@
           "vi": "Rồi, ở trung tâm thị trấn."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_23/test_01/audio/019.mp3"
     },
     {
       "id": "ets23-t01-p2-q020",
       "number": 20,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/020.mp3",
       "question": {
         "en": "Who’s going to cancel the meeting? Martin is the most senior team member. Josie’s chair is broken. The client signed the contract.",
         "vi": "Ai sẽ là người hủy cuộc họp?"
@@ -376,12 +375,12 @@
           "vi": "Khách hàng đã ký hợp đồng."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_23/test_01/audio/020.mp3"
     },
     {
       "id": "ets23-t01-p2-q021",
       "number": 21,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/021.mp3",
       "question": {
         "en": "How was your business trip? They found some just in time. I like that idea. It was very productive.",
         "vi": "Chuyến công tác của bạn thế nào?"
@@ -403,12 +402,12 @@
           "vi": "Nó rất hiệu quả/năng suất."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_23/test_01/audio/021.mp3"
     },
     {
       "id": "ets23-t01-p2-q022",
       "number": 22,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/022.mp3",
       "question": {
         "en": "Why did Chae-Won hire an assistant? She will submit an estimate in September. Anyway, they thought I was late. Haven’t you noticed how busy she is?",
         "vi": "Tại sao Chae-Won lại thuê trợ lý?"
@@ -430,12 +429,12 @@
           "vi": "Bạn không thấy cô ấy bận rộn thế nào sao?"
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_23/test_01/audio/022.mp3"
     },
     {
       "id": "ets23-t01-p2-q023",
       "number": 23,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/023.mp3",
       "question": {
         "en": "Would you mind showing me the new office space? I think that’s correct. Sure, it won’t take long. Everyone available participated.",
         "vi": "Bạn có phiền dẫn tôi đi xem không gian văn phòng mới không?"
@@ -457,12 +456,12 @@
           "vi": "Tất cả những người có mặt đều đã tham gia."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_23/test_01/audio/023.mp3"
     },
     {
       "id": "ets23-t01-p2-q024",
       "number": 24,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/024.mp3",
       "question": {
         "en": "We're trying to decide where to order from for lunch. I loved those sandwiches from Gino’s last week. My brother’s friend was there. I remember that song very well.",
         "vi": "Chúng tôi đang cố gắng quyết định xem nên đặt đồ ăn trưa ở đâu."
@@ -484,12 +483,12 @@
           "vi": "Tôi nhớ bài hát đó rất rõ."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_23/test_01/audio/024.mp3"
     },
     {
       "id": "ets23-t01-p2-q025",
       "number": 25,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/025.mp3",
       "question": {
         "en": "When do you plan to finish the advertising campaign? Next to Irina's office. By Monday morning at the latest. Because it didn’t make sense to me.",
         "vi": "Khi nào bạn dự định kết thúc chiến dịch quảng cáo?"
@@ -511,12 +510,12 @@
           "vi": "Vì nó không có ý nghĩa gì với tôi cả."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_23/test_01/audio/025.mp3"
     },
     {
       "id": "ets23-t01-p2-q026",
       "number": 26,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/026.mp3",
       "question": {
         "en": "Where will the guest speaker be joining us from? Nobody shared the details with me. He wasn’t gone too long. First thing in the morning, I believe.",
         "vi": "Diễn giả khách mời sẽ tham gia với chúng ta từ đâu?"
@@ -538,12 +537,12 @@
           "vi": "Tôi tin là việc đầu tiên vào buổi sáng."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_23/test_01/audio/026.mp3"
     },
     {
       "id": "ets23-t01-p2-q027",
       "number": 27,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/027.mp3",
       "question": {
         "en": "Wouldn’t you prefer that Mi-Sun lead the training? No, I filed it three months ago. I just gave them to the director. I don’t think she works here anymore.",
         "vi": "Bạn không thích Mi-Sun dẫn dắt buổi đào tạo hơn sao?"
@@ -565,12 +564,12 @@
           "vi": "Tôi không nghĩ cô ấy còn làm việc ở đây nữa."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_23/test_01/audio/027.mp3"
     },
     {
       "id": "ets23-t01-p2-q028",
       "number": 28,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/028.mp3",
       "question": {
         "en": "We should get some feedback on this book cover design. Ahmed has a visual arts degree. They probably skipped a week. It was really hard to hear.",
         "vi": "Chúng ta nên lấy ý kiến phản hồi về thiết kế bìa sách này."
@@ -592,12 +591,12 @@
           "vi": "Thật sự rất khó nghe."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_23/test_01/audio/028.mp3"
     },
     {
       "id": "ets23-t01-p2-q029",
       "number": 29,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/029.mp3",
       "question": {
         "en": "Would you be able to delay the meeting? How much storage does it have? Most people seemed to enjoy it. Tatyana needs to leave for the airport in an hour.",
         "vi": "Bạn có thể trì hoãn cuộc họp được không?"
@@ -619,12 +618,12 @@
           "vi": "Tatyana cần khởi hành đi sân bay trong một giờ nữa."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_23/test_01/audio/029.mp3"
     },
     {
       "id": "ets23-t01-p2-q030",
       "number": 30,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/030.mp3",
       "question": {
         "en": "Will you rent a car or take the train while you’re visiting? They found some near the coast. I don’t like driving in the city. Mostly some old desks.",
         "vi": "Bạn sẽ thuê xe hơi hay đi tàu hỏa khi đi tham quan?"
@@ -646,12 +645,12 @@
           "vi": "Chủ yếu là vài cái bàn cũ."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_23/test_01/audio/030.mp3"
     },
     {
       "id": "ets23-t01-p2-q031",
       "number": 31,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_23/test_01/audio/031.mp3",
       "question": {
         "en": "Seven thirty at night is rather late for a meeting, isn’t it? If people agree on it, I will. I promise I’ll keep it short. I am not sure who he meant.",
         "vi": "7 giờ 30 tối là khá muộn cho một cuộc họp, phải không?"
@@ -673,7 +672,8 @@
           "vi": "Tôi không chắc anh ấy muốn nói đến ai."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_23/test_01/audio/031.mp3"
     }
   ]
 }

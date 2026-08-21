@@ -3,7 +3,6 @@
     {
       "id": "ets22-t10-p2-q007",
       "number": 7,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_10/audio/007.mp3",
       "question": {
         "en": "Where's the marketing department?",
         "vi": "Phòng tiếp thị ở đâu?"
@@ -25,12 +24,12 @@
           "vi": "Ở tầng ba."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_22/test_10/audio/007.mp3"
     },
     {
       "id": "ets22-t10-p2-q008",
       "number": 8,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_10/audio/008.mp3",
       "question": {
         "en": "What time does your flight leave?",
         "vi": "Chuyến bay của bạn khởi hành lúc mấy giờ?"
@@ -52,12 +51,12 @@
           "vi": "Đó là một điểm đến tuyệt vời."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_22/test_10/audio/008.mp3"
     },
     {
       "id": "ets22-t10-p2-q009",
       "number": 9,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_10/audio/009.mp3",
       "question": {
         "en": "Who reviewed the order forms?",
         "vi": "Ai đã xem xét biểu mẫu đặt hàng?"
@@ -79,12 +78,12 @@
           "vi": "Được, tôi sẽ ký nhận giao hàng."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_22/test_10/audio/009.mp3"
     },
     {
       "id": "ets22-t10-p2-q010",
       "number": 10,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_10/audio/010.mp3",
       "question": {
         "en": "How much do the tickets cost?",
         "vi": "Vé giá bao nhiêu?"
@@ -106,12 +105,12 @@
           "vi": "Hai mươi đô la, tôi nghĩ."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_22/test_10/audio/010.mp3"
     },
     {
       "id": "ets22-t10-p2-q011",
       "number": 11,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_10/audio/011.mp3",
       "question": {
         "en": "Would you like to have lunch with us?",
         "vi": "Bạn có muốn ăn trưa cùng chúng tôi không?"
@@ -133,12 +132,12 @@
           "vi": "Không, cảm ơn—tôi đã ăn rồi."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_22/test_10/audio/011.mp3"
     },
     {
       "id": "ets22-t10-p2-q012",
       "number": 12,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_10/audio/012.mp3",
       "question": {
         "en": "Should we discuss the merger tomorrow or Friday?",
         "vi": "Chúng ta nên thảo luận về vụ sáp nhập vào ngày mai hay thứ Sáu?"
@@ -160,12 +159,12 @@
           "vi": "Vài tuần trước."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_22/test_10/audio/012.mp3"
     },
     {
       "id": "ets22-t10-p2-q013",
       "number": 13,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_10/audio/013.mp3",
       "question": {
         "en": "Why are you still at the office?",
         "vi": "Tại sao bạn vẫn còn ở văn phòng?"
@@ -187,12 +186,12 @@
           "vi": "Phòng ở cuối hành lang."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_22/test_10/audio/013.mp3"
     },
     {
       "id": "ets22-t10-p2-q014",
       "number": 14,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_10/audio/014.mp3",
       "question": {
         "en": "Doesn't the art exhibit open today?",
         "vi": "Triển lãm nghệ thuật không mở cửa hôm nay sao?"
@@ -214,12 +213,12 @@
           "vi": "Nhiều nghệ sĩ địa phương."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_22/test_10/audio/014.mp3"
     },
     {
       "id": "ets22-t10-p2-q015",
       "number": 15,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_10/audio/015.mp3",
       "question": {
         "en": "When did Takumi start working here?",
         "vi": "Takumi bắt đầu làm việc ở đây khi nào?"
@@ -241,12 +240,12 @@
           "vi": "Không, anh ấy đã nghỉ hưu tháng trước."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_22/test_10/audio/015.mp3"
     },
     {
       "id": "ets22-t10-p2-q016",
       "number": 16,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_10/audio/016.mp3",
       "question": {
         "en": "We still sell this brand of washing machine, don't we?",
         "vi": "Chúng ta vẫn bán máy giặt thương hiệu này, phải không?"
@@ -268,12 +267,12 @@
           "vi": "Hãy điều chỉnh cài đặt nhiệt độ."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_22/test_10/audio/016.mp3"
     },
     {
       "id": "ets22-t10-p2-q017",
       "number": 17,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_10/audio/017.mp3",
       "question": {
         "en": "Haven't you finished the report yet?",
         "vi": "Bạn chưa hoàn thành báo cáo sao?"
@@ -295,12 +294,12 @@
           "vi": "Điều đó sẽ giúp ích, cảm ơn."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_22/test_10/audio/017.mp3"
     },
     {
       "id": "ets22-t10-p2-q018",
       "number": 18,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_10/audio/018.mp3",
       "question": {
         "en": "Do you want to fly or drive to the trade show?",
         "vi": "Bạn muốn bay hay lái xe đến hội chợ thương mại?"
@@ -322,12 +321,12 @@
           "vi": "Năm nay ở đâu?"
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_22/test_10/audio/018.mp3"
     },
     {
       "id": "ets22-t10-p2-q019",
       "number": 19,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_10/audio/019.mp3",
       "question": {
         "en": "Who's leading the focus group meeting on Friday?",
         "vi": "Ai phụ trách cuộc họp nhóm tập trung vào thứ Sáu?"
@@ -349,12 +348,12 @@
           "vi": "Tại hội thảo quản lý."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_22/test_10/audio/019.mp3"
     },
     {
       "id": "ets22-t10-p2-q020",
       "number": 20,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_10/audio/020.mp3",
       "question": {
         "en": "Why don't we create some videos for the interns?",
         "vi": "Tại sao chúng ta không tạo một số video cho thực tập sinh?"
@@ -376,12 +375,12 @@
           "vi": "Bài đánh giá về chương trình truyền hình của chúng ta."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_22/test_10/audio/020.mp3"
     },
     {
       "id": "ets22-t10-p2-q021",
       "number": 21,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_10/audio/021.mp3",
       "question": {
         "en": "Parkwood Bank has extended business hours today, doesn't it?",
         "vi": "Ngân hàng Prackwood đã kéo dài giờ làm việc hôm nay, phải không?"
@@ -403,12 +402,12 @@
           "vi": "Chỉ tại chi nhánh đường Main."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_22/test_10/audio/021.mp3"
     },
     {
       "id": "ets22-t10-p2-q022",
       "number": 22,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_10/audio/022.mp3",
       "question": {
         "en": "When do concert tickets go on sale?",
         "vi": "Khi nào vé hòa nhạc được mở bán?"
@@ -430,12 +429,12 @@
           "vi": "Đó là mức giá tốt!"
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_22/test_10/audio/022.mp3"
     },
     {
       "id": "ets22-t10-p2-q023",
       "number": 23,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_10/audio/023.mp3",
       "question": {
         "en": "Has anyone volunteered to organize the reception?",
         "vi": "Có ai tình nguyện tổ chức buổi tiếp tân không?"
@@ -457,12 +456,12 @@
           "vi": "Đó là một tổ chức nổi tiếng."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_22/test_10/audio/023.mp3"
     },
     {
       "id": "ets22-t10-p2-q024",
       "number": 24,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_10/audio/024.mp3",
       "question": {
         "en": "How do I turn off the copy machine?",
         "vi": "Làm cách nào để tắt máy photocopy?"
@@ -484,12 +483,12 @@
           "vi": "Vâng, máy mới đấy."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_22/test_10/audio/024.mp3"
     },
     {
       "id": "ets22-t10-p2-q025",
       "number": 25,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_10/audio/025.mp3",
       "question": {
         "en": "I'm calling to make an appointment with a physical therapist.",
         "vi": "Tôi gọi để đặt lịch hẹn với chuyên gia vật lý trị liệu."
@@ -511,12 +510,12 @@
           "vi": "Được—lựa chọn của bạn là thứ Hai hoặc thứ Ba tuần sau."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_22/test_10/audio/025.mp3"
     },
     {
       "id": "ets22-t10-p2-q026",
       "number": 26,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_10/audio/026.mp3",
       "question": {
         "en": "Our fabric shipment hasn't arrived yet, has it?",
         "vi": "Lô vải của chúng ta vẫn chưa đến, phải không?"
@@ -538,12 +537,12 @@
           "vi": "Tôi sẽ gọi cho nhà cung cấp ngay."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_22/test_10/audio/026.mp3"
     },
     {
       "id": "ets22-t10-p2-q027",
       "number": 27,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_10/audio/027.mp3",
       "question": {
         "en": "Did you send all staff the revised vacation policy?",
         "vi": "Bạn đã gửi chính sách nghỉ phép đã sửa đổi cho tất cả nhân viên chưa?"
@@ -565,12 +564,12 @@
           "vi": "Chuyến đi hai tuần đến Boston."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_22/test_10/audio/027.mp3"
     },
     {
       "id": "ets22-t10-p2-q028",
       "number": 28,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_10/audio/028.mp3",
       "question": {
         "en": "What's the telephone number for Primavera restaurant?",
         "vi": "Số điện thoại nhà hàng Primavera là gì?"
@@ -592,12 +591,12 @@
           "vi": "Cấp trên của chúng tôi đang chờ cuộc gọi của anh ấy."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_22/test_10/audio/028.mp3"
     },
     {
       "id": "ets22-t10-p2-q029",
       "number": 29,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_10/audio/029.mp3",
       "question": {
         "en": "Could you represent our company at the recruitment fair this week?",
         "vi": "Bạn có thể đại diện công ty chúng ta tại hội chợ tuyển dụng tuần này không?"
@@ -619,12 +618,12 @@
           "vi": "Tôi luôn thích gặp gỡ người mới."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_22/test_10/audio/029.mp3"
     },
     {
       "id": "ets22-t10-p2-q030",
       "number": 30,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_10/audio/030.mp3",
       "question": {
         "en": "The engine's been making a strange noise for the past hour.",
         "vi": "Động cơ đã phát ra tiếng ồn lạ trong một giờ qua."
@@ -646,12 +645,12 @@
           "vi": "Hãy vặn nhỏ âm lượng TV."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_22/test_10/audio/030.mp3"
     },
     {
       "id": "ets22-t10-p2-q031",
       "number": 31,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_10/audio/031.mp3",
       "question": {
         "en": "Where can we buy a microwave oven for the office kitchen?",
         "vi": "Chúng ta có thể mua lò vi sóng cho bếp văn phòng ở đâu?"
@@ -673,7 +672,8 @@
           "vi": "Có một cái trong nhà kho."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_22/test_10/audio/031.mp3"
     }
   ]
 }

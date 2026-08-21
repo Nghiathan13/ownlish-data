@@ -3,7 +3,6 @@
     {
       "id": "ets24-t03-p2-q007",
       "number": 7,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_03/audio/007.mp3",
       "question": {
         "en": "Why is there no flour on the shelf?",
         "vi": "Tại sao không có bột mì trên kệ?"
@@ -25,12 +24,12 @@
           "vi": "Không, cái bánh khác."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_24/test_03/audio/007.mp3"
     },
     {
       "id": "ets24-t03-p2-q008",
       "number": 8,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_03/audio/008.mp3",
       "question": {
         "en": "When will the catering company arrive?",
         "vi": "Khi nào công ty cung cấp dịch vụ ăn uống sẽ đến?"
@@ -52,12 +51,12 @@
           "vi": "Nhiều lựa chọn món chay."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_24/test_03/audio/008.mp3"
     },
     {
       "id": "ets24-t03-p2-q009",
       "number": 9,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_03/audio/009.mp3",
       "question": {
         "en": "When's the meeting scheduled to start?",
         "vi": "Cuộc họp được lên lịch bắt đầu khi nào?"
@@ -79,12 +78,12 @@
           "vi": "Ngay sau bữa trưa."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_24/test_03/audio/009.mp3"
     },
     {
       "id": "ets24-t03-p2-q010",
       "number": 10,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_03/audio/010.mp3",
       "question": {
         "en": "How much will the repairs cost?",
         "vi": "Việc sửa chữa sẽ tốn bao nhiêu tiền?"
@@ -106,12 +105,12 @@
           "vi": "Nhà hàng ở trung tâm thành phố."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_24/test_03/audio/010.mp3"
     },
     {
       "id": "ets24-t03-p2-q011",
       "number": 11,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_03/audio/011.mp3",
       "question": {
         "en": "You went to the dentist this morning, didn't you?",
         "vi": "Bạn đã đi nha sĩ sáng nay, đúng không?"
@@ -133,12 +132,12 @@
           "vi": "Hãy đi xe buýt."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_24/test_03/audio/011.mp3"
     },
     {
       "id": "ets24-t03-p2-q012",
       "number": 12,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_03/audio/012.mp3",
       "question": {
         "en": "Where should we put the new printer?",
         "vi": "Chúng ta nên đặt máy in mới ở đâu?"
@@ -160,12 +159,12 @@
           "vi": "Một hộp mực có thể tái sử dụng."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_24/test_03/audio/012.mp3"
     },
     {
       "id": "ets24-t03-p2-q013",
       "number": 13,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_03/audio/013.mp3",
       "question": {
         "en": "What type of plant do you have in your office?",
         "vi": "Bạn có loại cây nào trong văn phòng?"
@@ -187,12 +186,12 @@
           "vi": "Loại không cần nhiều nước."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_24/test_03/audio/013.mp3"
     },
     {
       "id": "ets24-t03-p2-q014",
       "number": 14,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_03/audio/014.mp3",
       "question": {
         "en": "There was a sale at the furniture store.",
         "vi": "Có một đợt giảm giá ở cửa hàng nội thất."
@@ -214,12 +213,12 @@
           "vi": "Một số biên nhận cũ."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_24/test_03/audio/014.mp3"
     },
     {
       "id": "ets24-t03-p2-q015",
       "number": 15,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_03/audio/015.mp3",
       "question": {
         "en": "Can you show me how to submit a tech help ticket?",
         "vi": "Bạn có thể chỉ tôi cách gửi phiếu yêu cầu hỗ trợ kỹ thuật không?"
@@ -241,12 +240,12 @@
           "vi": "Không, hơn mười phút."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_24/test_03/audio/015.mp3"
     },
     {
       "id": "ets24-t03-p2-q016",
       "number": 16,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_03/audio/016.mp3",
       "question": {
         "en": "Where is the power button on this device?",
         "vi": "Nút nguồn trên thiết bị này ở đâu?"
@@ -268,12 +267,12 @@
           "vi": "Chúng tôi tính phí cao hơn cho ảnh màu."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_24/test_03/audio/016.mp3"
     },
     {
       "id": "ets24-t03-p2-q017",
       "number": 17,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_03/audio/017.mp3",
       "question": {
         "en": "Do you want to take a walk now, or would later be better?",
         "vi": "Bạn muốn đi bộ bây giờ, hay để sau thì tốt hơn?"
@@ -295,12 +294,12 @@
           "vi": "Không, tôi không dùng thiết bị theo dõi thể dục."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_24/test_03/audio/017.mp3"
     },
     {
       "id": "ets24-t03-p2-q018",
       "number": 18,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_03/audio/018.mp3",
       "question": {
         "en": "I ordered some new equipment for the factory.",
         "vi": "Tôi đã đặt mua một số thiết bị mới cho nhà máy."
@@ -322,12 +321,12 @@
           "vi": "Đại lý ô tô."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_24/test_03/audio/018.mp3"
     },
     {
       "id": "ets24-t03-p2-q019",
       "number": 19,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_03/audio/019.mp3",
       "question": {
         "en": "There's a nice place to rent on Mercer Street.",
         "vi": "Có một nơi tốt để thuê trên phố Mercer."
@@ -349,12 +348,12 @@
           "vi": "Một mẫu đơn thuê tiêu chuẩn."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_24/test_03/audio/019.mp3"
     },
     {
       "id": "ets24-t03-p2-q020",
       "number": 20,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_03/audio/020.mp3",
       "question": {
         "en": "Is the heating system working?",
         "vi": "Hệ thống sưởi có hoạt động không?"
@@ -376,12 +375,12 @@
           "vi": "Tôi vừa gọi bộ phận bảo trì."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_24/test_03/audio/020.mp3"
     },
     {
       "id": "ets24-t03-p2-q021",
       "number": 21,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_03/audio/021.mp3",
       "question": {
         "en": "Isn't the roadwork in front of city hall finished yet?",
         "vi": "Chẳng phải công trình sửa đường trước tòa thị chính vẫn chưa hoàn thành sao?"
@@ -403,12 +402,12 @@
           "vi": "Chưa, họ vẫn còn một tháng nữa."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_24/test_03/audio/021.mp3"
     },
     {
       "id": "ets24-t03-p2-q022",
       "number": 22,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_03/audio/022.mp3",
       "question": {
         "en": "Who will lead the new-employee training today?",
         "vi": "Ai sẽ dẫn buổi đào tạo nhân viên mới hôm nay?"
@@ -430,12 +429,12 @@
           "vi": "Phòng học 124."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_24/test_03/audio/022.mp3"
     },
     {
       "id": "ets24-t03-p2-q023",
       "number": 23,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_03/audio/023.mp3",
       "question": {
         "en": "Is the safety inspection scheduled for this month or next month?",
         "vi": "Cuộc kiểm tra an toàn được lên lịch vào tháng này hay tháng sau?"
@@ -457,12 +456,12 @@
           "vi": "Vào thứ Tư tuần này."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_24/test_03/audio/023.mp3"
     },
     {
       "id": "ets24-t03-p2-q024",
       "number": 24,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_03/audio/024.mp3",
       "question": {
         "en": "When is the harvest festival taking place?",
         "vi": "Lễ hội thu hoạch sẽ diễn ra khi nào?"
@@ -484,12 +483,12 @@
           "vi": "Công viên bên cạnh bảo tàng nghệ thuật."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_24/test_03/audio/024.mp3"
     },
     {
       "id": "ets24-t03-p2-q025",
       "number": 25,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_03/audio/025.mp3",
       "question": {
         "en": "Was your new laptop expensive?",
         "vi": "Máy tính xách tay mới của bạn có đắt không?"
@@ -511,12 +510,12 @@
           "vi": "Trên nóc tủ."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_24/test_03/audio/025.mp3"
     },
     {
       "id": "ets24-t03-p2-q026",
       "number": 26,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_03/audio/026.mp3",
       "question": {
         "en": "Why don't we go on our camping trip next weekend?",
         "vi": "Tại sao chúng ta không đi cắm trại vào cuối tuần tới?"
@@ -538,12 +537,12 @@
           "vi": "Tôi có một buổi biểu diễn đã được lên lịch với ban nhạc của mình."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_24/test_03/audio/026.mp3"
     },
     {
       "id": "ets24-t03-p2-q027",
       "number": 27,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_03/audio/027.mp3",
       "question": {
         "en": "The workshop for this afternoon was postponed, wasn't it?",
         "vi": "Buổi hội thảo chiều nay đã bị hoãn, đúng không?"
@@ -565,12 +564,12 @@
           "vi": "Làm ơn cho một vé lúc hai giờ."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_24/test_03/audio/027.mp3"
     },
     {
       "id": "ets24-t03-p2-q028",
       "number": 28,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_03/audio/028.mp3",
       "question": {
         "en": "How were our production figures last month?",
         "vi": "Các số liệu sản xuất của chúng ta tháng trước như thế nào?"
@@ -592,12 +591,12 @@
           "vi": "Chúng ta đã đóng cửa trong một tuần."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_24/test_03/audio/028.mp3"
     },
     {
       "id": "ets24-t03-p2-q029",
       "number": 29,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_03/audio/029.mp3",
       "question": {
         "en": "When can I see the speech therapist?",
         "vi": "Khi nào tôi có thể gặp chuyên gia trị liệu ngôn ngữ?"
@@ -619,12 +618,12 @@
           "vi": "Chiều mai thì sao?"
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_24/test_03/audio/029.mp3"
     },
     {
       "id": "ets24-t03-p2-q030",
       "number": 30,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_03/audio/030.mp3",
       "question": {
         "en": "Aren't you picking up the clients from the airport?",
         "vi": "Chẳng phải bạn sẽ đón khách hàng từ sân bay sao?"
@@ -646,12 +645,12 @@
           "vi": "Anh ấy thích ghế gần lối đi."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_24/test_03/audio/030.mp3"
     },
     {
       "id": "ets24-t03-p2-q031",
       "number": 31,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_24/test_03/audio/031.mp3",
       "question": {
         "en": "How was your morning client meeting?",
         "vi": "Cuộc họp với khách hàng sáng nay của bạn thế nào?"
@@ -673,7 +672,8 @@
           "vi": "Hợp đồng hiện đã được ký chính thức."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_24/test_03/audio/031.mp3"
     }
   ]
 }

@@ -3,7 +3,6 @@
     {
       "id": "ybm25-t10-p2-q007",
       "number": 7,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_10/audio/007.mp3",
       "question": {
         "en": "When does your flight leave?",
         "vi": "Khi nào chuyến bay của bạn khởi hành?"
@@ -25,12 +24,12 @@
           "vi": "Trên chuyến bay thẳng."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ybm_25/test_10/audio/007.mp3"
     },
     {
       "id": "ybm25-t10-p2-q008",
       "number": 8,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_10/audio/008.mp3",
       "question": {
         "en": "How much do you charge for carpet cleaning?",
         "vi": "Bạn tính phí bao nhiêu cho việc làm sạch thảm?"
@@ -52,12 +51,12 @@
           "vi": "Nó phụ thuộc vào kích thước của không gian."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ybm_25/test_10/audio/008.mp3"
     },
     {
       "id": "ybm25-t10-p2-q009",
       "number": 9,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_10/audio/009.mp3",
       "question": {
         "en": "Do you want to try those shoes on?",
         "vi": "Bạn có muốn thử đôi giày đó không?"
@@ -79,12 +78,12 @@
           "vi": "Tôi sẽ gọi món đặc biệt bữa trưa."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ybm_25/test_10/audio/009.mp3"
     },
     {
       "id": "ybm25-t10-p2-q010",
       "number": 10,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_10/audio/010.mp3",
       "question": {
         "en": "Who can I talk to about home financing?",
         "vi": "Tôi có thể nói chuyện với ai về việc vay mua nhà?"
@@ -106,12 +105,12 @@
           "vi": "Một trong những nhân viên cho vay của chúng tôi."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ybm_25/test_10/audio/010.mp3"
     },
     {
       "id": "ybm25-t10-p2-q011",
       "number": 11,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_10/audio/011.mp3",
       "question": {
         "en": "What should I do with these bottles of water?",
         "vi": "Tôi nên làm gì với những chai nước này?"
@@ -133,12 +132,12 @@
           "vi": "Không sao—những cây này là giả."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ybm_25/test_10/audio/011.mp3"
     },
     {
       "id": "ybm25-t10-p2-q012",
       "number": 12,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_10/audio/012.mp3",
       "question": {
         "en": "How was the basketball game?",
         "vi": "Trận bóng rổ thế nào?"
@@ -160,12 +159,12 @@
           "vi": "Nghe có vẻ vui, cảm ơn."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ybm_25/test_10/audio/012.mp3"
     },
     {
       "id": "ybm25-t10-p2-q013",
       "number": 13,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_10/audio/013.mp3",
       "question": {
         "en": "The conference runs through Sunday, doesn't it?",
         "vi": "Hội nghị kéo dài đến Chủ nhật, phải không?"
@@ -187,12 +186,12 @@
           "vi": "Tôi thích đạp xe hơn chạy bộ."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ybm_25/test_10/audio/013.mp3"
     },
     {
       "id": "ybm25-t10-p2-q014",
       "number": 14,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_10/audio/014.mp3",
       "question": {
         "en": "Why is the elevator blocked off?",
         "vi": "Tại sao thang máy bị chặn lại?"
@@ -214,12 +213,12 @@
           "vi": "Xin lỗi, nó xa hơn tôi nghĩ."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ybm_25/test_10/audio/014.mp3"
     },
     {
       "id": "ybm25-t10-p2-q015",
       "number": 15,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_10/audio/015.mp3",
       "question": {
         "en": "Where can I buy a pair of wireless headphones?",
         "vi": "Tôi có thể mua một đôi tai nghe không dây ở đâu?"
@@ -241,12 +240,12 @@
           "vi": "Jameson Electronics bán chúng."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ybm_25/test_10/audio/015.mp3"
     },
     {
       "id": "ybm25-t10-p2-q016",
       "number": 16,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_10/audio/016.mp3",
       "question": {
         "en": "I can just submit my expense report next week, right?",
         "vi": "Tôi có thể nộp báo cáo chi phí vào tuần tới, đúng không?"
@@ -268,12 +267,12 @@
           "vi": "Không, nó sẽ ở bên trái của bạn."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ybm_25/test_10/audio/016.mp3"
     },
     {
       "id": "ybm25-t10-p2-q017",
       "number": 17,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_10/audio/017.mp3",
       "question": {
         "en": "Are you looking for a part-time or full-time position?",
         "vi": "Bạn đang tìm vị trí bán thời gian hay toàn thời gian?"
@@ -295,12 +294,12 @@
           "vi": "Có một cái đồng hồ trên tường phía sau."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ybm_25/test_10/audio/017.mp3"
     },
     {
       "id": "ybm25-t10-p2-q018",
       "number": 18,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_10/audio/018.mp3",
       "question": {
         "en": "Can you help me change my log-on password?",
         "vi": "Bạn có thể giúp tôi đổi mật khẩu đăng nhập không?"
@@ -322,12 +321,12 @@
           "vi": "Đừng lo—tôi chắc chắn bạn đã vượt qua."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ybm_25/test_10/audio/018.mp3"
     },
     {
       "id": "ybm25-t10-p2-q019",
       "number": 19,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_10/audio/019.mp3",
       "question": {
         "en": "Why are we being required to use new scheduling software?",
         "vi": "Tại sao chúng ta được yêu cầu sử dụng phần mềm lên lịch mới?"
@@ -349,12 +348,12 @@
           "vi": "Mã kích hoạt ở trên biên lai."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ybm_25/test_10/audio/019.mp3"
     },
     {
       "id": "ybm25-t10-p2-q020",
       "number": 20,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_10/audio/020.mp3",
       "question": {
         "en": "Which brand makes the best washing machines?",
         "vi": "Thương hiệu nào sản xuất máy giặt tốt nhất?"
@@ -376,12 +375,12 @@
           "vi": "Khách sạn cung cấp dịch vụ giặt là."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ybm_25/test_10/audio/020.mp3"
     },
     {
       "id": "ybm25-t10-p2-q021",
       "number": 21,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_10/audio/021.mp3",
       "question": {
         "en": "Don't you have any apartments available in the next month?",
         "vi": "Bạn không có bất kỳ căn hộ nào có sẵn trong tháng tới à?"
@@ -403,12 +402,12 @@
           "vi": "Không, không có hợp đồng thuê hiện tại nào kết thúc sớm như vậy."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ybm_25/test_10/audio/021.mp3"
     },
     {
       "id": "ybm25-t10-p2-q022",
       "number": 22,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_10/audio/022.mp3",
       "question": {
         "en": "I left my umbrella in the taxi!",
         "vi": "Tôi để quên ô trên taxi rồi!"
@@ -430,12 +429,12 @@
           "vi": "Chúng tôi có cái dự phòng ở văn phòng."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ybm_25/test_10/audio/022.mp3"
     },
     {
       "id": "ybm25-t10-p2-q023",
       "number": 23,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_10/audio/023.mp3",
       "question": {
         "en": "When can we expect the contest winners to be announced?",
         "vi": "Khi nào chúng ta có thể mong đợi người thắng cuộc thi được công bố?"
@@ -457,12 +456,12 @@
           "vi": "Tôi luôn mang theo của riêng mình."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ybm_25/test_10/audio/023.mp3"
     },
     {
       "id": "ybm25-t10-p2-q024",
       "number": 24,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_10/audio/024.mp3",
       "question": {
         "en": "Where do we put old ink cartridges?",
         "vi": "Chúng ta đặt hộp mực in cũ ở đâu?"
@@ -484,12 +483,12 @@
           "vi": "Chắc chắn, bạn có thể gửi yêu cầu."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ybm_25/test_10/audio/024.mp3"
     },
     {
       "id": "ybm25-t10-p2-q025",
       "number": 25,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_10/audio/025.mp3",
       "question": {
         "en": "We should consider replacing our packaging machine.",
         "vi": "Chúng ta nên cân nhắc thay thế máy đóng gói."
@@ -511,12 +510,12 @@
           "vi": "Việc sửa chữa đang trở nên tốn kém hơn."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ybm_25/test_10/audio/025.mp3"
     },
     {
       "id": "ybm25-t10-p2-q026",
       "number": 26,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_10/audio/026.mp3",
       "question": {
         "en": "Will my account be suspended if I use my credit card abroad?",
         "vi": "Tài khoản của tôi có bị đình chỉ không nếu tôi dùng thẻ tín dụng ở nước ngoài?"
@@ -538,12 +537,12 @@
           "vi": "Bạn có thể xem hóa đơn thẻ tín dụng trên Website của chúng tôi."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ybm_25/test_10/audio/026.mp3"
     },
     {
       "id": "ybm25-t10-p2-q027",
       "number": 27,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_10/audio/027.mp3",
       "question": {
         "en": "Aren't you going to attend the database training?",
         "vi": "Bạn không định tham dự khóa đào tạo cơ sở dữ liệu sao?"
@@ -565,12 +564,12 @@
           "vi": "Tôi nghĩ bạn không thích đi tàu."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ybm_25/test_10/audio/027.mp3"
     },
     {
       "id": "ybm25-t10-p2-q028",
       "number": 28,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_10/audio/028.mp3",
       "question": {
         "en": "Can you send me the budget proposal for the relocation?",
         "vi": "Bạn có thể gửi cho tôi đề xuất ngân sách cho việc di dời không?"
@@ -592,12 +591,12 @@
           "vi": "Nó sẽ có trong hộp thư đến của bạn."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ybm_25/test_10/audio/028.mp3"
     },
     {
       "id": "ybm25-t10-p2-q029",
       "number": 29,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_10/audio/029.mp3",
       "question": {
         "en": "Do you want to hold the focus group meetings this week or next week?",
         "vi": "Bạn muốn tổ chức các cuộc họp nhóm trọng điểm tuần này hay tuần sau?"
@@ -619,12 +618,12 @@
           "vi": "Phòng hội nghị ở tầng ba."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ybm_25/test_10/audio/029.mp3"
     },
     {
       "id": "ybm25-t10-p2-q030",
       "number": 30,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_10/audio/030.mp3",
       "question": {
         "en": "Who was the graphic designer for the event T-shirts?",
         "vi": "Ai là nhà thiết kế đồ họa cho áo thun của sự kiện?"
@@ -646,12 +645,12 @@
           "vi": "Đó là rất nhiều nhà triển lãm."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ybm_25/test_10/audio/030.mp3"
     },
     {
       "id": "ybm25-t10-p2-q031",
       "number": 31,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_10/audio/031.mp3",
       "question": {
         "en": "It's a long drive to the convention center from here.",
         "vi": "Đường đến trung tâm hội nghị từ đây khá dài."
@@ -673,7 +672,8 @@
           "vi": "Chúng ta có thể dùng thời gian để thảo luận về bài thuyết trình."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ybm_25/test_10/audio/031.mp3"
     }
   ]
 }

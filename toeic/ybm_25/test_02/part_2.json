@@ -3,7 +3,6 @@
     {
       "id": "ybm25-t02-p2-q007",
       "number": 7,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/007.mp3",
       "question": {
         "en": "Why is the doctor running late?",
         "vi": "Bác sĩ tại sao lại đến trễ vậy?"
@@ -25,12 +24,12 @@
           "vi": "Không, đó chưa phải là quá sớm."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ybm_25/test_02/audio/007.mp3"
     },
     {
       "id": "ybm25-t02-p2-q008",
       "number": 8,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/008.mp3",
       "question": {
         "en": "Where can I find art supplies?",
         "vi": "Tôi có thể tìm đồ dùng mỹ thuật ở đâu?"
@@ -52,12 +51,12 @@
           "vi": "Để giết thời gian."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ybm_25/test_02/audio/008.mp3"
     },
     {
       "id": "ybm25-t02-p2-q009",
       "number": 9,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/009.mp3",
       "question": {
         "en": "Who waters the plants in the lobby?",
         "vi": "Ai tưới cây trong sảnh?"
@@ -79,12 +78,12 @@
           "vi": "Tôi không khát ngay bây giờ."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ybm_25/test_02/audio/009.mp3"
     },
     {
       "id": "ybm25-t02-p2-q010",
       "number": 10,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/010.mp3",
       "question": {
         "en": "Do you have a phone I could use?",
         "vi": "Bạn có điện thoại nào tôi có thể dùng không?"
@@ -106,12 +105,12 @@
           "vi": "Tôi đang chờ một cuộc gọi."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ybm_25/test_02/audio/010.mp3"
     },
     {
       "id": "ybm25-t02-p2-q011",
       "number": 11,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/011.mp3",
       "question": {
         "en": "How can we welcome our summer interns?",
         "vi": "Chúng ta có thể chào đón các thực tập sinh mùa hè như thế nào?"
@@ -133,12 +132,12 @@
           "vi": "Cả nhóm có thể cùng nhau ra ngoài ăn trưa."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ybm_25/test_02/audio/011.mp3"
     },
     {
       "id": "ybm25-t02-p2-q012",
       "number": 12,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/012.mp3",
       "question": {
         "en": "When will the product testing start?",
         "vi": "Khi nào việc kiểm tra sản phẩm sẽ bắt đầu?"
@@ -160,12 +159,12 @@
           "vi": "Từ một phòng thí nghiệm đặc biệt."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ybm_25/test_02/audio/012.mp3"
     },
     {
       "id": "ybm25-t02-p2-q013",
       "number": 13,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/013.mp3",
       "question": {
         "en": "Do you know the deadline for that project?",
         "vi": "Bạn có biết thời hạn của dự án đó không?"
@@ -187,12 +186,12 @@
           "vi": "Không cấp bách lắm."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ybm_25/test_02/audio/013.mp3"
     },
     {
       "id": "ybm25-t02-p2-q014",
       "number": 14,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/014.mp3",
       "question": {
         "en": "What did you think of the job candidate?",
         "vi": "Bạn nghĩ gì về ứng viên xin việc đó?"
@@ -214,12 +213,12 @@
           "vi": "Tôi nghĩ anh ấy rất ấn tượng."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ybm_25/test_02/audio/014.mp3"
     },
     {
       "id": "ybm25-t02-p2-q015",
       "number": 15,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/015.mp3",
       "question": {
         "en": "Did you find a buyer for the Maple Street house?",
         "vi": "Bạn có tìm được người mua căn nhà trên phố Maple chưa?"
@@ -241,12 +240,12 @@
           "vi": "Một nghìn hai trăm bộ vuông."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ybm_25/test_02/audio/015.mp3"
     },
     {
       "id": "ybm25-t02-p2-q016",
       "number": 16,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/016.mp3",
       "question": {
         "en": "What do we have to wear for the company photo shoot?",
         "vi": "Chúng ta phải mặc gì khi chụp ảnh công ty?"
@@ -268,12 +267,12 @@
           "vi": "Có, anh ấy rất nổi tiếng trên mạng xã hội."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ybm_25/test_02/audio/016.mp3"
     },
     {
       "id": "ybm25-t02-p2-q017",
       "number": 17,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/017.mp3",
       "question": {
         "en": "That gallery's been closed for months.",
         "vi": "Phòng tranh đó đã đóng cửa mấy tháng rồi."
@@ -295,12 +294,12 @@
           "vi": "Chúng ta có thể sẽ ghé thăm một nơi."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ybm_25/test_02/audio/017.mp3"
     },
     {
       "id": "ybm25-t02-p2-q018",
       "number": 18,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/018.mp3",
       "question": {
         "en": "Could you design the event invitations?",
         "vi": "Bạn có thể thiết kế thiệp mời sự kiện không?"
@@ -322,12 +321,12 @@
           "vi": "Kỳ nghỉ của tôi bắt đầu từ ngày mai."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ybm_25/test_02/audio/018.mp3"
     },
     {
       "id": "ybm25-t02-p2-q019",
       "number": 19,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/019.mp3",
       "question": {
         "en": "This author's last book was nominated for a Voss Award, right?",
         "vi": "Cuốn sách gần nhất của tác giả này đã được đề cử giải Voss, đúng không?"
@@ -349,12 +348,12 @@
           "vi": "Một vài bộ phim."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ybm_25/test_02/audio/019.mp3"
     },
     {
       "id": "ybm25-t02-p2-q020",
       "number": 20,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/020.mp3",
       "question": {
         "en": "When will the roadwork end?",
         "vi": "Khi nào công trình đường sá sẽ hoàn thành?"
@@ -376,12 +375,12 @@
           "vi": "Họ đang tiến hành khá tốt."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ybm_25/test_02/audio/020.mp3"
     },
     {
       "id": "ybm25-t02-p2-q021",
       "number": 21,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/021.mp3",
       "question": {
         "en": "Would you like that shirt in a larger size?",
         "vi": "Bạn có muốn chiếc áo đó với size lớn hơn không?"
@@ -403,12 +402,12 @@
           "vi": "Tôi sẽ in ra dữ liệu bán hàng."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ybm_25/test_02/audio/021.mp3"
     },
     {
       "id": "ybm25-t02-p2-q022",
       "number": 22,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/022.mp3",
       "question": {
         "en": "There are a lot of empty seats in the theater today, aren't there?",
         "vi": "Hôm nay trong rạp có rất nhiều ghế trống, phải không?"
@@ -430,12 +429,12 @@
           "vi": "Đây là vé của tôi."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ybm_25/test_02/audio/022.mp3"
     },
     {
       "id": "ybm25-t02-p2-q023",
       "number": 23,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/023.mp3",
       "question": {
         "en": "When can I visit the factory to see the production samples?",
         "vi": "Khi nào tôi có thể đến thăm nhà máy để xem các mẫu sản phẩm?"
@@ -457,12 +456,12 @@
           "vi": "Không, đó không phải là yếu tố duy nhất."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ybm_25/test_02/audio/023.mp3"
     },
     {
       "id": "ybm25-t02-p2-q024",
       "number": 24,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/024.mp3",
       "question": {
         "en": "Didn't Ms. Oba tell us to call her when the printer was repaired?",
         "vi": "Bà Oba không dặn chúng ta gọi cho bà khi máy in được sửa xong sao?"
@@ -484,12 +483,12 @@
           "vi": "Không, cái đó là của kỹ thuật viên."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ybm_25/test_02/audio/024.mp3"
     },
     {
       "id": "ybm25-t02-p2-q025",
       "number": 25,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/025.mp3",
       "question": {
         "en": "Will the keynote speaker arrive today, or is she flying in tomorrow?",
         "vi": "Diễn giả chính sẽ đến hôm nay hay cô ấy bay vào ngày mai?"
@@ -511,12 +510,12 @@
           "vi": "Cô ấy sẽ đến đây tối nay."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ybm_25/test_02/audio/025.mp3"
     },
     {
       "id": "ybm25-t02-p2-q026",
       "number": 26,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/026.mp3",
       "question": {
         "en": "What kinds of articles do you write for the magazine?",
         "vi": "Bạn viết những loại bài gì cho tạp chí?"
@@ -538,12 +537,12 @@
           "vi": "Cảm ơn, chúng tôi rất tự hào về nó."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ybm_25/test_02/audio/026.mp3"
     },
     {
       "id": "ybm25-t02-p2-q027",
       "number": 27,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/027.mp3",
       "question": {
         "en": "How did you like Monday's class?",
         "vi": "Bạn thấy buổi học thứ Hai như thế nào?"
@@ -565,12 +564,12 @@
           "vi": "Một giảng viên khác."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ybm_25/test_02/audio/027.mp3"
     },
     {
       "id": "ybm25-t02-p2-q028",
       "number": 28,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/028.mp3",
       "question": {
         "en": "Do you want to have dinner at the restaurant in our hotel?",
         "vi": "Bạn có muốn dùng bữa tối tại nhà hàng trong khách sạn của chúng ta không?"
@@ -592,12 +591,12 @@
           "vi": "Nhà hàng có các lựa chọn món chay không?"
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ybm_25/test_02/audio/028.mp3"
     },
     {
       "id": "ybm25-t02-p2-q029",
       "number": 29,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/029.mp3",
       "question": {
         "en": "If the conference room's taken, where can we hold a meeting?",
         "vi": "Nếu phòng họp đã có người dùng, chúng ta có thể tổ chức cuộc họp ở đâu?"
@@ -619,12 +618,12 @@
           "vi": "Cuộc họp giám đốc đã được dời lịch."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ybm_25/test_02/audio/029.mp3"
     },
     {
       "id": "ybm25-t02-p2-q030",
       "number": 30,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/030.mp3",
       "question": {
         "en": "I'm not sure we're ready to play this song at the concert.",
         "vi": "Tôi không chắc chúng ta đã sẵn sàng để biểu diễn bài hát này tại buổi hòa nhạc."
@@ -646,12 +645,12 @@
           "vi": "Tay guitar chính."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ybm_25/test_02/audio/030.mp3"
     },
     {
       "id": "ybm25-t02-p2-q031",
       "number": 31,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ybm_25/test_02/audio/031.mp3",
       "question": {
         "en": "Why don't you load up the packages so we can deliver them?",
         "vi": "Tại sao bạn không xếp các kiện hàng lên để chúng ta có thể giao chúng?"
@@ -673,7 +672,8 @@
           "vi": "Chúng đã ở trên xe tải rồi."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ybm_25/test_02/audio/031.mp3"
     }
   ]
 }

@@ -2,7 +2,6 @@
   "groups": [
     {
       "id": "ets21-t01-p4-g071-073",
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_01/audio/071-073.mp3",
       "transcript": {
         "en": [
           {
@@ -132,11 +131,11 @@
           ],
           "answer": "B"
         }
-      ]
+      ],
+      "audio": "toeic/ets_21/test_01/audio/071-073.mp3"
     },
     {
       "id": "ets21-t01-p4-g074-076",
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_01/audio/074-076.mp3",
       "transcript": {
         "en": [
           {
@@ -275,11 +274,11 @@
           ],
           "answer": "A"
         }
-      ]
+      ],
+      "audio": "toeic/ets_21/test_01/audio/074-076.mp3"
     },
     {
       "id": "ets21-t01-p4-g077-079",
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_01/audio/077-079.mp3",
       "transcript": {
         "en": [
           {
@@ -414,11 +413,11 @@
           ],
           "answer": "C"
         }
-      ]
+      ],
+      "audio": "toeic/ets_21/test_01/audio/077-079.mp3"
     },
     {
       "id": "ets21-t01-p4-g080-082",
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_01/audio/080-082.mp3",
       "transcript": {
         "en": [
           {
@@ -549,11 +548,11 @@
           ],
           "answer": "C"
         }
-      ]
+      ],
+      "audio": "toeic/ets_21/test_01/audio/080-082.mp3"
     },
     {
       "id": "ets21-t01-p4-g083-085",
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_01/audio/083-085.mp3",
       "transcript": {
         "en": [
           {
@@ -692,11 +691,11 @@
           ],
           "answer": "A"
         }
-      ]
+      ],
+      "audio": "toeic/ets_21/test_01/audio/083-085.mp3"
     },
     {
       "id": "ets21-t01-p4-g086-088",
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_01/audio/086-088.mp3",
       "transcript": {
         "en": [
           {
@@ -831,11 +830,11 @@
           ],
           "answer": "D"
         }
-      ]
+      ],
+      "audio": "toeic/ets_21/test_01/audio/086-088.mp3"
     },
     {
       "id": "ets21-t01-p4-g089-091",
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_01/audio/089-091.mp3",
       "transcript": {
         "en": [
           {
@@ -974,11 +973,11 @@
           ],
           "answer": "A"
         }
-      ]
+      ],
+      "audio": "toeic/ets_21/test_01/audio/089-091.mp3"
     },
     {
       "id": "ets21-t01-p4-g092-094",
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_01/audio/092-094.mp3",
       "transcript": {
         "en": [
           {
@@ -1113,11 +1112,11 @@
           ],
           "answer": "D"
         }
-      ]
+      ],
+      "audio": "toeic/ets_21/test_01/audio/092-094.mp3"
     },
     {
       "id": "ets21-t01-p4-g095-097",
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_01/audio/095-097.mp3",
       "transcript": {
         "en": [
           {
@@ -1253,11 +1252,11 @@
           "answer": "C"
         }
       ],
-      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_01/image/095-097.png"
+      "audio": "toeic/ets_21/test_01/audio/095-097.mp3",
+      "image": "toeic/ets_21/test_01/image/095-097.png"
     },
     {
       "id": "ets21-t01-p4-g098-100",
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_01/audio/098-100.mp3",
       "transcript": {
         "en": [
           {
@@ -1397,7 +1396,8 @@
           "answer": "B"
         }
       ],
-      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_21/test_01/image/098-100.png"
+      "audio": "toeic/ets_21/test_01/audio/098-100.mp3",
+      "image": "toeic/ets_21/test_01/image/098-100.png"
     }
   ]
 }

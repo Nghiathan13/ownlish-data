@@ -3,7 +3,6 @@
     {
       "id": "ets19-t01-p2-q007",
       "number": 7,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_01/audio/007.mp3",
       "question": {
         "en": "When did you buy your new phone?",
         "vi": "Bạn mua điện thoại mới khi nào?"
@@ -25,12 +24,12 @@
           "vi": "Tôi nghĩ đó là cùng một số."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_19/test_01/audio/007.mp3"
     },
     {
       "id": "ets19-t01-p2-q008",
       "number": 8,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_01/audio/008.mp3",
       "question": {
         "en": "Do you know where Keiko's office is?",
         "vi": "Bạn có biết văn phòng của Keiko ở đâu không?"
@@ -52,12 +51,12 @@
           "vi": "Ở tầng hai."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_19/test_01/audio/008.mp3"
     },
     {
       "id": "ets19-t01-p2-q009",
       "number": 9,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_01/audio/009.mp3",
       "question": {
         "en": "That was a short movie, wasn't it?",
         "vi": "Bộ phim ngắn quá, phải không?"
@@ -79,12 +78,12 @@
           "vi": "Chắc tôi để nhầm chỗ rồi."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_19/test_01/audio/009.mp3"
     },
     {
       "id": "ets19-t01-p2-q010",
       "number": 10,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_01/audio/010.mp3",
       "question": {
         "en": "Where can I find a building directory?",
         "vi": "Tôi có thể tìm bảng hướng dẫn tòa nhà ở đâu?"
@@ -106,12 +105,12 @@
           "vi": "Gần lối vào phía trước."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_19/test_01/audio/010.mp3"
     },
     {
       "id": "ets19-t01-p2-q011",
       "number": 11,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_01/audio/011.mp3",
       "question": {
         "en": "Who's going to lead the merger negotiations?",
         "vi": "Ai sẽ chủ trì cuộc đàm phán sáp nhập?"
@@ -133,12 +132,12 @@
           "vi": "Không, đó không phải của tôi."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_19/test_01/audio/011.mp3"
     },
     {
       "id": "ets19-t01-p2-q012",
       "number": 12,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_01/audio/012.mp3",
       "question": {
         "en": "How do I contact the financial consultant?",
         "vi": "Làm thế nào để liên hệ chuyên viên tư vấn tài chính?"
@@ -160,12 +159,12 @@
           "vi": "Vài ngày nữa."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_19/test_01/audio/012.mp3"
     },
     {
       "id": "ets19-t01-p2-q013",
       "number": 13,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_01/audio/013.mp3",
       "question": {
         "en": "When is the health inspector coming?",
         "vi": "Khi nào thanh tra y tế đến?"
@@ -187,12 +186,12 @@
           "vi": "Ở cửa sau."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_19/test_01/audio/013.mp3"
     },
     {
       "id": "ets19-t01-p2-q014",
       "number": 14,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_01/audio/014.mp3",
       "question": {
         "en": "Wasn't this assignment due last week?",
         "vi": "Nhiệm vụ này hạn tuần trước phải không?"
@@ -214,12 +213,12 @@
           "vi": "Không, bạn không cần xin phép."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_19/test_01/audio/014.mp3"
     },
     {
       "id": "ets19-t01-p2-q015",
       "number": 15,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_01/audio/015.mp3",
       "question": {
         "en": "Whose turn is it to buy coffee?",
         "vi": "Đến lượt ai mua cà phê?"
@@ -241,12 +240,12 @@
           "vi": "Tôi mua rồi."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_19/test_01/audio/015.mp3"
     },
     {
       "id": "ets19-t01-p2-q016",
       "number": 16,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_01/audio/016.mp3",
       "question": {
         "en": "Where will the company retreat be next year?",
         "vi": "Năm sau chuyến nghỉ dưỡng của công ty sẽ ở đâu?"
@@ -268,12 +267,12 @@
           "vi": "Vâng, tôi đã từng đến đó."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_19/test_01/audio/016.mp3"
     },
     {
       "id": "ets19-t01-p2-q017",
       "number": 17,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_01/audio/017.mp3",
       "question": {
         "en": "Let's discuss the building designs this morning.",
         "vi": "Sáng nay chúng ta hãy thảo luận về thiết kế tòa nhà."
@@ -295,12 +294,12 @@
           "vi": "Anh ấy cũng làm việc ở tòa nhà đó à?"
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_19/test_01/audio/017.mp3"
     },
     {
       "id": "ets19-t01-p2-q018",
       "number": 18,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_01/audio/018.mp3",
       "question": {
         "en": "Why is there a cake sitting out on the front desk?",
         "vi": "Tại sao có chiếc bánh ở bàn lễ tân?"
@@ -322,12 +321,12 @@
           "vi": "Vì hôm nay là tiệc của Barb."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_19/test_01/audio/018.mp3"
     },
     {
       "id": "ets19-t01-p2-q019",
       "number": 19,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_01/audio/019.mp3",
       "question": {
         "en": "How are we going to move all of these office chairs?",
         "vi": "Chúng ta sẽ chuyển tất cả những chiếc ghế văn phòng này bằng cách nào?"
@@ -349,12 +348,12 @@
           "vi": "Mời ngồi cạnh cửa sổ."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_19/test_01/audio/019.mp3"
     },
     {
       "id": "ets19-t01-p2-q020",
       "number": 20,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_01/audio/020.mp3",
       "question": {
         "en": "Have you gone to the leadership training yet?",
         "vi": "Bạn đã đi tập huấn lãnh đạo chưa?"
@@ -376,12 +375,12 @@
           "vi": "Tôi không biết là bắt buộc."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_19/test_01/audio/020.mp3"
     },
     {
       "id": "ets19-t01-p2-q021",
       "number": 21,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_01/audio/021.mp3",
       "question": {
         "en": "Why don't we start marketing to a younger audience?",
         "vi": "Sao chúng ta không bắt đầu tiếp thị đến đối tượng trẻ hơn?"
@@ -403,12 +402,12 @@
           "vi": "Mười lăm là đủ rồi."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_19/test_01/audio/021.mp3"
     },
     {
       "id": "ets19-t01-p2-q022",
       "number": 22,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_01/audio/022.mp3",
       "question": {
         "en": "What kind of tablet computer do you have?",
         "vi": "Bạn có loại máy tính bảng nào?"
@@ -430,12 +429,12 @@
           "vi": "Bạn đang nghĩ đến việc mua một cái à?"
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_19/test_01/audio/022.mp3"
     },
     {
       "id": "ets19-t01-p2-q023",
       "number": 23,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_01/audio/023.mp3",
       "question": {
         "en": "Wouldn't you rather travel somewhere during your time off?",
         "vi": "Bạn không muốn đi du lịch đâu đó trong kỳ nghỉ sao?"
@@ -457,12 +456,12 @@
           "vi": "Tôi sẽ liên hệ lại với Sahar."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_19/test_01/audio/023.mp3"
     },
     {
       "id": "ets19-t01-p2-q024",
       "number": 24,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_01/audio/024.mp3",
       "question": {
         "en": "You gave the customers the bill, didn't you?",
         "vi": "Bạn đã đưa hóa đơn cho khách hàng rồi, phải không?"
@@ -484,12 +483,12 @@
           "vi": "Khoản thanh toán chưa đến sao?"
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_19/test_01/audio/024.mp3"
     },
     {
       "id": "ets19-t01-p2-q025",
       "number": 25,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_01/audio/025.mp3",
       "question": {
         "en": "How soon can you finish the Sterling report?",
         "vi": "Bạn có thể hoàn thành báo cáo Sterling sớm nhất khi nào?"
@@ -511,12 +510,12 @@
           "vi": "Hãy sao mười bản."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_19/test_01/audio/025.mp3"
     },
     {
       "id": "ets19-t01-p2-q026",
       "number": 26,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_01/audio/026.mp3",
       "question": {
         "en": "Would you like your receipt now, or shall I put it in the bag?",
         "vi": "Bạn muốn nhận hóa đơn bây giờ hay để tôi bỏ vào túi?"
@@ -538,12 +537,12 @@
           "vi": "Chiếc áo len đó trông đẹp quá."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_19/test_01/audio/026.mp3"
     },
     {
       "id": "ets19-t01-p2-q027",
       "number": 27,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_01/audio/027.mp3",
       "question": {
         "en": "The registration deadline is on Friday.",
         "vi": "Hạn đăng ký là thứ Sáu."
@@ -565,12 +564,12 @@
           "vi": "Vâng, tôi muốn."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_19/test_01/audio/027.mp3"
     },
     {
       "id": "ets19-t01-p2-q028",
       "number": 28,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_01/audio/028.mp3",
       "question": {
         "en": "Your airline has an overnight flight to Delhi, doesn't it?",
         "vi": "Hãng hàng không của bạn có chuyến bay đêm đến Delhi, phải không?"
@@ -592,12 +591,12 @@
           "vi": "Thường ở một khách sạn trong trung tâm."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_19/test_01/audio/028.mp3"
     },
     {
       "id": "ets19-t01-p2-q029",
       "number": 29,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_01/audio/029.mp3",
       "question": {
         "en": "I can't seem to open the file you sent me.",
         "vi": "Tôi không mở được tập tin bạn gửi."
@@ -619,12 +618,12 @@
           "vi": "Chúng tôi cũng không nhìn xa được như vậy."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "audio": "toeic/ets_19/test_01/audio/029.mp3"
     },
     {
       "id": "ets19-t01-p2-q030",
       "number": 30,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_01/audio/030.mp3",
       "question": {
         "en": "Would you like to include breakfast in your room reservation?",
         "vi": "Bạn có muốn bao gồm bữa sáng trong đặt phòng không?"
@@ -646,12 +645,12 @@
           "vi": "Phòng có tầm nhìn ra biển, nếu có thể."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "audio": "toeic/ets_19/test_01/audio/030.mp3"
     },
     {
       "id": "ets19-t01-p2-q031",
       "number": 31,
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_19/test_01/audio/031.mp3",
       "question": {
         "en": "Should I print copies of the budget for the meeting or e-mail it to everyone?",
         "vi": "Tôi nên in bản sao ngân sách cho cuộc họp hay gửi email cho mọi người?"
@@ -673,7 +672,8 @@
           "vi": "Mọi người ở đó đều có máy tính xách tay."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "audio": "toeic/ets_19/test_01/audio/031.mp3"
     }
   ]
 }

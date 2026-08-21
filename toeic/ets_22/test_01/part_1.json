@@ -3,8 +3,6 @@
     {
       "id": "ets22-t01-p1-q001",
       "number": 1,
-      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_01/image/001.png",
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_01/audio/001.mp3",
       "options": [
         {
           "key": "A",
@@ -27,13 +25,13 @@
           "vi": "Người đàn ông đang lái xe."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "image": "toeic/ets_22/test_01/image/001.png",
+      "audio": "toeic/ets_22/test_01/audio/001.mp3"
     },
     {
       "id": "ets22-t01-p1-q002",
       "number": 2,
-      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_01/image/002.png",
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_01/audio/002.mp3",
       "options": [
         {
           "key": "A",
@@ -56,13 +54,13 @@
           "vi": "Ai đó đang bật đèn."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "image": "toeic/ets_22/test_01/image/002.png",
+      "audio": "toeic/ets_22/test_01/audio/002.mp3"
     },
     {
       "id": "ets22-t01-p1-q003",
       "number": 3,
-      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_01/image/003.png",
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_01/audio/003.mp3",
       "options": [
         {
           "key": "A",
@@ -85,13 +83,13 @@
           "vi": "Người đàn ông đang mở máy tính tiền."
         }
       ],
-      "answer": "B"
+      "answer": "B",
+      "image": "toeic/ets_22/test_01/image/003.png",
+      "audio": "toeic/ets_22/test_01/audio/003.mp3"
     },
     {
       "id": "ets22-t01-p1-q004",
       "number": 4,
-      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_01/image/004.png",
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_01/audio/004.mp3",
       "options": [
         {
           "key": "A",
@@ -114,13 +112,13 @@
           "vi": "Tay vịn đang được lắp đặt."
         }
       ],
-      "answer": "A"
+      "answer": "A",
+      "image": "toeic/ets_22/test_01/image/004.png",
+      "audio": "toeic/ets_22/test_01/audio/004.mp3"
     },
     {
       "id": "ets22-t01-p1-q005",
       "number": 5,
-      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_01/image/005.png",
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_01/audio/005.mp3",
       "options": [
         {
           "key": "A",
@@ -143,13 +141,13 @@
           "vi": "Khung tranh treo trên tường."
         }
       ],
-      "answer": "D"
+      "answer": "D",
+      "image": "toeic/ets_22/test_01/image/005.png",
+      "audio": "toeic/ets_22/test_01/audio/005.mp3"
     },
     {
       "id": "ets22-t01-p1-q006",
       "number": 6,
-      "imageUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_01/image/006.png",
-      "audioUrl": "https://zpgqbnounjnqhijidxjt.supabase.co/storage/v1/object/public/toeic/ets_22/test_01/audio/006.mp3",
       "options": [
         {
           "key": "A",
@@ -172,7 +170,9 @@
           "vi": "Có dụng cụ nấu ăn dưới đất."
         }
       ],
-      "answer": "C"
+      "answer": "C",
+      "image": "toeic/ets_22/test_01/image/006.png",
+      "audio": "toeic/ets_22/test_01/audio/006.mp3"
     }
   ]
 }
