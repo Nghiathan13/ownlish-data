@@ -3,6 +3,8 @@
     {
       "id": "ets26-t06-p1-q001",
       "number": 1,
+      "audio": "toeic/ets_26/test_06/audio/001.mp3",
+      "image": "toeic/ets_26/test_06/image/001.avif",
       "options": [
         {
           "key": "A",
@@ -25,13 +27,13 @@
           "vi": "Một vài cây nến đã được thắp sáng."
         }
       ],
-      "answer": "C",
-      "image": "toeic/ets_26/test_06/image/001.avif",
-      "audio": "toeic/ets_26/test_06/audio/001.mp3"
+      "answer": "C"
     },
     {
       "id": "ets26-t06-p1-q002",
       "number": 2,
+      "audio": "toeic/ets_26/test_06/audio/002.mp3",
+      "image": "toeic/ets_26/test_06/image/002.avif",
       "options": [
         {
           "key": "A",
@@ -54,13 +56,13 @@
           "vi": "Người đàn ông đang sửa chữa một cái máy bằng dụng cụ."
         }
       ],
-      "answer": "A",
-      "image": "toeic/ets_26/test_06/image/002.avif",
-      "audio": "toeic/ets_26/test_06/audio/002.mp3"
+      "answer": "A"
     },
     {
       "id": "ets26-t06-p1-q003",
       "number": 3,
+      "audio": "toeic/ets_26/test_06/audio/003.mp3",
+      "image": "toeic/ets_26/test_06/image/003.avif",
       "options": [
         {
           "key": "A",
@@ -83,13 +85,13 @@
           "vi": "Họ đang đi ngang qua một chiếc ghế dài (ghế băng)."
         }
       ],
-      "answer": "D",
-      "image": "toeic/ets_26/test_06/image/003.avif",
-      "audio": "toeic/ets_26/test_06/audio/003.mp3"
+      "answer": "D"
     },
     {
       "id": "ets26-t06-p1-q004",
       "number": 4,
+      "audio": "toeic/ets_26/test_06/audio/004.mp3",
+      "image": "toeic/ets_26/test_06/image/004.avif",
       "options": [
         {
           "key": "A",
@@ -112,13 +114,13 @@
           "vi": "Cô ấy đang với tay lấy một cây bút."
         }
       ],
-      "answer": "B",
-      "image": "toeic/ets_26/test_06/image/004.avif",
-      "audio": "toeic/ets_26/test_06/audio/004.mp3"
+      "answer": "B"
     },
     {
       "id": "ets26-t06-p1-q005",
       "number": 5,
+      "audio": "toeic/ets_26/test_06/audio/005.mp3",
+      "image": "toeic/ets_26/test_06/image/005.avif",
       "options": [
         {
           "key": "A",
@@ -141,13 +143,13 @@
           "vi": "Một người phụ nữ đang nói chuyện với một nhân viên tại bàn làm việc."
         }
       ],
-      "answer": "D",
-      "image": "toeic/ets_26/test_06/image/005.avif",
-      "audio": "toeic/ets_26/test_06/audio/005.mp3"
+      "answer": "D"
     },
     {
       "id": "ets26-t06-p1-q006",
       "number": 6,
+      "audio": "toeic/ets_26/test_06/audio/006.mp3",
+      "image": "toeic/ets_26/test_06/image/006.avif",
       "options": [
         {
           "key": "A",
@@ -170,9 +172,7 @@
           "vi": "Có rèm cửa bao quanh khung cửa ra vào."
         }
       ],
-      "answer": "C",
-      "image": "toeic/ets_26/test_06/image/006.avif",
-      "audio": "toeic/ets_26/test_06/audio/006.mp3"
+      "answer": "C"
     }
   ]
 }

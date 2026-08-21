@@ -2,6 +2,7 @@
   "groups": [
     {
       "id": "ybm25-t10-p4-g071-073",
+      "audio": "toeic/ybm_25/test_10/audio/071-073.mp3",
       "transcript": {
         "en": [
           {
@@ -140,11 +141,11 @@
           ],
           "answer": "A"
         }
-      ],
-      "audio": "toeic/ybm_25/test_10/audio/071-073.mp3"
+      ]
     },
     {
       "id": "ybm25-t10-p4-g074-076",
+      "audio": "toeic/ybm_25/test_10/audio/074-076.mp3",
       "transcript": {
         "en": [
           {
@@ -279,11 +280,11 @@
           ],
           "answer": "C"
         }
-      ],
-      "audio": "toeic/ybm_25/test_10/audio/074-076.mp3"
+      ]
     },
     {
       "id": "ybm25-t10-p4-g077-079",
+      "audio": "toeic/ybm_25/test_10/audio/077-079.mp3",
       "transcript": {
         "en": [
           {
@@ -418,11 +419,11 @@
           ],
           "answer": "C"
         }
-      ],
-      "audio": "toeic/ybm_25/test_10/audio/077-079.mp3"
+      ]
     },
     {
       "id": "ybm25-t10-p4-g080-082",
+      "audio": "toeic/ybm_25/test_10/audio/080-082.mp3",
       "transcript": {
         "en": [
           {
@@ -561,11 +562,11 @@
           ],
           "answer": "A"
         }
-      ],
-      "audio": "toeic/ybm_25/test_10/audio/080-082.mp3"
+      ]
     },
     {
       "id": "ybm25-t10-p4-g083-085",
+      "audio": "toeic/ybm_25/test_10/audio/083-085.mp3",
       "transcript": {
         "en": [
           {
@@ -700,11 +701,11 @@
           ],
           "answer": "A"
         }
-      ],
-      "audio": "toeic/ybm_25/test_10/audio/083-085.mp3"
+      ]
     },
     {
       "id": "ybm25-t10-p4-g086-088",
+      "audio": "toeic/ybm_25/test_10/audio/086-088.mp3",
       "transcript": {
         "en": [
           {
@@ -839,11 +840,11 @@
           ],
           "answer": "D"
         }
-      ],
-      "audio": "toeic/ybm_25/test_10/audio/086-088.mp3"
+      ]
     },
     {
       "id": "ybm25-t10-p4-g089-091",
+      "audio": "toeic/ybm_25/test_10/audio/089-091.mp3",
       "transcript": {
         "en": [
           {
@@ -978,11 +979,11 @@
           ],
           "answer": "D"
         }
-      ],
-      "audio": "toeic/ybm_25/test_10/audio/089-091.mp3"
+      ]
     },
     {
       "id": "ybm25-t10-p4-g092-094",
+      "audio": "toeic/ybm_25/test_10/audio/092-094.mp3",
       "transcript": {
         "en": [
           {
@@ -1117,11 +1118,12 @@
           ],
           "answer": "B"
         }
-      ],
-      "audio": "toeic/ybm_25/test_10/audio/092-094.mp3"
+      ]
     },
     {
       "id": "ybm25-t10-p4-g095-097",
+      "audio": "toeic/ybm_25/test_10/audio/095-097.mp3",
+      "image": "toeic/ybm_25/test_10/image/095-097.png",
       "transcript": {
         "en": [
           {
@@ -1256,12 +1258,12 @@
           ],
           "answer": "C"
         }
-      ],
-      "audio": "toeic/ybm_25/test_10/audio/095-097.mp3",
-      "image": "toeic/ybm_25/test_10/image/095-097.png"
+      ]
     },
     {
       "id": "ybm25-t10-p4-g098-100",
+      "audio": "toeic/ybm_25/test_10/audio/098-100.mp3",
+      "image": "toeic/ybm_25/test_10/image/098-100.png",
       "transcript": {
         "en": [
           {
@@ -1396,9 +1398,7 @@
           ],
           "answer": "B"
         }
-      ],
-      "audio": "toeic/ybm_25/test_10/audio/098-100.mp3",
-      "image": "toeic/ybm_25/test_10/image/098-100.png"
+      ]
     }
   ]
 }

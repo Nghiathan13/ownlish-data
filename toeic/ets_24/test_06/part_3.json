@@ -2,6 +2,7 @@
   "groups": [
     {
       "id": "ets24-t06-p3-g032-034",
+      "audio": "toeic/ets_24/test_06/audio/032-034.mp3",
       "transcript": {
         "en": [
           {
@@ -202,11 +203,11 @@
           ],
           "answer": "B"
         }
-      ],
-      "audio": "toeic/ets_24/test_06/audio/032-034.mp3"
+      ]
     },
     {
       "id": "ets24-t06-p3-g035-037",
+      "audio": "toeic/ets_24/test_06/audio/035-037.mp3",
       "transcript": {
         "en": [
           {
@@ -395,11 +396,11 @@
           ],
           "answer": "C"
         }
-      ],
-      "audio": "toeic/ets_24/test_06/audio/035-037.mp3"
+      ]
     },
     {
       "id": "ets24-t06-p3-g038-040",
+      "audio": "toeic/ets_24/test_06/audio/038-040.mp3",
       "transcript": {
         "en": [
           {
@@ -590,11 +591,11 @@
           ],
           "answer": "D"
         }
-      ],
-      "audio": "toeic/ets_24/test_06/audio/038-040.mp3"
+      ]
     },
     {
       "id": "ets24-t06-p3-g041-043",
+      "audio": "toeic/ets_24/test_06/audio/041-043.mp3",
       "transcript": {
         "en": [
           {
@@ -775,11 +776,11 @@
           ],
           "answer": "C"
         }
-      ],
-      "audio": "toeic/ets_24/test_06/audio/041-043.mp3"
+      ]
     },
     {
       "id": "ets24-t06-p3-g044-046",
+      "audio": "toeic/ets_24/test_06/audio/044-046.mp3",
       "transcript": {
         "en": [
           {
@@ -940,11 +941,11 @@
           ],
           "answer": "A"
         }
-      ],
-      "audio": "toeic/ets_24/test_06/audio/044-046.mp3"
+      ]
     },
     {
       "id": "ets24-t06-p3-g047-049",
+      "audio": "toeic/ets_24/test_06/audio/047-049.mp3",
       "transcript": {
         "en": [
           {
@@ -1105,11 +1106,11 @@
           ],
           "answer": "D"
         }
-      ],
-      "audio": "toeic/ets_24/test_06/audio/047-049.mp3"
+      ]
     },
     {
       "id": "ets24-t06-p3-g050-052",
+      "audio": "toeic/ets_24/test_06/audio/050-052.mp3",
       "transcript": {
         "en": [
           {
@@ -1290,11 +1291,11 @@
           ],
           "answer": "C"
         }
-      ],
-      "audio": "toeic/ets_24/test_06/audio/050-052.mp3"
+      ]
     },
     {
       "id": "ets24-t06-p3-g053-055",
+      "audio": "toeic/ets_24/test_06/audio/053-055.mp3",
       "transcript": {
         "en": [
           {
@@ -1475,11 +1476,11 @@
           ],
           "answer": "C"
         }
-      ],
-      "audio": "toeic/ets_24/test_06/audio/053-055.mp3"
+      ]
     },
     {
       "id": "ets24-t06-p3-g056-058",
+      "audio": "toeic/ets_24/test_06/audio/056-058.mp3",
       "transcript": {
         "en": [
           {
@@ -1640,11 +1641,11 @@
           ],
           "answer": "B"
         }
-      ],
-      "audio": "toeic/ets_24/test_06/audio/056-058.mp3"
+      ]
     },
     {
       "id": "ets24-t06-p3-g059-061",
+      "audio": "toeic/ets_24/test_06/audio/059-061.mp3",
       "transcript": {
         "en": [
           {
@@ -1845,11 +1846,12 @@
           ],
           "answer": "D"
         }
-      ],
-      "audio": "toeic/ets_24/test_06/audio/059-061.mp3"
+      ]
     },
     {
       "id": "ets24-t06-p3-g062-064",
+      "audio": "toeic/ets_24/test_06/audio/062-064.mp3",
+      "image": "toeic/ets_24/test_06/image/062-064.avif",
       "transcript": {
         "en": [
           {
@@ -2032,12 +2034,12 @@
           ],
           "answer": "B"
         }
-      ],
-      "audio": "toeic/ets_24/test_06/audio/062-064.mp3",
-      "image": "toeic/ets_24/test_06/image/062-064.avif"
+      ]
     },
     {
       "id": "ets24-t06-p3-g065-067",
+      "audio": "toeic/ets_24/test_06/audio/065-067.mp3",
+      "image": "toeic/ets_24/test_06/image/065-067.avif",
       "transcript": {
         "en": [
           {
@@ -2258,12 +2260,12 @@
           ],
           "answer": "C"
         }
-      ],
-      "audio": "toeic/ets_24/test_06/audio/065-067.mp3",
-      "image": "toeic/ets_24/test_06/image/065-067.avif"
+      ]
     },
     {
       "id": "ets24-t06-p3-g068-070",
+      "audio": "toeic/ets_24/test_06/audio/068-070.mp3",
+      "image": "toeic/ets_24/test_06/image/068-070.avif",
       "transcript": {
         "en": [
           {
@@ -2444,9 +2446,7 @@
           ],
           "answer": "B"
         }
-      ],
-      "audio": "toeic/ets_24/test_06/audio/068-070.mp3",
-      "image": "toeic/ets_24/test_06/image/068-070.avif"
+      ]
     }
   ]
 }

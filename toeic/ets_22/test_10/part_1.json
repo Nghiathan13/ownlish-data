@@ -3,6 +3,8 @@
     {
       "id": "ets22-t10-p1-q001",
       "number": 1,
+      "audio": "toeic/ets_22/test_10/audio/001.mp3",
+      "image": "toeic/ets_22/test_10/image/001.png",
       "options": [
         {
           "key": "A",
@@ -25,13 +27,13 @@
           "vi": "Một người đàn ông đang đứng phía sau máy tính tiền."
         }
       ],
-      "answer": "B",
-      "image": "toeic/ets_22/test_10/image/001.png",
-      "audio": "toeic/ets_22/test_10/audio/001.mp3"
+      "answer": "B"
     },
     {
       "id": "ets22-t10-p1-q002",
       "number": 2,
+      "audio": "toeic/ets_22/test_10/audio/002.mp3",
+      "image": "toeic/ets_22/test_10/image/002.png",
       "options": [
         {
           "key": "A",
@@ -54,13 +56,13 @@
           "vi": "Người phụ nữ đang lấy bút từ ngăn kéo."
         }
       ],
-      "answer": "A",
-      "image": "toeic/ets_22/test_10/image/002.png",
-      "audio": "toeic/ets_22/test_10/audio/002.mp3"
+      "answer": "A"
     },
     {
       "id": "ets22-t10-p1-q003",
       "number": 3,
+      "audio": "toeic/ets_22/test_10/audio/003.mp3",
+      "image": "toeic/ets_22/test_10/image/003.png",
       "options": [
         {
           "key": "A",
@@ -83,13 +85,13 @@
           "vi": "Cô ấy đang mở gói đồ ăn picnic gần một cái cây."
         }
       ],
-      "answer": "C",
-      "image": "toeic/ets_22/test_10/image/003.png",
-      "audio": "toeic/ets_22/test_10/audio/003.mp3"
+      "answer": "C"
     },
     {
       "id": "ets22-t10-p1-q004",
       "number": 4,
+      "audio": "toeic/ets_22/test_10/audio/004.mp3",
+      "image": "toeic/ets_22/test_10/image/004.png",
       "options": [
         {
           "key": "A",
@@ -112,13 +114,13 @@
           "vi": "Một số người đang xếp hàng chờ."
         }
       ],
-      "answer": "B",
-      "image": "toeic/ets_22/test_10/image/004.png",
-      "audio": "toeic/ets_22/test_10/audio/004.mp3"
+      "answer": "B"
     },
     {
       "id": "ets22-t10-p1-q005",
       "number": 5,
+      "audio": "toeic/ets_22/test_10/audio/005.mp3",
+      "image": "toeic/ets_22/test_10/image/005.png",
       "options": [
         {
           "key": "A",
@@ -141,13 +143,13 @@
           "vi": "Có một chồng sách cạnh một số đĩa."
         }
       ],
-      "answer": "A",
-      "image": "toeic/ets_22/test_10/image/005.png",
-      "audio": "toeic/ets_22/test_10/audio/005.mp3"
+      "answer": "A"
     },
     {
       "id": "ets22-t10-p1-q006",
       "number": 6,
+      "audio": "toeic/ets_22/test_10/audio/006.mp3",
+      "image": "toeic/ets_22/test_10/image/006.png",
       "options": [
         {
           "key": "A",
@@ -170,9 +172,7 @@
           "vi": "Một trong số họ đang nâng một chiếc hộp."
         }
       ],
-      "answer": "D",
-      "image": "toeic/ets_22/test_10/image/006.png",
-      "audio": "toeic/ets_22/test_10/audio/006.mp3"
+      "answer": "D"
     }
   ]
 }

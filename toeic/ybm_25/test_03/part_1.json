@@ -3,6 +3,8 @@
     {
       "id": "ybm25-t03-p1-q001",
       "number": 1,
+      "audio": "toeic/ybm_25/test_03/audio/001.mp3",
+      "image": "toeic/ybm_25/test_03/image/001.png",
       "options": [
         {
           "key": "A",
@@ -25,13 +27,13 @@
           "vi": "Cô ấy đang đội mũ bảo hộ."
         }
       ],
-      "answer": "C",
-      "image": "toeic/ybm_25/test_03/image/001.png",
-      "audio": "toeic/ybm_25/test_03/audio/001.mp3"
+      "answer": "C"
     },
     {
       "id": "ybm25-t03-p1-q002",
       "number": 2,
+      "audio": "toeic/ybm_25/test_03/audio/002.mp3",
+      "image": "toeic/ybm_25/test_03/image/002.png",
       "options": [
         {
           "key": "A",
@@ -54,13 +56,13 @@
           "vi": "Người đàn ông đang nhìn đồng hồ."
         }
       ],
-      "answer": "A",
-      "image": "toeic/ybm_25/test_03/image/002.png",
-      "audio": "toeic/ybm_25/test_03/audio/002.mp3"
+      "answer": "A"
     },
     {
       "id": "ybm25-t03-p1-q003",
       "number": 3,
+      "audio": "toeic/ybm_25/test_03/audio/003.mp3",
+      "image": "toeic/ybm_25/test_03/image/003.png",
       "options": [
         {
           "key": "A",
@@ -83,13 +85,13 @@
           "vi": "Người đàn ông đang chỉnh kính."
         }
       ],
-      "answer": "B",
-      "image": "toeic/ybm_25/test_03/image/003.png",
-      "audio": "toeic/ybm_25/test_03/audio/003.mp3"
+      "answer": "B"
     },
     {
       "id": "ybm25-t03-p1-q004",
       "number": 4,
+      "audio": "toeic/ybm_25/test_03/audio/004.mp3",
+      "image": "toeic/ybm_25/test_03/image/004.png",
       "options": [
         {
           "key": "A",
@@ -112,13 +114,13 @@
           "vi": "Khán giả đang ngồi hướng về phía màn hình."
         }
       ],
-      "answer": "D",
-      "image": "toeic/ybm_25/test_03/image/004.png",
-      "audio": "toeic/ybm_25/test_03/audio/004.mp3"
+      "answer": "D"
     },
     {
       "id": "ybm25-t03-p1-q005",
       "number": 5,
+      "audio": "toeic/ybm_25/test_03/audio/005.mp3",
+      "image": "toeic/ybm_25/test_03/image/005.png",
       "options": [
         {
           "key": "A",
@@ -141,13 +143,13 @@
           "vi": "Cửa một tòa nhà đã được mở."
         }
       ],
-      "answer": "A",
-      "image": "toeic/ybm_25/test_03/image/005.png",
-      "audio": "toeic/ybm_25/test_03/audio/005.mp3"
+      "answer": "A"
     },
     {
       "id": "ybm25-t03-p1-q006",
       "number": 6,
+      "audio": "toeic/ybm_25/test_03/audio/006.mp3",
+      "image": "toeic/ybm_25/test_03/image/006.png",
       "options": [
         {
           "key": "A",
@@ -170,9 +172,7 @@
           "vi": "Một số nông sản được trưng bày để bán."
         }
       ],
-      "answer": "D",
-      "image": "toeic/ybm_25/test_03/image/006.png",
-      "audio": "toeic/ybm_25/test_03/audio/006.mp3"
+      "answer": "D"
     }
   ]
 }

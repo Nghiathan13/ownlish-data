@@ -3,6 +3,8 @@
     {
       "id": "ets23-t04-p1-q001",
       "number": 1,
+      "audio": "toeic/ets_23/test_04/audio/001.mp3",
+      "image": "toeic/ets_23/test_04/image/001.png",
       "options": [
         {
           "key": "A",
@@ -25,13 +27,13 @@
           "vi": "Một người đàn ông đang lắp đặt sàn gỗ."
         }
       ],
-      "answer": "C",
-      "image": "toeic/ets_23/test_04/image/001.png",
-      "audio": "toeic/ets_23/test_04/audio/001.mp3"
+      "answer": "C"
     },
     {
       "id": "ets23-t04-p1-q002",
       "number": 2,
+      "audio": "toeic/ets_23/test_04/audio/002.mp3",
+      "image": "toeic/ets_23/test_04/image/002.png",
       "options": [
         {
           "key": "A",
@@ -54,13 +56,13 @@
           "vi": "Một cái cây đã đổ xuống vỉa hè."
         }
       ],
-      "answer": "B",
-      "image": "toeic/ets_23/test_04/image/002.png",
-      "audio": "toeic/ets_23/test_04/audio/002.mp3"
+      "answer": "B"
     },
     {
       "id": "ets23-t04-p1-q003",
       "number": 3,
+      "audio": "toeic/ets_23/test_04/audio/003.mp3",
+      "image": "toeic/ets_23/test_04/image/003.png",
       "options": [
         {
           "key": "A",
@@ -83,13 +85,13 @@
           "vi": "Một người đàn ông đang làm việc ngoài trời."
         }
       ],
-      "answer": "D",
-      "image": "toeic/ets_23/test_04/image/003.png",
-      "audio": "toeic/ets_23/test_04/audio/003.mp3"
+      "answer": "D"
     },
     {
       "id": "ets23-t04-p1-q004",
       "number": 4,
+      "audio": "toeic/ets_23/test_04/audio/004.mp3",
+      "image": "toeic/ets_23/test_04/image/004.png",
       "options": [
         {
           "key": "A",
@@ -112,13 +114,13 @@
           "vi": "Một số giá kệ đang được điều chỉnh."
         }
       ],
-      "answer": "C",
-      "image": "toeic/ets_23/test_04/image/004.png",
-      "audio": "toeic/ets_23/test_04/audio/004.mp3"
+      "answer": "C"
     },
     {
       "id": "ets23-t04-p1-q005",
       "number": 5,
+      "audio": "toeic/ets_23/test_04/audio/005.mp3",
+      "image": "toeic/ets_23/test_04/image/005.png",
       "options": [
         {
           "key": "A",
@@ -141,13 +143,13 @@
           "vi": "Một chiếc đèn trần treo phía trên một tấm thảm."
         }
       ],
-      "answer": "C",
-      "image": "toeic/ets_23/test_04/image/005.png",
-      "audio": "toeic/ets_23/test_04/audio/005.mp3"
+      "answer": "C"
     },
     {
       "id": "ets23-t04-p1-q006",
       "number": 6,
+      "audio": "toeic/ets_23/test_04/audio/006.mp3",
+      "image": "toeic/ets_23/test_04/image/006.png",
       "options": [
         {
           "key": "A",
@@ -170,9 +172,7 @@
           "vi": "Một người đàn ông đang đứng trên một chiếc thang."
         }
       ],
-      "answer": "A",
-      "image": "toeic/ets_23/test_04/image/006.png",
-      "audio": "toeic/ets_23/test_04/audio/006.mp3"
+      "answer": "A"
     }
   ]
 }

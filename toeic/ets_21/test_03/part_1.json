@@ -3,6 +3,8 @@
     {
       "id": "ets21-t03-p1-q001",
       "number": 1,
+      "audio": "toeic/ets_21/test_03/audio/001.mp3",
+      "image": "toeic/ets_21/test_03/image/001.png",
       "options": [
         {
           "key": "A",
@@ -25,13 +27,13 @@
           "vi": "Họ đang viết một số ghi chú."
         }
       ],
-      "answer": "D",
-      "image": "toeic/ets_21/test_03/image/001.png",
-      "audio": "toeic/ets_21/test_03/audio/001.mp3"
+      "answer": "D"
     },
     {
       "id": "ets21-t03-p1-q002",
       "number": 2,
+      "audio": "toeic/ets_21/test_03/audio/002.mp3",
+      "image": "toeic/ets_21/test_03/image/002.png",
       "options": [
         {
           "key": "A",
@@ -54,13 +56,13 @@
           "vi": "Anh ấy đang đứng trên một con đường đi bộ."
         }
       ],
-      "answer": "D",
-      "image": "toeic/ets_21/test_03/image/002.png",
-      "audio": "toeic/ets_21/test_03/audio/002.mp3"
+      "answer": "D"
     },
     {
       "id": "ets21-t03-p1-q003",
       "number": 3,
+      "audio": "toeic/ets_21/test_03/audio/003.mp3",
+      "image": "toeic/ets_21/test_03/image/003.png",
       "options": [
         {
           "key": "A",
@@ -83,13 +85,13 @@
           "vi": "Cô ấy đang hướng chai xịt vào mặt bàn làm việc."
         }
       ],
-      "answer": "D",
-      "image": "toeic/ets_21/test_03/image/003.png",
-      "audio": "toeic/ets_21/test_03/audio/003.mp3"
+      "answer": "D"
     },
     {
       "id": "ets21-t03-p1-q004",
       "number": 4,
+      "audio": "toeic/ets_21/test_03/audio/004.mp3",
+      "image": "toeic/ets_21/test_03/image/004.png",
       "options": [
         {
           "key": "A",
@@ -112,13 +114,13 @@
           "vi": "Một chiếc thang đang dựa vào một chiếc xe tải."
         }
       ],
-      "answer": "C",
-      "image": "toeic/ets_21/test_03/image/004.png",
-      "audio": "toeic/ets_21/test_03/audio/004.mp3"
+      "answer": "C"
     },
     {
       "id": "ets21-t03-p1-q005",
       "number": 5,
+      "audio": "toeic/ets_21/test_03/audio/005.mp3",
+      "image": "toeic/ets_21/test_03/image/005.png",
       "options": [
         {
           "key": "A",
@@ -141,13 +143,13 @@
           "vi": "Một số tạp chí được phân tán trên thảm."
         }
       ],
-      "answer": "A",
-      "image": "toeic/ets_21/test_03/image/005.png",
-      "audio": "toeic/ets_21/test_03/audio/005.mp3"
+      "answer": "A"
     },
     {
       "id": "ets21-t03-p1-q006",
       "number": 6,
+      "audio": "toeic/ets_21/test_03/audio/006.mp3",
+      "image": "toeic/ets_21/test_03/image/006.png",
       "options": [
         {
           "key": "A",
@@ -170,9 +172,7 @@
           "vi": "Một số người đàn ông đang thu hoạch dứa."
         }
       ],
-      "answer": "B",
-      "image": "toeic/ets_21/test_03/image/006.png",
-      "audio": "toeic/ets_21/test_03/audio/006.mp3"
+      "answer": "B"
     }
   ]
 }
