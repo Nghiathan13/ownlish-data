@@ -27,42 +27,21 @@ def series_info(dirname: str):
     return (dirname, 2000 + int(m.group(2))) if m else None
 
 
-def read_part(path: pathlib.Path):
-    """Return (question_count, media_by_group_id)."""
+def read_part(path: pathlib.Path) -> int | None:
+    """Return question count (media paths live in the part JSON itself)."""
     raw = path.read_text()
     if not raw.strip():
         return None
     doc = json.loads(raw)
     key = "items" if any(path.name == f"part_{p}.json" for p in FLAT_PARTS) else "groups"
     collection = doc.get(key, [])
-    count = 0
-    media = {}
     if key == "items":
-        for item in collection:
-            count += 1
-            m = {}
-            if item.get("audio"):
-                m["audio"] = item["audio"]
-            if item.get("image"):
-                m["image"] = item["image"]
-            if m:
-                media[item.get("id")] = m
-    else:
-        for group in collection:
-            count += len(group.get("questions", []))
-            m = {}
-            if group.get("audio"):
-                m["audio"] = group["audio"]
-            if group.get("image"):
-                m["image"] = group["image"]
-            if m:
-                media[group.get("id")] = m
-    return count, media
+        return len(collection)
+    return sum(len(g.get("questions", [])) for g in collection)
 
 
 def main() -> None:
     tests = []
-    media_by_group_id = {}
     practice_counts = {p: 0 for p in PART_NUMBERS}
     practice_test_ids = {p: set() for p in PART_NUMBERS}
 
@@ -82,10 +61,9 @@ def main() -> None:
                 part_path = test_dir / f"part_{part_number}.json"
                 if not part_path.exists():
                     continue
-                result = read_part(part_path)
-                if result is None:
+                count = read_part(part_path)
+                if count is None:
                     continue
-                count, media = result
                 rel = part_path.relative_to(ROOT).as_posix()
                 parts.append(
                     {
@@ -94,7 +72,6 @@ def main() -> None:
                         "questionCount": count,
                     }
                 )
-                media_by_group_id.update(media)
                 practice_counts[part_number] += count
                 practice_test_ids[part_number].add(test_id)
             if not parts:
@@ -126,11 +103,10 @@ def main() -> None:
         "schemaVersion": 1,
         "tests": tests,
         "partPractice": part_practice,
-        "mediaByGroupId": media_by_group_id,
     }
     out = ROOT / "catalog.json"
     out.write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n")
-    print(f"tests: {len(tests)}, parts total: {sum(len(t['parts']) for t in tests)}, media entries: {len(media_by_group_id)}")
+    print(f"tests: {len(tests)}, parts total: {sum(len(t['parts']) for t in tests)}")
     print(f"incomplete tests: {sum(1 for t in tests if len(t['parts']) != len(PART_NUMBERS))}")
 
 
