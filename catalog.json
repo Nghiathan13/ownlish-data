@@ -2355,6 +2355,16 @@
           "number": 5,
           "path": "toeic/ybm_25/test_01/part_5.json",
           "questionCount": 30
+        },
+        {
+          "number": 6,
+          "path": "toeic/ybm_25/test_01/part_6.json",
+          "questionCount": 16
+        },
+        {
+          "number": 7,
+          "path": "toeic/ybm_25/test_01/part_7.json",
+          "questionCount": 54
         }
       ]
     },
@@ -2681,13 +2691,13 @@
     {
       "number": 6,
       "path": "part-practice/part_6.json",
-      "questionCount": 416,
+      "questionCount": 432,
       "complete": false
     },
     {
       "number": 7,
       "path": "part-practice/part_7.json",
-      "questionCount": 1242,
+      "questionCount": 1296,
       "complete": false
     }
   ]
